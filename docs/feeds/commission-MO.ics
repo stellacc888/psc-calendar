@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Hearing Room 310 and via WebEx)
 DTSTART;TZID=America/Chicago:20260805T110000
 DTEND;TZID=America/Chicago:20260805T130000
-DTSTAMP:20260823T105305Z
+DTSTAMP:20260824T110727Z
 UID:cd8cedea9e7ee81126e9@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
@@ -27,7 +27,7 @@ SUMMARY:[MO] OX-2026-0334 - Rulemaking Hearing - Chapter 3-Filing Requirem
  ents ( Dippell - Room 310)
 DTSTART;TZID=America/Chicago:20260805T113000
 DTEND;TZID=America/Chicago:20260805T133000
-DTSTAMP:20260823T105305Z
+DTSTAMP:20260824T110727Z
 UID:e6a74851ec01e226a776@psc-calendar
 CATEGORIES:MO,Evidentiary Hearing
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Evi
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
 DTSTART;TZID=America/Chicago:20260812T110000
 DTEND;TZID=America/Chicago:20260812T130000
-DTSTAMP:20260823T105305Z
+DTSTAMP:20260824T110727Z
 UID:f5ba3f1347042ddf9f89@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
 DTSTART;TZID=America/Chicago:20260819T090000
 DTEND;TZID=America/Chicago:20260819T110000
-DTSTAMP:20260823T105305Z
+DTSTAMP:20260824T110727Z
 UID:9e82e853d7a091dda074@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:[MO] Public Meeting with SPP & MISO ( Via WebEx Only)
 DTSTART;TZID=America/Chicago:20260819T093000
 DTEND;TZID=America/Chicago:20260819T113000
-DTSTAMP:20260823T105305Z
+DTSTAMP:20260824T110727Z
 UID:7ba7eac722a2d7796034@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
@@ -78,21 +78,5 @@ DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
  =Hearings
 PRIORITY:5
 URL:https://psc.mo.gov/Calendars.aspx?Selected=Hearings
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[MO] OX-2026-0335 and TX-2026-0353 - Rulemaking Hearing - Chapter 
- 4 and Communications Rulemaking ( Dippell - Room 310)
-DTSTART;TZID=America/Chicago:20260820T100000
-DTEND;TZID=America/Chicago:20260820T120000
-DTSTAMP:20260823T105305Z
-UID:00305a003560e46cb694@psc-calendar
-CATEGORIES:MO,Evidentiary Hearing
-DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Evi
- dentiary Hearing\nDocket: OX-2026-0335\, TX-2026-0353\n\nAdj 10:00am OX-20
- 26-0335 and TX-2026-0353 - Rulemaking Hearing - Chapter 4 and Communicatio
- ns Rulemaking ( Dippell - Room 310 )\n\nSource: https://efis.psc.mo.gov/Di
- splay/OX-2026-0335
-PRIORITY:5
-URL:https://efis.psc.mo.gov/Display/OX-2026-0335
 END:VEVENT
 END:VCALENDAR
