@@ -13,21 +13,35 @@ SUMMARY:[NE] 25 Aug Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20260825T150000Z
 DTEND:20260825T170000Z
-DTSTAMP:20260824T110727Z
+DTSTAMP:20260825T110441Z
 UID:17b6685859923a699fd4@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
  n Meeting / Commission Meeting\n\nSource: https://psc.nebraska.gov/commiss
- ion-meeting-256
+ ion-meeting-255
 PRIORITY:5
-URL:https://psc.nebraska.gov/commission-meeting-256
+URL:https://psc.nebraska.gov/commission-meeting-255
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NE] 25 Aug Hearing – PI-260 – Pedal Pub Investigation Locatio
+ n: Commission Hearing Room 1:00pm
+DTSTART:20260825T180000Z
+DTEND:20260825T200000Z
+DTSTAMP:20260825T110441Z
+UID:4e3311a51c6962534879@psc-calendar
+CATEGORIES:NE,Evidentiary Hearing
+DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
+ dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-pi-260-pedal-
+ pub-investigation
+PRIORITY:5
+URL:https://psc.nebraska.gov/hearing-pi-260-pedal-pub-investigation
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NE] 01 Sep Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20260901T150000Z
 DTEND:20260901T170000Z
-DTSTAMP:20260824T110727Z
+DTSTAMP:20260825T110441Z
 UID:c2e9b6e48c2955612d4a@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -42,7 +56,7 @@ SUMMARY:[NE] 03 Sep Hearing – C-5561 – 2024 NBBP – Allo's Northwest
  ng Room 10:00am
 DTSTART:20260903T150000Z
 DTEND:20260903T170000Z
-DTSTAMP:20260824T110727Z
+DTSTAMP:20260825T110441Z
 UID:32b9682a3d253e86f136@psc-calendar
 CATEGORIES:NE,Evidentiary Hearing
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
