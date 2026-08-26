@@ -9,31 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[FERC] August 2026: 27 Notational Orders 2026-07-27 All day
-DTSTART;VALUE=DATE:20260727
-DTEND;VALUE=DATE:20260728
-DTSTAMP:20260825T110441Z
-UID:36fc06bd095c92f7ead6@psc-calendar
-CATEGORIES:FERC,Decision / Order
-DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
-  Decision / Order\n\n26 | 27 Notational Orders 2026-07-27 All day | 28 Not
- ational Orders 2026-07-28 All day Public Scoping Session for the Desert So
- uthwest Expansion Project (PF26-9-000) (Willcox\, AZ) 8:00 - 10:00pm | 29 
- Notational Order 2026-07-29 All day Public Scoping Session for the Desert 
- Southwest Expansion Project (PF26-9-000) (Deming\, NM) 7:00 - 9:00pm | 30 
- Notational Orders 2026-07-30 All day Public Scoping Session for the Desert
-  Southwest Expansion Project (PF26-9-000) (Chaparral\, NM) 7:00 - 9:00pm |
-  31 Notational Orders 2026-07-31 All day | 1\n\nSource: https://www.ferc.g
- ov/news-events/events/notational-orders-2026-07-27-07272026
-PRIORITY:5
-URL:https://www.ferc.gov/news-events/events/notational-orders-2026-07-27-0
- 7272026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[FERC] August 2026: 3 Notational Orders 2026-08-03 All day
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-DTSTAMP:20260825T110441Z
+DTSTAMP:20260826T111521Z
 UID:c8b2e5082750f1e49220@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -50,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:[FERC] August 2026: 10 Notational Orders 2026-08-10 All day
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260825T110441Z
+DTSTAMP:20260826T111521Z
 UID:8146abe96ec00b98a18a@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -66,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:[FERC] August 2026: 17 Notational Orders 2026-08-17 All day
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260825T110441Z
+DTSTAMP:20260826T111521Z
 UID:259f027a2d7d2fcfde7a@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
