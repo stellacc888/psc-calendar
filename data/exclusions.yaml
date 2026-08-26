@@ -631,6 +631,70 @@ events:
   - commission: WA
     date: 2026-11-05
     title: "To participate in the hearing by phone, call (253) 215-8782 and enter the Meeting ID: 817 6761 1771# and Passcode: 985452#. To participate via Zoom,…"
+      # --- added 2026-08-26 - paste directly under the existing `events:` line ---
+  - commission: CA
+    date: 2026-09-03
+    title: "2026 Voting Meetings: 09/03/2026 California State Personnel Board’s Auditorium, 801 Capitol Mall, Sacramento, CA 95814"
+  - commission: CO
+    date: 2026-09-03
+    title: "V & R 9.22.2026 HRG: 25A-0539CP-EXT SKI TOWN TRANSPORTATION - 55991 - EXT, ALJ Rosenberg"
+  - commission: DC
+    date: 2026-09-01
+    title: "Calendar of Events: 1 11:59 PM Applications Due for Commission Vacancy #33081 Sr. Pipeline Safety Inspector Applications Due for Commission Vacancy #33081 Sr. Pipeline Safety Inspector 9/1/2026 11:59 PM | Ashley Davis The Commission, a leading utility regulatory agency, is looking for a talented Sr."
+  - commission: GA
+    date: 2026-09-01
+    title: Docket No. 57171 RTP Revenue Credit and Allocation Methodology Hearing 9-1-2026
+  - commission: MA
+    date: 2026-09-02
+    title: 24-AD-02 - Malissa A. Wilson - Adjudicatory
+  - commission: ME
+    date: 2026-09-04
+    title: Hearing in CASD No. 2026-V-00014
+  - commission: ND
+    date: 2026-09-01
+    title: Formal Hearing -Internet Broadcast Case No. PU-26-82 North Plains Connector LLC North Plains Connector Transmission Project Siting Application
+  - commission: ND
+    date: 2026-09-02
+    title: "Formal Hearing -Internet Broadcast Case No. PU-26-82 North Plains Connector LLC North Plains Connector Transmission Project Siting Application Ed \"Bosh\" Froehlich Commission Room Mandan City Hall 205 2nd Avenue Northwest Man"
+  - commission: ND
+    date: 2026-09-03
+    title: "CDT / 09:30 am MDT Formal Hearing -Internet Broadcast Case No. PU-26-82 North Plains Connector LLC North Plains Connector Transmission Project Siting Application Enchanted Castle 607 Main Street Regent, ND"
+  - commission: NE
+    date: 2026-09-03
+    title: "03 Sep Hearing – C-5561 – 2024 NBBP – Allo's Northwest Kearney Project and Fremont-to-Schuyler Project Location: Commission Hearing Room 10:00am"
+  - commission: OR
+    date: 2026-09-03
+    title: Docket UM 2281 - PGE DEFERRAL OF IE AND THIRD-PARTY CONSULTANT EXPENSES
+  - commission: OR
+    date: 2026-09-03
+    title: Docket UM 2383 - PACIFICORP APPLICATION FOR PARTIAL WAIVER DRAFT RFP
+  - commission: OR
+    date: 2026-09-03
+    title: Docket UM 2438 - 2026 ANNUAL ETC CERTIFICATION REPORTS
+  - commission: OR
+    date: 2026-09-03
+    title: Docket UA 178 - EWEB AND LANE ELECTRIC TERRITORY ALLOCATION AGREEMENT
+  - commission: OR
+    date: 2026-09-03
+    title: Docket ADV 1881 - PGE ADVICE NO. 26-25 AR 671 COMPLIANCE
+  - commission: OR
+    date: 2026-09-03
+    title: Docket ADV 1891 - PGE ADVICE NO. 26-33 HOUSEKEEPING AND SUNSETTING
+  - commission: OR
+    date: 2026-09-03
+    title: Docket UM 1732 - NORTHWEST NATURAL SCHEDULE 183 ANNUAL REVIEW OF ENVIRON. REMEDIATION COSTS
+  - commission: OR
+    date: 2026-09-03
+    title: Docket UM 1078 - NORTHWEST NATURAL GAS COMPANY
+  - commission: TX-RRC
+    date: 2026-09-03
+    title: "*ENFORCEMENT- DOCKET NO. OS-26-00029754"
+  - commission: TX-RRC
+    date: 2026-09-04
+    title: "*OCCIDENTAL PERMIAN LTD.-DOCKET NO. OG-26-00031735 (CONTINUED)"
+  - commission: WA
+    date: 2026-09-03
+    title: UE-260007 & UG-260008 Avista GRC - Exhibits List, Cross-Examination Exhibits, Witnesses List, Time Estimates, Exhibits Errata Due
 
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
