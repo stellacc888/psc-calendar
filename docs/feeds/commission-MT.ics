@@ -13,7 +13,7 @@ SUMMARY:[MT] September 2\, 2026 – 8:00 AM – WCPSC Commissioner Only Su
  mmit
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260830T100142Z
+DTSTAMP:20260831T100149Z
 UID:4345ec512f5266bc3738@psc-calendar
 CATEGORIES:MT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Montana Public Service Commission (MT)\nType: Open
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:[MT] Commission Out of Cycle Meeting
 DTSTART;TZID=America/Denver:20260904T130000
 DTEND;TZID=America/Denver:20260904T150000
-DTSTAMP:20260830T100142Z
+DTSTAMP:20260831T100149Z
 UID:8409dbd44dd8310065ca@psc-calendar
 CATEGORIES:MT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Montana Public Service Commission (MT)\nType: Open
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:[MT] Out-of-Cycle Work Session – 2025.10.078
 DTSTART;TZID=America/Denver:20260904T130000
 DTEND;TZID=America/Denver:20260904T150000
-DTSTAMP:20260830T100142Z
+DTSTAMP:20260831T100149Z
 UID:cae859d79ae6e46d2b43@psc-calendar
 CATEGORIES:MT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Montana Public Service Commission (MT)\nType: Open
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:[MT] Next Commission Business Meeting
 DTSTART;TZID=America/Denver:20260908T133000
 DTEND;TZID=America/Denver:20260908T153000
-DTSTAMP:20260830T100142Z
+DTSTAMP:20260831T100149Z
 UID:7de9f37439c896aa5ef2@psc-calendar
 CATEGORIES:MT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Montana Public Service Commission (MT)\nType: Open
