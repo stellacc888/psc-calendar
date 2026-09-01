@@ -14,14 +14,14 @@ SUMMARY:[VA] PUR-2026-00031 - Petition of Appalachian Power Company to con
  rams
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:644f8f8fae436dbb504e@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
  Evidentiary Hearing\n\nSept. 24\, 2026 | 10 a.m. | PUR-2026-00031 - Petiti
  on of Appalachian Power Company to continue rate adjustment clause\, EE-RA
- C\, and for new energy efficiency programs |\n\nSource: https://www.scc.vi
- rginia.gov/docketsearch#/caseDetails/146811
+ C\, and for new energy efficiency programs | |\n\nSource: https://www.scc.
+ virginia.gov/docketsearch#/caseDetails/146811
 PRIORITY:5
 URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/146811
 END:VEVENT
@@ -30,13 +30,13 @@ SUMMARY:[VA] PUR-2026-00044 - Application of Appalachian Power Company for
   increase in base rates
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:db8e39534f1f4ddc1525@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
  Evidentiary Hearing\n\nOct. 19\, 2026 | 10 a.m. | PUR-2026-00044 - Applica
- tion of Appalachian Power Company for increase in base rates |\n\nSource: 
- https://www.scc.virginia.gov/docketsearch#/caseDetails/146851
+ tion of Appalachian Power Company for increase in base rates | |\n\nSource
+ : https://www.scc.virginia.gov/docketsearch#/caseDetails/146851
 PRIORITY:5
 URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/146851
 END:VEVENT
@@ -46,15 +46,15 @@ SUMMARY:[VA] PUR-2026-00012 - Application of Appalachian Power Company for
  nia and Campbell counties (Evidentiary proceeding)
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:04b4931ab398a2a0631f@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
  Evidentiary Hearing\n\nOct. 27\, 2026 | 10 a.m. | PUR-2026-00012 - Applica
  tion of Appalachian Power Company for the Altavista to Leesville Transmiss
  ion Improvements Project in Pittsylvania and Campbell counties (Evidentiar
- y proceeding) |\n\nSource: https://www.scc.virginia.gov/docketsearch#/case
- Details/146729
+ y proceeding) | |\n\nSource: https://www.scc.virginia.gov/docketsearch#/ca
+ seDetails/146729
 PRIORITY:5
 URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/146729
 END:VEVENT
@@ -63,14 +63,14 @@ SUMMARY:[VA] PUR-2026-00085 - Petition of Dominion Energy Virginia to rein
  state and update the rate adjustment clause designated Rider RGGI
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:cb1f7c8a9bf25b07da65@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
  Evidentiary Hearing\n\nOct. 28\, 2026 | 10 a.m. | PUR-2026-00085 - Petitio
  n of Dominion Energy Virginia to reinstate and update the rate adjustment 
- clause designated Rider RGGI |\n\nSource: https://www.scc.virginia.gov/doc
- ketsearch#/caseDetails/146975
+ clause designated Rider RGGI | |\n\nSource: https://www.scc.virginia.gov/d
+ ocketsearch#/caseDetails/146975
 PRIORITY:5
 URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/146975
 END:VEVENT
@@ -79,14 +79,14 @@ SUMMARY:[VA] PUR-2026-00051 - Application of Kentucky Utilities Company d/
  b/a Old Dominion Power Company for an adjustment of electric base rates
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:4899d5c01770b2c70da9@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
  Evidentiary Hearing\n\nNov. 12\, 2026 | 10 a.m. | PUR-2026-00051 - Applica
  tion of Kentucky Utilities Company d/b/a Old Dominion Power Company for an
-  adjustment of electric base rates |\n\nSource: https://www.scc.virginia.g
- ov/docketsearch#/caseDetails/146897
+  adjustment of electric base rates | |\n\nSource: https://www.scc.virginia
+ .gov/docketsearch#/caseDetails/146897
 PRIORITY:5
 URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/146897
 END:VEVENT
@@ -97,7 +97,7 @@ SUMMARY:[VA] PUR-2026-00021 - Application of Dominion Energy Virginia for
  ranch-Morrisville Line #2464\; Expanded 
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:d18e9c929ebcafcf12dd@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -105,8 +105,8 @@ DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType:
  tion of Dominion Energy Virginia for electric transmission facilities in F
  auquier\, Prince William\, and Loudoun Counties: 500 kV Morrisville-Wishin
  g Star Line #5008\; 230 kV Anderson Branch-Morrisville Line #2464\; Expand
- ed Corridor Optimization & Related Projects (Evidentiary proceeding) |\n\n
- Source: https://www.scc.virginia.gov/docketsearch#/caseDetails/146795
+ ed Corridor Optimization & Related Projects (Evidentiary proceeding) | |\n
+ \nSource: https://www.scc.virginia.gov/docketsearch#/caseDetails/146795
 PRIORITY:5
 URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/146795
 END:VEVENT
@@ -117,15 +117,15 @@ SUMMARY:[VA] PUR-2026-00112 - Joint Petition of Dominion Energy\, Inc.\, V
   public utility
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:09583d3251fc5316d085@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
  Evidentiary Hearing\n\nNov. 17\, 2026 | 10 a.m. | PUR-2026-00112 - Joint P
  etition of Dominion Energy\, Inc.\, Virginia Electric and Power Company\, 
  OSW Project LLC\, CS HoldCo\, LLC\, and NextEra Energy\, Inc. - for a disp
- osition and acquisition of control of public utility |\n\nSource: https://
- www.scc.virginia.gov/docketsearch#/caseDetails/147078
+ osition and acquisition of control of public utility | |\n\nSource: https:
+ //www.scc.virginia.gov/docketsearch#/caseDetails/147078
 PRIORITY:5
 URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/147078
 END:VEVENT
@@ -135,14 +135,15 @@ SUMMARY:[VA] PUR-2026-00050 - Application of Dominion Energy Virginia for
  ild Project (Evidentiary proceeding)
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:0f398b3dbe5be4bf29b3@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
  Evidentiary Hearing\n\nDec. 2\, 2026 | 10 a.m. | PUR-2026-00050 - Applicat
  ion of Dominion Energy Virginia for electric transmission facilities: Char
  lottesville-Gordonsville 230 kV Rebuild Project (Evidentiary proceeding) |
- \n\nSource: https://www.scc.virginia.gov/docketsearch#/caseDetails/146896
+  |\n\nSource: https://www.scc.virginia.gov/docketsearch#/caseDetails/14689
+ 6
 PRIORITY:5
 URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/146896
 END:VEVENT
@@ -152,14 +153,14 @@ SUMMARY:[VA] PUR-2026-00018 - Application of NextEra Energy Transmission V
  videntiary proceeding)
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:a04aaae299fa73e607b0@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
  Evidentiary Hearing\n\nDec. 8\, 2026 | 10 a.m. | PUR-2026-00018 - Applicat
  ion of NextEra Energy Transmission Virginia\, Inc. for electric transmissi
- on facilities in Frederick County (Evidentiary proceeding) |\n\nSource: ht
- tps://www.scc.virginia.gov/docketsearch#/caseDetails/146788
+ on facilities in Frederick County (Evidentiary proceeding) | |\n\nSource: 
+ https://www.scc.virginia.gov/docketsearch#/caseDetails/146788
 PRIORITY:5
 URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/146788
 END:VEVENT
@@ -169,14 +170,14 @@ SUMMARY:[VA] PUR-2026-00014 - Petition of Columbia Gas of Virginia\, Inc.
  e to gas service
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:cb8ab535c5a980a60286@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
  Evidentiary Hearing\n\nDec. 15\, 2026 | 10 a.m. | PUR-2026-00014 - Petitio
  n of Columbia Gas of Virginia\, Inc. to increase rates and charges and to 
- revise terms and conditions applicable to gas service |\n\nSource: https:/
- /www.scc.virginia.gov/docketsearch#/caseDetails/146778
+ revise terms and conditions applicable to gas service | |\n\nSource: https
+ ://www.scc.virginia.gov/docketsearch#/caseDetails/146778
 PRIORITY:5
 URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/146778
 END:VEVENT
@@ -187,7 +188,7 @@ SUMMARY:[VA] PUR-2026-00076 - Application of Dominion Energy Virginia for
  4\, Corridor Optimization and Related P
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:4bc516bd6181d972619e@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -195,8 +196,8 @@ DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType:
  tion of Dominion Energy Virginia for electric transmission facilities: 500
   kV Doubs-Goose Creek Line #514 Rebuild\, 500 kV Aspen-Doubs Line #5015\, 
  500 kV Goose Creek-Woodside Line #5004\, Corridor Optimization and Related
-  Projects |\n\nSource: https://www.scc.virginia.gov/docketsearch#/caseDeta
- ils/146952
+  Projects | |\n\nSource: https://www.scc.virginia.gov/docketsearch#/caseDe
+ tails/146952
 PRIORITY:5
 URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/146952
 END:VEVENT
@@ -206,14 +207,14 @@ SUMMARY:[VA] PUR-2026-00114 - Petition of Northern Virginia Electric Coope
  DPS\, HV-1\, and HV-2
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:d48ce59feee5374ec3a5@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
  Evidentiary Hearing\n\nApr. 21\, 2027 | 10 a.m. | PUR-2026-00114 - Petitio
  n of Northern Virginia Electric Cooperative for revisions to the Terms and
-  Conditions of Rate Schedules LP-1\, DPS\, HV-1\, and HV-2 |\n\nSource: ht
- tps://www.scc.virginia.gov/docketsearch#/caseDetails/147082
+  Conditions of Rate Schedules LP-1\, DPS\, HV-1\, and HV-2 | |\n\nSource: 
+ https://www.scc.virginia.gov/docketsearch#/caseDetails/147082
 PRIORITY:5
 URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/147082
 END:VEVENT

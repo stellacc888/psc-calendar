@@ -14,7 +14,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20260806T113000
 DTEND;TZID=America/Chicago:20260806T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:7cce3e79c3a3d096fc96@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Hearing for M2026-06564
 DTSTART;TZID=America/Chicago:20260901T100000
 DTEND;TZID=America/Chicago:20260901T120000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:bcb17db2332390142f2c@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Special Open Meeting
 DTSTART;TZID=America/Chicago:20260901T113000
 DTEND;TZID=America/Chicago:20260901T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:b421c0c1a69658cb4336@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -61,7 +61,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20260901T113000
 DTEND;TZID=America/Chicago:20260901T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:cef47857638c97707615@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Hearing for M2026-13163
 DTSTART;TZID=America/Chicago:20260901T130000
 DTEND;TZID=America/Chicago:20260901T150000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:5b139964fb67145b6f2b@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0574
 DTSTART;TZID=America/Chicago:20260901T150000
 DTEND;TZID=America/Chicago:20260901T170000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:cae3509f942c924c671c@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0609
 DTSTART;TZID=America/Chicago:20260902T133000
 DTEND;TZID=America/Chicago:20260902T153000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:c49ecd0c7645a1d8ac8a@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0618
 DTSTART;TZID=America/Chicago:20260903T110000
 DTEND;TZID=America/Chicago:20260903T130000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:1ffab7bfbd45a735f8d7@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Regular Open Meeting
 DTSTART;TZID=America/Chicago:20260903T113000
 DTEND;TZID=America/Chicago:20260903T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:9bea6d0553ccc8f08a34@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -150,15 +150,16 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20260903T113000
 DTEND;TZID=America/Chicago:20260903T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:aed4f32f9eb7928df09f@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
  ing / Commission Meeting\n\nSeptember 3\, 2026 11:30 AM | Regular Open Mee
  ting Illinois Commerce Commission 527 East Capitol Avenue Hearing Room A\,
-  First Floor\, Leland Building Springfield\, Illinois 62701 | Transportati
- on Cover Letter Bench Agenda\n\nSource: https://www.icc.illinois.gov/meeti
- ngs/meeting/commission-meeting/21711
+  First Floor\, Leland Building Springfield\, Illinois 62701 | Public Utili
+ ty Cover Letter Regular Open Meeting Agenda Transportation Cover Letter Be
+ nch Agenda\n\nSource: https://www.icc.illinois.gov/meetings/meeting/commis
+ sion-meeting/21711
 PRIORITY:5
 URL:https://www.icc.illinois.gov/meetings/meeting/commission-meeting/21711
 END:VEVENT
@@ -167,7 +168,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20260910T113000
 DTEND;TZID=America/Chicago:20260910T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:0dfb53bff5442fe1ba07@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -185,7 +186,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20260917T113000
 DTEND;TZID=America/Chicago:20260917T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:3b159d5656adb4de5295@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -202,7 +203,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20260924T113000
 DTEND;TZID=America/Chicago:20260924T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:477d4342f5c6e6d5d794@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -218,7 +219,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261008T113000
 DTEND;TZID=America/Chicago:20261008T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:ab9c01e533f03d40f896@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -235,7 +236,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20261015T113000
 DTEND;TZID=America/Chicago:20261015T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:c8e648d61c8df056e27a@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -251,7 +252,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261029T113000
 DTEND;TZID=America/Chicago:20261029T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:739f1c61df9bc3adedcb@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -268,7 +269,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20261105T113000
 DTEND;TZID=America/Chicago:20261105T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:a49c1402c47cc7a9cb53@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -284,7 +285,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261119T113000
 DTEND;TZID=America/Chicago:20261119T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:aa47d12bef7db13edb0d@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -300,7 +301,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261124T113000
 DTEND;TZID=America/Chicago:20261124T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:5efc093cc79c4996f19e@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -317,7 +318,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20261203T113000
 DTEND;TZID=America/Chicago:20261203T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:cafda7ce832b654d305c@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -333,7 +334,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261210T113000
 DTEND;TZID=America/Chicago:20261210T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:85fdba2daee5f74c6486@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -350,7 +351,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20261215T113000
 DTEND;TZID=America/Chicago:20261215T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:b3f1ab06a1d6fe9bedb2@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -366,7 +367,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261217T113000
 DTEND;TZID=America/Chicago:20261217T133000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:aee7c9980e97b536ac6a@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet

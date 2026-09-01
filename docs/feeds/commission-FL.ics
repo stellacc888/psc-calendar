@@ -9,152 +9,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260001: Fuel and purchased power cost recovery claus
- e with generating performance incentive factor. Docket No : 20260053 \; Ti
- tle: Review of the 2024-2025 outage of Tampa Electric Company's Bayside St
- eam Turbine Unit 2. Docket No : 20260
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-DTSTAMP:20260831T100149Z
-UID:ae5a040f8b2a1f8313b3@psc-calendar
-CATEGORIES:FL,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Open
-  Meeting / Commission Meeting\nDocket: 20260001\, 20260053\, 20260062\n\nT
- uesday\, August 04\, 2026 Event type: Hearing Time : Immediately after Age
- nda Conference Location: E 148 - Tallahassee | | | Docket No : 20260001 \;
-  Title: Fuel and purchased power cost recovery clause with generating perf
- ormance incentive factor. Docket No : 20260053 \; Title: Review of the 202
- 4-2025 outage of Tampa Electric Company's Bayside Steam Turbine Unit 2. Do
- cket No : 20260062 \; Title: Petition for approval of revised depreciation
-  rates for Bayside Power Station assets\, by Tampa Electric Company. | All
-  Commissioners\n\nSource: https://www.floridapsc.com/schedule-of-events
-PRIORITY:5
-URL:https://www.floridapsc.com/schedule-of-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260087: Petition for determination of need for a new
-  combined cycle generating unit and onsite associated facilities located a
- t St. Johns River Power Park Unit 3 in Duval County\, by JEA
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-DTSTAMP:20260831T100149Z
-UID:6bed50205cc50b28f71b@psc-calendar
+SUMMARY:[FL] Monday\, September 07\, 2026 HOLIDAY: Labor Day
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260901T100210Z
+UID:596c6f4873cd728b592e@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260087\n\nTuesday\, August 04\, 2026 Event type
- : Pre-Hearing Time : Immediately following previous event Location: E 148 
- - Tallahassee | | | Docket No : 20260087 \; Title: Petition for determinat
- ion of need for a new combined cycle generating unit and onsite associated
-  facilities located at St. Johns River Power Park Unit 3 in Duval County\,
-  by JEA. | La Rosa\n\nSource: https://www.floridapsc.com/schedule-of-event
- s
-PRIORITY:5
-URL:https://www.floridapsc.com/schedule-of-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260064: Petition for a limited proceeding to approve
-  large load tariff\, by Duke Energy Florida\, LLC
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260806
-DTSTAMP:20260831T100149Z
-UID:d296e14c2d14718f6031@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260064\n\nWednesday\, August 05\, 2026 Event ty
- pe: Pre-Hearing Time : 09:30 AM Location: E 148 - Tallahassee | | | Docket
-  No : 20260064 \; Title: Petition for a limited proceeding to approve larg
- e load tariff\, by Duke Energy Florida\, LLC. | Clark\n\nSource: https://w
- ww.floridapsc.com/schedule-of-events
-PRIORITY:5
-URL:https://www.floridapsc.com/schedule-of-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260026: Application for rate increase by Florida Cit
- y Gas
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260831T100149Z
-UID:dae4b58766546c708147@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026\n\nMonday\, August 17\, 2026 Event type:
-  Service Hearing - Virtual Time : 10:00 AM Location: E 148 - Tallahassee |
-  | | Docket No : 20260026 \; Title: Application for rate increase by Flori
- da City Gas. | All Commissioners\n\nSource: https://www.floridapsc.com/sch
- edule-of-events
-PRIORITY:5
-URL:https://www.floridapsc.com/schedule-of-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260064: Petition for a limited proceeding to approve
-  large load tariff\, by Duke Energy Florida\, LLC
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260831T100149Z
-UID:c75287c377f118737cad@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260064\n\nMonday\, August 17\, 2026 Event type:
-  Hearing Time : Following Previous Event Location: E 148 - Tallahassee | |
-  | Docket No : 20260064 \; Title: Petition for a limited proceeding to app
- rove large load tariff\, by Duke Energy Florida\, LLC. | Clark\n\nSource: 
- https://www.floridapsc.com/schedule-of-events
-PRIORITY:5
-URL:https://www.floridapsc.com/schedule-of-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260087: Petition for determination of need for a new
-  combined cycle generating unit and onsite associated facilities located a
- t St. Johns River Power Park Unit 3 in Duval County\, by JEA
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-DTSTAMP:20260831T100149Z
-UID:4a4d282d0af351c7012b@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260087\n\nTuesday\, August 18\, 2026 Event type
- : Hearing Time : Immediately following previous event Location: E 148 - Ta
- llahassee | | | Docket No : 20260087 \; Title: Petition for determination 
- of need for a new combined cycle generating unit and onsite associated fac
- ilities located at St. Johns River Power Park Unit 3 in Duval County\, by 
- JEA. | All Commissioners\n\nSource: https://www.floridapsc.com/schedule-of
- -events
-PRIORITY:5
-URL:https://www.floridapsc.com/schedule-of-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260064: Petition for a limited proceeding to approve
-  large load tariff\, by Duke Energy Florida\, LLC
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DTSTAMP:20260831T100149Z
-UID:6784aa8608879f7a475c@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260064\n\nTuesday\, August 25\, 2026 Event type
- : Hearing Time : 09:30 AM Location: E 148 - Tallahassee | | | Docket No : 
- 20260064 \; Title: Petition for a limited proceeding to approve large load
-  tariff\, by Duke Energy Florida\, LLC. | All Commissioners\n\nSource: htt
- ps://www.floridapsc.com/schedule-of-events
-PRIORITY:5
-URL:https://www.floridapsc.com/schedule-of-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260010: Storm protection plan cost recovery clause. 
- Docket No : 20260011 \; Title: Natural gas facilities relocation cost reco
- very clause
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-DTSTAMP:20260831T100149Z
-UID:7e4d7062bb4c7317ddfc@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260010\, 20260011\n\nThursday\, August 27\, 202
- 6 Event type: Pre-Hearing Time : 09:30 AM Location: E 148 - Tallahassee | 
- | | Docket No : 20260010 \; Title: Storm protection plan cost recovery cla
- use. Docket No : 20260011 \; Title: Natural gas facilities relocation cost
-  recovery clause. | Clark\n\nSource: https://www.floridapsc.com/schedule-o
- f-events
+ entiary Hearing\n\nMonday\, September 07\, 2026 HOLIDAY: Labor Day | | | |
+ \n\nSource: https://www.floridapsc.com/schedule-of-events
 PRIORITY:5
 URL:https://www.floridapsc.com/schedule-of-events
 END:VEVENT
@@ -162,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Commission Conference
 DTSTART;TZID=America/New_York:20260910T090000
 DTEND;TZID=America/New_York:20260910T110000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:510a49e82e8c050e83a6@psc-calendar
 CATEGORIES:FL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Open
@@ -172,15 +35,16 @@ PRIORITY:5
 URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[FL] Prehearing: 20260026-GU
+SUMMARY:[FL] Prehearing: 20260026-GU — Application for rate increase by 
+ Florida City Gas
 DTSTART;TZID=America/New_York:20260914T123000
 DTEND;TZID=America/New_York:20260914T143000
-DTSTAMP:20260831T100149Z
-UID:ca024ff4fbf28d2ed370@psc-calendar
+DTSTAMP:20260901T100210Z
+UID:79b0c8af1e7598033f22@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026-GU\n\nSource: https://psc-fl.granicus.co
- m/ViewPublisher.php?view_id=2
+ entiary Hearing\nDocket: 20260026\, 20260026-GU\n\nSource: https://psc-fl.
+ granicus.com/ViewPublisher.php?view_id=2
 PRIORITY:5
 URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
 END:VEVENT
@@ -188,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Internal Affairs - Hearing immediately following
 DTSTART;TZID=America/New_York:20260915T090000
 DTEND;TZID=America/New_York:20260915T110000
-DTSTAMP:20260831T100149Z
+DTSTAMP:20260901T100210Z
 UID:dd88bd4139736671c1f3@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -198,42 +62,99 @@ PRIORITY:5
 URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[FL] Hearing: 20260010-11 (Day 1)
+SUMMARY:[FL] Hearing: 20260010-11 (Day 1) — Storm protection plan cost r
+ ecovery clause. Docket No : 20260011 \; Title: Natural gas facilities relo
+ cation cost recovery clause
 DTSTART;TZID=America/New_York:20260915T113000
 DTEND;TZID=America/New_York:20260915T133000
-DTSTAMP:20260831T100149Z
-UID:83726ab2767704ff3b80@psc-calendar
+DTSTAMP:20260901T100210Z
+UID:d31b32a5466164a5006c@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260010\n\nSource: https://psc-fl.granicus.com/V
- iewPublisher.php?view_id=2
+ entiary Hearing\nDocket: 20260010\, 20260011\n\nSource: https://psc-fl.gra
+ nicus.com/ViewPublisher.php?view_id=2
 PRIORITY:5
 URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[FL] Hearing: 20260010-11 (Day 2)
+SUMMARY:[FL] Hearing: 20260010-11 (Day 2) — Storm protection plan cost r
+ ecovery clause. Docket No : 20260011 \; Title: Natural gas facilities relo
+ cation cost recovery clause
 DTSTART;TZID=America/New_York:20260916T090000
 DTEND;TZID=America/New_York:20260916T110000
-DTSTAMP:20260831T100149Z
-UID:98792aa1233efe7b8713@psc-calendar
+DTSTAMP:20260901T100210Z
+UID:9f954d287556eafc5f10@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260010\n\nSource: https://psc-fl.granicus.com/V
- iewPublisher.php?view_id=2
+ entiary Hearing\nDocket: 20260010\, 20260011\n\nSource: https://psc-fl.gra
+ nicus.com/ViewPublisher.php?view_id=2
 PRIORITY:5
 URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[FL] Hearing: 20260010-11 (Day 3)
+SUMMARY:[FL] Hearing: 20260010-11 (Day 3) — Storm protection plan cost r
+ ecovery clause. Docket No : 20260011 \; Title: Natural gas facilities relo
+ cation cost recovery clause
 DTSTART;TZID=America/New_York:20260917T090000
 DTEND;TZID=America/New_York:20260917T110000
-DTSTAMP:20260831T100149Z
-UID:1e1a33304b9037698a17@psc-calendar
+DTSTAMP:20260901T100210Z
+UID:6ec545fb395e5ffc202d@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260010\n\nSource: https://psc-fl.granicus.com/V
- iewPublisher.php?view_id=2
+ entiary Hearing\nDocket: 20260010\, 20260011\n\nSource: https://psc-fl.gra
+ nicus.com/ViewPublisher.php?view_id=2
 PRIORITY:5
 URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[FL] Docket 20260026: Application for rate increase by Florida Cit
+ y Gas
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260901T100210Z
+UID:5a077a68b81a70aa5f99@psc-calendar
+CATEGORIES:FL,Evidentiary Hearing
+DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
+ entiary Hearing\nDocket: 20260026\n\nMonday\, September 28\, 2026 Event ty
+ pe: Hearing Time : 09:30 AM Location: E 148 - Tallahassee | | | Docket No 
+ : 20260026 \; Title: Application for rate increase by Florida City Gas. | 
+ All Commissioners\n\nSource: https://www.floridapsc.com/watch-archive-psc-
+ events
+PRIORITY:5
+URL:https://www.floridapsc.com/watch-archive-psc-events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[FL] Docket 20260026: Application for rate increase by Florida Cit
+ y Gas
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260901T100210Z
+UID:bf6a60e305db51f98e0a@psc-calendar
+CATEGORIES:FL,Evidentiary Hearing
+DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
+ entiary Hearing\nDocket: 20260026\n\nTuesday\, September 29\, 2026 Event t
+ ype: Hearing Time : 09:30 AM Location: E 148 - Tallahassee | | | Docket No
+  : 20260026 \; Title: Application for rate increase by Florida City Gas. |
+  All Commissioners\n\nSource: https://www.floridapsc.com/watch-archive-psc
+ -events
+PRIORITY:5
+URL:https://www.floridapsc.com/watch-archive-psc-events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[FL] Docket 20260026: Application for rate increase by Florida Cit
+ y Gas
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260901T100210Z
+UID:812469e1f4e9637b6edd@psc-calendar
+CATEGORIES:FL,Evidentiary Hearing
+DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
+ entiary Hearing\nDocket: 20260026\n\nWednesday\, September 30\, 2026 Event
+  type: Hearing Time : 09:30 AM Location: E 148 - Tallahassee | | | Docket 
+ No : 20260026 \; Title: Application for rate increase by Florida City Gas.
+  | All Commissioners\n\nSource: https://www.floridapsc.com/watch-archive-p
+ sc-events
+PRIORITY:5
+URL:https://www.floridapsc.com/watch-archive-psc-events
 END:VEVENT
 END:VCALENDAR
