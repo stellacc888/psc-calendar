@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Monday\, September 07\, 2026 HOLIDAY: Labor Day
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:596c6f4873cd728b592e@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Commission Conference
 DTSTART;TZID=America/New_York:20260910T090000
 DTEND;TZID=America/New_York:20260910T110000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:510a49e82e8c050e83a6@psc-calendar
 CATEGORIES:FL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Open
@@ -39,7 +39,7 @@ SUMMARY:[FL] Prehearing: 20260026-GU — Application for rate increase by
  Florida City Gas
 DTSTART;TZID=America/New_York:20260914T123000
 DTEND;TZID=America/New_York:20260914T143000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:79b0c8af1e7598033f22@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Internal Affairs - Hearing immediately following
 DTSTART;TZID=America/New_York:20260915T090000
 DTEND;TZID=America/New_York:20260915T110000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:dd88bd4139736671c1f3@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -67,7 +67,7 @@ SUMMARY:[FL] Hearing: 20260010-11 (Day 1) — Storm protection plan cost r
  cation cost recovery clause
 DTSTART;TZID=America/New_York:20260915T113000
 DTEND;TZID=America/New_York:20260915T133000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:d31b32a5466164a5006c@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -82,7 +82,7 @@ SUMMARY:[FL] Hearing: 20260010-11 (Day 2) — Storm protection plan cost r
  cation cost recovery clause
 DTSTART;TZID=America/New_York:20260916T090000
 DTEND;TZID=America/New_York:20260916T110000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:9f954d287556eafc5f10@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -97,7 +97,7 @@ SUMMARY:[FL] Hearing: 20260010-11 (Day 3) — Storm protection plan cost r
  cation cost recovery clause
 DTSTART;TZID=America/New_York:20260917T090000
 DTEND;TZID=America/New_York:20260917T110000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:6ec545fb395e5ffc202d@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -111,7 +111,7 @@ SUMMARY:[FL] Docket 20260026: Application for rate increase by Florida Cit
  y Gas
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:5a077a68b81a70aa5f99@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -128,7 +128,7 @@ SUMMARY:[FL] Docket 20260026: Application for rate increase by Florida Cit
  y Gas
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:bf6a60e305db51f98e0a@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -145,7 +145,7 @@ SUMMARY:[FL] Docket 20260026: Application for rate increase by Florida Cit
  y Gas
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:812469e1f4e9637b6edd@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid

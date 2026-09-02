@@ -9,14 +9,29 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[ME] Hearing on CASD No. 2026-V-00072
+DTSTART;TZID=America/New_York:20260911T130000
+DTEND;TZID=America/New_York:20260911T150000
+DTSTAMP:20260902T100203Z
+UID:4f211e315acdb7ca191f@psc-calendar
+CATEGORIES:ME,Evidentiary Hearing
+DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
+ entiary Hearing\n\n9/11/2026 | Hearing | Hearing on CASD No. 2026-V-00072 
+ | Simpson Room | 1:00 PM | | 2026-00215\n\nSource: https://www.maine.gov/t
+ ools/whatsnew/index.php?topic=puc-otherevents&id=13360993&v=article088
+PRIORITY:5
+URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-otherevents&i
+ d=13360993&v=article088
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[ME] Deliberations Audio/Video
-DTSTART;TZID=America/New_York:20260922T100000
-DTEND;TZID=America/New_York:20260922T120000
-DTSTAMP:20260901T100210Z
-UID:e1542d78cc203339cd76@psc-calendar
+DTSTART;TZID=America/New_York:20260923T100000
+DTEND;TZID=America/New_York:20260923T120000
+DTSTAMP:20260902T100203Z
+UID:9831c0debea640a7f645@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
- sion / Order\n\n9/22/2026 | Deliberations Audio/Video | 10:00 AM\n\nSource
+ sion / Order\n\n9/23/2026 | Deliberations Audio/Video | 10:00 AM\n\nSource
  : https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations&i
  d=13358862&v=Article088
 PRIORITY:5
@@ -27,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20260929T100000
 DTEND;TZID=America/New_York:20260929T120000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:1fb8fb13c250f78704dd@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci

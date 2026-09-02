@@ -16,20 +16,19 @@ SUMMARY:[DC] Calendar of Events: 31 11:00 AM Spring of the Year Resource F
  -related information and giveaways.
 DTSTART;TZID=America/New_York:20260831T110000
 DTEND;TZID=America/New_York:20260831T130000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:f6d159fa95210e4eee62@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
  )\nType: Open Meeting / Commission Meeting\n\n30 | 31 11:00 AM Spring of t
  he Year Resource Fair Spring of the Year Resource Fair 8/31/2026 11:00 AM 
  | Karimah Bilal DCPSC will attend the Spring of the Year Resource Fair to 
- distribute utility-related information and giveaways. | 1 11:59 PM Applica
- tions Due for Commission Vacancy #33081 Sr. Pipeline Safety Inspector Appl
- ications Due for Commission Vacancy #33081 Sr. Pipeline Safety Inspector 9
- /1/2026 11:59 PM | Ashley Davis The Commission\, a leading utility regulat
- ory agency\, is looking for a talented Sr. Pipeline Safety Inspector with 
- field work leader experience in a gas distribution utili\n\nSource: https:
- //dcpsc.org/Calendar/Spring-of-the-Year-Resource-Fair.aspx
+ distribute utility-related information and giveaways. | 1 | 2 11:00 AM Ope
+ n Commission Meeting for September 2\, 2026 Open Commission Meeting for Se
+ ptember 2\, 2026 9/2/2026 11:00 AM | Brinda Westbrook A recording of the O
+ pen Meeting will be available on the Commission’s website after the meet
+ ing concludes. | 3 | 4 | 5\n\nSource: https://dcpsc.org/Calendar/Spring-of
+ -the-Year-Resource-Fair.aspx
 PRIORITY:5
 URL:https://dcpsc.org/Calendar/Spring-of-the-Year-Resource-Fair.aspx
 END:VEVENT
@@ -37,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20260902T110000
 DTEND;TZID=America/New_York:20260902T130000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:cd92db7beb8177102e51@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -51,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20260916T110000
 DTEND;TZID=America/New_York:20260916T130000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:5c26fdc15dc54fa214fa@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -65,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261007T110000
 DTEND;TZID=America/New_York:20261007T130000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:57152088f4301f6866fe@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -79,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261021T110000
 DTEND;TZID=America/New_York:20261021T130000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:c95e53aa80931f392efb@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -93,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261104T110000
 DTEND;TZID=America/New_York:20261104T130000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:f5811f63b8d650e7c157@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -107,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261118T110000
 DTEND;TZID=America/New_York:20261118T130000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:bafe59efad307ffc955a@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -121,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261202T110000
 DTEND;TZID=America/New_York:20261202T130000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:b3b7c0e99dc34e10ac59@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -135,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261216T110000
 DTEND;TZID=America/New_York:20261216T130000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:94844bb829c576cfa20e@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC

@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Scheduled Commission Utility Agendas
 DTSTART;TZID=America/Los_Angeles:20260908T100000
 DTEND;TZID=America/Los_Angeles:20260908T120000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:90b8cb8debd83a22e36a@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -23,8 +23,8 @@ DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType:
   A 10/13/2026 10:00 AM Regular Agenda/19-26 CC Rm A - LV Rm A 10/27/2026 1
  0:00 AM Regular Agenda/20-26 CC Rm A - LV Rm A 11/10/2026 10:00 AM Regular
   Agenda/21-26 CC Rm A - LV Rm A 11/24/2026 10:00 AM Regular Agenda/22-26 C
- C Rm A - LV Rm A 12/8/2026 10:00 AM Regular Agenda/22-26 CC Rm A - LV Rm A
-  12/29/2026 10:00 AM Regular Agenda/23-26 CC \n\nSource: http://puc.nv.gov
+ C Rm A - LV Rm A 12/8/2026 10:00 AM Regular Agenda/23-26 CC Rm A - LV Rm A
+  12/29/2026 10:00 AM Regular Agenda/24-26 CC \n\nSource: http://puc.nv.gov
  /Agendas/Agendas/
 PRIORITY:5
 URL:http://puc.nv.gov/Agendas/Agendas/
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/16-26
 DTSTART;TZID=America/Los_Angeles:20260908T100000
 DTEND;TZID=America/Los_Angeles:20260908T120000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:67d01047d81e6b61912c@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -44,8 +44,8 @@ DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType:
  CC Rm A - LV Rm A 10/27/2026 10:00 AM Regular Agenda/20-26 CC Rm A - LV Rm
   A 11/10/2026 10:00 AM Regular Agenda/21-26 CC Rm A - LV Rm A 11/24/2026 1
  0:00 AM Regular Agenda/22-26 CC Rm A - LV Rm A 12/8/2026 10:00 AM Regular 
- Agenda/22-26 CC Rm A - LV Rm A 12/29/2026 10:00 AM Regular Agenda/23-26 CC
-  Rm A - LV Rm A | Date | Time | Type | Locati\n\nSource: https://pucweb1.s
+ Agenda/23-26 CC Rm A - LV Rm A 12/29/2026 10:00 AM Regular Agenda/24-26 CC
+  Rm A - LV Rm A 1/12/2027 10:00 AM Regular Ag\n\nSource: https://pucweb1.s
  tate.nv.us/PUC2/AgendaCalendar.aspx?Util=Agenda
 PRIORITY:5
 URL:https://pucweb1.state.nv.us/PUC2/AgendaCalendar.aspx?Util=Agenda
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/18-26
 DTSTART;TZID=America/Los_Angeles:20260929T100000
 DTEND;TZID=America/Los_Angeles:20260929T120000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:41ffc2865eabdfcb2229@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/19-26
 DTSTART;TZID=America/Los_Angeles:20261013T100000
 DTEND;TZID=America/Los_Angeles:20261013T120000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:0eeb859f25fb8a685355@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/20-26
 DTSTART;TZID=America/Los_Angeles:20261027T100000
 DTEND;TZID=America/Los_Angeles:20261027T120000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:a553a300f25496aa62f6@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/21-26
 DTSTART;TZID=America/Los_Angeles:20261110T100000
 DTEND;TZID=America/Los_Angeles:20261110T120000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:92688c68101ced2de040@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/22-26
 DTSTART;TZID=America/Los_Angeles:20261124T100000
 DTEND;TZID=America/Los_Angeles:20261124T120000
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:f5ad25655f2af9a0fcee@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -121,30 +121,58 @@ PRIORITY:5
 URL:https://pucweb1.state.nv.us/PUC2/AgendaCalendar.aspx?Util=Agenda
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NV] Regular Agenda/22-26
+SUMMARY:[NV] Regular Agenda/23-26
 DTSTART;TZID=America/Los_Angeles:20261208T100000
 DTEND;TZID=America/Los_Angeles:20261208T120000
-DTSTAMP:20260901T100210Z
-UID:a3a0ea621a8ff4a641b2@psc-calendar
+DTSTAMP:20260902T100203Z
+UID:79c808f5064e7d2350cd@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
  Open Meeting / Commission Meeting\n\n12/8/2026 | 10:00 AM | Regular Agenda
- /22-26 | CC Rm A - LV Rm A\n\nSource: https://pucweb1.state.nv.us/PUC2/Age
+ /23-26 | CC Rm A - LV Rm A\n\nSource: https://pucweb1.state.nv.us/PUC2/Age
  ndaCalendar.aspx?Util=Agenda
 PRIORITY:5
 URL:https://pucweb1.state.nv.us/PUC2/AgendaCalendar.aspx?Util=Agenda
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NV] Regular Agenda/23-26
+SUMMARY:[NV] Regular Agenda/24-26
 DTSTART;TZID=America/Los_Angeles:20261229T100000
 DTEND;TZID=America/Los_Angeles:20261229T120000
-DTSTAMP:20260901T100210Z
-UID:c773d22da4527250691f@psc-calendar
+DTSTAMP:20260902T100203Z
+UID:c4f639a9a478fb339337@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
  Open Meeting / Commission Meeting\n\n12/29/2026 | 10:00 AM | Regular Agend
- a/23-26 | CC Rm A - LV Rm A\n\nSource: https://pucweb1.state.nv.us/PUC2/Ag
+ a/24-26 | CC Rm A - LV Rm A\n\nSource: https://pucweb1.state.nv.us/PUC2/Ag
  endaCalendar.aspx?Util=Agenda
+PRIORITY:5
+URL:https://pucweb1.state.nv.us/PUC2/AgendaCalendar.aspx?Util=Agenda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NV] Regular Agenda/01-27
+DTSTART;TZID=America/Los_Angeles:20270112T100000
+DTEND;TZID=America/Los_Angeles:20270112T120000
+DTSTAMP:20260902T100203Z
+UID:419b4db63ce09ac14ae6@psc-calendar
+CATEGORIES:NV,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
+ Open Meeting / Commission Meeting\n\n1/12/2027 | 10:00 AM | Regular Agenda
+ /01-27 | CC Rm A - LV Rm A\n\nSource: https://pucweb1.state.nv.us/PUC2/Age
+ ndaCalendar.aspx?Util=Agenda
+PRIORITY:5
+URL:https://pucweb1.state.nv.us/PUC2/AgendaCalendar.aspx?Util=Agenda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NV] Regular Agenda/02-27
+DTSTART;TZID=America/Los_Angeles:20270126T100000
+DTEND;TZID=America/Los_Angeles:20270126T120000
+DTSTAMP:20260902T100203Z
+UID:beff804f5cfa119bf960@psc-calendar
+CATEGORIES:NV,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
+ Open Meeting / Commission Meeting\n\n1/26/2027 | 10:00 AM | Regular Agenda
+ /02-27 | CC Rm A - LV Rm A\n\nSource: https://pucweb1.state.nv.us/PUC2/Age
+ ndaCalendar.aspx?Util=Agenda
 PRIORITY:5
 URL:https://pucweb1.state.nv.us/PUC2/AgendaCalendar.aspx?Util=Agenda
 END:VEVENT

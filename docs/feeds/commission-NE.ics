@@ -9,25 +9,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NE] 01 Sep Commission Meeting Location: Commission Hearing Room 1
- 0:00am
-DTSTART:20260901T100000Z
-DTEND:20260901T120000Z
-DTSTAMP:20260901T100210Z
-UID:c2e9b6e48c2955612d4a@psc-calendar
-CATEGORIES:NE,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
- n Meeting / Commission Meeting\n\nSource: https://psc.nebraska.gov/commiss
- ion-meeting-256
-PRIORITY:5
-URL:https://psc.nebraska.gov/commission-meeting-256
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NE] 15 Sep Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20260915T150000Z
 DTEND:20260915T170000Z
-DTSTAMP:20260901T100210Z
+DTSTAMP:20260902T100203Z
 UID:a1a29aa8fa1d67e33509@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -35,5 +21,19 @@ DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
  ion-meeting-258
 PRIORITY:5
 URL:https://psc.nebraska.gov/commission-meeting-258
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NE] 22 Sep Commission Meeting Location: Commission Hearing Room 1
+ 0:00am
+DTSTART:20260922T150000Z
+DTEND:20260922T170000Z
+DTSTAMP:20260902T100203Z
+UID:9d080ad792804e4e3516@psc-calendar
+CATEGORIES:NE,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.nebraska.gov/commiss
+ ion-meeting-259
+PRIORITY:5
+URL:https://psc.nebraska.gov/commission-meeting-259
 END:VEVENT
 END:VCALENDAR
