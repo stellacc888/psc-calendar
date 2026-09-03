@@ -10,37 +10,18 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[RI] PUC - Notice of Open Meeting - Monday August 31\, 2026 at 10:
- 30am at the PUC Hearing Room A\, 89 Jefferson Blvd\, Warwick\, Rhode Islan
- d
-DTSTART;TZID=America/New_York:20260831T103000
-DTEND;TZID=America/New_York:20260831T123000
-DTSTAMP:20260903T100143Z
-UID:a750fe5df260766b175b@psc-calendar
-CATEGORIES:RI,Open Meeting / Commission Meeting
+SUMMARY:[RI] at the PUC Hearing Room A\, 89 Jefferson Blvd\, Warwick\, Rho
+ de Island
+DTSTART;TZID=America/New_York:20260914T180000
+DTEND;TZID=America/New_York:20260914T200000
+DTSTAMP:20260903T181254Z
+UID:638e5ed74d8e6cd64b26@psc-calendar
+CATEGORIES:RI,Evidentiary Hearing
 DESCRIPTION:Commission: Rhode Island Public Utilities Commission (RI)\nTyp
- e: Open Meeting / Commission Meeting\n\nSource: https://ripuc.ri.gov/sites
- /g/files/xkgbur841/files/2026-08/Open%20Meeting%20Notice%208-31-2026%20Fin
- al.pdf
+ e: Evidentiary Hearing\n\nSeptember 14\, at 6:00pm at the PUC Hearing Room
+  A\, 89 Jefferson Blvd\, Warwick\, Rhode Island\n\nSource: https://ripuc.r
+ i.gov/events-and-actions/public-hearings
 PRIORITY:5
-URL:https://ripuc.ri.gov/sites/g/files/xkgbur841/files/2026-08/Open%20Meet
- ing%20Notice%208-31-2026%20Final.pdf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[RI] PUC - Notice of Open Meeting - Tuesday September 1\, 2026 at 
- 12:00pm at the PUC Hearing Room A\, 89 Jefferson Blvd\, Warwick\, Rhode Is
- land
-DTSTART;TZID=America/New_York:20260901T120000
-DTEND;TZID=America/New_York:20260901T140000
-DTSTAMP:20260903T100143Z
-UID:0c8db0e261d1e87028cc@psc-calendar
-CATEGORIES:RI,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Rhode Island Public Utilities Commission (RI)\nTyp
- e: Open Meeting / Commission Meeting\n\nSource: https://ripuc.ri.gov/sites
- /g/files/xkgbur841/files/2026-08/Open%20Meeting%20Notice%209-1-2026%20Fina
- l-1.pdf
-PRIORITY:5
-URL:https://ripuc.ri.gov/sites/g/files/xkgbur841/files/2026-08/Open%20Meet
- ing%20Notice%209-1-2026%20Final-1.pdf
+URL:https://ripuc.ri.gov/events-and-actions/public-hearings
 END:VEVENT
 END:VCALENDAR
