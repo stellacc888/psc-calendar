@@ -12,36 +12,8 @@ BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
 DTSTART;TZID=America/Chicago:20260902T110000
 DTEND;TZID=America/Chicago:20260902T130000
-DTSTAMP:20260902T100203Z
+DTSTAMP:20260903T100143Z
 UID:93a70fa47ca619bb2f9f@psc-calendar
-CATEGORIES:MO,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
- n Meeting / Commission Meeting\n\nAdj 11:00am Agenda Meeting ( Room 310 an
- d via WebEx )\n\nSource: https://psc.mo.gov/Calendars.aspx?Selected=Hearin
- gs
-PRIORITY:5
-URL:https://psc.mo.gov/Calendars.aspx?Selected=Hearings
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
-DTSTART;TZID=America/Chicago:20260909T110000
-DTEND;TZID=America/Chicago:20260909T130000
-DTSTAMP:20260902T100203Z
-UID:9be16697747076951dc7@psc-calendar
-CATEGORIES:MO,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
- n Meeting / Commission Meeting\n\nAdj 11:00am Agenda Meeting ( Room 310 an
- d via WebEx )\n\nSource: https://psc.mo.gov/Calendars.aspx?Selected=Hearin
- gs
-PRIORITY:5
-URL:https://psc.mo.gov/Calendars.aspx?Selected=Hearings
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
-DTSTART;TZID=America/Chicago:20260923T110000
-DTEND;TZID=America/Chicago:20260923T130000
-DTSTAMP:20260902T100203Z
-UID:cd0c04fc5850f54e6b1d@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
  n Meeting / Commission Meeting\n\nAdj 11:00am Agenda Meeting ( Room 310 an
@@ -55,7 +27,7 @@ SUMMARY:[MO] EA-2026-0183 - Ameren Missouri - Evidentiary Hearing ( Seyer
  - Hearing Room 310)
 DTSTART;TZID=America/Chicago:20260930T090000
 DTEND;TZID=America/Chicago:20260930T110000
-DTSTAMP:20260902T100203Z
+DTSTAMP:20260903T100143Z
 UID:af64eb517e4b2467583d@psc-calendar
 CATEGORIES:MO,Evidentiary Hearing
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Evi
@@ -69,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
 DTSTART;TZID=America/Chicago:20260930T110000
 DTEND;TZID=America/Chicago:20260930T130000
-DTSTAMP:20260902T100203Z
+DTSTAMP:20260903T100143Z
 UID:9dbaffbc00ff8bbfb140@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope

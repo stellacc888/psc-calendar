@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] Commission meeting
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-DTSTAMP:20260902T100203Z
+DTSTAMP:20260903T100143Z
 UID:06ad5fe93d36996fb5e9@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] Commission meeting
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260902T100203Z
+DTSTAMP:20260903T100143Z
 UID:d507e71551ce47ce1869@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] Commission meeting
 DTSTART;TZID=America/Chicago:20260819T100000
 DTEND;TZID=America/Chicago:20260819T120000
-DTSTAMP:20260902T100203Z
+DTSTAMP:20260903T100143Z
 UID:7ec43744e0463ae0102f@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] 2026 Commission Meetings: August 27\, 2026
 DTSTART;TZID=America/Chicago:20260827T133000
 DTEND;TZID=America/Chicago:20260827T153000
-DTSTAMP:20260902T100203Z
+DTSTAMP:20260903T100143Z
 UID:66fb61f17325a38fbd3e@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] Commission meeting
 DTSTART;TZID=America/Chicago:20260901T100000
 DTEND;TZID=America/Chicago:20260901T120000
-DTSTAMP:20260902T100203Z
+DTSTAMP:20260903T100143Z
 UID:f0516196c180068783ea@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -84,9 +84,25 @@ URL:https://oklahoma.gov/occ/public-meetings/2026-commission-meetings.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[OK] Commission meeting
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260903T100143Z
+UID:0db59b4b98a7ea10c03a@psc-calendar
+CATEGORIES:OK,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
+ eeting / Commission Meeting\n\nSeptember 8\, 2026 Tuesday 9:30 a.m. | Spec
+ ial Meeting | Agenda Watch Live\n\nSource: https://oklahoma.gov/content/da
+ m/ok/en/occ/documents/ajls/jls-courts/court-clerk/meetings/2026/2026-09-08
+ -special-meeting-agenda.pdf
+PRIORITY:5
+URL:https://oklahoma.gov/content/dam/ok/en/occ/documents/ajls/jls-courts/c
+ ourt-clerk/meetings/2026/2026-09-08-special-meeting-agenda.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OK] Commission meeting
 DTSTART;TZID=America/Chicago:20260909T133000
 DTEND;TZID=America/Chicago:20260909T153000
-DTSTAMP:20260902T100203Z
+DTSTAMP:20260903T100143Z
 UID:478372f2c0b152260c1f@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -100,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] 2026 Commission Meetings: August 27\, 2026
 DTSTART;TZID=America/Chicago:20260924T133000
 DTEND;TZID=America/Chicago:20260924T153000
-DTSTAMP:20260902T100203Z
+DTSTAMP:20260903T100143Z
 UID:84604b27cb8ecc1154dc@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -114,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] Commission meeting
 DTSTART;TZID=America/Chicago:20261001T100000
 DTEND;TZID=America/Chicago:20261001T120000
-DTSTAMP:20260902T100203Z
+DTSTAMP:20260903T100143Z
 UID:e2bcabdeda9e800b03de@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
