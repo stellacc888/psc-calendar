@@ -694,7 +694,46 @@ events:
     title: "*OCCIDENTAL PERMIAN LTD.-DOCKET NO. OG-26-00031735 (CONTINUED)"
   - commission: WA
     date: 2026-09-03
-    title: UE-260007 & UG-260008 Avista GRC - Exhibits List, Cross-Examination Exhibits, Witnesses List, Time Estimates, Exhibits Errata Due
+    title: UE-260007 & UG-260008 Avista GRC - Exhibits List, Cross-Examination Exhibits, Witnesses List, Time Estimates, Exhibits Errata Due  # --- added 2026-09-03 - paste directly under the existing `events:` line ---
+  - commission: CO
+    date: 2026-09-08
+    title: "V & R 11.12.2026 HRG: 26F-0242CP Roman Lysenko v Event Transportation Brokers, LLC, ALJ Mirbaba"
+  - commission: GA
+    date: 2026-09-10
+    title: "Docket # 57062 Hearing for the Liberty Utilities 2026-2027 Gas Supply Plan 9-10-2026"
+  - commission: IL
+    date: 2026-09-08
+    title: Illinois Commerce Commission Evidentiary for 25-0998
+  - commission: IL
+    date: 2026-09-08
+    title: Illinois Commerce Commission Hearing for M2026-06111
+  - commission: MA
+    date: 2026-09-08
+    title: "Notice of Hearings: DPU Transportation Oversight Division"
+  - commission: ME
+    date: 2026-09-11
+    title: Hearing on CASD No. 2026-V-00072
+  - commission: MO
+    date: 2026-09-09
+    title: Agenda Meeting ( Room 310 and via WebEx)
+  - commission: NM
+    date: 2026-09-08
+    title: "Docket 25-00032-UT -Kit Carson electric Cooperative, Inc’s Application for Continuation of its Fuel and Purchased Power Cost Adjustment Clause. This hearing is set for September 8, 2026, at 9:00 a.m. Visit this site to watch the proceeding via livest"
+  - commission: NV
+    date: 2026-09-08
+    title: Scheduled Commission Utility Agendas
+  - commission: OR
+    date: 2026-09-10
+    title: Docket UE 469 - PACIFICORP 2027 TRANSITION ADJUSTMENT MECHANISM
+  - commission: PA
+    date: 2026-09-10
+    title: "Next Public Meeting: Thursday, September 10, 2026 View 2026-2027 Meeting Schedule (PDF)"
+  - commission: TX-RRC
+    date: 2026-09-09
+    title: "*P4 OPERATING, LLC-DOCKET NOS. OG-26-00031727 AND OG-26-00031728"
+  - commission: WA
+    date: 2026-09-09
+    title: Recessed Open Meeting - 2024-2025 Biennial Conservation Reports (Hybrid)
 
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
