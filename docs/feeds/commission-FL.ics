@@ -9,23 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[FL] Hearing: 20260026-GU (Day:3)
-DTSTART;TZID=America/New_York:20260903T090000
-DTEND;TZID=America/New_York:20260903T110000
-DTSTAMP:20260903T181254Z
-UID:8c452cb67c608188d75c@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026-GU\n\nSource: https://psc-fl.granicus.co
- m/ViewPublisher.php?view_id=2
-PRIORITY:5
-URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[FL] Monday\, September 07\, 2026 HOLIDAY: Labor Day
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:596c6f4873cd728b592e@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -38,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Commission Conference
 DTSTART;TZID=America/New_York:20260910T090000
 DTEND;TZID=America/New_York:20260910T110000
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:510a49e82e8c050e83a6@psc-calendar
 CATEGORIES:FL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Open
@@ -52,7 +39,7 @@ SUMMARY:[FL] Prehearing: 20260026-GU — Application for rate increase by
  Florida City Gas
 DTSTART;TZID=America/New_York:20260914T123000
 DTEND;TZID=America/New_York:20260914T143000
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:79b0c8af1e7598033f22@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -65,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Internal Affairs - Hearing immediately following
 DTSTART;TZID=America/New_York:20260915T090000
 DTEND;TZID=America/New_York:20260915T110000
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:dd88bd4139736671c1f3@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -80,7 +67,7 @@ SUMMARY:[FL] Hearing: 20260010-11 (Day 1) — Storm protection plan cost r
  cation cost recovery clause
 DTSTART;TZID=America/New_York:20260915T113000
 DTEND;TZID=America/New_York:20260915T133000
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:d31b32a5466164a5006c@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -95,7 +82,7 @@ SUMMARY:[FL] Hearing: 20260010-11 (Day 2) — Storm protection plan cost r
  cation cost recovery clause
 DTSTART;TZID=America/New_York:20260916T090000
 DTEND;TZID=America/New_York:20260916T110000
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:9f954d287556eafc5f10@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -110,7 +97,7 @@ SUMMARY:[FL] Hearing: 20260010-11 (Day 3) — Storm protection plan cost r
  cation cost recovery clause
 DTSTART;TZID=America/New_York:20260917T090000
 DTEND;TZID=America/New_York:20260917T110000
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:6ec545fb395e5ffc202d@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -124,7 +111,7 @@ SUMMARY:[FL] Hearing: 20260026-GU (Day:1) — Application for rate increas
  e by Florida City Gas
 DTSTART;TZID=America/New_York:20260928T090000
 DTEND;TZID=America/New_York:20260928T110000
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:211a64449604d13ecda7@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -138,7 +125,7 @@ SUMMARY:[FL] Hearing: 20260026-GU (Day:2) — Application for rate increas
  e by Florida City Gas
 DTSTART;TZID=America/New_York:20260929T090000
 DTEND;TZID=America/New_York:20260929T110000
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:b326ebb0f803a52b0a9f@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -152,7 +139,7 @@ SUMMARY:[FL] Hearing: 20260026-GU (Day:3) — Application for rate increas
  e by Florida City Gas
 DTSTART;TZID=America/New_York:20260930T090000
 DTEND;TZID=America/New_York:20260930T110000
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:ef7ae50d710e323638da@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -165,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260026-GU (Day:4)
 DTSTART;TZID=America/New_York:20261001T090000
 DTEND;TZID=America/New_York:20261001T110000
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:96eafd80ad11d9e3297d@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -178,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260026-GU (Day:5)
 DTSTART;TZID=America/New_York:20261002T090000
 DTEND;TZID=America/New_York:20261002T110000
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:b930cd70a078145681ce@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid

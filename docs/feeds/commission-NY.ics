@@ -13,7 +13,7 @@ SUMMARY:[NY] Shepherd’s Run Solar Adjudicatory Hearing\, Hecate Energy\,
   Copake\,...
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:a098717b588a0ffb5802@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] Village of Bergen Electric Dept. Public Statement Hearing
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:9aaabfd395406afe4d16@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] SEPTEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:0c21acb9af9a310a6c07@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -64,7 +64,7 @@ SUMMARY:[NY] Tracy Solar LLC Virtual Public Statement Hearing and Procedur
  al C...
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:200facf3e5b6446d24fd@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] OCTOBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:8146bd601a3e85c05827@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] NOVEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:7fb30086e9fc1c74a1c3@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] DECEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20260903T181254Z
+DTSTAMP:20260904T100145Z
 UID:3542fbb3b93eff2c8773@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
