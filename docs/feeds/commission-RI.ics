@@ -14,7 +14,7 @@ SUMMARY:[RI] at the PUC Hearing Room A\, 89 Jefferson Blvd\, Warwick\, Rho
  de Island
 DTSTART;TZID=America/New_York:20260914T180000
 DTEND;TZID=America/New_York:20260914T200000
-DTSTAMP:20260904T100145Z
+DTSTAMP:20260905T100145Z
 UID:638e5ed74d8e6cd64b26@psc-calendar
 CATEGORIES:RI,Evidentiary Hearing
 DESCRIPTION:Commission: Rhode Island Public Utilities Commission (RI)\nTyp
@@ -23,5 +23,23 @@ DESCRIPTION:Commission: Rhode Island Public Utilities Commission (RI)\nTyp
  i.gov/events-and-actions/public-hearings
 PRIORITY:5
 URL:https://ripuc.ri.gov/events-and-actions/public-hearings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RI] PUC - Notice of Evidentiary Hearing - Wednesday September 16
+ \, at 9:30am at the PUC Hearing Room A\, 89 Jefferson Blvd\, Warwick\, Rho
+ de Island
+DTSTART;TZID=America/New_York:20260916T093000
+DTEND;TZID=America/New_York:20260916T113000
+DTSTAMP:20260905T100145Z
+UID:03275217613533972bf8@psc-calendar
+CATEGORIES:RI,Evidentiary Hearing
+DESCRIPTION:Commission: Rhode Island Public Utilities Commission (RI)\nTyp
+ e: Evidentiary Hearing\n\nSource: https://ripuc.ri.gov/sites/g/files/xkgbu
+ r841/files/2026-09/LRS%20and%20RGGI%20Bill%20Credit%20Evidentiary%20Hearin
+ g%20Notice%20-%20Sept%202026.pdf
+PRIORITY:5
+URL:https://ripuc.ri.gov/sites/g/files/xkgbur841/files/2026-09/LRS%20and%2
+ 0RGGI%20Bill%20Credit%20Evidentiary%20Hearing%20Notice%20-%20Sept%202026.p
+ df
 END:VEVENT
 END:VCALENDAR

@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
 DTSTART;TZID=America/Chicago:20260902T110000
 DTEND;TZID=America/Chicago:20260902T130000
-DTSTAMP:20260904T100145Z
+DTSTAMP:20260905T100145Z
 UID:93a70fa47ca619bb2f9f@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
@@ -23,11 +23,24 @@ PRIORITY:5
 URL:https://psc.mo.gov/Calendars.aspx?Selected=Hearings
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[MO] Agenda Meeting ( 310)
+DTSTART;TZID=America/Chicago:20260924T110000
+DTEND;TZID=America/Chicago:20260924T130000
+DTSTAMP:20260905T100145Z
+UID:e61d05b093638d95c1da@psc-calendar
+CATEGORIES:MO,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
+ n Meeting / Commission Meeting\n\nHK 11:00am Agenda Meeting ( 310 )\n\nSou
+ rce: https://psc.mo.gov/Calendars.aspx?Selected=Hearings
+PRIORITY:5
+URL:https://psc.mo.gov/Calendars.aspx?Selected=Hearings
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[MO] EA-2026-0183 - Ameren Missouri - Evidentiary Hearing ( Seyer 
  - Hearing Room 310)
 DTSTART;TZID=America/Chicago:20260930T090000
 DTEND;TZID=America/Chicago:20260930T110000
-DTSTAMP:20260904T100145Z
+DTSTAMP:20260905T100145Z
 UID:af64eb517e4b2467583d@psc-calendar
 CATEGORIES:MO,Evidentiary Hearing
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Evi
@@ -41,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
 DTSTART;TZID=America/Chicago:20260930T110000
 DTEND;TZID=America/Chicago:20260930T130000
-DTSTAMP:20260904T100145Z
+DTSTAMP:20260905T100145Z
 UID:9dbaffbc00ff8bbfb140@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
