@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[MT] Labor Day – Public Service Commission Office Closed
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260908T100209Z
 UID:7693f4a1afcea409fce5@psc-calendar
 CATEGORIES:MT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Montana Public Service Commission (MT)\nType: Open
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:[MT] Commission Scheduling Meeting
 DTSTART;TZID=America/Denver:20260908T130000
 DTEND;TZID=America/Denver:20260908T150000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260908T100209Z
 UID:49459d25f64e40548cbc@psc-calendar
 CATEGORIES:MT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Montana Public Service Commission (MT)\nType: Open
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:[MT] Commission Business Meeting
 DTSTART;TZID=America/Denver:20260908T133000
 DTEND;TZID=America/Denver:20260908T153000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260908T100209Z
 UID:8d642217717e2deecdf5@psc-calendar
 CATEGORIES:MT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Montana Public Service Commission (MT)\nType: Open
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:[MT] Energy and Technology Interim Committee Meeting
 DTSTART;TZID=America/Denver:20260909T090000
 DTEND;TZID=America/Denver:20260909T110000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260908T100209Z
 UID:b65c0a7d653ba279ae81@psc-calendar
 CATEGORIES:MT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Montana Public Service Commission (MT)\nType: Open
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:[MT] Next Commission Business Meeting
 DTSTART;TZID=America/Denver:20260915T133000
 DTEND;TZID=America/Denver:20260915T153000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260908T100209Z
 UID:1145f83a2f4d874df5bb@psc-calendar
 CATEGORIES:MT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Montana Public Service Commission (MT)\nType: Open
