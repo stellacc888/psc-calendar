@@ -9,16 +9,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[OH] Case No. 25-791-EL-CSS
-DTSTART;TZID=America/New_York:20260908T100000
-DTEND;TZID=America/New_York:20260908T100000
-DTSTAMP:20260908T100209Z
-UID:f242069466df6ce9c255@psc-calendar
+SUMMARY:[OH] Case No. 26-196-EL-BGN PowerConneX\, Inc.
+DTSTART;TZID=America/New_York:20260909T100000
+DTEND;TZID=America/New_York:20260911T170000
+DTSTAMP:20260909T100205Z
+UID:1f50a0defaed2cf5e5c2@psc-calendar
 CATEGORIES:OH,Evidentiary Hearing
 DESCRIPTION:Commission: Public Utilities Commission of Ohio (OH)\nType: Ev
- identiary Hearing\nDocket: 25-791-EL\, 25-791-EL-CSS\n\nSource: https://pu
+ identiary Hearing\nDocket: 26-196-EL\, 26-196-EL-BGN\n\nSource: https://pu
  co.ohio.gov/agendas-and-hearings/hearing-schedule/
-LOCATION:180 East Broad Street\, Columbus\, OH 43215
+LOCATION:180 East Broad Street\, Columbus\, Ohio 43215
 PRIORITY:5
 URL:https://puco.ohio.gov/agendas-and-hearings/hearing-schedule/
 END:VEVENT

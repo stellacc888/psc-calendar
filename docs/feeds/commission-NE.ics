@@ -13,7 +13,7 @@ SUMMARY:[NE] 15 Sep Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20260915T150000Z
 DTEND:20260915T170000Z
-DTSTAMP:20260908T100209Z
+DTSTAMP:20260909T100205Z
 UID:a1a29aa8fa1d67e33509@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -27,7 +27,7 @@ SUMMARY:[NE] 22 Sep Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20260922T150000Z
 DTEND:20260922T170000Z
-DTSTAMP:20260908T100209Z
+DTSTAMP:20260909T100205Z
 UID:9d080ad792804e4e3516@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -41,7 +41,7 @@ SUMMARY:[NE] 22 Sep Hearing – MCC-3219 and B-2184 – Paradise Limo\, LL
  C Location: Commission Hearing Room 1:30pm
 DTSTART:20260922T183000Z
 DTEND:20260922T203000Z
-DTSTAMP:20260908T100209Z
+DTSTAMP:20260909T100205Z
 UID:dbef7b120ec623a37b34@psc-calendar
 CATEGORIES:NE,Evidentiary Hearing
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
@@ -49,5 +49,19 @@ DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
  b-2184-paradise-limo-llc
 PRIORITY:5
 URL:https://psc.nebraska.gov/hearing-mcc-3219-and-b-2184-paradise-limo-llc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NE] 23 Sep Hearing – B-2199 – Tekabe T\, LLC Location: Commis
+ sion Hearing Room 9:00am
+DTSTART:20260923T140000Z
+DTEND:20260923T160000Z
+DTSTAMP:20260909T100205Z
+UID:ca952a6bbbfe13692137@psc-calendar
+CATEGORIES:NE,Evidentiary Hearing
+DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
+ dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-b-2199-tekabe
+ -t-llc
+PRIORITY:5
+URL:https://psc.nebraska.gov/hearing-b-2199-tekabe-t-llc
 END:VEVENT
 END:VCALENDAR

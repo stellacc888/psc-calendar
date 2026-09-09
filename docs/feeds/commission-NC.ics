@@ -9,33 +9,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NC] Expert Witness Hearing - Application of Duke Energy Carolinas
- \, LLC for a Certificate of Public Convenience and Necessity to Construct 
- an 850 MW Natural Gas-Fueled Simple-Cycle Combustion Turbine Electric Gene
- rating Facility in Rowan County\, Nort
-DTSTART;TZID=America/New_York:20260909T100000
-DTEND;TZID=America/New_York:20260909T120000
-DTSTAMP:20260908T100209Z
-UID:8d7eab84772585d602e3@psc-calendar
-CATEGORIES:NC,Evidentiary Hearing
-DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
- identiary Hearing\n\n9/09/2026 | 10:00am | Hearing Room 2115\, Dobbs Build
- ing\, 430 N Salisbury St. Raleigh | E-7 Sub 1330 | Expert Witness Hearing 
- - Application of Duke Energy Carolinas\, LLC for a Certificate of Public C
- onvenience and Necessity to Construct an 850 MW Natural Gas-Fueled Simple-
- Cycle Combustion Turbine Electric Generating Facility in Rowan County\, No
- rth Carolina |\n\nSource: https://starw1.ncuc.gov/NCUC/page/docket-docs/PS
- C/DocketDetails.aspx?DocketId=4ba67bc7-7c30-4a5c-be26-93777ac63431
-PRIORITY:5
-URL:https://starw1.ncuc.gov/NCUC/page/docket-docs/PSC/DocketDetails.aspx?D
- ocketId=4ba67bc7-7c30-4a5c-be26-93777ac63431
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NC] Expert Witness Hearing: Application of Piedmont Natural Gas C
  ompany\, Inc. for Annual Review of Gas Costs
 DTSTART;TZID=America/New_York:20261006T100000
 DTEND;TZID=America/New_York:20261006T120000
-DTSTAMP:20260908T100209Z
+DTSTAMP:20260909T100205Z
 UID:88a1947bf2f5104c10c3@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -55,7 +33,7 @@ SUMMARY:[NC] Expert Witness Hearing - Application of Merry Hill PV I\, LLC
  0 MW Solar Facility in Bertie
 DTSTART;TZID=America/New_York:20261012T140000
 DTEND;TZID=America/New_York:20261012T160000
-DTSTAMP:20260908T100209Z
+DTSTAMP:20260909T100205Z
 UID:ef64ceb7e506f36a2117@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -75,7 +53,7 @@ SUMMARY:[NC] Expert Witness Hearing: Application of Virginia Electric and
  es and Charges Applicable to Electric Service In North Carolina
 DTSTART;TZID=America/New_York:20261118T100000
 DTEND;TZID=America/New_York:20261118T120000
-DTSTAMP:20260908T100209Z
+DTSTAMP:20260909T100205Z
 UID:5e0cb70fe2d21131dce5@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev

@@ -9,38 +9,35 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[FERC] August 2026: 10 Notational Orders 2026-08-10 All day
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-DTSTAMP:20260908T100209Z
-UID:8146abe96ec00b98a18a@psc-calendar
+SUMMARY:[FERC] September 2026: 31 Notational Orders 2026-08-31 All day
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260909T100205Z
+UID:9946a139e9b156c153b9@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
-  Decision / Order\n\n9 | 10 Notational Orders 2026-08-10 All day | 11 | 12
-  | 13 Notational Orders 2026-08-13 All day | 14 Notational Orders 2026-08-
- 14 All day | 15\n\nSource: https://www.ferc.gov/news-events/events/notatio
- nal-orders-2026-08-10-08102026
+  Decision / Order\n\n30 | 31 Notational Orders 2026-08-31 All day | 1 Nota
+ tional Orders 2026-09-01 All day Evening Scoping Session for the Terror La
+ ke Hydroelectric Project (P-2743-112) 9:30 - 11:30pm | 2 Notational Orders
+  2026-09-02 All day Daytime Scoping Session for the Terror Lake Hydroelect
+ ric Project (P-2743-112) 2:00 - 4:00pm | 3 | 4 | 5\n\nSource: https://www.
+ ferc.gov/news-events/events/notational-orders-2026-08-31-08312026
 PRIORITY:5
-URL:https://www.ferc.gov/news-events/events/notational-orders-2026-08-10-0
- 8102026
+URL:https://www.ferc.gov/news-events/events/notational-orders-2026-08-31-0
+ 8312026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[FERC] August 2026: 17 Notational Orders 2026-08-17 All day
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260908T100209Z
-UID:259f027a2d7d2fcfde7a@psc-calendar
-CATEGORIES:FERC,Decision / Order
+SUMMARY:[FERC] Sunshine Act Meeting Notice
+DTSTART;TZID=America/New_York:20260910T100000
+DTEND;TZID=America/New_York:20260910T120000
+DTSTAMP:20260909T100205Z
+UID:74ac1362920e70c1a8e4@psc-calendar
+CATEGORIES:FERC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
-  Decision / Order\nDocket: CP26-532\n\n16 | 17 Notational Orders 2026-08-1
- 7 All day | 18 Notational Orders 2026-08-18 All day | 19 Notational Orders
-  2026-08-19 All day Virtual Public Scoping Session for the Rio Grande LNG 
- Expansion Project (CP26-532-000) 7:00 - 9:00pm | 20 Notational Orders 2026
- -08-20 All day | 21 Notational Orders 2026-08-21 All day | 22\n\nSource: h
- ttps://www.ferc.gov/news-events/events/notational-orders-2026-08-17-081720
- 26
+  Open Meeting / Commission Meeting\n\nSource: https://www.federalregister.
+ gov/documents/2026/09/09/2026-18361/sunshine-act-meeting-notice
 PRIORITY:5
-URL:https://www.ferc.gov/news-events/events/notational-orders-2026-08-17-0
- 8172026
+URL:https://www.federalregister.gov/documents/2026/09/09/2026-18361/sunshi
+ ne-act-meeting-notice
 END:VEVENT
 END:VCALENDAR
