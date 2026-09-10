@@ -952,7 +952,25 @@ events:
     title: Open Meeting
   - commission: WA
     date: 2026-09-17
-    title: UE-260007 & UG-260008 Avista GRC - Hybrid Evidentiary Hearing (Day 1)
+    title: UE-260007 & UG-260008 Avista GRC - Hybrid Evidentiary Hearing (Day 1)   # --- added 2026-09-10 - paste directly under the existing `events:` line ---
+  - commission: FL
+    date: 2026-09-17
+    title: "Hearing: 20260010-11 (Day 3) — Storm protection plan cost recovery clause. Docket No : 20260011 ; Title: Natural gas facilities relocation cost recovery clause"
+  - commission: IL
+    date: 2026-09-14
+    title: Illinois Commerce Commission Hearing for M2026-13718
+  - commission: NV
+    date: 2026-09-17
+    title: Scheduled Commission Utility Agendas
+  - commission: RI
+    date: 2026-09-14
+    title: at the PUC Hearing Room A, 89 Jefferson Blvd, Warwick, Rhode Island
+  - commission: TN
+    date: 2026-09-15
+    title: Notice of Hearing in Docket 26-00086
+  - commission: TN
+    date: 2026-09-15
+    title: Notice of Hearing in Docket 26-00052
 
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
