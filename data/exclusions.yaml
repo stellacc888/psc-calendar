@@ -733,7 +733,226 @@ events:
     title: "*P4 OPERATING, LLC-DOCKET NOS. OG-26-00031727 AND OG-26-00031728"
   - commission: WA
     date: 2026-09-09
-    title: Recessed Open Meeting - 2024-2025 Biennial Conservation Reports (Hybrid)
+    title: Recessed Open Meeting - 2024-2025 Biennial Conservation Reports (Hybrid)  # --- added 2026-09-10 - paste directly under the existing `events:` line ---
+  - commission: AZ
+    date: 2026-09-10
+    title: "2026 Open Meeting Dates: September 10 (Thurs)"
+  - commission: CA
+    date: 2026-09-17
+    title: "2026 Voting Meetings: 09/17/2026 San Marcos City Council Chambers 1 Civic Center Dr., San Marcos, CA"
+  - commission: CO
+    date: 2026-09-10
+    title: "HRG: 26A-0156CP Salida Summit Transport LLC - CPCN, ALJ Rosenberg (JS)"
+  - commission: FERC
+    date: 2026-09-10
+    title: Sunshine Act Meeting Notice
+  - commission: FL
+    date: 2026-09-10
+    title: Commission Conference
+  - commission: FL
+    date: 2026-09-15
+    title: Internal Affairs - Hearing immediately following
+  - commission: FL
+    date: 2026-09-15
+    title: "Hearing: 20260010-11 (Day 1) — Storm protection plan cost recovery clause. Docket No : 20260011 ; Title: Natural gas facilities relocation cost recovery clause"
+  - commission: FL
+    date: 2026-09-16
+    title: "Hearing: 20260010-11 (Day 2) — Storm protection plan cost recovery clause. Docket No : 20260011 ; Title: Natural gas facilities relocation cost recovery clause"
+  - commission: IL
+    date: 2026-09-10
+    title: Illinois Commerce Commission Hearing for T26-0004
+  - commission: IL
+    date: 2026-09-10
+    title: Illinois Commerce Commission Hearing for T26-0005
+  - commission: IL
+    date: 2026-09-10
+    title: Illinois Commerce Commission Regular Open Meeting
+  - commission: IL
+    date: 2026-09-10
+    title: Regular Open Meeting Illinois Commerce Commission 160 North LaSalle Street Eighth Floor, Bilandic Building Chicago, Illinois 60601
+  - commission: IL
+    date: 2026-09-10
+    title: Illinois Commerce Commission Prehearing for 26-0523
+  - commission: IL
+    date: 2026-09-10
+    title: Illinois Commerce Commission Prehearing for 26-0585
+  - commission: IL
+    date: 2026-09-11
+    title: Illinois Commerce Commission Hearing for T24-0107
+  - commission: IL
+    date: 2026-09-11
+    title: Illinois Commerce Commission Hearing for T25-0069
+  - commission: IL
+    date: 2026-09-15
+    title: Illinois Commerce Commission Hearing for T26-0026
+  - commission: IL
+    date: 2026-09-15
+    title: Illinois Commerce Commission Prehearing for 26-0511
+  - commission: IL
+    date: 2026-09-15
+    title: Illinois Commerce Commission Prehearing for 26-0512
+  - commission: IL
+    date: 2026-09-15
+    title: Illinois Commerce Commission Hearing for T17-0019
+  - commission: IL
+    date: 2026-09-15
+    title: Illinois Commerce Commission Prehearing for 26-0620
+  - commission: IL
+    date: 2026-09-15
+    title: Illinois Commerce Commission Prehearing for 26-0625
+  - commission: IL
+    date: 2026-09-16
+    title: Illinois Commerce Commission Hearing for M2026-11129
+  - commission: IL
+    date: 2026-09-16
+    title: Illinois Commerce Commission Prehearing for 26-0572
+  - commission: IL
+    date: 2026-09-16
+    title: Illinois Commerce Commission Prehearing for 26-0573
+  - commission: IL
+    date: 2026-09-16
+    title: Illinois Commerce Commission Prehearing for 26-0591
+  - commission: IL
+    date: 2026-09-16
+    title: Illinois Commerce Commission Hearing for T24-0094
+  - commission: IN
+    date: 2026-09-10
+    title: VERIFIED PETITION OF INDIANA MICHIGAN POWER COMPANY (I&M), AN INDIANA CORPORATION, FOR APPROVAL OF AN ADJUSTMENT TO ITS RATES THROUGH ITS ENVIRONMENTAL COST RIDER (ECR) PURSUANT TO THE ONGOING REVIEW PROCESS APPROVED BY
+  - commission: IN
+    date: 2026-09-10
+    title: "PETITION OF INDIANAPOLIS POWER & LIGHT COMPANY D/B/A AES INDIANA PURSUANT TO IND. CODE § 8-1-39-9 FOR (1) APPROVAL OF AN ADJUSTMENT TO ITS ELECTRIC SERVICE RATES THROUGH ITS TRANSMISSION, DISTRIBUTION, AND STORAGE SYSTEM"
+  - commission: IN
+    date: 2026-09-10
+    title: "PETITION OF INDIANA NATURAL GAS CORPORATION FOR ALL NECESSARY AUTHORITY IN CONNECTION WITH ISSUANCE OF DEBT (1) UP TO $1,200,000 IN AGGREGATE PRINCIPAL AMOUNT WITH A THIRD-PARTY COMMERCIAL BANK, AND (2) UP TO $400,000 IN"
+  - commission: IN
+    date: 2026-09-10
+    title: "PETITION OF MIDWEST NATURAL GAS CORPORATION FOR ALL NECESSARY AUTHORITY IN CONNECTION WITH ISSUANCE OF DEBT (1) UP TO $5,300,000 IN AGGREGATE PRINCIPAL AMOUNT WITH A THIRD-PARTY COMMERCIAL BANK, (2) UP TO $500,000 IN THE"
+  - commission: IN
+    date: 2026-09-11
+    title: IN THE MATTER OF THE PETITION OF INDIANA MICHIGAN POWER COMPANY FOR PROTECTION AND NONDISCLOSURE OF CONFIDENTIAL INFORMATION RELATED TO ITS PROVISION OF SERVICE TO GOOGLE, LLC (Cause 46276-S1)
+  - commission: IN
+    date: 2026-09-16
+    title: "VERIFIED JOINT PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC (“NIPSCO”) AND NIPSCO GENERATION, LLC (“GENCO”) FOR APPROVAL OF A CAPACITY TRANSFER AGREEMENT AND AFFILIATE CAPACITY TRANSFERS PROCEDURES BETWEEN NI"
+  - commission: LA
+    date: 2026-09-16
+    title: "Hearing: T-38069"
+  - commission: MI
+    date: 2026-09-10
+    title: September 10, 2026 Commission Meeting
+  - commission: MN
+    date: 2026-09-10
+    title: PUC Agenda Meeting
+  - commission: ND
+    date: 2026-09-10
+    title: Formal Hearing -Internet Broadcast Case No. PU-25-261 Montana-Dakota Utilities Co. Wind Farm Station Service - Wishek, ND Public Convenience & Necessity
+  - commission: NM
+    date: 2026-09-14
+    title: "Docket 26-0000132 – Southwestern Public Service Company’s (SPS) annual 2027 Renewable Energy Portfolio Procurement Plan and other relief. This hearing is set to commence at 9 a.m. on September 14 and 15, 2026, via Zoom videoconference. Visit this sit"
+  - commission: NY
+    date: 2026-09-14
+    title: "Shepherd’s Run Solar Adjudicatory Hearing, Hecate Energy, Copake,..."
+  - commission: NY
+    date: 2026-09-16
+    title: Village of Bergen Electric Dept. Public Statement Hearing
+  - commission: OR
+    date: 2026-09-15
+    title: Docket AR 682 - RESOURCE ADEQUACY RULEMAKING
+  - commission: OR
+    date: 2026-09-15
+    title: Docket UA 178 - EWEB AND LANE ELECTRIC TERRITORY ALLOCATION AGREEMENT
+  - commission: OR
+    date: 2026-09-15
+    title: Docket UM 2450 - PACIFICORP 2025 RPS COMPLIANCE
+  - commission: OR
+    date: 2026-09-15
+    title: Docket UI 539 - PACIFICORP AFFILIATED INTEREST WITH BNSF RAILWAY
+  - commission: OR
+    date: 2026-09-15
+    title: Docket UI 540 - PACIFCORP AFFILIATED INTERST WITH BNSF RAILWAY
+  - commission: OR
+    date: 2026-09-15
+    title: Docket ADV 1887 - NW NATURAL ADVICE NO. 26-04 SCHEDULE 400 SMART ENERGY PROGRAM
+  - commission: OR
+    date: 2026-09-15
+    title: Docket UM 2451 - PGE 2025 RPS COMPLIANCE REPORT
+  - commission: OR
+    date: 2026-09-15
+    title: Docket UM 1764 - PACIFICORP - DEFERRED ACCOUNTING RELATED TO ANNUAL REGULATORY FEES
+  - commission: OR
+    date: 2026-09-15
+    title: Docket UM 1915 - PGE DEFERRAL OF MAJOR MAINTENANCE EXPENSES
+  - commission: OR
+    date: 2026-09-15
+    title: Docket UM 1991 - PGE DEFERRAL OF RESEARCH AND DEVELOPMENT TAX CREDITS
+  - commission: OR
+    date: 2026-09-15
+    title: Docket UM 2024 - AWEC'S INVESTIGATION INTO LONG-TERM DIRECT ACCESS PROGRAMS
+  - commission: OR
+    date: 2026-09-15
+    title: Docket UM 2046 - PGE DEFERRAL OF COSTS ASSOCIATED WITH ANNUAL REGULATORY FEE
+  - commission: OR
+    date: 2026-09-15
+    title: Docket UM 2192 - NW NATURAL DEFERRED ACCOUNT OF TSA SECURITY DIRECTIVE 2 COMPLIANCE EXPENSES
+  - commission: OR
+    date: 2026-09-15
+    title: Docket UM 2270 - IDAHO POWER DEFERRAL OF WILDFIRE MITIGATION ACTIVITIES COSTS
+  - commission: PA
+    date: 2026-09-10
+    title: "Docket Number C-2026-3060080 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Emily DeVoe"
+  - commission: PA
+    date: 2026-09-10
+    title: "Docket Number Requests Payment Arrangement Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Emily DeVoe"
+  - commission: PA
+    date: 2026-09-10
+    title: "Docket Number C-2026-3060166 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Emily DeVoe"
+  - commission: PA
+    date: 2026-09-10
+    title: "View 2026-2027 Meeting Schedule (PDF): September 10, 2026"
+  - commission: PA
+    date: 2026-09-10
+    title: "Docket Number C-2026-3063015 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: William E. Angle"
+  - commission: PA
+    date: 2026-09-10
+    title: "Docket Number F-2025-3059487 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Emily A Farren"
+  - commission: PA
+    date: 2026-09-10
+    title: "Docket Number C-2026-3061923 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Emily DeVoe"
+  - commission: PA
+    date: 2026-09-10
+    title: "Docket Number C-2026-3062673 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Alphonso Arnold III"
+  - commission: PA
+    date: 2026-09-10
+    title: "Docket Number C-2026-3063505 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: PA
+    date: 2026-09-11
+    title: "Docket Number C-2026-3063509 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: William E. Angle"
+  - commission: PA
+    date: 2026-09-11
+    title: "Docket Number C-2026-3062922 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Chad Allensworth"
+  - commission: PA
+    date: 2026-09-11
+    title: "Docket Number C-2026-3062829 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: (Original & 1 copy/e-File) (Regular Delivery/21 days) Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Steven K Haas"
+  - commission: PA
+    date: 2026-09-11
+    title: "Docket Number C-2025-3056376 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: PA
+    date: 2026-09-11
+    title: "Docket Number C-2026-3062300: Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Emily DeVoe"
+  - commission: RI
+    date: 2026-09-16
+    title: "PUC - Notice of Evidentiary Hearing - Wednesday September 16, at 9:30am at the PUC Hearing Room A, 89 Jefferson Blvd, Warwick, Rhode Island"
+  - commission: TX-RRC
+    date: 2026-09-14
+    title: "*O'RYAN OIL AND GAS-DOCKET NO. OG-26-00031863 (CONTINUED)"
+  - commission: TX
+    date: 2026-09-11
+    title: Open Meeting - Friday, September 11, 2026
+  - commission: WA
+    date: 2026-09-10
+    title: Open Meeting
+  - commission: WA
+    date: 2026-09-17
+    title: UE-260007 & UG-260008 Avista GRC - Hybrid Evidentiary Hearing (Day 1)
 
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
