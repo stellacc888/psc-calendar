@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[FERC] September 2026: 31 Notational Orders 2026-08-31 All day
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260909T100205Z
+DTSTAMP:20260910T100154Z
 UID:9946a139e9b156c153b9@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -27,10 +27,28 @@ URL:https://www.ferc.gov/news-events/events/notational-orders-2026-08-31-0
  8312026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[FERC] 9 Rescheduled Virtual Public Scoping Session for the Rio Gr
+ ande LNG Expansion Project (CP26-532-000) 6:00 - 8:00pm
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260910T100154Z
+UID:be6aad7717dc1f1d6bcc@psc-calendar
+CATEGORIES:FERC,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
+  Open Meeting / Commission Meeting\nDocket: CP26-532\n\n6 | 7 Labor Day Al
+ l day | 8 Notational Orders 2026-09-08 All day | 9 Rescheduled Virtual Pub
+ lic Scoping Session for the Rio Grande LNG Expansion Project (CP26-532-000
+ ) 6:00 - 8:00pm | 10 September 10\, 2026 Open Meeting 10:00 - 11:00am | 11
+  | 12\n\nSource: https://www.ferc.gov/news-events/events/labor-day-0907202
+ 6
+PRIORITY:5
+URL:https://www.ferc.gov/news-events/events/labor-day-09072026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[FERC] Sunshine Act Meeting Notice
 DTSTART;TZID=America/New_York:20260910T100000
 DTEND;TZID=America/New_York:20260910T120000
-DTSTAMP:20260909T100205Z
+DTSTAMP:20260910T100154Z
 UID:74ac1362920e70c1a8e4@psc-calendar
 CATEGORIES:FERC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:

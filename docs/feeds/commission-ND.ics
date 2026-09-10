@@ -9,27 +9,12 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
-DTSTART;TZID=America/Chicago:20260909T100000
-DTEND;TZID=America/Chicago:20260909T120000
-DTSTAMP:20260909T100205Z
-UID:2ef60cd163a105735dc5@psc-calendar
-CATEGORIES:ND,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
-  Open Meeting / Commission Meeting\n\nSeptember 09\, 2026 - 10:00 am CDT R
- egular Meeting - Internet Broadcast Formal (889KB pdf) Administrative (180
- KB pdf)\n\nSource: https://www.psc.nd.gov/webdocs/meeting/agenda/2026/6281
- e7091d1s1.pdf
-PRIORITY:5
-URL:https://www.psc.nd.gov/webdocs/meeting/agenda/2026/6281e7091d1s1.pdf
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[ND] Formal Hearing -Internet Broadcast Case No. PU-25-261 Montana
  -Dakota Utilities Co. Wind Farm Station Service - Wishek\, ND Public Conve
  nience & Necessity
 DTSTART;TZID=America/Chicago:20260910T090000
 DTEND;TZID=America/Chicago:20260910T110000
-DTSTAMP:20260909T100205Z
+DTSTAMP:20260910T100154Z
 UID:c3ecb300136232da4bac@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -46,7 +31,7 @@ SUMMARY:[ND] Informal Hearing -Internet Broadcast Case No. PU-26-215 Otter
   Tail Power Company Tiered Large General Service Tariff and Rates
 DTSTART;TZID=America/Chicago:20260923T143000
 DTEND;TZID=America/Chicago:20260923T163000
-DTSTAMP:20260909T100205Z
+DTSTAMP:20260910T100154Z
 UID:32ce8c8f79501974bbcb@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -62,7 +47,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. RC-25-294 Falkirk
  Mining Company Revision 40\, NAFK-9503 Application
 DTSTART;TZID=America/Chicago:20261005T170000
 DTEND;TZID=America/Chicago:20261005T190000
-DTSTAMP:20260909T100205Z
+DTSTAMP:20260910T100154Z
 UID:aba122f34da94aa1a6a1@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -78,7 +63,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. PU-26-294 Otter Ta
  il Power Company AMDT Cost Recovery 2027 Rates
 DTSTART;TZID=America/Chicago:20261009T170000
 DTEND;TZID=America/Chicago:20261009T190000
-DTSTAMP:20260909T100205Z
+DTSTAMP:20260910T100154Z
 UID:1f3ae57fe530a3a1f76b@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -93,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261118T100000
 DTEND;TZID=America/Chicago:20261118T120000
-DTSTAMP:20260909T100205Z
+DTSTAMP:20260910T100154Z
 UID:57e86c19d24093ba7fba@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -107,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261203T133000
 DTEND;TZID=America/Chicago:20261203T153000
-DTSTAMP:20260909T100205Z
+DTSTAMP:20260910T100154Z
 UID:3df1a1b5666a0df3273f@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -121,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261216T100000
 DTEND;TZID=America/Chicago:20261216T120000
-DTSTAMP:20260909T100205Z
+DTSTAMP:20260910T100154Z
 UID:2cc7aec766522a699e7e@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -135,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261230T100000
 DTEND;TZID=America/Chicago:20261230T120000
-DTSTAMP:20260909T100205Z
+DTSTAMP:20260910T100154Z
 UID:b6020138f7af3534af9e@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
