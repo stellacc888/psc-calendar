@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[FERC] September 2026: 31 Notational Orders 2026-08-31 All day
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:9946a139e9b156c153b9@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -31,7 +31,7 @@ SUMMARY:[FERC] 9 Rescheduled Virtual Public Scoping Session for the Rio Gr
  ande LNG Expansion Project (CP26-532-000) 6:00 - 8:00pm
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:be6aad7717dc1f1d6bcc@psc-calendar
 CATEGORIES:FERC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -39,8 +39,8 @@ DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
  l day | 8 Notational Orders 2026-09-08 All day | 9 Rescheduled Virtual Pub
  lic Scoping Session for the Rio Grande LNG Expansion Project (CP26-532-000
  ) 6:00 - 8:00pm | 10 September 10\, 2026 Open Meeting 10:00 - 11:00am | 11
-  | 12\n\nSource: https://www.ferc.gov/news-events/events/labor-day-0907202
- 6
+  Notational Order 2026-09-11 All day | 12\n\nSource: https://www.ferc.gov/
+ news-events/events/labor-day-09072026
 PRIORITY:5
 URL:https://www.ferc.gov/news-events/events/labor-day-09072026
 END:VEVENT

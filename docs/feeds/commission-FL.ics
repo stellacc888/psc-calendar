@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Monday\, September 07\, 2026 HOLIDAY: Labor Day
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:596c6f4873cd728b592e@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -26,7 +26,7 @@ SUMMARY:[FL] Prehearing: 20260026-GU — Application for rate increase by
  Florida City Gas
 DTSTART;TZID=America/New_York:20260914T123000
 DTEND;TZID=America/New_York:20260914T143000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:79b0c8af1e7598033f22@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -40,7 +40,7 @@ SUMMARY:[FL] Hearing: 20260026-GU (Day:1) — Application for rate increas
  e by Florida City Gas
 DTSTART;TZID=America/New_York:20260928T090000
 DTEND;TZID=America/New_York:20260928T110000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:211a64449604d13ecda7@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -54,7 +54,7 @@ SUMMARY:[FL] Hearing: 20260026-GU (Day:2) — Application for rate increas
  e by Florida City Gas
 DTSTART;TZID=America/New_York:20260929T090000
 DTEND;TZID=America/New_York:20260929T110000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:b326ebb0f803a52b0a9f@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -68,7 +68,7 @@ SUMMARY:[FL] Hearing: 20260026-GU (Day:3) — Application for rate increas
  e by Florida City Gas
 DTSTART;TZID=America/New_York:20260930T090000
 DTEND;TZID=America/New_York:20260930T110000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:ef7ae50d710e323638da@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260026-GU (Day:4)
 DTSTART;TZID=America/New_York:20261001T090000
 DTEND;TZID=America/New_York:20261001T110000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:96eafd80ad11d9e3297d@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260026-GU (Day:5)
 DTSTART;TZID=America/New_York:20261002T090000
 DTEND;TZID=America/New_York:20261002T110000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:b930cd70a078145681ce@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid

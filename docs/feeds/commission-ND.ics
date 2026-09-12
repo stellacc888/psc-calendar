@@ -13,7 +13,7 @@ SUMMARY:[ND] Informal Hearing -Internet Broadcast Case No. PU-26-215 Otter
   Tail Power Company Tiered Large General Service Tariff and Rates
 DTSTART;TZID=America/Chicago:20260923T143000
 DTEND;TZID=America/Chicago:20260923T163000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:32ce8c8f79501974bbcb@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -29,7 +29,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. RC-25-294 Falkirk
  Mining Company Revision 40\, NAFK-9503 Application
 DTSTART;TZID=America/Chicago:20261005T170000
 DTEND;TZID=America/Chicago:20261005T190000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:aba122f34da94aa1a6a1@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -45,7 +45,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. PU-26-294 Otter Ta
  il Power Company AMDT Cost Recovery 2027 Rates
 DTSTART;TZID=America/Chicago:20261009T170000
 DTEND;TZID=America/Chicago:20261009T190000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:1f3ae57fe530a3a1f76b@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -63,7 +63,7 @@ SUMMARY:[ND] Formal Hearing -Internet Broadcast Case No. PU-26-284 Harmony
  's Dr. Casselton
 DTSTART;TZID=America/Chicago:20261023T100000
 DTEND;TZID=America/Chicago:20261023T120000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:658ba513d9fdd19dcd8f@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261118T100000
 DTEND;TZID=America/Chicago:20261118T120000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:57e86c19d24093ba7fba@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261203T133000
 DTEND;TZID=America/Chicago:20261203T153000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:3df1a1b5666a0df3273f@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261216T100000
 DTEND;TZID=America/Chicago:20261216T120000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:2cc7aec766522a699e7e@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261230T100000
 DTEND;TZID=America/Chicago:20261230T120000
-DTSTAMP:20260911T100130Z
+DTSTAMP:20260912T100133Z
 UID:b6020138f7af3534af9e@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
