@@ -10,73 +10,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[CT] 21-01-03RE01 CL&P - REMAND Hearing
-DTSTART;TZID=America/New_York:20260909T100000
-DTEND;TZID=America/New_York:20260909T120000
-DTSTAMP:20260907T100144Z
-UID:5ebceb3c12b22c4feb2b@psc-calendar
-CATEGORIES:CT,Evidentiary Hearing
-DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
- (CT)\nType: Evidentiary Hearing\n\nSeptember 9\, 2026 Wednesday | 10:00 am
-  - 21-01-03RE01 CL&P - REMAND Hearing (https://ctdeep.zoom.us/meeting/regi
- ster/dA_WAEe8S5KhzBZLLXiM4w)\n\nSource: https://www.dpuc.state.ct.us/dockc
- urr.nsf/XP_PURA_CalendarEvents.xsp
-PRIORITY:5
-URL:https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PURA_CalendarEvents.xsp
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CT] 25-09-07 Community Access Transfer Oral Arguments\, if reques
- ted (Hearing Room 1)
-DTSTART;TZID=America/New_York:20260914T100000
-DTEND;TZID=America/New_York:20260914T120000
-DTSTAMP:20260907T100144Z
-UID:289fd6fe3f5dcacb8fd3@psc-calendar
-CATEGORIES:CT,Evidentiary Hearing
-DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
- (CT)\nType: Evidentiary Hearing\n\nSeptember 14\, 2026 Monday | 10:00 am -
-  25-09-07 Community Access Transfer Oral Arguments\, if requested (Hearing
-  Room 1)\n\nSource: https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PURA_Cale
- ndarEvents.xsp
-PRIORITY:5
-URL:https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PURA_CalendarEvents.xsp
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CT] 25-09-08 Community Access Transfer Area 17 Oral Arguments\, i
- f requested (Hearing Room 1)
-DTSTART;TZID=America/New_York:20260914T100000
-DTEND;TZID=America/New_York:20260914T120000
-DTSTAMP:20260907T100144Z
-UID:5cc065a6457f96aa2724@psc-calendar
-CATEGORIES:CT,Evidentiary Hearing
-DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
- (CT)\nType: Evidentiary Hearing\n\nSeptember 14\, 2026 Monday | 10:00 am -
-  25-09-08 Community Access Transfer Area 17 Oral Arguments\, if requested 
- (Hearing Room 1)\n\nSource: https://www.dpuc.state.ct.us/dockcurr.nsf/XP_P
- URA_CalendarEvents.xsp
-PRIORITY:5
-URL:https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PURA_CalendarEvents.xsp
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CT] 25-09-09 Community Access Transfer Area 19 Oral Arguments\, i
- f requested (Hearing Room 1)
-DTSTART;TZID=America/New_York:20260914T100000
-DTEND;TZID=America/New_York:20260914T120000
-DTSTAMP:20260907T100144Z
-UID:c03a88b1f34b7005a879@psc-calendar
-CATEGORIES:CT,Evidentiary Hearing
-DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
- (CT)\nType: Evidentiary Hearing\n\nSeptember 14\, 2026 Monday | 10:00 am -
-  25-09-09 Community Access Transfer Area 19 Oral Arguments\, if requested 
- (Hearing Room 1)\n\nSource: https://www.dpuc.state.ct.us/dockcurr.nsf/XP_P
- URA_CalendarEvents.xsp
-PRIORITY:5
-URL:https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PURA_CalendarEvents.xsp
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[CT] REGULAR MEETING
 DTSTART;TZID=America/New_York:20260916T090000
 DTEND;TZID=America/New_York:20260916T110000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260913T101035Z
 UID:489d53c58932e597c1e7@psc-calendar
 CATEGORIES:CT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
@@ -92,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:[CT] 26-03-15 CWC Rate Case Evidentiary Hearing (Hearing Room 1)
 DTSTART;TZID=America/New_York:20260921T100000
 DTEND;TZID=America/New_York:20260921T120000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260913T101035Z
 UID:c0d4a5a7f444416d8b8e@psc-calendar
 CATEGORIES:CT,Evidentiary Hearing
 DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
@@ -106,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:[CT] 26-03-15 CWC Rate Case Evidentiary Hearing (Hearing Room 1)
 DTSTART;TZID=America/New_York:20260922T100000
 DTEND;TZID=America/New_York:20260922T120000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260913T101035Z
 UID:1306a6eba3b735aeb140@psc-calendar
 CATEGORIES:CT,Evidentiary Hearing
 DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
@@ -120,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:[CT] 26-03-15 CWC Rate Case Evidentiary Hearing (Hearing Room 1)
 DTSTART;TZID=America/New_York:20260923T100000
 DTEND;TZID=America/New_York:20260923T120000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260913T101035Z
 UID:1b449ceb108d82583595@psc-calendar
 CATEGORIES:CT,Evidentiary Hearing
 DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
@@ -134,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:[CT] 26-03-15 CWC Rate Case Evidentiary Hearing (Hearing Room 1)
 DTSTART;TZID=America/New_York:20260924T100000
 DTEND;TZID=America/New_York:20260924T120000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260913T101035Z
 UID:93d1a5656052fc799f4d@psc-calendar
 CATEGORIES:CT,Evidentiary Hearing
 DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
@@ -148,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:[CT] 26-03-15 CWC Rate Case Evidentiary Hearing (Hearing Room 1)
 DTSTART;TZID=America/New_York:20260925T100000
 DTEND;TZID=America/New_York:20260925T120000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260913T101035Z
 UID:25fb7416c94a2d5d54c6@psc-calendar
 CATEGORIES:CT,Evidentiary Hearing
 DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
@@ -162,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:[CT] REGULAR MEETING
 DTSTART;TZID=America/New_York:20260930T090000
 DTEND;TZID=America/New_York:20260930T110000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260913T101035Z
 UID:7b35cae2d09dc76d8153@psc-calendar
 CATEGORIES:CT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
@@ -178,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:[CT] 26-06-02 GenConn Hearing (Hearing Room 1)
 DTSTART;TZID=America/New_York:20261005T090000
 DTEND;TZID=America/New_York:20261005T110000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260913T101035Z
 UID:15466c2c30b6f6cc3b50@psc-calendar
 CATEGORIES:CT,Evidentiary Hearing
 DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
@@ -192,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:[CT] 26-06-03 GB II Hearing (Hearing Room 1)
 DTSTART;TZID=America/New_York:20261005T133000
 DTEND;TZID=America/New_York:20261005T153000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260913T101035Z
 UID:ca1308448ed1bf94c20a@psc-calendar
 CATEGORIES:CT,Evidentiary Hearing
 DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
@@ -206,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:[CT] REGULAR MEETING
 DTSTART;TZID=America/New_York:20261007T090000
 DTEND;TZID=America/New_York:20261007T110000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260913T101035Z
 UID:526c30c68350c6695b4b@psc-calendar
 CATEGORIES:CT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
@@ -222,11 +159,59 @@ BEGIN:VEVENT
 SUMMARY:[CT] REGULAR MEETING
 DTSTART;TZID=America/New_York:20261014T090000
 DTEND;TZID=America/New_York:20261014T110000
-DTSTAMP:20260907T100144Z
+DTSTAMP:20260913T101035Z
 UID:bd03be650f0427807fdc@psc-calendar
 CATEGORIES:CT,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
  (CT)\nType: Open Meeting / Commission Meeting\n\nOctober 14\, 2026 Wednesd
+ ay | 09:00 am - REGULAR MEETING (https://www.youtube.com/@ConnecticutPURA/
+ streams When issued\, the Agenda will be located here: https://egov.ct.gov
+ /PMC/#agency30)\n\nSource: https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PU
+ RA_CalendarEvents.xsp
+PRIORITY:5
+URL:https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PURA_CalendarEvents.xsp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CT] REGULAR MEETING
+DTSTART;TZID=America/New_York:20261021T090000
+DTEND;TZID=America/New_York:20261021T110000
+DTSTAMP:20260913T101035Z
+UID:3b2cd1139121b942e626@psc-calendar
+CATEGORIES:CT,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
+ (CT)\nType: Open Meeting / Commission Meeting\n\nOctober 21\, 2026 Wednesd
+ ay | 09:00 am - REGULAR MEETING (https://www.youtube.com/@ConnecticutPURA/
+ streams When issued\, the Agenda will be located here: https://egov.ct.gov
+ /PMC/#agency30 )\n\nSource: https://www.dpuc.state.ct.us/dockcurr.nsf/XP_P
+ URA_CalendarEvents.xsp
+PRIORITY:5
+URL:https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PURA_CalendarEvents.xsp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CT] REGULAR MEETING
+DTSTART;TZID=America/New_York:20261028T090000
+DTEND;TZID=America/New_York:20261028T110000
+DTSTAMP:20260913T101035Z
+UID:b93acfc93a1cde4d2d9d@psc-calendar
+CATEGORIES:CT,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
+ (CT)\nType: Open Meeting / Commission Meeting\n\nOctober 28\, 2026 Wednesd
+ ay | 09:00 am - REGULAR MEETING (https://www.youtube.com/@ConnecticutPURA/
+ streams When issued\, the Agenda will be located here: https://egov.ct.gov
+ /PMC/#agency30)\n\nSource: https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PU
+ RA_CalendarEvents.xsp
+PRIORITY:5
+URL:https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PURA_CalendarEvents.xsp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CT] REGULAR MEETING
+DTSTART;TZID=America/New_York:20261104T090000
+DTEND;TZID=America/New_York:20261104T110000
+DTSTAMP:20260913T101035Z
+UID:af5806d0b6bf683b30c7@psc-calendar
+CATEGORIES:CT,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Connecticut Public Utilities Regulatory Authority 
+ (CT)\nType: Open Meeting / Commission Meeting\n\nNovember 4\, 2026 Wednesd
  ay | 09:00 am - REGULAR MEETING (https://www.youtube.com/@ConnecticutPURA/
  streams When issued\, the Agenda will be located here: https://egov.ct.gov
  /PMC/#agency30)\n\nSource: https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PU
