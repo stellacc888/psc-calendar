@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[FERC] September 2026: 31 Notational Orders 2026-08-31 All day
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260914T100235Z
+DTSTAMP:20260915T143115Z
 UID:9946a139e9b156c153b9@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -31,7 +31,7 @@ SUMMARY:[FERC] 9 Rescheduled Virtual Public Scoping Session for the Rio Gr
  ande LNG Expansion Project (CP26-532-000) 6:00 - 8:00pm
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260914T100235Z
+DTSTAMP:20260915T143115Z
 UID:be6aad7717dc1f1d6bcc@psc-calendar
 CATEGORIES:FERC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -43,5 +43,25 @@ DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
  news-events/events/labor-day-09072026
 PRIORITY:5
 URL:https://www.ferc.gov/news-events/events/labor-day-09072026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[FERC] 15 Evening Scoping Session for the Surrender and Decommissi
+ on the Potter Valley Hydroelectric Project (P-77-332) 9:00 - 11:00pm
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260915T143115Z
+UID:6d3ffe32128254461b68@psc-calendar
+CATEGORIES:FERC,Decision / Order
+DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
+  Decision / Order\nDocket: P-77-332\n\n13 | 14 Notational Orders 2026-09-1
+ 4 All day | 15 Evening Scoping Session for the Surrender and Decommission 
+ the Potter Valley Hydroelectric Project (P-77-332) 9:00 - 11:00pm | 16 Day
+ time Scoping Session for the Surrender and Decommission the Potter Valley 
+ Hydroelectric Project (P-77-332) 12:00 - 2:00pm | 17 | 18 | 19\n\nSource: 
+ https://www.ferc.gov/news-events/events/notational-orders-2026-09-14-09142
+ 026
+PRIORITY:5
+URL:https://www.ferc.gov/news-events/events/notational-orders-2026-09-14-0
+ 9142026
 END:VEVENT
 END:VCALENDAR
