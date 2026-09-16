@@ -9,25 +9,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NE] 15 Sep Commission Meeting Location: Commission Hearing Room 1
- 0:00am
-DTSTART:20260915T150000Z
-DTEND:20260915T170000Z
-DTSTAMP:20260915T143115Z
-UID:a1a29aa8fa1d67e33509@psc-calendar
-CATEGORIES:NE,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
- n Meeting / Commission Meeting\n\nSource: https://psc.nebraska.gov/commiss
- ion-meeting-257
-PRIORITY:5
-URL:https://psc.nebraska.gov/commission-meeting-257
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NE] 22 Sep Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20260922T150000Z
 DTEND:20260922T170000Z
-DTSTAMP:20260915T143115Z
+DTSTAMP:20260916T142517Z
 UID:9d080ad792804e4e3516@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -35,5 +21,20 @@ DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
  ion-meeting-259
 PRIORITY:5
 URL:https://psc.nebraska.gov/commission-meeting-259
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NE] 22 Sep Hearing – MCC-3211\, MCC-3219 & B-2184 – Paradise 
+ Limo\, LLC Location: Commission Hearing Room 1:30pm
+DTSTART:20260922T183000Z
+DTEND:20260922T203000Z
+DTSTAMP:20260916T142517Z
+UID:dc27cf66cc3a24db6385@psc-calendar
+CATEGORIES:NE,Evidentiary Hearing
+DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
+ dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-mcc-3211-mcc-
+ 3219-b-2184-paradise-limo-llc
+PRIORITY:5
+URL:https://psc.nebraska.gov/hearing-mcc-3211-mcc-3219-b-2184-paradise-lim
+ o-llc
 END:VEVENT
 END:VCALENDAR

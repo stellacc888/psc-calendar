@@ -9,44 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[TN] Conference and Hearing Audio (MP4 Format)
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260915T143115Z
-UID:e3cb49518344c99490c3@psc-calendar
-CATEGORIES:TN,Evidentiary Hearing
-DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Ev
- identiary Hearing\n\nAugust 17\, 2026 - Conference and Hearing Audio (MP4 
- Format)\n\nSource: https://www.tn.gov/content/dam/tn/publicutility/documen
- ts/meetings/commissionconferences/2026/recordings/TPUC%20Commission%20Conf
- erence%20817-2026.mp4
-PRIORITY:5
-URL:https://www.tn.gov/content/dam/tn/publicutility/documents/meetings/com
- missionconferences/2026/recordings/TPUC%20Commission%20Conference%20817-20
- 26.mp4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[TN] Notice and Agenda for Commission Conference
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260915T143115Z
-UID:94efab2edaa7821ece32@psc-calendar
-CATEGORIES:TN,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op
- en Meeting / Commission Meeting\n\nAugust 17\, 2026 - Notice and Agenda fo
- r Commission Conference\n\nSource: https://www.tn.gov/content/dam/tn/publi
- cutility/documents/meetings/commissionconferences/2026/20260817ConferenceI
- tems/August%2017%2c%202026%20CommissionConferenceAgenda.pdf
-PRIORITY:5
-URL:https://www.tn.gov/content/dam/tn/publicutility/documents/meetings/com
- missionconferences/2026/20260817ConferenceItems/August%2017%2c%202026%20Co
- mmissionConferenceAgenda.pdf
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[TN] Notice of Oral Argument Hearing in Docket 26-00070
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260915T143115Z
+DTSTAMP:20260916T142517Z
 UID:4a874a15f778e98feb1b@psc-calendar
 CATEGORIES:TN,Evidentiary Hearing
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Ev
@@ -66,7 +32,7 @@ SUMMARY:[TN] Motion Hearing in Docket 26-00070 - Closed Caption VTT File (
  VTT)
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260915T143115Z
+DTSTAMP:20260916T142517Z
 UID:3c8b4519ae522f10926d@psc-calendar
 CATEGORIES:TN,Evidentiary Hearing
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Ev
@@ -83,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:[TN] Motion Hearing in Docket 26-00070 - Audio (MP4)
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260915T143115Z
+DTSTAMP:20260916T142517Z
 UID:6b5637f1a6d2f0ece314@psc-calendar
 CATEGORIES:TN,Evidentiary Hearing
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Ev
@@ -100,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:[TN] Notice of Hearing in Docket 26-00042
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-DTSTAMP:20260915T143115Z
+DTSTAMP:20260916T142517Z
 UID:c04bae7fd3130e990bae@psc-calendar
 CATEGORIES:TN,Evidentiary Hearing
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Ev
@@ -118,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:[TN] Notice and Agenda for Commission Conference
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260915T143115Z
+DTSTAMP:20260916T142517Z
 UID:c1fadff009c6bb601c18@psc-calendar
 CATEGORIES:TN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op
@@ -135,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:[TN] Notice of April Commission Conference WebEx Meeting Access
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
-DTSTAMP:20260915T143115Z
+DTSTAMP:20260916T142517Z
 UID:9719c99d4d0a65083a0d@psc-calendar
 CATEGORIES:TN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op
@@ -153,7 +119,7 @@ SUMMARY:[TN] Notice of April Commission Conference Held Electronically via
   WebEx
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
-DTSTAMP:20260915T143115Z
+DTSTAMP:20260916T142517Z
 UID:2f4359dff2e634905afb@psc-calendar
 CATEGORIES:TN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op

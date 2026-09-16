@@ -9,16 +9,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[OH] Case Nos. 25-1097-GA-AIR et al.
-DTSTART;TZID=America/New_York:20260915T100000
-DTEND;TZID=America/New_York:20260915T100000
-DTSTAMP:20260915T143115Z
-UID:9dc30f6ff99c204ce4f5@psc-calendar
+SUMMARY:[OH] Case No. 26-733-TR-CVF
+DTSTART;TZID=America/New_York:20260916T100000
+DTEND;TZID=America/New_York:20260916T100000
+DTSTAMP:20260916T142517Z
+UID:18d3cb58395bd34fc2dc@psc-calendar
 CATEGORIES:OH,Evidentiary Hearing
 DESCRIPTION:Commission: Public Utilities Commission of Ohio (OH)\nType: Ev
- identiary Hearing\nDocket: 25-1097-GA\, 25-1097-GA-AIR\n\nSource: https://
- puco.ohio.gov/agendas-and-hearings/hearing-schedule/
-LOCATION:180 East Broad Street\, Columbus\, Ohio 43215-3793
+ identiary Hearing\nDocket: 26-733-TR\, 26-733-TR-CVF\n\nSource: https://pu
+ co.ohio.gov/agendas-and-hearings/hearing-schedule/
+LOCATION:Teleconference
 PRIORITY:5
 URL:https://puco.ohio.gov/agendas-and-hearings/hearing-schedule/
 END:VEVENT
