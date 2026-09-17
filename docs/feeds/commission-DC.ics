@@ -16,7 +16,7 @@ SUMMARY:[DC] Calendar of Events: 31 11:00 AM Spring of the Year Resource F
  -related information and giveaways.
 DTSTART;TZID=America/New_York:20260831T110000
 DTEND;TZID=America/New_York:20260831T130000
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:f6d159fa95210e4eee62@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -37,26 +37,12 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20260902T110000
 DTEND;TZID=America/New_York:20260902T130000
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:cd92db7beb8177102e51@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
  )\nType: Open Meeting / Commission Meeting\n\nCommission Open Meeting | Se
  ptember 02\, 2026\, at 11:00 a.m.\n\nSource: https://dcpsc.org/Schedule-of
- -Open-Commission-Meetings.aspx
-PRIORITY:5
-URL:https://dcpsc.org/Schedule-of-Open-Commission-Meetings.aspx
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[DC] Commission Open Meeting
-DTSTART;TZID=America/New_York:20260918T110000
-DTEND;TZID=America/New_York:20260918T130000
-DTSTAMP:20260916T142517Z
-UID:036ba9bf28c45ed66ac4@psc-calendar
-CATEGORIES:DC,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
- )\nType: Open Meeting / Commission Meeting\n\nCommission Open Meeting | Se
- ptember 18\, 2026\, at 11:00 a.m.\n\nSource: https://dcpsc.org/Schedule-of
  -Open-Commission-Meetings.aspx
 PRIORITY:5
 URL:https://dcpsc.org/Schedule-of-Open-Commission-Meetings.aspx
@@ -68,16 +54,21 @@ SUMMARY:[DC] Calendar of Events: 28 10:00 AM NOPV2025-54-F - Evidentiary H
  s Notice of Probable Violation (NOPV20
 DTSTART;TZID=America/New_York:20260928T100000
 DTEND;TZID=America/New_York:20260928T120000
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:80f421fd9dfa96820e0a@psc-calendar
 CATEGORIES:DC,Evidentiary Hearing
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
- )\nType: Evidentiary Hearing\n\n27 | 28 10:00 AM NOPV2025-54-F - Evidentia
- ry Hearing NOPV2025-54-F - Evidentiary Hearing 9/28/2026 10:00 AM | Brinda
-  Westbrook DCPSC Evidentiary Hearing regarding Washington Gas Light Compan
- y’s Notice of Probable Violation (NOPV2025‑54‑F / VIO2025‑54‑G).
-  | 29 | 30 | 1 | 2 | 3\n\nSource: https://dcpsc.org/Calendar/NOPV2025-54-F
- -Evidentiary-Hearing.aspx
+ )\nType: Evidentiary Hearing\nDocket: 01-E-13\, 01-G-10\n\n27 | 28 10:00 A
+ M NOPV2025-54-F - Evidentiary Hearing NOPV2025-54-F - Evidentiary Hearing 
+ 9/28/2026 10:00 AM | Brinda Westbrook DCPSC Evidentiary Hearing regarding 
+ Washington Gas Light Company’s Notice of Probable Violation (NOPV2025‑
+ 54‑F / VIO2025‑54‑G). | 29 | 30 | 1 2:00 PM PEPPOR-2026--01-E-13\, W
+ GPOR-2026-01-G-10 - Virtual Technical Conference PEPPOR-2026--01-E-13\, WG
+ POR-2026-01-G-10 - Virtual Technical Conference 10/1/2026 2:00 PM | Hunter
+  Davis The Commission will hold a Virtual Technical Conference to address 
+ the feasibility of a tiered POR discount rate and the disparity in default
+  rate\n\nSource: https://dcpsc.org/Calendar/NOPV2025-54-F-Evidentiary-Hear
+ ing.aspx
 PRIORITY:5
 URL:https://dcpsc.org/Calendar/NOPV2025-54-F-Evidentiary-Hearing.aspx
 END:VEVENT
@@ -85,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261007T110000
 DTEND;TZID=America/New_York:20261007T130000
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:57152088f4301f6866fe@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -99,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261021T110000
 DTEND;TZID=America/New_York:20261021T130000
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:c95e53aa80931f392efb@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -113,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261104T110000
 DTEND;TZID=America/New_York:20261104T130000
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:f5811f63b8d650e7c157@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -127,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261118T110000
 DTEND;TZID=America/New_York:20261118T130000
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:bafe59efad307ffc955a@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -141,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261202T110000
 DTEND;TZID=America/New_York:20261202T130000
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:b3b7c0e99dc34e10ac59@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -155,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261216T110000
 DTEND;TZID=America/New_York:20261216T130000
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:94844bb829c576cfa20e@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC

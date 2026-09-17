@@ -11,16 +11,16 @@ X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:[SC] Commission Business Meeting
-DTSTART;TZID=America/New_York:20260917T130000
-DTEND;TZID=America/New_York:20260917T150000
-DTSTAMP:20260916T142517Z
-UID:ee0079e412c6cb5ac7d7@psc-calendar
+DTSTART;TZID=America/New_York:20260924T130000
+DTEND;TZID=America/New_York:20260924T150000
+DTSTAMP:20260917T115546Z
+UID:5ac9943a65a0980d9cb7@psc-calendar
 CATEGORIES:SC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
- e: Open Meeting / Commission Meeting\n\n9/17/2026 1:00 PM Scheduled | N/A 
+ e: Open Meeting / Commission Meeting\n\n9/24/2026 1:00 PM Scheduled | N/A 
  | Commission Business Meeting Url: https://www.scetv.org/live/public-servi
- ce-commission\n\nSource: https://dms.psc.sc.gov/Web/Calendar/Detail/84882
+ ce-commission\n\nSource: https://dms.psc.sc.gov/Web/Calendar/Detail/84892
 PRIORITY:5
-URL:https://dms.psc.sc.gov/Web/Calendar/Detail/84882
+URL:https://dms.psc.sc.gov/Web/Calendar/Detail/84892
 END:VEVENT
 END:VCALENDAR

@@ -9,28 +9,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NY] SEPTEMBER 2026 Public Service Commission Session
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-DTSTAMP:20260916T142517Z
-UID:0c21acb9af9a310a6c07@psc-calendar
-CATEGORIES:NY,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
- n Meeting / Commission Meeting\n\nSEP 17 Commission Sessions SEPTEMBER 202
- 6 Public Service Commission Session Sep 17\, 2026 10:30 AM ET In Person an
- d Via Webcast Empire State Plaza Agency Building 3\, 19th Floor Albany \, 
- NY 12223 United States\n\nSource: https://dps.ny.gov/event/september-2026-
- public-service-commission-session
-PRIORITY:5
-URL:https://dps.ny.gov/event/september-2026-public-service-commission-sess
- ion
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NY] Tracy Solar LLC Virtual Public Statement Hearing and Procedur
  al C...
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:200facf3e5b6446d24fd@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -48,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] OCTOBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:8146bd601a3e85c05827@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -65,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] NOVEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:7fb30086e9fc1c74a1c3@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -82,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] DECEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20260916T142517Z
+DTSTAMP:20260917T115546Z
 UID:3542fbb3b93eff2c8773@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope

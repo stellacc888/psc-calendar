@@ -9,14 +9,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[OH] Case No. 26-733-TR-CVF
-DTSTART;TZID=America/New_York:20260916T100000
-DTEND;TZID=America/New_York:20260916T100000
-DTSTAMP:20260916T142517Z
-UID:18d3cb58395bd34fc2dc@psc-calendar
+SUMMARY:[OH] Case No. 26-753-TR-CVF
+DTSTART;TZID=America/New_York:20260917T100000
+DTEND;TZID=America/New_York:20260917T100000
+DTSTAMP:20260917T115546Z
+UID:8ab8172dc7b24b7f8bee@psc-calendar
 CATEGORIES:OH,Evidentiary Hearing
 DESCRIPTION:Commission: Public Utilities Commission of Ohio (OH)\nType: Ev
- identiary Hearing\nDocket: 26-733-TR\, 26-733-TR-CVF\n\nSource: https://pu
+ identiary Hearing\nDocket: 26-753-TR\, 26-753-TR-CVF\n\nSource: https://pu
  co.ohio.gov/agendas-and-hearings/hearing-schedule/
 LOCATION:Teleconference
 PRIORITY:5
