@@ -970,7 +970,118 @@ events:
     title: Notice of Hearing in Docket 26-00086
   - commission: TN
     date: 2026-09-15
-    title: Notice of Hearing in Docket 26-00052
+    title: Notice of Hearing in Docket 26-00052  # --- added 2026-09-17 - paste directly under the existing `events:` line ---
+  - commission: CA
+    date: 2026-09-17
+    title: CPUC Voting Meeting 09-17-26
+  - commission: DC
+    date: 2026-09-18
+    title: Commission Open Meeting
+  - commission: IL
+    date: 2026-09-17
+    title: Illinois Commerce Commission Hearing for T25-0021
+  - commission: IL
+    date: 2026-09-17
+    title: Illinois Commerce Commission Prehearing for 26-0600
+  - commission: IL
+    date: 2026-09-17
+    title: Illinois Commerce Commission Special Open Meeting
+  - commission: IL
+    date: 2026-09-17
+    title: Special Open Meeting Illinois Commerce Commission 527 East Capitol Avenue Hearing Room A, First Floor, Leland Building Springfield, Illinois 62701
+  - commission: IL
+    date: 2026-09-17
+    title: Illinois Commerce Commission Hearing for 26-0427
+  - commission: IL
+    date: 2026-09-17
+    title: Illinois Commerce Commission Prehearing for 26-0636
+  - commission: IN
+    date: 2026-09-17
+    title: "VERIFIED PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPANY d/b/a CENTERPOINT ENERGY INDIANA SOUTH FOR (1) APPROVAL OF AN ADJUSTMENT TO ITS ELECTRIC SERVICE RATES THROUGH ITS ENVIRONMENTAL COST ADJUSTMENT (“ECA”) RATE"
+  - commission: IN
+    date: 2026-09-17
+    title: "PETITION OF INDIANAPOLIS POWER & LIGHT COMPANY D/B/A AES INDIANA (“AES INDIANA”) FOR AUTHORITY TO INCREASE RATES AND CHARGES FOR ELECTRIC UTILITY SERVICE THROUGH A PHASE-IN RATE ADJUSTMENT AND FOR APPROVAL OF RELATED REL"
+  - commission: MN
+    date: 2026-09-17
+    title: PUC Agenda Meeting
+  - commission: NJ
+    date: 2026-09-18
+    title: Quarterly Public Meeting
+  - commission: NJ
+    date: 2026-09-18
+    title: Quarterly Meetings
+  - commission: NOLA
+    date: 2026-09-17
+    title: Regular Meeting
+  - commission: NV
+    date: 2026-09-17
+    title: Nevada Legislative Counsel Bureau
+  - commission: NY
+    date: 2026-09-17
+    title: SEPTEMBER 2026 Public Service Commission Session
+  - commission: PA
+    date: 2026-09-17
+    title: "Docket Number A-2025-3059443 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: HBG 4 Copy Delivery (Original & 1 copy/e-File) (Expedited Delivery/3 days) Judges: John Coogan Erin Gannon"
+  - commission: PA
+    date: 2026-09-17
+    title: "Docket Number C-2025-3057113 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Katrina L Dunderdale"
+  - commission: PA
+    date: 2026-09-17
+    title: "Docket Number C-2026-3063200 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-09-17
+    title: "Docket Number A-2025-3057397 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Barbara Shadie Nause"
+  - commission: PA
+    date: 2026-09-17
+    title: "Docket Number C-2026-3063033 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: PA
+    date: 2026-09-17
+    title: Please begin with last page from
+  - commission: PA
+    date: 2026-09-18
+    title: "Docket Number A-2025-3059443 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: HBG 4 Copy Delivery (Original & 1 copy/e-File) (Expedited Delivery/3 days) Judges: John Coogan Erin Gannon"
+  - commission: PA
+    date: 2026-09-18
+    title: "Docket Number F-2026-3063774 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-09-18
+    title: "Docket Number A-2026-3063610 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: PA
+    date: 2026-09-18
+    title: "Docket Number A-2026-3063612 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: PA
+    date: 2026-09-18
+    title: "Docket Number A-2026-3063614 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: PA
+    date: 2026-09-18
+    title: "Docket Number F-2026-3063134 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Christopher P Pell"
+  - commission: PA
+    date: 2026-09-18
+    title: "Docket Number G-2026-3063595 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Jeffrey Watson Lindsay Cowen"
+  - commission: PA
+    date: 2026-09-18
+    title: "Docket Number A-2026-3063591 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Jeffrey Watson Lindsay Cowen"
+  - commission: PA
+    date: 2026-09-18
+    title: "Docket Number A-2026-3063593 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Jeffrey Watson Lindsay Cowen"
+  - commission: PA
+    date: 2026-09-18
+    title: "Docket Number C-2026-3060344 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Ann Quimby"
+  - commission: PA
+    date: 2026-09-18
+    title: "Docket Number P-2026-3063860 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Jeffrey Watson Lindsay Cowen"
+  - commission: SC
+    date: 2026-09-17
+    title: Commission Business Meeting
+  - commission: TX
+    date: 2026-09-17
+    title: Open Meeting - Thursday, September 17, 2026
+  - commission: TX
+    date: 2026-09-18
+    title: Open Meeting - Friday, September 18, 2026
+  - commission: WA
+    date: 2026-09-18
+    title: UE-260007 & UG-260008 Avista GRC - Hybrid Evidentiary Hearing (Day 2)
 
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
