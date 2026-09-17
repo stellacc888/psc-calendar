@@ -1081,7 +1081,76 @@ events:
     title: Open Meeting - Friday, September 18, 2026
   - commission: WA
     date: 2026-09-18
-    title: UE-260007 & UG-260008 Avista GRC - Hybrid Evidentiary Hearing (Day 2)
+    title: UE-260007 & UG-260008 Avista GRC - Hybrid Evidentiary Hearing (Day 2)  # --- added 2026-09-17 - paste directly under the existing `events:` line ---
+  - commission: CO
+    date: 2026-09-21
+    title: "HRG: 25A-0539CP-EXT SKI TOWN TRANSPORTATION - 55991 - EXT, ALJ Rosenberg"
+  - commission: GA
+    date: 2026-09-23
+    title: GUFPA Hearing 9-23-2026
+  - commission: IL
+    date: 2026-09-22
+    title: Illinois Commerce Commission Hearing for T25-0104
+  - commission: IL
+    date: 2026-09-22
+    title: Illinois Commerce Commission Evidentiary for 26-0598
+  - commission: IL
+    date: 2026-09-23
+    title: Illinois Commerce Commission Hearing for T24-0033
+  - commission: IL
+    date: 2026-09-23
+    title: Illinois Commerce Commission Hearing for M2026-13163
+  - commission: IN
+    date: 2026-09-21
+    title: PETITION OF THE CITY OF ANDERSON, INDIANA BY AND THROUGH ITS MUNICIPAL ELECTRIC UTILITY, ANDERSON MUNICIPAL LIGHT AND POWER, FOR (1) APPROVAL OF A NEW SCHEDULE OF RATES, AND (2) APPROVAL TO INCUR INDEBTEDNESS THROUGH THE
+  - commission: IN
+    date: 2026-09-22
+    title: VERIFIED PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC FOR APPROVAL OF (1) ITS PROPOSED 2027 2029 DEMAND-SIDE MANAGEMENT PLAN, INCLUDING AN ENERGY EFFICIENCY PROGRAM AND DEMAND RESPONSE PROGRAM, AND (2) ACCOUN
+  - commission: IN
+    date: 2026-09-23
+    title: "& 24, 2024 – Executive Session Meetings (Cybersecurity Briefings) PNC Building, IURC Boardroom in Indianapolis, IN Public Notice posted on 9.19.24 | Minutes"
+  - commission: MA
+    date: 2026-09-25
+    title: 26-GC-25 - Boston Gas Company d/b/a National Grid - Contract
+  - commission: MA
+    date: 2026-09-25
+    title: 26-GC-24 - Boston Gas Company d/b/a National Grid - Contract
+  - commission: MA
+    date: 2026-09-25
+    title: 26-GC-23 - Boston Gas Company d/b/a National Grid - Contract
+  - commission: MA
+    date: 2026-09-25
+    title: 26-GC-22 - Boston Gas Company d/b/a National Grid - Contract
+  - commission: MA
+    date: 2026-09-25
+    title: 26-GC-21 - Boston Gas Company d/b/a National Grid - Contract
+  - commission: MA
+    date: 2026-09-25
+    title: 26-GC-20 - Boston Gas Company d/b/a National Grid - Contract
+  - commission: MD
+    date: 2026-09-23
+    title: Administrative Meeting
+  - commission: ME
+    date: 2026-09-22
+    title: Hearing Regarding CASD No. 2026-V-00348
+  - commission: NE
+    date: 2026-09-22
+    title: "22 Sep Hearing – MCC-3211, MCC-3219 & B-2184 – Paradise Limo, LLC Location: Commission Hearing Room 1:30pm"
+  - commission: NJ
+    date: 2026-09-23
+    title: Regular Board Agenda Meetings
+  - commission: NOLA
+    date: 2026-09-22
+    title: Joint Utility, Cable, Telecommunications and Technology and Governmental Affairs Committee
+  - commission: NY
+    date: 2026-09-24
+    title: Tracy Solar LLC Virtual Public Statement Hearing and Procedural C...
+  - commission: TX-RRC
+    date: 2026-09-25
+    title: "*BLACKROCK OPERATING, LLC-DOCKET NO. OG-26-00031902"
+  - commission: TX
+    date: 2026-09-25
+    title: Office Closed - Friday, September 25, 2026
 
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
