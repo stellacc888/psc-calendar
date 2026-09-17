@@ -9,92 +9,41 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[FL] Monday\, September 07\, 2026 HOLIDAY: Labor Day
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-DTSTAMP:20260917T143006Z
-UID:596c6f4873cd728b592e@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\n\nMonday\, September 07\, 2026 HOLIDAY: Labor Day | | | |
- \n\nSource: https://www.floridapsc.com/schedule-of-events
-PRIORITY:5
-URL:https://www.floridapsc.com/schedule-of-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260026: Application for rate increase by Florida Cit
- y Gas
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-DTSTAMP:20260917T143006Z
-UID:9a41442ed11a0f2a20f0@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026\n\nMonday\, September 14\, 2026 Event ty
- pe: Pre-Hearing Time : 01:00 PM Location: E 148 - Tallahassee | | | Docket
-  No : 20260026 \; Title: Application for rate increase by Florida City Gas
- . | La Rosa\n\nSource: https://www.floridapsc.com/watch-archive-psc-events
-PRIORITY:5
-URL:https://www.floridapsc.com/watch-archive-psc-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260010: Storm protection plan cost recovery clause. 
- Docket No : 20260011 \; Title: Natural gas facilities relocation cost reco
- very clause
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-DTSTAMP:20260917T143006Z
-UID:6f34331fcdedb2f00d19@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260010\, 20260011\n\nTuesday\, September 15\, 2
- 026 Event type: Hearing Time : Immediately following previous event Locati
- on: E 148 - Tallahassee | | | Docket No : 20260010 \; Title: Storm protect
- ion plan cost recovery clause. Docket No : 20260011 \; Title: Natural gas 
- facilities relocation cost recovery clause. | All Commissioners\n\nSource:
-  https://www.floridapsc.com/watch-archive-psc-events
-PRIORITY:5
-URL:https://www.floridapsc.com/watch-archive-psc-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Hearing: 20260026-GU (Day:1) — Application for rate increas
- e by Florida City Gas
+SUMMARY:[FL] Hearing: 20260026-GU (Day:1)
 DTSTART;TZID=America/New_York:20260928T090000
 DTEND;TZID=America/New_York:20260928T110000
-DTSTAMP:20260917T143006Z
-UID:211a64449604d13ecda7@psc-calendar
+DTSTAMP:20260917T203411Z
+UID:c3d31136c28a876ccf34@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026\, 20260026-GU\n\nSource: https://psc-fl.
- granicus.com/ViewPublisher.php?view_id=2
+ entiary Hearing\nDocket: 20260026-GU\n\nSource: https://psc-fl.granicus.co
+ m/ViewPublisher.php?view_id=2
 PRIORITY:5
 URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[FL] Hearing: 20260026-GU (Day:2) — Application for rate increas
- e by Florida City Gas
+SUMMARY:[FL] Hearing: 20260026-GU (Day:2)
 DTSTART;TZID=America/New_York:20260929T090000
 DTEND;TZID=America/New_York:20260929T110000
-DTSTAMP:20260917T143006Z
-UID:b326ebb0f803a52b0a9f@psc-calendar
+DTSTAMP:20260917T203411Z
+UID:afd846ad44c7ca1d5c5a@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026\, 20260026-GU\n\nSource: https://psc-fl.
- granicus.com/ViewPublisher.php?view_id=2
+ entiary Hearing\nDocket: 20260026-GU\n\nSource: https://psc-fl.granicus.co
+ m/ViewPublisher.php?view_id=2
 PRIORITY:5
 URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[FL] Hearing: 20260026-GU (Day:3) — Application for rate increas
- e by Florida City Gas
+SUMMARY:[FL] Hearing: 20260026-GU (Day:3)
 DTSTART;TZID=America/New_York:20260930T090000
 DTEND;TZID=America/New_York:20260930T110000
-DTSTAMP:20260917T143006Z
-UID:ef7ae50d710e323638da@psc-calendar
+DTSTAMP:20260917T203411Z
+UID:24b480d2725fa5407a2f@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026\, 20260026-GU\n\nSource: https://psc-fl.
- granicus.com/ViewPublisher.php?view_id=2
+ entiary Hearing\nDocket: 20260026-GU\n\nSource: https://psc-fl.granicus.co
+ m/ViewPublisher.php?view_id=2
 PRIORITY:5
 URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
 END:VEVENT
@@ -102,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260026-GU (Day:4)
 DTSTART;TZID=America/New_York:20261001T090000
 DTEND;TZID=America/New_York:20261001T110000
-DTSTAMP:20260917T143006Z
+DTSTAMP:20260917T203411Z
 UID:96eafd80ad11d9e3297d@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -115,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260026-GU (Day:5)
 DTSTART;TZID=America/New_York:20261002T090000
 DTEND;TZID=America/New_York:20261002T110000
-DTSTAMP:20260917T143006Z
+DTSTAMP:20260917T203411Z
 UID:b930cd70a078145681ce@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
