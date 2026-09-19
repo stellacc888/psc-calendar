@@ -10,17 +10,17 @@ X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:[MS] Notice of Meeting
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-DTSTAMP:20260901T100210Z
-UID:e9ba30fa002705becebd@psc-calendar
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20260919T133141Z
+UID:76e4c9fbfb393b1e70ae@psc-calendar
 CATEGORIES:MS,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Mississippi Public Service Commission (MS)\nType: 
- Open Meeting / Commission Meeting\n\nNotice of Meeting September 1st 2026
- \n\nSource: https://www.psc.ms.gov/sites/default/files/2026-08/NOTICE-PUBL
- IC-MEETING-9-1-26.pdf
+ Open Meeting / Commission Meeting\n\nNotice of Meeting October 6th 2026\n
+ \nSource: https://www.psc.ms.gov/sites/default/files/2026-09/NOTICE-MEETIN
+ G-10-6-26.pdf
 PRIORITY:5
-URL:https://www.psc.ms.gov/sites/default/files/2026-08/NOTICE-PUBLIC-MEETI
- NG-9-1-26.pdf
+URL:https://www.psc.ms.gov/sites/default/files/2026-09/NOTICE-MEETING-10-6
+ -26.pdf
 END:VEVENT
 END:VCALENDAR
