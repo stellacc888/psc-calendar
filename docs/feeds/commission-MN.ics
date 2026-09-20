@@ -10,24 +10,9 @@ X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
-DTSTART;TZID=America/Chicago:20260820T100000
-DTEND;TZID=America/Chicago:20260820T120000
-DTSTAMP:20260919T133141Z
-UID:22be094f4449bf389c6e@psc-calendar
-CATEGORIES:MN,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
- Open Meeting / Commission Meeting\n\nSource: https://minnesotapuc.legistar
- .com/MeetingDetail.aspx?LEGID=3022&GID=313&G=599750AF-63DB-4CF0-96FA-96B93
- EDD8025
-PRIORITY:5
-URL:https://minnesotapuc.legistar.com/MeetingDetail.aspx?LEGID=3022&GID=31
- 3&G=599750AF-63DB-4CF0-96FA-96B93EDD8025
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20260924T100000
 DTEND;TZID=America/Chicago:20260924T120000
-DTSTAMP:20260919T133141Z
+DTSTAMP:20260920T134641Z
 UID:acd7305942192099becc@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
@@ -42,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261001T100000
 DTEND;TZID=America/Chicago:20261001T120000
-DTSTAMP:20260919T133141Z
+DTSTAMP:20260920T134641Z
 UID:9dc9dd4ed2d841889224@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
