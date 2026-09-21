@@ -14,7 +14,7 @@ SUMMARY:[MA] efsb24-02 - New England Power Company d/b/a National Grid - S
  iting/DPU
 DTSTART;TZID=America/New_York:20260826T090000
 DTEND;TZID=America/New_York:20260826T130000
-DTSTAMP:20260920T134641Z
+DTSTAMP:20260921T160327Z
 UID:48ca1fa9e0d2d7dd3280@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -25,11 +25,57 @@ PRIORITY:5
 URL:https://eeaonline.eea.state.ma.us/dpu/fileroom/#/hearings
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[MA] 26-54 - DPU - Rulemaking
+DTSTART;TZID=America/New_York:20260922T100000
+DTEND;TZID=America/New_York:20260922T110000
+DTSTAMP:20260921T160327Z
+UID:e4b8f86f955688d45b23@psc-calendar
+CATEGORIES:MA,Evidentiary Hearing
+DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
+ \nType: Evidentiary Hearing\n\nSource: https://eeaonline.eea.state.ma.us/d
+ pu/fileroom/#/hearings
+LOCATION:Virtual Public Zoom Link: https://us06web.zoom.us/j/84073225821 o
+ r Dial 1 646 558 8656 Webinar ID: 840 7322 5821\; In Person: One South Sta
+ tion\, Third Floor\, Lar
+PRIORITY:5
+URL:https://eeaonline.eea.state.ma.us/dpu/fileroom/#/hearings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MA] 26-55 - DPU - Rulemaking
+DTSTART;TZID=America/New_York:20260922T140000
+DTEND;TZID=America/New_York:20260922T143000
+DTSTAMP:20260921T160327Z
+UID:70d038387552b9ba4b48@psc-calendar
+CATEGORIES:MA,Evidentiary Hearing
+DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
+ \nType: Evidentiary Hearing\n\nSource: https://eeaonline.eea.state.ma.us/d
+ pu/fileroom/#/hearings
+LOCATION:Virtual Public Zoom Link: https://us06web.zoom.us/j/82683288456 o
+ r Dial 1 646 558 8656 Webinar ID: 826 8328 8456\; In Person: One South Sta
+ tion\, Third Floor\, Lar
+PRIORITY:5
+URL:https://eeaonline.eea.state.ma.us/dpu/fileroom/#/hearings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MA] 26-55 - DPU - Rulemaking
+DTSTART;TZID=America/New_York:20260923T100000
+DTEND;TZID=America/New_York:20260923T110000
+DTSTAMP:20260921T160327Z
+UID:d000e7100f1c10cfaf5f@psc-calendar
+CATEGORIES:MA,Evidentiary Hearing
+DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
+ \nType: Evidentiary Hearing\n\nSource: https://eeaonline.eea.state.ma.us/d
+ pu/fileroom/#/hearings
+LOCATION:436 Dwight Street\, 3rd floor Courtroom\, Springfield MA 01103
+PRIORITY:5
+URL:https://eeaonline.eea.state.ma.us/dpu/fileroom/#/hearings
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[MA] 26-94 - NSTAR Gas Company d/b/a Eversource Energy - Forecast 
  And Supply Plan
 DTSTART;TZID=America/New_York:20261006T140000
 DTEND;TZID=America/New_York:20261006T150000
-DTSTAMP:20260920T134641Z
+DTSTAMP:20260921T160327Z
 UID:9e998ff03afa5a24d827@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
