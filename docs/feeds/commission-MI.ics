@@ -9,58 +9,25 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[MI] August 27\, 2026 Commission Meeting
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-DTSTAMP:20260921T160327Z
-UID:1c503fbe48f801ff3707@psc-calendar
-CATEGORIES:MI,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
- n Meeting / Commission Meeting\n\nAugust 27 August 27\, 2026 Commission Me
- eting 1:00 PM to 2:00 PM Teleconference and In-Person Location: Michigan P
- ublic Service Commission\n\nSource: https://www.michigan.gov/mpsc/commissi
- on/events/2026/08/27/august-27-2026-commission-meeting
-PRIORITY:5
-URL:https://www.michigan.gov/mpsc/commission/events/2026/08/27/august-27-2
- 026-commission-meeting
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[MI] October 1\, 2026 Commission Meeting
+SUMMARY:[MI] Commission Meeting
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260921T160327Z
-UID:c81f279d002d711755b2@psc-calendar
+DTSTAMP:20260922T141355Z
+UID:f919b87e5427c564f2ec@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
- n Meeting / Commission Meeting\n\nOctober 01 October 1\, 2026 Commission M
- eeting 1:00 PM to 2:00 PM Teleconference and In-Person Location: Michigan 
- Public Service Commission\n\nSource: https://www.michigan.gov/mpsc/commiss
- ion/events/2026/10/01/october-1-2026-commission-meeting
+ n Meeting / Commission Meeting\n\nOctober 1\, 2026 Commission Meeting\n\nS
+ ource: https://www.michigan.gov/mpsc/commission/events/2026/10/01/october-
+ 1-2026-commission-meeting
 PRIORITY:5
 URL:https://www.michigan.gov/mpsc/commission/events/2026/10/01/october-1-2
  026-commission-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[MI] October 15\, 2026 Commission Meeting
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-DTSTAMP:20260921T160327Z
-UID:150484bbf585a65f16c3@psc-calendar
-CATEGORIES:MI,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
- n Meeting / Commission Meeting\n\nOctober 15 October 15\, 2026 Commission 
- Meeting 11:00 AM to 12:00 PM Teleconference and In-Person\n\nSource: https
- ://www.michigan.gov/mpsc/commission/events/2026/10/15/october-15-2026-comm
- ission-meeting
-PRIORITY:5
-URL:https://www.michigan.gov/mpsc/commission/events/2026/10/15/october-15-
- 2026-commission-meeting
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[MI] MPSC to hold Commission meeting in Upper Peninsula
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260921T160327Z
+DTSTAMP:20260922T141355Z
 UID:3c095374aac93ba96a85@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -73,56 +40,46 @@ URL:https://www.michigan.gov/mpsc/commission/news-releases/2026/09/17/mpsc
  -to-hold-oct-15-meeting-in-up
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[MI] November 5\, 2026 Commission Meeting
+SUMMARY:[MI] Commission Meeting
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260921T160327Z
-UID:67c9890ee0ca5a5a6c19@psc-calendar
+DTSTAMP:20260922T141355Z
+UID:37ce038f0ddfe3e6f1dd@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
- n Meeting / Commission Meeting\n\nNovember 05 November 5\, 2026 Commission
-  Meeting 1:00 PM to 2:00 PM Teleconference and In-Person Location: Michiga
- n Public Service Commission\n\nSource: https://www.michigan.gov/mpsc/commi
- ssion/events/2026/11/05/november-5-2026-commission-meeting
+ n Meeting / Commission Meeting\n\nNovember 5\, 2026 Commission Meeting\n\n
+ Source: https://www.michigan.gov/mpsc/commission/events/2026/11/05/novembe
+ r-5-2026-commission-meeting
 PRIORITY:5
 URL:https://www.michigan.gov/mpsc/commission/events/2026/11/05/november-5-
  2026-commission-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[MI] December 8\, 2026 Commission Meeting
+SUMMARY:[MI] Commission Meeting
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20260921T160327Z
-UID:c73e308bc100d69454cb@psc-calendar
+DTSTAMP:20260922T141355Z
+UID:d94f2942d3a89460282e@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
- n Meeting / Commission Meeting\n\nDecember 08 December 8\, 2026 Commission
-  Meeting 1:00 PM to 2:00 PM Teleconference and In-Person Location: Michiga
- n Public Service Commission\n\nSource: https://www.michigan.gov/mpsc/commi
- ssion/events/2026/12/08/december-8-2026-commission-meeting
+ n Meeting / Commission Meeting\n\nDecember 8\, 2026 Commission Meeting\n\n
+ Source: https://www.michigan.gov/mpsc/commission/events/2026/12/08/decembe
+ r-8-2026-commission-meeting
 PRIORITY:5
 URL:https://www.michigan.gov/mpsc/commission/events/2026/12/08/december-8-
  2026-commission-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[MI] December 17\, 2026 Commission Meeting
+SUMMARY:[MI] Commission Meeting
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20260921T160327Z
-UID:ef52f80fe95e7213e3bd@psc-calendar
+DTSTAMP:20260922T141355Z
+UID:aa06c5f21a4d74d7cfff@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
- n Meeting / Commission Meeting\n\nList View Map View December 17 December 
- 17\, 2026 Commission Meeting 1:00 PM to 2:00 PM Teleconference and In-Pers
- on Location: Michigan Public Service Commission December 08 December 8\, 2
- 026 Commission Meeting 1:00 PM to 2:00 PM Teleconference and In-Person Loc
- ation: Michigan Public Service Commission November 05 November 5\, 2026 Co
- mmission Meeting 1:00 PM to 2:00 PM Teleconference and In-Person Location:
-  Michigan Public Service Commission October 15 October 15\, 2026 Commissio
- n Meeting 11:00 AM to 12:00 PM Teleconference and In-Person October 01 Oct
- ober 1\, 2026 Commission Meeting 1:00 PM to 2:0\n\nSource: https://www.mic
- higan.gov/mpsc/commission/events/2026/12/17/december-17-2026-commission-me
- eting
+ n Meeting / Commission Meeting\n\nDecember 17\, 2026 Commission Meeting\n
+ \nSource: https://www.michigan.gov/mpsc/commission/events/2026/12/17/decem
+ ber-17-2026-commission-meeting
 PRIORITY:5
 URL:https://www.michigan.gov/mpsc/commission/events/2026/12/17/december-17
  -2026-commission-meeting
