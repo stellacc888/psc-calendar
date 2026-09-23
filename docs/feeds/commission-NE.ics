@@ -9,25 +9,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NE] 22 Sep Commission Meeting Location: Commission Hearing Room 1
- 0:00am
-DTSTART:20260922T100000Z
-DTEND:20260922T120000Z
-DTSTAMP:20260922T141355Z
-UID:9d080ad792804e4e3516@psc-calendar
-CATEGORIES:NE,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
- n Meeting / Commission Meeting\n\nSource: https://psc.nebraska.gov/commiss
- ion-meeting-258
-PRIORITY:5
-URL:https://psc.nebraska.gov/commission-meeting-258
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NE] 29 Sep Commission Meeting Location: Commission Hearing Room 1
  0:00am
-DTSTART:20260929T100000Z
-DTEND:20260929T120000Z
-DTSTAMP:20260922T141355Z
+DTSTART:20260929T150000Z
+DTEND:20260929T170000Z
+DTSTAMP:20260923T142919Z
 UID:15c28af260541d791e16@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -35,5 +21,20 @@ DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
  ion-meeting-260
 PRIORITY:5
 URL:https://psc.nebraska.gov/commission-meeting-260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NE] 05 Oct Hearing – B-2176 – Hope Medical Transportation\, L
+ LC Location: Commission Hearing Room 1:00pm
+DTSTART:20261005T180000Z
+DTEND:20261005T200000Z
+DTSTAMP:20260923T142919Z
+UID:5438887cb019b2ff5c7f@psc-calendar
+CATEGORIES:NE,Evidentiary Hearing
+DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
+ dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-b-2176-hope-m
+ edical-transportation-llc
+PRIORITY:5
+URL:https://psc.nebraska.gov/hearing-b-2176-hope-medical-transportation-ll
+ c
 END:VEVENT
 END:VCALENDAR

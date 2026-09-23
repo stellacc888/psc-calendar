@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Commission Business Meeting
 DTSTART;TZID=America/New_York:20260924T130000
 DTEND;TZID=America/New_York:20260924T150000
-DTSTAMP:20260922T141355Z
+DTSTAMP:20260923T142919Z
 UID:5ac9943a65a0980d9cb7@psc-calendar
 CATEGORIES:SC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
@@ -22,5 +22,23 @@ DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
  ce-commission\n\nSource: https://dms.psc.sc.gov/Web/Calendar/Detail/84892
 PRIORITY:5
 URL:https://dms.psc.sc.gov/Web/Calendar/Detail/84892
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SC] Notice of Special Commission Business Meeting - Special Commi
+ ssion Business Meeting - Agenda Notes: US Toll-free Listen Line: +1-877-30
+ 9-2073 Access Code: 601 673 909
+DTSTART;TZID=America/New_York:20260929T090000
+DTEND;TZID=America/New_York:20260929T110000
+DTSTAMP:20260923T142919Z
+UID:c8b658742aff60a32ef3@psc-calendar
+CATEGORIES:SC,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
+ e: Open Meeting / Commission Meeting\n\n9/29/2026 9:00 AM Scheduled | N/A 
+ | Notice of Special Commission Business Meeting - Special Commission Busin
+ ess Meeting - Agenda Notes: US Toll-free Listen Line: +1-877-309-2073 Acce
+ ss Code: 601 673 909 Url: https://www.scetv.org/live/public-service-commis
+ sion\n\nSource: https://dms.psc.sc.gov/Web/Calendar/Detail/84899
+PRIORITY:5
+URL:https://dms.psc.sc.gov/Web/Calendar/Detail/84899
 END:VEVENT
 END:VCALENDAR

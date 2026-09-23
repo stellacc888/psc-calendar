@@ -9,22 +9,18 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[AL] SPIRE ALABAMA INC.
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-DTSTAMP:20260826T193138Z
-UID:fc735d0ef61de279c6ea@psc-calendar
+SUMMARY:[AL] Upcoming Hearings Hearings scheduled from 9/23/2026 through 1
+ 0/23/2026 No Hearings Scheduled
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DTSTAMP:20260923T142919Z
+UID:e4833825591eac878114@psc-calendar
 CATEGORIES:AL,Evidentiary Hearing
 DESCRIPTION:Commission: Alabama Public Service Commission (AL)\nType: Evid
- entiary Hearing\n\n8/26/2026 | TR2641261 TRANSCRIPT FOR HEARING HELD AUGUS
- T 6\, 2026 FOR SPIRE ALABAMA INC. Status: Pending Synopsis: TRANSCRIPT FOR
-  HEARING HELD AUGUST 6\, 2026 FOR SPIRE ALABAMA INC. | TR2641261 TRANSCRIP
- T FOR HEARING HELD AUGUST 6\, 2026 FOR SPIRE ALABAMA INC. Status: Pending 
- Synopsis: TRANSCRIPT FOR HEARING HELD AUGUST 6\, 2026 FOR SPIRE ALABAMA IN
- C. | SPIRE ALABAMA INC.\n\nSource: https://www.pscpublicaccess.alabama.gov
- /pscpublicaccess/page/default/portal.aspx
+ entiary Hearing\n\nSource: https://www.pscpublicaccess.alabama.gov/pscpubl
+ icaccess/RSS/PSC/RecentHearingsRssFeed.aspx
 PRIORITY:5
-URL:https://www.pscpublicaccess.alabama.gov/pscpublicaccess/page/default/p
- ortal.aspx
+URL:https://www.pscpublicaccess.alabama.gov/pscpublicaccess/RSS/PSC/Recent
+ HearingsRssFeed.aspx
 END:VEVENT
 END:VCALENDAR
