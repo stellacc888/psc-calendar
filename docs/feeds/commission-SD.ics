@@ -11,23 +11,9 @@ X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:[SD] South Dakota Public Utilities Commission Meeting
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DTSTAMP:20260923T142919Z
-UID:e5dfe6b0ec6975ea02e0@psc-calendar
-CATEGORIES:SD,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp
- e: Open Meeting / Commission Meeting\n\n08/25/2026 | South Dakota Public U
- tilities Commission Meeting\n\nSource: https://boardsandcommissions.sd.gov
- /Meetings.aspx?BoardID=213
-PRIORITY:5
-URL:https://boardsandcommissions.sd.gov/Meetings.aspx?BoardID=213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SD] South Dakota Public Utilities Commission Meeting
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260923T142919Z
+DTSTAMP:20260924T115129Z
 UID:55528cc9a9fca4a81eca@psc-calendar
 CATEGORIES:SD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp
@@ -41,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[SD] South Dakota Public Utilities Commission Meeting
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260923T142919Z
+DTSTAMP:20260924T115129Z
 UID:23572dc89606432e37f0@psc-calendar
 CATEGORIES:SD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp

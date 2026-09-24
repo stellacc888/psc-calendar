@@ -13,7 +13,7 @@ SUMMARY:[NE] 29 Sep Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20260929T150000Z
 DTEND:20260929T170000Z
-DTSTAMP:20260923T142919Z
+DTSTAMP:20260924T115129Z
 UID:15c28af260541d791e16@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -27,7 +27,7 @@ SUMMARY:[NE] 05 Oct Hearing – B-2176 – Hope Medical Transportation\, L
  LC Location: Commission Hearing Room 1:00pm
 DTSTART:20261005T180000Z
 DTEND:20261005T200000Z
-DTSTAMP:20260923T142919Z
+DTSTAMP:20260924T115129Z
 UID:5438887cb019b2ff5c7f@psc-calendar
 CATEGORIES:NE,Evidentiary Hearing
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
@@ -36,5 +36,19 @@ DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
 PRIORITY:5
 URL:https://psc.nebraska.gov/hearing-b-2176-hope-medical-transportation-ll
  c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NE] 06 Oct Commission Meeting Location: Commission Hearing Room 1
+ 0:00am
+DTSTART:20261006T150000Z
+DTEND:20261006T170000Z
+DTSTAMP:20260924T115129Z
+UID:1be8bd5d9a05aff09254@psc-calendar
+CATEGORIES:NE,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.nebraska.gov/commiss
+ ion-meeting-261
+PRIORITY:5
+URL:https://psc.nebraska.gov/commission-meeting-261
 END:VEVENT
 END:VCALENDAR

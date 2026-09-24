@@ -12,22 +12,8 @@ BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
 DTSTART;TZID=America/Chicago:20260902T110000
 DTEND;TZID=America/Chicago:20260902T130000
-DTSTAMP:20260923T142919Z
+DTSTAMP:20260924T115129Z
 UID:93a70fa47ca619bb2f9f@psc-calendar
-CATEGORIES:MO,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
- n Meeting / Commission Meeting\n\nAdj 11:00am Agenda Meeting ( Room 310 an
- d via WebEx )\n\nSource: https://psc.mo.gov/Calendars.aspx?Selected=Hearin
- gs
-PRIORITY:5
-URL:https://psc.mo.gov/Calendars.aspx?Selected=Hearings
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
-DTSTART;TZID=America/Chicago:20260924T110000
-DTEND;TZID=America/Chicago:20260924T130000
-DTSTAMP:20260923T142919Z
-UID:f8d4aadf213cce463941@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
  n Meeting / Commission Meeting\n\nAdj 11:00am Agenda Meeting ( Room 310 an
@@ -40,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
 DTSTART;TZID=America/Chicago:20260930T110000
 DTEND;TZID=America/Chicago:20260930T130000
-DTSTAMP:20260923T142919Z
+DTSTAMP:20260924T115129Z
 UID:9dbaffbc00ff8bbfb140@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope

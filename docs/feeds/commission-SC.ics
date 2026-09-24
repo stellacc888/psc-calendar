@@ -10,26 +10,12 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[SC] Commission Business Meeting
-DTSTART;TZID=America/New_York:20260924T130000
-DTEND;TZID=America/New_York:20260924T150000
-DTSTAMP:20260923T142919Z
-UID:5ac9943a65a0980d9cb7@psc-calendar
-CATEGORIES:SC,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
- e: Open Meeting / Commission Meeting\n\n9/24/2026 1:00 PM Scheduled | N/A 
- | Commission Business Meeting Url: https://www.scetv.org/live/public-servi
- ce-commission\n\nSource: https://dms.psc.sc.gov/Web/Calendar/Detail/84892
-PRIORITY:5
-URL:https://dms.psc.sc.gov/Web/Calendar/Detail/84892
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[SC] Notice of Special Commission Business Meeting - Special Commi
  ssion Business Meeting - Agenda Notes: US Toll-free Listen Line: +1-877-30
  9-2073 Access Code: 601 673 909
 DTSTART;TZID=America/New_York:20260929T090000
 DTEND;TZID=America/New_York:20260929T110000
-DTSTAMP:20260923T142919Z
+DTSTAMP:20260924T115129Z
 UID:c8b658742aff60a32ef3@psc-calendar
 CATEGORIES:SC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
@@ -40,5 +26,19 @@ DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
  sion\n\nSource: https://dms.psc.sc.gov/Web/Calendar/Detail/84899
 PRIORITY:5
 URL:https://dms.psc.sc.gov/Web/Calendar/Detail/84899
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SC] Commission Business Meeting
+DTSTART;TZID=America/New_York:20261001T130000
+DTEND;TZID=America/New_York:20261001T150000
+DTSTAMP:20260924T115129Z
+UID:960e280bb0d98fe87dbc@psc-calendar
+CATEGORIES:SC,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
+ e: Open Meeting / Commission Meeting\n\n10/1/2026 1:00 PM Scheduled | N/A 
+ | Commission Business Meeting Url: https://www.scetv.org/live/public-servi
+ ce-commission\n\nSource: https://dms.psc.sc.gov/Web/Calendar/Detail/84910
+PRIORITY:5
+URL:https://dms.psc.sc.gov/Web/Calendar/Detail/84910
 END:VEVENT
 END:VCALENDAR
