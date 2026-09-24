@@ -1168,7 +1168,58 @@ events:
     title: "VERIFIED PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC FOR APPROVAL OF ITS PROPOSED 2027 2029 ENERGY EFFICIENCY PLAN FOR GAS SERVICE AND ASSOCIATED RATEMAKING AND ‐ ACCOUNTING TREATMENT INCLUDING TIMELY RECOVE"
   - commission: OH
     date: 2026-09-17
-    title: Case No. 26-753-TR-CVF
+    title: Case No. 26-753-TR-CVF  # --- added 2026-09-24 - paste directly under the existing `events:` line ---
+  - commission: IL
+    date: 2026-09-24
+    title: Illinois Commerce Commission Regular Open Meeting
+  - commission: IL
+    date: 2026-09-24
+    title: Regular Open Meeting Illinois Commerce Commission 527 East Capitol Avenue Hearing Room A, First Floor, Leland Building Springfield, Illinois 62701
+  - commission: IL
+    date: 2026-09-24
+    title: Illinois Commerce Commission Annual Utility Supplier Diversity Policy Session
+  - commission: IL
+    date: 2026-09-24
+    title: Illinois Commerce Commission Prehearing for 26-0585
+  - commission: MD
+    date: 2026-09-24
+    title: "Yazam/Empower Hearing—9732"
+  - commission: MD
+    date: 2026-09-25
+    title: Future of Gas, Phase II Preconference Hearing-9707
+  - commission: MD
+    date: 2026-09-25
+    title: "Reliability Backstop Procurement Hearing—PC82"
+  - commission: MN
+    date: 2026-09-24
+    title: PUC Agenda Meeting
+  - commission: MO
+    date: 2026-09-24
+    title: Agenda Meeting ( Room 310 and via WebEx)
+  - commission: NJ
+    date: 2026-09-24
+    title: Regular Board Agenda Meetings
+  - commission: NM
+    date: 2026-09-24
+    title: State Capitol Building, Room 307, Santa Fe
+  - commission: OK
+    date: 2026-09-24
+    title: "2026 Commission Meetings: August 27, 2026"
+  - commission: RI
+    date: 2026-09-24
+    title: "PUC - Notice of Open Meeting - Thursday September 24, 2026 at 1:00pm at the PUC Hearing Room A, 89 Jefferson Blvd, Warwick, Rhode Island"
+  - commission: SC
+    date: 2026-09-24
+    title: Commission Business Meeting
+  - commission: TX-RRC
+    date: 2026-09-25
+    title: "*BLACKROCK OPERATING, LLC-DOCKET NO. OG-26-00031902 (CONTINUED)"
+  - commission: VA
+    date: 2026-09-24
+    title: PUR-2026-00031 - Petition of Appalachian Power Company to continue rate adjustment clause, EE-RAC, and for new energy efficiency programs
+  - commission: WA
+    date: 2026-09-24
+    title: Open Meeting
 
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
