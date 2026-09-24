@@ -14,7 +14,7 @@ SUMMARY:[MA] efsb24-02 - New England Power Company d/b/a National Grid - S
  iting/DPU
 DTSTART;TZID=America/New_York:20260826T090000
 DTEND;TZID=America/New_York:20260826T130000
-DTSTAMP:20260924T173300Z
+DTSTAMP:20260924T174447Z
 UID:48ca1fa9e0d2d7dd3280@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 26-54 - DPU - Rulemaking
 DTSTART;TZID=America/New_York:20260922T100000
 DTEND;TZID=America/New_York:20260922T110000
-DTSTAMP:20260924T173300Z
+DTSTAMP:20260924T174447Z
 UID:e4b8f86f955688d45b23@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 26-55 - DPU - Rulemaking
 DTSTART;TZID=America/New_York:20260922T140000
 DTEND;TZID=America/New_York:20260922T150000
-DTSTAMP:20260924T173300Z
+DTSTAMP:20260924T174447Z
 UID:70d038387552b9ba4b48@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 26-55 - DPU - Rulemaking
 DTSTART;TZID=America/New_York:20260923T100000
 DTEND;TZID=America/New_York:20260923T110000
-DTSTAMP:20260924T173300Z
+DTSTAMP:20260924T174447Z
 UID:d000e7100f1c10cfaf5f@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -75,7 +75,7 @@ SUMMARY:[MA] 26-94 - NSTAR Gas Company d/b/a Eversource Energy - Forecast
  And Supply Plan
 DTSTART;TZID=America/New_York:20261006T140000
 DTEND;TZID=America/New_York:20261006T150000
-DTSTAMP:20260924T173300Z
+DTSTAMP:20260924T174447Z
 UID:9e998ff03afa5a24d827@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -91,7 +91,7 @@ SUMMARY:[MA] 26-106 - Massachusetts Electric Company and Nantucket Electri
  c Company\, each d/b/a National Grid - Investigation
 DTSTART;TZID=America/New_York:20261007T140000
 DTEND;TZID=America/New_York:20261007T150000
-DTSTAMP:20260924T173300Z
+DTSTAMP:20260924T174447Z
 UID:ee393f2b1a756d9f3a33@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -107,7 +107,7 @@ SUMMARY:[MA] 26-105 - Fitchburg Gas and Electric Light Company d/b/a Uniti
  l - Investigation
 DTSTART;TZID=America/New_York:20261016T140000
 DTEND;TZID=America/New_York:20261016T170000
-DTSTAMP:20260924T173300Z
+DTSTAMP:20260924T174447Z
 UID:a7e9f19384812ce099a5@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -123,7 +123,7 @@ SUMMARY:[MA] 26-104 - Massachusetts Electric Company and Nantucket Electri
  c Company\, each d/b/a National Grid - Investigation
 DTSTART;TZID=America/New_York:20261016T140000
 DTEND;TZID=America/New_York:20261016T170000
-DTSTAMP:20260924T173300Z
+DTSTAMP:20260924T174447Z
 UID:1f2583667de2ebbacc84@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -139,7 +139,7 @@ SUMMARY:[MA] 26-103 - NSTAR Electric Company d/b/a Eversource Energy - Inv
  estigation
 DTSTART;TZID=America/New_York:20261016T140000
 DTEND;TZID=America/New_York:20261016T170000
-DTSTAMP:20260924T173300Z
+DTSTAMP:20260924T174447Z
 UID:da638356515a7eafea4f@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 26-121 - City of Brockton - Municipal Aggregation
 DTSTART;TZID=America/New_York:20261102T140000
 DTEND;TZID=America/New_York:20261102T150000
-DTSTAMP:20260924T173300Z
+DTSTAMP:20260924T174447Z
 UID:9340ce083df034922315@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
