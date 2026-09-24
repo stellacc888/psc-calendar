@@ -1415,7 +1415,19 @@ events:
   - commission: PA
     date: 2026-10-02
     title: "Docket Number C-2025-3059256 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Katrina L Dunderdale"
-
+  # --- added 2026-09-24 - paste directly under the existing `events:` line ---
+  - commission: IL
+    date: 2026-09-29
+    title: Illinois Commerce Commission Hearing for T25-0076
+  - commission: NV
+    date: 2026-09-29
+    title: Scheduled Commission Utility Agendas
+  - commission: OR
+    date: 2026-09-29
+    title: Docket ADV 1885 - PGE ADVICE NO. 26-30 SCHEDULE RESIDENTIAL EV CHARGING PILOT UPDATE
+  - commission: TX
+    date: 2026-10-02
+    title: Open Meeting - Friday, October 2, 2026
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
