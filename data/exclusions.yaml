@@ -1219,7 +1219,16 @@ events:
     title: PUR-2026-00031 - Petition of Appalachian Power Company to continue rate adjustment clause, EE-RAC, and for new energy efficiency programs
   - commission: WA
     date: 2026-09-24
-    title: Open Meeting
+    title: Open Meeting  # --- added 2026-09-24 - paste directly under the existing `events:` line ---
+  - commission: AL
+    date: 2026-09-24
+    title: COMMUNITY CARE TRANSIT LLC
+  - commission: AL
+    date: 2026-09-24
+    title: Upcoming Hearings Hearings scheduled from 9/24/2026 through 10/24/2026 No Hearings Scheduled
+  - commission: OH
+    date: 2026-09-24
+    title: Case No. 26-125-TR-CVF
 
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
