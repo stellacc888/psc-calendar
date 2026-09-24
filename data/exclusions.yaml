@@ -1333,7 +1333,43 @@ events:
     title: "*LEWIS PETRO PROPERTIES, INC.-DOCKET NO. OG-26-00032798 (CONTINUED)"
   - commission: TX-RRC
     date: 2026-09-29
-    title: "*OCCIDENTAL PERMIAN LTD.-DOCKET NO. OG-26-00031735"
+    title: "*OCCIDENTAL PERMIAN LTD.-DOCKET NO. OG-26-00031735"  # --- added 2026-09-24 - paste directly under the existing `events:` line ---
+  - commission: IA
+    date: 2026-09-30
+    title: "Docket No. RPU-2023-0002 | Open Meeting & Closed Session Deliberation"
+  - commission: IL
+    date: 2026-09-30
+    title: Illinois Commerce Commission Prehearing for 26-0663
+  - commission: PA
+    date: 2026-09-30
+    title: "Docket Number F-2026-3062591 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Emily A Farren"
+  - commission: PA
+    date: 2026-09-30
+    title: "Docket Number C-2026-3062511 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Steven K Haas"
+  - commission: PA
+    date: 2026-09-30
+    title: "Docket Number C-2026-3062851 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Erin Gannon"
+  - commission: PA
+    date: 2026-09-30
+    title: "Docket Number F-2026-3061812 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: John Coogan"
+  - commission: PA
+    date: 2026-09-30
+    title: "Docket Number F-2026-3063927 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-09-30
+    title: "Docket Number C-2026-3063929 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Alphonso Arnold III"
+  - commission: PA
+    date: 2026-09-30
+    title: "Docket Number F-2026-3062214 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: PA
+    date: 2026-09-30
+    title: "Docket Number F-2026-3061116 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Jeffrey Watson"
+  - commission: PA
+    date: 2026-09-30
+    title: "Docket Number C-2026-3062252 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Ann Quimby"
+  - commission: TX-RRC
+    date: 2026-09-30
+    title: "*TERRAIN WATER SOLUTIONS, LLC-DOCKET NO. OG-26-00032003"
 
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
