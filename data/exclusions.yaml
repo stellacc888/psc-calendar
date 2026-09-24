@@ -1228,7 +1228,16 @@ events:
     title: Upcoming Hearings Hearings scheduled from 9/24/2026 through 10/24/2026 No Hearings Scheduled
   - commission: OH
     date: 2026-09-24
-    title: Case No. 26-125-TR-CVF
+    title: Case No. 26-125-TR-CVF  # --- added 2026-09-24 - paste directly under the existing `events:` line ---
+  - commission: IL
+    date: 2026-09-28
+    title: Illinois Commerce Commission Prehearing for 26-0612
+  - commission: PA
+    date: 2026-09-28
+    title: "Docket Number F-2026-3062710 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Emily A Farren"
+  - commission: TX-RRC
+    date: 2026-09-28
+    title: "*SIENERGY GAS, LLC-DOCKET NO. OS-26-00031317"
 
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
