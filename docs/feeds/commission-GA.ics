@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 9-1-2026
 DTSTART;TZID=America/New_York:20260901T093000
 DTEND;TZID=America/New_York:20260901T113000
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:c168fe2ec6ada88ca4eb@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 9-15-2026
 DTSTART;TZID=America/New_York:20260915T093000
 DTEND;TZID=America/New_York:20260915T113000
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:1742a9954268caadaf6e@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 10-6-2026
 DTSTART;TZID=America/New_York:20261006T093000
 DTEND;TZID=America/New_York:20261006T113000
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:a8dbf32475e6502a7fb8@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -55,7 +55,7 @@ SUMMARY:[GA] Docket No. 57171 RTP Revenue Credit and Allocation Methodolog
  y Hearing 10-15-2026
 DTSTART;TZID=America/New_York:20261015T093500
 DTEND;TZID=America/New_York:20261015T113500
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:d29f15c5f06bd3a79c2d@psc-calendar
 CATEGORIES:GA,Evidentiary Hearing
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Evid
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 10-20-2026
 DTSTART;TZID=America/New_York:20261020T093000
 DTEND;TZID=America/New_York:20261020T113000
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:e3ff989e9031cd943dde@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] GUFPA Hearing 10-21-2026
 DTSTART;TZID=America/New_York:20261021T100000
 DTEND;TZID=America/New_York:20261021T120000
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:a7c785c3927767a08ebe@psc-calendar
 CATEGORIES:GA,Evidentiary Hearing
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Evid
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 11-3-2026
 DTSTART;TZID=America/New_York:20261103T093000
 DTEND;TZID=America/New_York:20261103T113000
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:195fae7fe7e5cabc25e4@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -114,7 +114,7 @@ SUMMARY:[GA] Docket No. 57171 RTP Revenue Credit and Allocation Methodolog
  y Hearing 11-12-2026
 DTSTART;TZID=America/New_York:20261112T093500
 DTEND;TZID=America/New_York:20261112T113500
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:e905750d2031c9eddd82@psc-calendar
 CATEGORIES:GA,Evidentiary Hearing
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Evid
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 11-17-2026
 DTSTART;TZID=America/New_York:20261117T093000
 DTEND;TZID=America/New_York:20261117T113000
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:db0284c301a3ab5b8469@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 12-1-2026
 DTSTART;TZID=America/New_York:20261201T093000
 DTEND;TZID=America/New_York:20261201T113000
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:7926cc6a5b893410d4ed@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 12-15-2026
 DTSTART;TZID=America/New_York:20261215T093000
 DTEND;TZID=America/New_York:20261215T113000
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:8aa7737defb1970a8cb9@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open

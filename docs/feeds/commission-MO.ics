@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
 DTSTART;TZID=America/Chicago:20260902T110000
 DTEND;TZID=America/Chicago:20260902T130000
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:93a70fa47ca619bb2f9f@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
 DTSTART;TZID=America/Chicago:20260930T110000
 DTEND;TZID=America/Chicago:20260930T130000
-DTSTAMP:20260924T171202Z
+DTSTAMP:20260924T172029Z
 UID:9dbaffbc00ff8bbfb140@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
