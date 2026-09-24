@@ -1369,7 +1369,37 @@ events:
     title: "Docket Number C-2026-3062252 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Ann Quimby"
   - commission: TX-RRC
     date: 2026-09-30
-    title: "*TERRAIN WATER SOLUTIONS, LLC-DOCKET NO. OG-26-00032003"
+    title: "*TERRAIN WATER SOLUTIONS, LLC-DOCKET NO. OG-26-00032003"  # --- added 2026-09-24 - paste directly under the existing `events:` line ---
+  - commission: LA
+    date: 2026-10-01
+    title: "Hearing: T-37988"
+  - commission: LA
+    date: 2026-10-01
+    title: "Hearing: T-38022"
+  - commission: ME
+    date: 2026-10-01
+    title: Hearing - CASD No. 2026-V-00127
+  - commission: PA
+    date: 2026-10-01
+    title: "Next Public Meeting: Thursday, October 1, 2026 View 2026-2027 Meeting Schedule (PDF)"
+  - commission: PA
+    date: 2026-10-01
+    title: "Docket Number C-2026-3063874 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Lindsay Cowen"
+  - commission: PA
+    date: 2026-10-01
+    title: "Docket Number C-2026-3063109 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Katrina L Dunderdale"
+  - commission: PA
+    date: 2026-10-01
+    title: "Docket Number F-2026-3063606 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-10-01
+    title: "Docket Number F-2026-3062788 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Alphonso Arnold III"
+  - commission: PA
+    date: 2026-10-01
+    title: "Docket Number C-2026-3061758 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Teri-Lee Rhoades"
+  - commission: TX-RRC
+    date: 2026-10-01
+    title: "*IACX ROCK CREEK LLC- DOCKET NO. OS-26-00030859"
 
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
