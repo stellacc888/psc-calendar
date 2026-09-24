@@ -9,25 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[ME] Hearing - CASD No. 2026-V-00127
-DTSTART;TZID=America/New_York:20261001T140000
-DTEND;TZID=America/New_York:20261001T160000
-DTSTAMP:20260924T172446Z
-UID:1d11b4b452899f38c939@psc-calendar
-CATEGORIES:ME,Evidentiary Hearing
-DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
- entiary Hearing\n\n10/1/2026 | Hearing | Hearing - CASD No. 2026-V-00127 |
-  Simpson Room | 2:00 PM | | 2026-00225\n\nSource: https://www.maine.gov/to
- ols/whatsnew/index.php?topic=puc-otherevents&id=13362413&v=article088
-PRIORITY:5
-URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-otherevents&i
- d=13362413&v=article088
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[ME] Hearing - CASD No. 2025-V-00795
 DTSTART;TZID=America/New_York:20261002T100000
 DTEND;TZID=America/New_York:20261002T120000
-DTSTAMP:20260924T172446Z
+DTSTAMP:20260924T172848Z
 UID:247885f59c3e90dc0f68@psc-calendar
 CATEGORIES:ME,Evidentiary Hearing
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
@@ -42,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Hearing - CASD No. 2025-V-00877
 DTSTART;TZID=America/New_York:20261002T133000
 DTEND;TZID=America/New_York:20261002T153000
-DTSTAMP:20260924T172446Z
+DTSTAMP:20260924T172848Z
 UID:e05e358c98953fe25773@psc-calendar
 CATEGORIES:ME,Evidentiary Hearing
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
@@ -57,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261006T100000
 DTEND;TZID=America/New_York:20261006T120000
-DTSTAMP:20260924T172446Z
+DTSTAMP:20260924T172848Z
 UID:c4d848e1a4143f60f193@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
@@ -72,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261013T100000
 DTEND;TZID=America/New_York:20261013T120000
-DTSTAMP:20260924T172446Z
+DTSTAMP:20260924T172848Z
 UID:a1ea43973e24d65e5942@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
@@ -87,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261020T100000
 DTEND;TZID=America/New_York:20261020T120000
-DTSTAMP:20260924T172446Z
+DTSTAMP:20260924T172848Z
 UID:07d79e09ab24e4cfc8a4@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
@@ -102,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261027T100000
 DTEND;TZID=America/New_York:20261027T120000
-DTSTAMP:20260924T172446Z
+DTSTAMP:20260924T172848Z
 UID:bdd9b82d549c7783be35@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
