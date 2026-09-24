@@ -1237,7 +1237,103 @@ events:
     title: "Docket Number F-2026-3062710 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Emily A Farren"
   - commission: TX-RRC
     date: 2026-09-28
-    title: "*SIENERGY GAS, LLC-DOCKET NO. OS-26-00031317"
+    title: "*SIENERGY GAS, LLC-DOCKET NO. OS-26-00031317"  # --- added 2026-09-24 - paste directly under the existing `events:` line ---
+  - commission: IL
+    date: 2026-09-29
+    title: Illinois Commerce Commission Prehearing for 26-0632
+  - commission: IL
+    date: 2026-09-29
+    title: Illinois Commerce Commission Hearing for T26-0030
+  - commission: IL
+    date: 2026-09-29
+    title: Illinois Commerce Commission Hearing for T26-0031
+  - commission: IL
+    date: 2026-09-29
+    title: Illinois Commerce Commission Prehearing for 26-0633
+  - commission: ME
+    date: 2026-09-29
+    title: Deliberations Audio/Video
+  - commission: NE
+    date: 2026-09-29
+    title: "29 Sep Commission Meeting Location: Commission Hearing Room 10:00am"
+  - commission: OR
+    date: 2026-09-29
+    title: Docket UM 2449 - SHELL ENERGY 2025 COMPLIANCE REPORT
+  - commission: OR
+    date: 2026-09-29
+    title: Docket UM 2452 - BREMUS 2025 RPS COMPLIANCE REPORT
+  - commission: OR
+    date: 2026-09-29
+    title: Docket UM 2453 - CONSTELLATION NEWENERGY 2025 RPS COMPLIANCE
+  - commission: OR
+    date: 2026-09-29
+    title: Docket UM 2454 - IDAHO POWER 2025 RPS COMPLIANCE
+  - commission: OR
+    date: 2026-09-29
+    title: Docket UM 2456 - CALPINE SOLUTIONS 2025 RPS COMPLIANCE REPORT
+  - commission: OR
+    date: 2026-09-29
+    title: Docket UM 2466 - PURE ENERGY GROUP REQUEST FOR WAIVER OF OAR 860-039-0065(1)(C)
+  - commission: OR
+    date: 2026-09-29
+    title: Docket ADV 1888 - PGE ADVICE NO. 26-31 SCHEDULE 18 AND SCHEDULE 118
+  - commission: OR
+    date: 2026-09-29
+    title: Docket ADV 1895 - CASCADE NATURAL GAS SCHEDULE 33 UPDATE TO OLIEC PROGRAM
+  - commission: OR
+    date: 2026-09-29
+    title: Docket UM 940 - ANNUAL REGULATORY FEES TELCOS
+  - commission: OR
+    date: 2026-09-29
+    title: Docket UM 1696 - ENERGY TRUST OF OREGON ELECTRICAL EXCEPTIONS
+  - commission: OR
+    date: 2026-09-29
+    title: Docket UM 1789 - PGE DEFERRAL OF COSTS RELATED TO SCHEDULE 149
+  - commission: OR
+    date: 2026-09-29
+    title: Docket UM 2192 - NW NATURAL DEFERRED ACCOUNT OF TSA SECURITY DIRECTIVE 2 COMPLIANCE EXPENSES
+  - commission: OR
+    date: 2026-09-29
+    title: Docket AR 677 - RULEMAKING GENERAL RATE REVISIONS HB 3179
+  - commission: OR
+    date: 2026-09-29
+    title: Docket UM 2417 - PUC IDENTIFYING PRIORITIES IN IMPLEMENTATION OF EOS 25-25 AND 25-29
+  - commission: OR
+    date: 2026-09-29
+    title: Docket UM 2436 - PURPA AVOIDED COSTS STANDARDIZED WORKBOOKS
+  - commission: OR
+    date: 2026-09-29
+    title: Docket AR 688 - INTERCONNECTION RULES - PHASE 2
+  - commission: PA
+    date: 2026-09-29
+    title: "Docket Number C-2024-3051609 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Jeffrey Watson"
+  - commission: PA
+    date: 2026-09-29
+    title: "Docket Number C-2026-3063037 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Lindsay Cowen"
+  - commission: PA
+    date: 2026-09-29
+    title: "Docket Number C-2026-3061821 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Barbara Shadie Nause"
+  - commission: PA
+    date: 2026-09-29
+    title: "Docket Number C-2026-3060946 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Teri-Lee Rhoades"
+  - commission: PA
+    date: 2026-09-29
+    title: "Docket Number F-2026-3061894 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Alphonso Arnold III"
+  - commission: PA
+    date: 2026-09-29
+    title: "Docket Number C-2026-3062302 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Erin Gannon"
+  - commission: PA
+    date: 2026-09-29
+    title: "Docket Number C-2026-3063871 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: John Coogan"
+  - commission: TX-RRC
+    date: 2026-09-29
+    title: "*BLACK BELT OPERATING, LLC-DOCKET NO. OG-26-00030631"
+  - commission: TX-RRC
+    date: 2026-09-29
+    title: "*LEWIS PETRO PROPERTIES, INC.-DOCKET NO. OG-26-00032798 (CONTINUED)"
+  - commission: TX-RRC
+    date: 2026-09-29
+    title: "*OCCIDENTAL PERMIAN LTD.-DOCKET NO. OG-26-00031735"
 
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
