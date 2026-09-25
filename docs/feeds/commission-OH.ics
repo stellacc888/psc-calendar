@@ -9,16 +9,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[OH] Case No. 26-125-TR-CVF
-DTSTART;TZID=America/New_York:20260924T100000
-DTEND;TZID=America/New_York:20260924T100000
-DTSTAMP:20260924T142922Z
-UID:385b2802c201f5025155@psc-calendar
+SUMMARY:[OH] Case No.26-790-EL-CSS
+DTSTART;TZID=America/New_York:20260928T133000
+DTEND;TZID=America/New_York:20260928T133000
+DTSTAMP:20260925T144915Z
+UID:69149c31c97e5e57cfd3@psc-calendar
 CATEGORIES:OH,Evidentiary Hearing
 DESCRIPTION:Commission: Public Utilities Commission of Ohio (OH)\nType: Ev
- identiary Hearing\nDocket: 26-125-TR\, 26-125-TR-CVF\n\nSource: https://pu
+ identiary Hearing\nDocket: 26-790-EL\, 26-790-EL-CSS\n\nSource: https://pu
  co.ohio.gov/agendas-and-hearings/hearing-schedule/
-LOCATION:Columbus\, Ohio 43215
+LOCATION:180 East Broad Street\, 11th Floor\, Columbus\, Ohio 43215
 PRIORITY:5
 URL:https://puco.ohio.gov/agendas-and-hearings/hearing-schedule/
 END:VEVENT

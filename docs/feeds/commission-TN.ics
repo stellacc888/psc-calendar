@@ -9,45 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[TN] Motion Hearing in Docket 26-00070 - Closed Caption VTT File (
- VTT)
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-DTSTAMP:20260924T174447Z
-UID:3c8b4519ae522f10926d@psc-calendar
-CATEGORIES:TN,Evidentiary Hearing
-DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Ev
- identiary Hearing\nDocket: 26-00070\n\n08-26-2026 - Motion Hearing in Dock
- et 26-00070 - Closed Caption VTT File (VTT)\n\nSource: https://www.tn.gov/
- content/dam/tn/publicutility/documents/meetings/othercommissionmeetings/20
- 26/recordings/Motion%20Hearing%20in%20Docket%20No.%2026-00070-20260825.vtt
-PRIORITY:5
-URL:https://www.tn.gov/content/dam/tn/publicutility/documents/meetings/oth
- ercommissionmeetings/2026/recordings/Motion%20Hearing%20in%20Docket%20No.%
- 2026-00070-20260825.vtt
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[TN] Motion Hearing in Docket 26-00070 - Audio (MP4)
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-DTSTAMP:20260924T174447Z
-UID:6b5637f1a6d2f0ece314@psc-calendar
-CATEGORIES:TN,Evidentiary Hearing
-DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Ev
- identiary Hearing\nDocket: 26-00070\n\n08-26-2026 - Motion Hearing in Dock
- et 26-00070 - Audio (MP4)\n\nSource: https://www.tn.gov/content/dam/tn/pub
- licutility/documents/meetings/othercommissionmeetings/2026/recordings/Moti
- on%20Hearing%20in%20Docket%20No.%2026-00070-20260825.mp4
-PRIORITY:5
-URL:https://www.tn.gov/content/dam/tn/publicutility/documents/meetings/oth
- ercommissionmeetings/2026/recordings/Motion%20Hearing%20in%20Docket%20No.%
- 2026-00070-20260825.mp4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[TN] Notice of Hearing in Docket 26-00042
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-DTSTAMP:20260924T174447Z
+DTSTAMP:20260925T144915Z
 UID:c04bae7fd3130e990bae@psc-calendar
 CATEGORIES:TN,Evidentiary Hearing
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Ev
@@ -65,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:[TN] Conference and Hearing Audio (MP4 Format)
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260924T174447Z
+DTSTAMP:20260925T144915Z
 UID:ce27467fb638f90f0734@psc-calendar
 CATEGORIES:TN,Evidentiary Hearing
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Ev
@@ -82,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:[TN] Notice and Agenda for Commission Conference
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260924T174447Z
+DTSTAMP:20260925T144915Z
 UID:c1fadff009c6bb601c18@psc-calendar
 CATEGORIES:TN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op
@@ -99,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:[TN] Summary of Hearing in Docket 26-00042
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260924T174447Z
+DTSTAMP:20260925T144915Z
 UID:ae1fe919f778f4fb0431@psc-calendar
 CATEGORIES:TN,Evidentiary Hearing
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Ev
@@ -117,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:[TN] Notice of April Commission Conference WebEx Meeting Access
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
-DTSTAMP:20260924T174447Z
+DTSTAMP:20260925T144915Z
 UID:9719c99d4d0a65083a0d@psc-calendar
 CATEGORIES:TN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op
@@ -135,7 +100,7 @@ SUMMARY:[TN] Notice of April Commission Conference Held Electronically via
   WebEx
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
-DTSTAMP:20260924T174447Z
+DTSTAMP:20260925T144915Z
 UID:2f4359dff2e634905afb@psc-calendar
 CATEGORIES:TN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op
