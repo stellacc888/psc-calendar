@@ -9,12 +9,12 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[AL] Upcoming Hearings Hearings scheduled from 9/25/2026 through 1
- 0/25/2026 No Hearings Scheduled
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-DTSTAMP:20260925T144915Z
-UID:6993086d3ec22f3466f2@psc-calendar
+SUMMARY:[AL] Upcoming Hearings Hearings scheduled from 9/26/2026 through 1
+ 0/26/2026 No Hearings Scheduled
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260926T135548Z
+UID:6edbe6302bb2ab125992@psc-calendar
 CATEGORIES:AL,Evidentiary Hearing
 DESCRIPTION:Commission: Alabama Public Service Commission (AL)\nType: Evid
  entiary Hearing\n\nSource: https://www.pscpublicaccess.alabama.gov/pscpubl
