@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[FERC] September 2026: 31 Notational Orders 2026-08-31 All day
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260928T175058Z
+DTSTAMP:20260929T161050Z
 UID:9946a139e9b156c153b9@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -31,7 +31,7 @@ SUMMARY:[FERC] 9 Rescheduled Virtual Public Scoping Session for the Rio Gr
  ande LNG Expansion Project (CP26-532-000) 6:00 - 8:00pm
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260928T175058Z
+DTSTAMP:20260929T161050Z
 UID:be6aad7717dc1f1d6bcc@psc-calendar
 CATEGORIES:FERC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -49,7 +49,7 @@ SUMMARY:[FERC] 16 Daytime Scoping Session for the Surrender and Decommissi
  on the Potter Valley Hydroelectric Project (P-77-332) 12:00 - 2:00pm
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260928T175058Z
+DTSTAMP:20260929T161050Z
 UID:e7b83a9e6074174b0a14@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -69,22 +69,41 @@ BEGIN:VEVENT
 SUMMARY:[FERC] September 2026: 21 Notational Orders 2026-09-21 All day
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260928T175058Z
+DTSTAMP:20260929T161050Z
 UID:89fd265231ee1979c35a@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
   Decision / Order\n\n20 | 21 Notational Orders 2026-09-21 All day | 22 Not
- ational Orders 2026-09-22 All day | 23 Daytime and Evening Scoping Session
- s for the Potholes East Canal Headworks Hydroelectric Project (P-2840-024)
-  All day Daytime and Evening Scoping Sessions for the Summer Falls Hydroel
- ectric Project (P-3295-013) All day Daytime and Evening Scoping Sessions f
- or the Main Canal Headworks Hydroelectric Project (P-2849-017) All day Not
- ational Orders 2026-09-23 All day Environmental Site Review of the Pothole
+ ational Orders 2026-09-22 All day | 23 Notational Orders 2026-09-23 All da
+ y Daytime and Evening Scoping Sessions for the Summer Falls Hydroelectric 
+ Project (P-3295-013) All day Daytime and Evening Scoping Sessions for the 
+ Main Canal Headworks Hydroelectric Project (P-2849-017) All day Daytime an
+ d Evening Scoping Sessions for the Potholes East Canal Headworks Hydroelec
+ tric Project (P-2840-024) All day Environmental Site Review of the Pothole
  s East Canal Headworks Hydroelectric Project (P-2840-024) 4:00 - 5:00pm | 
  24 Notational Orders 2026-09-\n\nSource: https://www.ferc.gov/news-events/
  events/notational-orders-2026-09-21-09212026
 PRIORITY:5
 URL:https://www.ferc.gov/news-events/events/notational-orders-2026-09-21-0
  9212026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[FERC] 29 Environmental Review and Compliance for Natural Gas Faci
+ lities Seminar All day
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260929T161050Z
+UID:db9f9b597e6de37105c6@psc-calendar
+CATEGORIES:FERC,Decision / Order
+DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
+  Decision / Order\n\n27 | 28 Notational Orders 2026-09-28 All day | 29 Env
+ ironmental Review and Compliance for Natural Gas Facilities Seminar All da
+ y | 30 Environmental Review and Compliance for Natural Gas Facilities Semi
+ nar All day | 1 Environmental Review and Compliance for Natural Gas Facili
+ ties Seminar All day | 2 | 3\n\nSource: https://www.ferc.gov/news-events/e
+ vents/notational-orders-2026-09-28-09282026
+PRIORITY:5
+URL:https://www.ferc.gov/news-events/events/notational-orders-2026-09-28-0
+ 9282026
 END:VEVENT
 END:VCALENDAR
