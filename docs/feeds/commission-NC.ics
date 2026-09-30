@@ -9,11 +9,29 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[NC] Expert Witness Hearing - Application of Cardinal Pipeline Com
+ pany\, LLC\, for an Adjustment in Its Rates and Charges
+DTSTART;TZID=America/New_York:20260930T100000
+DTEND;TZID=America/New_York:20260930T120000
+DTSTAMP:20260930T160822Z
+UID:37b47266eed3431f6596@psc-calendar
+CATEGORIES:NC,Evidentiary Hearing
+DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
+ identiary Hearing\n\n9/30/2026 | 10:00am | Hearing Room 2115\, Dobbs Build
+ ing\, 430 N Salisbury St. Raleigh | G-39 Sub 52 | Expert Witness Hearing -
+  Application of Cardinal Pipeline Company\, LLC\, for an Adjustment in Its
+  Rates and Charges |\n\nSource: https://starw1.ncuc.gov/NCUC/page/docket-d
+ ocs/PSC/DocketDetails.aspx?DocketId=6b586b0e-59a2-4587-a40a-a15e29d26656
+PRIORITY:5
+URL:https://starw1.ncuc.gov/NCUC/page/docket-docs/PSC/DocketDetails.aspx?D
+ ocketId=6b586b0e-59a2-4587-a40a-a15e29d26656
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NC] Expert Witness Hearing: Application of Piedmont Natural Gas C
  ompany\, Inc. for Annual Review of Gas Costs
 DTSTART;TZID=America/New_York:20261006T100000
 DTEND;TZID=America/New_York:20261006T120000
-DTSTAMP:20260929T161050Z
+DTSTAMP:20260930T160822Z
 UID:88a1947bf2f5104c10c3@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -33,7 +51,7 @@ SUMMARY:[NC] Expert Witness Hearing - Application of Merry Hill PV I\, LLC
  0 MW Solar Facility in Bertie
 DTSTART;TZID=America/New_York:20261012T140000
 DTEND;TZID=America/New_York:20261012T160000
-DTSTAMP:20260929T161050Z
+DTSTAMP:20260930T160822Z
 UID:ef64ceb7e506f36a2117@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -52,7 +70,7 @@ SUMMARY:[NC] Public and Expert Witness Hearing - Application of Toccoa Nat
  ural Gas for Annual Review of Gas Costs
 DTSTART;TZID=America/New_York:20261104T100000
 DTEND;TZID=America/New_York:20261104T120000
-DTSTAMP:20260929T161050Z
+DTSTAMP:20260930T160822Z
 UID:0f7e56c8ff24624415c3@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -66,12 +84,34 @@ URL:https://starw1.ncuc.gov/NCUC/page/docket-docs/PSC/DocketDetails.aspx?D
  ocketId=de1c4341-2604-4ec4-84f6-96acb5e9eefc
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NC] Public and Expert Witness Hearing: Application of Virginia El
+ ectric and Power Company\, d/b/a Dominion Energy North Carolina\, for Appr
+ oval of Clean Energy and Energy Efficiency Portfolio Standard Compliance R
+ eport and Cost Recovery Rider
+DTSTART;TZID=America/New_York:20261117T100000
+DTEND;TZID=America/New_York:20261117T120000
+DTSTAMP:20260930T160822Z
+UID:02bdc386d36a5e2ff373@psc-calendar
+CATEGORIES:NC,Evidentiary Hearing
+DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
+ identiary Hearing\n\n11/17/2026 | 10:00am | Hearing Room 2160\, Dobbs Buil
+ ding\, 430 N Salisbury St. Raleigh | E-22 Sub 793 | Public and Expert Witn
+ ess Hearing: Application of Virginia Electric and Power Company\, d/b/a Do
+ minion Energy North Carolina\, for Approval of Clean Energy and Energy Eff
+ iciency Portfolio Standard Compliance Report and Cost Recovery Rider |\n\n
+ Source: https://starw1.ncuc.gov/NCUC/page/docket-docs/PSC/DocketDetails.as
+ px?DocketId=66a153b5-488f-4c54-a24b-234766a1031a
+PRIORITY:5
+URL:https://starw1.ncuc.gov/NCUC/page/docket-docs/PSC/DocketDetails.aspx?D
+ ocketId=66a153b5-488f-4c54-a24b-234766a1031a
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NC] Expert Witness Hearing: Application of Virginia Electric and 
  Power Company\, d/b/a Dominion Energy North Carolina for Adjustment of Rat
  es and Charges Applicable to Electric Service In North Carolina
 DTSTART;TZID=America/New_York:20261118T100000
 DTEND;TZID=America/New_York:20261118T120000
-DTSTAMP:20260929T161050Z
+DTSTAMP:20260930T160822Z
 UID:5e0cb70fe2d21131dce5@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -92,7 +132,7 @@ SUMMARY:[NC] Expert Witness Hearing - Application of Western Carolina Univ
   and Charges Applicable to Electric Service
 DTSTART;TZID=America/New_York:20270201T140000
 DTEND;TZID=America/New_York:20270201T160000
-DTSTAMP:20260929T161050Z
+DTSTAMP:20260930T160822Z
 UID:2723a37e4c69f4ecc625@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -105,5 +145,27 @@ DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
 PRIORITY:5
 URL:https://starw1.ncuc.gov/NCUC/PSC/DocketDetails.aspx?DocketId=5c7aba68-
  e61d-4397-bd09-905a45c28c79
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NC] Expert Witness Hearing: Joint Application of Dominion Energy
+ \, Inc.\, Virginia Electric and Power Company\, d/b/a Dominion Energy Nort
+ h Carolina\, NextEra Energy\, Inc.\, WG Development Corp.\, and CS Holdco
+ \, LLC for Approval of Proposed Merge
+DTSTART;TZID=America/New_York:20270223T100000
+DTEND;TZID=America/New_York:20270223T120000
+DTSTAMP:20260930T160822Z
+UID:b534c9102403ac585a97@psc-calendar
+CATEGORIES:NC,Evidentiary Hearing
+DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
+ identiary Hearing\n\n02/23/2027 | 10:00am | Commission Hearing Room 2115 D
+ obbs Building 430 North Salisbury Street Raleigh | E-22 Sub 791 | Expert W
+ itness Hearing: Joint Application of Dominion Energy\, Inc.\, Virginia Ele
+ ctric and Power Company\, d/b/a Dominion Energy North Carolina\, NextEra E
+ nergy\, Inc.\, WG Development Corp.\, and CS Holdco\, LLC for Approval of 
+ Proposed Merge |\n\nSource: https://starw1.ncuc.gov/NCUC/page/docket-docs/
+ PSC/DocketDetails.aspx?DocketId=e122f65b-6e6e-46fa-93ba-9c48b51985ad
+PRIORITY:5
+URL:https://starw1.ncuc.gov/NCUC/page/docket-docs/PSC/DocketDetails.aspx?D
+ ocketId=e122f65b-6e6e-46fa-93ba-9c48b51985ad
 END:VEVENT
 END:VCALENDAR
