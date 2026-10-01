@@ -9,73 +9,12 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[FERC] 9 Rescheduled Virtual Public Scoping Session for the Rio Gr
- ande LNG Expansion Project (CP26-532-000) 6:00 - 8:00pm
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-DTSTAMP:20261001T123307Z
-UID:be6aad7717dc1f1d6bcc@psc-calendar
-CATEGORIES:FERC,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
-  Open Meeting / Commission Meeting\nDocket: CP26-532\n\n6 | 7 Labor Day Al
- l day | 8 Notational Orders 2026-09-08 All day | 9 Rescheduled Virtual Pub
- lic Scoping Session for the Rio Grande LNG Expansion Project (CP26-532-000
- ) 6:00 - 8:00pm | 10 September 10\, 2026 Open Meeting 10:00 - 11:00am | 11
-  Notational Order 2026-09-11 All day | 12\n\nSource: https://www.ferc.gov/
- news-events/events/labor-day-09072026
-PRIORITY:5
-URL:https://www.ferc.gov/news-events/events/labor-day-09072026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FERC] 16 Daytime Scoping Session for the Surrender and Decommissi
- on the Potter Valley Hydroelectric Project (P-77-332) 12:00 - 2:00pm
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-DTSTAMP:20261001T123307Z
-UID:e7b83a9e6074174b0a14@psc-calendar
-CATEGORIES:FERC,Decision / Order
-DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
-  Decision / Order\nDocket: P-77-332\n\n13 | 14 Notational Orders 2026-09-1
- 4 All day | 15 Notational Orders 2026-09-15 All day Evening Scoping Sessio
- n for the Surrender and Decommission the Potter Valley Hydroelectric Proje
- ct (P-77-332) 9:00 - 11:00pm | 16 Daytime Scoping Session for the Surrende
- r and Decommission the Potter Valley Hydroelectric Project (P-77-332) 12:0
- 0 - 2:00pm | 17 Notational Order 2026-09-17 All day | 18 Notational Orders
-  2026-09-18 All day | 19\n\nSource: https://www.ferc.gov/news-events/event
- s/notational-orders-2026-09-14-09142026
-PRIORITY:5
-URL:https://www.ferc.gov/news-events/events/notational-orders-2026-09-14-0
- 9142026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FERC] September 2026: 21 Notational Orders 2026-09-21 All day
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-DTSTAMP:20261001T123307Z
-UID:89fd265231ee1979c35a@psc-calendar
-CATEGORIES:FERC,Decision / Order
-DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
-  Decision / Order\n\n20 | 21 Notational Orders 2026-09-21 All day | 22 Not
- ational Orders 2026-09-22 All day | 23 Daytime and Evening Scoping Session
- s for the Summer Falls Hydroelectric Project (P-3295-013) All day Daytime 
- and Evening Scoping Sessions for the Main Canal Headworks Hydroelectric Pr
- oject (P-2849-017) All day Daytime and Evening Scoping Sessions for the Po
- tholes East Canal Headworks Hydroelectric Project (P-2840-024) All day Not
- ational Orders 2026-09-23 All day Environmental Site Review of the Pothole
- s East Canal Headworks Hydroelectric Project (P-2840-024) 4:00 - 5:00pm | 
- 24 Notational Orders 2026-09-\n\nSource: https://www.ferc.gov/news-events/
- events/notational-orders-2026-09-21-09212026
-PRIORITY:5
-URL:https://www.ferc.gov/news-events/events/notational-orders-2026-09-21-0
- 9212026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[FERC] 1 Environmental Review and Compliance for Natural Gas Facil
- ities Seminar All day
+ ities Seminar All day Notational Orders 2026- 10-01 All day
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20261001T123307Z
-UID:42c754c6af36bd7a6e2a@psc-calendar
+DTSTAMP:20261001T165256Z
+UID:fff7ff36f356e97616a5@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
   Decision / Order\n\n27 | 28 Notational Orders 2026-09-28 All day | 29 Env
@@ -83,8 +22,9 @@ DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
  y Notational Orders 2026-09-29 All day | 30 Environmental Review and Compl
  iance for Natural Gas Facilities Seminar All day Notational Orders 2026-09
  -30 All day | 1 Environmental Review and Compliance for Natural Gas Facili
- ties Seminar All day | 2 | 3\n\nSource: https://www.ferc.gov/news-events/e
- vents/notational-orders-2026-09-28-09282026
+ ties Seminar All day Notational Orders 2026- 10-01 All day | 2 | 3\n\nSour
+ ce: https://www.ferc.gov/news-events/events/notational-orders-2026-09-28-0
+ 9282026
 PRIORITY:5
 URL:https://www.ferc.gov/news-events/events/notational-orders-2026-09-28-0
  9282026
