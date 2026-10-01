@@ -1427,7 +1427,58 @@ events:
     title: Docket ADV 1885 - PGE ADVICE NO. 26-30 SCHEDULE RESIDENTIAL EV CHARGING PILOT UPDATE
   - commission: TX
     date: 2026-10-02
-    title: Open Meeting - Friday, October 2, 2026
+    title: Open Meeting - Friday, October 2, 2026  # --- added 2026-10-01 - paste directly under the existing `events:` line ---
+  - commission: FL
+    date: 2026-10-01
+    title: "Hearing: 20260026-GU (Day:4)"
+  - commission: FL
+    date: 2026-10-02
+    title: "Hearing: 20260026-GU (Day:5)"
+  - commission: IL
+    date: 2026-10-01
+    title: Illinois Commerce Commission Hearing for T26-0004
+  - commission: IL
+    date: 2026-10-01
+    title: Illinois Commerce Commission Hearing for T26-0005
+  - commission: IL
+    date: 2026-10-01
+    title: Illinois Commerce Commission Prehearing for 26-0643
+  - commission: IL
+    date: 2026-10-01
+    title: Illinois Commerce Commission Prehearing for 26-0644
+  - commission: IL
+    date: 2026-10-01
+    title: Illinois Commerce Commission Prehearing for 26-0640
+  - commission: IN
+    date: 2026-10-01
+    title: "IN THE MATTER OF THE INDIANA UTILITY REGULATORY COMMISSION’S INVESTIGATION INTO THE CHANGES IN RISKS TO AN ELECTRICITY SUPPLIER AS A RESULT OF IMPLEMENTING A MULTI-YEAR RATE PLAN (Cause 46428)"
+  - commission: IN
+    date: 2026-10-01
+    title: "VERIFIED JOINT PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPANY D/B/A CENTERPOINT ENERGY INDIANA SOUTH (“CEI SOUTH”) AND CITY OF BOONVILLE, INDIANA (“BOONVILLE”) FOR APPROVAL OF THE ACQUISITION BY CEI SOUTH OF CERTA"
+  - commission: MI
+    date: 2026-10-01
+    title: October 1, 2026 Commission Meeting
+  - commission: MN
+    date: 2026-10-01
+    title: PUC Agenda Meeting
+  - commission: OK
+    date: 2026-10-01
+    title: Commission meeting
+  - commission: OR
+    date: 2026-10-01
+    title: Docket LC 85 - PACIFICORP 2025 INTEGRATED RESOURCE PLAN (IRP)
+  - commission: PA
+    date: 2026-10-01
+    title: "View 2026-2027 Meeting Schedule (PDF): October 01, 2026"
+  - commission: SC
+    date: 2026-10-01
+    title: Commission Business Meeting
+  - commission: TX-RRC
+    date: 2026-10-01
+    title: "*IACX ROCK CREEK LLC- DOCKET NO. OS-26-00030859 (CONTINUED)"
+  - commission: TX
+    date: 2026-10-01
+    title: Open Meeting - Thursday, October 1, 2026
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
