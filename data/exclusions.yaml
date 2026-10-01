@@ -1592,7 +1592,73 @@ events:
     title: "*WES WATER HOLDINGS LLC-DOCKET NO. OG-26-00031736"
   - commission: TX-RRC
     date: 2026-10-07
-    title: "*ETC TEXAS P/L, LTD-DOCKET NO. OG-26-00030354 (DISMISSED)"
+    title: "*ETC TEXAS P/L, LTD-DOCKET NO. OG-26-00030354 (DISMISSED)"  # --- added 2026-10-01 - paste directly under the existing `events:` line ---
+  - commission: CA
+    date: 2026-10-08
+    title: "2026 Voting Meetings: 10/08/2026 California State Personnel Board’s Auditorium, 801 Capitol Mall, Sacramento, CA 95814"
+  - commission: CO
+    date: 2026-10-08
+    title: "Remote PCH: Pro. No. 26R-0285R Proposed Amendments to Rail Rules 4 CCR 723-7 SSO Program, ALJ Rosenberg (TB)"
+  - commission: IN
+    date: 2026-10-08
+    title: PETITION OF THE BOARD OF DIRECTORS FOR UTILITIES OF THE DEPARTMENT OF PUBLIC UTILITIES OF THE CITY OF INDIANAPOLIS, AS SUCCESSOR TRUSTEE OF A PUBLIC CHARITABLE TRUST, FOR APPROVAL OF FUEL COST ADJUSTMENT FOR STEAM SERVIC
+  - commission: IN
+    date: 2026-10-08
+    title: "PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC FOR APPROVAL OF A CERTIFICATE OF AUTHORITY TO ISSUE BONDS, NOTES, OR OTHER EVIDENCES OF INDEBTEDNESS IN AN AMOUNT NOT TO EXCEED $1,000,000,000 DURING THE PERIOD JA"
+  - commission: IN
+    date: 2026-10-08
+    title: VERIFIED PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC FOR APPROVAL OF (1) A FUEL COST ADJUSTMENT TO BE APPLICABLE FOR ELECTRIC SERVICES RENDERED ON OR AFTER NOVEMBER 1, 2026, WHICH WILL REMAIN IN PLACE FOR TH
+  - commission: IN
+    date: 2026-10-08
+    title: PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC FOR APPROVAL OF RESOURCE ADEQUACY ADJUSTMENT FACTORS TO BE APPLICABLE FOR ELECTRIC SERVICES RENDERED ON OR AFTER NOVEMBER 1, 2026, WHICH WILL REMAIN IN PLACE FOR T
+  - commission: IN
+    date: 2026-10-08
+    title: PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC FOR APPROVAL OF REGIONAL TRANSMISSION ORGANIZATION ADJUSTMENT FACTORS TO BE APPLICABLE FOR SERVICES RENDERED ON OR AFTER NOVEMBER 1, 2026, WHICH WILL REMAIN IN PLA
+  - commission: IN
+    date: 2026-10-08
+    title: PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPANY D/B/A CENTERPOINT ENERGY INDIANA SOUTH FOR (1) APPROVAL UNDER IND. CODE CH. 8-1-8.4 OF AND A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY FOR FEDERALLY-MANDATED NA
+  - commission: IN
+    date: 2026-10-08
+    title: PETITION OF INDIANA MICHIGAN POWER COMPANY, AN INDIANA CORPORATION, FOR APPROVAL WITHIN THE MULTI-YEAR RATE PLAN (MYRP) FRAMEWORK UNDER IND. CODE CH. 8-1-46 AND AN ALTERNATIVE REGULATORY PLAN (ARP) PURSUANT TO IND. CODE
+  - commission: NOLA
+    date: 2026-10-08
+    title: 2027-Proposed-Budget-Hearings (Day-5)
+  - commission: PA
+    date: 2026-10-08
+    title: "Docket Number F-2026-3062803 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-10-08
+    title: "Docket Number C-2026-3063609 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: PA
+    date: 2026-10-08
+    title: "Docket Number F-2026-3061940 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Barbara Shadie Nause"
+  - commission: PA
+    date: 2026-10-08
+    title: "Docket Number C-2026-3062903 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: William E. Angle"
+  - commission: PA
+    date: 2026-10-08
+    title: "Docket Number C-2026-3063359 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Charece Z Collins"
+  - commission: PA
+    date: 2026-10-08
+    title: "Docket Number C-2026-3062904 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Erin Gannon"
+  - commission: PA
+    date: 2026-10-09
+    title: "Docket Number C-2026-3062403 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Teri-Lee Rhoades"
+  - commission: PA
+    date: 2026-10-09
+    title: "Docket Number C-2026-3064004 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Steven K Haas"
+  - commission: PA
+    date: 2026-10-09
+    title: "Docket Number F-2026-3062679 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Chad Allensworth"
+  - commission: TX-RRC
+    date: 2026-10-08
+    title: "*PROLINE ENERGY RESOURCES INC-DOCKET NO. OG-26-00032023 ET AL"
+  - commission: TX-RRC
+    date: 2026-10-08
+    title: "*ROY JACKSON ENERGY OPERATING, LL-DOCKET NO. OG-26-00031774"
+  - commission: TX-RRC
+    date: 2026-10-09
+    title: "*DDD EXPLORATION, INC.-DOCKET NOS. OG-26-00032688 AND OG-26-00032749"
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
