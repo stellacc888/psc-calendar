@@ -1478,7 +1478,19 @@ events:
     title: "*IACX ROCK CREEK LLC- DOCKET NO. OS-26-00030859 (CONTINUED)"
   - commission: TX
     date: 2026-10-01
-    title: Open Meeting - Thursday, October 1, 2026
+    title: Open Meeting - Thursday, October 1, 2026  # --- added 2026-10-01 - paste directly under the existing `events:` line ---
+  - commission: AL
+    date: 2026-10-01
+    title: Upcoming Hearings Hearings scheduled from 10/1/2026 through 11/1/2026 No Hearings Scheduled
+  - commission: FL
+    date: 2026-10-01
+    title: "Docket 20260026: Application for rate increase by Florida City Gas"
+  - commission: FL
+    date: 2026-10-02
+    title: "Docket 20260026: Application for rate increase by Florida City Gas"
+  - commission: PA
+    date: 2026-10-01
+    title: Revised Agenda
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
