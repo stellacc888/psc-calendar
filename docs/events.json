@@ -296,6 +296,8 @@
    "source_url": "https://calendar.google.com/calendar/ical/state.co.us_mie9aqkvh15rk34shmhs6mnfq8%40group.calendar.google.com/public/basic.ics",
    "error": "",
    "dropped": {
+    "Procedural Milestone": 5,
+    "Desk filter: title contains \"cancel\"": 5,
     "Other": 8,
     "Public Comment Hearing": 13,
     "Procedural Milestone": 5,
@@ -1014,7 +1016,7 @@
    "event_count": 0,
    "strategy_used": "",
    "source_url": "",
-   "error": "https://apps.psc.wi.gov/apps/calendar/External [auto] -> FetchError: HTTP 403 ;; https://psc.wi.gov/Pages/NewsEvents/StayInformed.aspx [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calendar links | epoch_links: no epoch-dated links | drupal_settings: no drupal-settings-json block ;; https://apps.psc.wi.gov/apps/calendar/External/HearingDetails [auto] -> FetchError: HTTP 403",
+   "error": "https://apps.psc.wi.gov/apps/calendar/External [auto] -> FetchError: HTTP 403 ;; https://psc.wi.gov/Pages/NewsEvents/StayInformed.aspx [auto] -> FetchError: ConnectTimeout: HTTPSConnectionPool(host='psc.wi.gov', port=443): Max retries exceeded with url: /Pages/NewsEvents/StayInformed.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='psc.wi.gov', port=443) at 0x7f251885e180>, 'Connection to psc.wi.gov timed out. (connect timeout=10)')) ;; https://apps.psc.wi.gov/apps/calendar/External/He",
    "dropped": {},
    "filtered_only": false,
    "duration_s": 3.14
