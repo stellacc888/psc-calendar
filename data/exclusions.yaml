@@ -1511,7 +1511,88 @@ events:
     title: "06 Oct Commission Meeting Location: Commission Hearing Room 10:00am"
   - commission: NE
     date: 2026-10-06
-    title: "06 Oct Hearing – B-2204 – Los & Sons Transportation, LLC Location: Commission Hearing Room 1:00pm"
+    title: "06 Oct Hearing – B-2204 – Los & Sons Transportation, LLC Location: Commission Hearing Room 1:00pm"  # --- added 2026-10-01 - paste directly under the existing `events:` line ---
+  - commission: FL
+    date: 2026-10-07
+    title: "Prehearing: 20260083-SU"
+  - commission: IN
+    date: 2026-10-05
+    title: "VERIFIED JOINT PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC (“NIPSCO”) AND NIPSCO GENERATION LLC (“GENCO”) FOR APPROVAL OF THE SECOND, THIRD, AND FOURTH AMENDMENTS TO THE SPECIAL CONTRACT DATED SEPTEMBER 18"
+  - commission: IN
+    date: 2026-10-05
+    title: PETITION OF INDIANA GAS COMPANY, INC. D/B/A CENTERPOINT ENERGY INDIANA NORTH FOR (1) APPROVAL UNDER IND. CODE CH. 8-1-8.4 OF AND A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY FOR FEDERALLY-MANDATED NATURAL GAS TRANSM
+  - commission: LA
+    date: 2026-10-07
+    title: "Hearing: U-37904"
+  - commission: MA
+    date: 2026-10-06
+    title: 26-94 - NSTAR Gas Company d/b/a Eversource Energy - Forecast And Supply Plan
+  - commission: MA
+    date: 2026-10-07
+    title: 26-106 - Massachusetts Electric Company and Nantucket Electric Company, each d/b/a National Grid - Investigation
+  - commission: NC
+    date: 2026-10-06
+    title: "Expert Witness Hearing: Application of Piedmont Natural Gas Company, Inc. for Annual Review of Gas Costs"
+  - commission: NE
+    date: 2026-10-07
+    title: "07 Oct Hearing – B-2205 – DDS Transportation, LLC Location: Commission Hearing Room 1:00pm"
+  - commission: PA
+    date: 2026-10-05
+    title: "Docket Number C-2026-3061702 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Gail Chiodo"
+  - commission: PA
+    date: 2026-10-05
+    title: "Docket Number C-2025-3058726 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Gail Chiodo"
+  - commission: PA
+    date: 2026-10-06
+    title: "Docket Number C-2026-3062137 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: William E. Angle"
+  - commission: PA
+    date: 2026-10-06
+    title: "Docket Number F-2026-3063396 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Charece Z Collins"
+  - commission: PA
+    date: 2026-10-06
+    title: "Docket Number C-2026-3063125 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Erin Gannon"
+  - commission: PA
+    date: 2026-10-06
+    title: "Docket Number C-2026-3063206 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Alphonso Arnold III"
+  - commission: PA
+    date: 2026-10-06
+    title: "Docket Number C-2026-3061523 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Christopher P Pell"
+  - commission: PA
+    date: 2026-10-06
+    title: "Docket Number C-2026-3064081 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-10-07
+    title: "Docket Number C-2026-3059648 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Gail Chiodo"
+  - commission: PA
+    date: 2026-10-07
+    title: "Docket Number F-2026-3063355 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: William E. Angle"
+  - commission: PA
+    date: 2026-10-07
+    title: "Docket Number C-2026-3060939 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Charece Z Collins"
+  - commission: PA
+    date: 2026-10-07
+    title: "Docket Number C-2026-3063320 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Barbara Shadie Nause"
+  - commission: PA
+    date: 2026-10-07
+    title: "Docket Number C-2026-3063390 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Alphonso Arnold III"
+  - commission: PA
+    date: 2026-10-07
+    title: "Docket Number F-2026-3063973 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: TX-RRC
+    date: 2026-10-06
+    title: RRC open meeting (conference)
+  - commission: TX-RRC
+    date: 2026-10-07
+    title: "*LARGE OPERATING LLC-DOCKET NO. OG-26-00031856 (DISMISSED)"
+  - commission: TX-RRC
+    date: 2026-10-07
+    title: "*D10 ENERGY LLC-DOCKET NO. OG-26-00031852 ET AL (DISMISSED)"
+  - commission: TX-RRC
+    date: 2026-10-07
+    title: "*WES WATER HOLDINGS LLC-DOCKET NO. OG-26-00031736"
+  - commission: TX-RRC
+    date: 2026-10-07
+    title: "*ETC TEXAS P/L, LTD-DOCKET NO. OG-26-00030354 (DISMISSED)"
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
