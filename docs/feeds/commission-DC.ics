@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20260902T110000
 DTEND;TZID=America/New_York:20260902T130000
-DTSTAMP:20260930T160822Z
+DTSTAMP:20261001T121824Z
 UID:cd92db7beb8177102e51@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261007T110000
 DTEND;TZID=America/New_York:20261007T130000
-DTSTAMP:20260930T160822Z
+DTSTAMP:20261001T121824Z
 UID:57152088f4301f6866fe@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -38,10 +38,35 @@ PRIORITY:5
 URL:https://dcpsc.org/Schedule-of-Open-Commission-Meetings.aspx
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[DC] Calendar of Events: 13 9:00 AM Formal Case No. 1176 Evidentia
+ ry Hearing Formal Case No. 1176 Evidentiary Hearing 10/13/2026 9:00 AM | W
+ hitney Douglas The Commission will hold an Evidentiary Hearing for Formal 
+ Case No. FC1176.
+DTSTART;TZID=America/New_York:20261013T090000
+DTEND;TZID=America/New_York:20261013T110000
+DTSTAMP:20261001T121824Z
+UID:611993ee7065c2c345a6@psc-calendar
+CATEGORIES:DC,Evidentiary Hearing
+DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
+ )\nType: Evidentiary Hearing\nDocket: 1176\, FC1176\n\n11 | 12 | 13 9:00 A
+ M Formal Case No. 1176 Evidentiary Hearing Formal Case No. 1176 Evidentiar
+ y Hearing 10/13/2026 9:00 AM | Whitney Douglas The Commission will hold an
+  Evidentiary Hearing for Formal Case No. FC1176. | 14 9:00 AM Formal Case 
+ No. 1176 Evidentiary Hearing Formal Case No. 1176 Evidentiary Hearing 10/1
+ 4/2026 9:00 AM | Whitney Douglas The Commission will hold an Evidentiary H
+ earing for Formal Case No. FC1176. | 15 11:00 AM Ward 4 Senior Jubilee War
+ d 4 Senior Jubilee 10/15/2026 11:00 AM | Karimah Bilal DCPSC will attend C
+ ouncilmember Janeese Lewis George’s Ward 4 Senior Jubilee event\n\nSourc
+ e: https://dcpsc.org/Calendar/Formal-Case-No-1176-Evidentiary-Hearing.aspx
+PRIORITY:5
+URL:https://dcpsc.org/Calendar/Formal-Case-No-1176-Evidentiary-Hearing.asp
+ x
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261021T110000
 DTEND;TZID=America/New_York:20261021T130000
-DTSTAMP:20260930T160822Z
+DTSTAMP:20261001T121824Z
 UID:c95e53aa80931f392efb@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -52,10 +77,34 @@ PRIORITY:5
 URL:https://dcpsc.org/Schedule-of-Open-Commission-Meetings.aspx
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[DC] Calendar of Events: 3 12:00 PM Deanwood Library: Coffee and C
+ onversation Deanwood Library: Coffee and Conversation 11/3/2026 12:00 PM |
+  Karimah Bilal DCPSC will attend the Deanwood Library's Coffee and Convers
+ ation event to distribute utility-re
+DTSTART;TZID=America/New_York:20261103T120000
+DTEND;TZID=America/New_York:20261103T140000
+DTSTAMP:20261001T121824Z
+UID:131b452b7511b393cfd8@psc-calendar
+CATEGORIES:DC,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
+ )\nType: Open Meeting / Commission Meeting\n\n1 | 2 | 3 12:00 PM Deanwood 
+ Library: Coffee and Conversation Deanwood Library: Coffee and Conversation
+  11/3/2026 12:00 PM | Karimah Bilal DCPSC will attend the Deanwood Library
+ 's Coffee and Conversation event to distribute utility-related information
+  and giveaways. | 4 11:00 AM Open Commission Meeting for November 4\, 2026
+  Open Commission Meeting for November 4\, 2026 11/4/2026 11:00 AM | Brinda
+  Westbrook A recording of the Open Meeting will be available on the Commis
+ sion’s website after the meeting concludes. | 5 | 6 | 7\n\nSource: https
+ ://dcpsc.org/Calendar/Deanwood-Library-Coffee-and-Conversation-(1).aspx
+PRIORITY:5
+URL:https://dcpsc.org/Calendar/Deanwood-Library-Coffee-and-Conversation-(1
+ ).aspx
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261104T110000
 DTEND;TZID=America/New_York:20261104T130000
-DTSTAMP:20260930T160822Z
+DTSTAMP:20261001T121824Z
 UID:f5811f63b8d650e7c157@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -69,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261118T110000
 DTEND;TZID=America/New_York:20261118T130000
-DTSTAMP:20260930T160822Z
+DTSTAMP:20261001T121824Z
 UID:bafe59efad307ffc955a@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -83,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261202T110000
 DTEND;TZID=America/New_York:20261202T130000
-DTSTAMP:20260930T160822Z
+DTSTAMP:20261001T121824Z
 UID:b3b7c0e99dc34e10ac59@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -97,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261216T110000
 DTEND;TZID=America/New_York:20261216T130000
-DTSTAMP:20260930T160822Z
+DTSTAMP:20261001T121824Z
 UID:94844bb829c576cfa20e@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC

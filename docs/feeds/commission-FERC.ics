@@ -13,7 +13,7 @@ SUMMARY:[FERC] 9 Rescheduled Virtual Public Scoping Session for the Rio Gr
  ande LNG Expansion Project (CP26-532-000) 6:00 - 8:00pm
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260930T160822Z
+DTSTAMP:20261001T121824Z
 UID:be6aad7717dc1f1d6bcc@psc-calendar
 CATEGORIES:FERC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -31,7 +31,7 @@ SUMMARY:[FERC] 16 Daytime Scoping Session for the Surrender and Decommissi
  on the Potter Valley Hydroelectric Project (P-77-332) 12:00 - 2:00pm
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260930T160822Z
+DTSTAMP:20261001T121824Z
 UID:e7b83a9e6074174b0a14@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:[FERC] September 2026: 21 Notational Orders 2026-09-21 All day
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260930T160822Z
+DTSTAMP:20261001T121824Z
 UID:89fd265231ee1979c35a@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -70,21 +70,21 @@ URL:https://www.ferc.gov/news-events/events/notational-orders-2026-09-21-0
  9212026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[FERC] 30 Environmental Review and Compliance for Natural Gas Faci
- lities Seminar All day
+SUMMARY:[FERC] 1 Environmental Review and Compliance for Natural Gas Facil
+ ities Seminar All day
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260930T160822Z
-UID:ff9273011fb0ef082c54@psc-calendar
+DTSTAMP:20261001T121824Z
+UID:42c754c6af36bd7a6e2a@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
   Decision / Order\n\n27 | 28 Notational Orders 2026-09-28 All day | 29 Env
  ironmental Review and Compliance for Natural Gas Facilities Seminar All da
  y Notational Orders 2026-09-29 All day | 30 Environmental Review and Compl
- iance for Natural Gas Facilities Seminar All day | 1 Environmental Review 
- and Compliance for Natural Gas Facilities Seminar All day | 2 | 3\n\nSourc
- e: https://www.ferc.gov/news-events/events/notational-orders-2026-09-28-09
- 282026
+ iance for Natural Gas Facilities Seminar All day Notational Orders 2026-09
+ -30 All day | 1 Environmental Review and Compliance for Natural Gas Facili
+ ties Seminar All day | 2 | 3\n\nSource: https://www.ferc.gov/news-events/e
+ vents/notational-orders-2026-09-28-09282026
 PRIORITY:5
 URL:https://www.ferc.gov/news-events/events/notational-orders-2026-09-28-0
  9282026

@@ -9,63 +9,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[FL] Monday\, September 07\, 2026 HOLIDAY: Labor Day
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-DTSTAMP:20260930T160822Z
-UID:596c6f4873cd728b592e@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\n\nMonday\, September 07\, 2026 HOLIDAY: Labor Day | | | |
- \n\nSource: https://www.floridapsc.com/schedule-of-events
-PRIORITY:5
-URL:https://www.floridapsc.com/schedule-of-events
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[FL] Docket 20260026: Application for rate increase by Florida Cit
  y Gas
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-DTSTAMP:20260930T160822Z
-UID:9a41442ed11a0f2a20f0@psc-calendar
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+DTSTAMP:20261001T121824Z
+UID:1853599e7442887a29c7@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026\n\nMonday\, September 14\, 2026 Event ty
- pe: Pre-Hearing Time : 01:00 PM Location: E 148 - Tallahassee | | | Docket
-  No : 20260026 \; Title: Application for rate increase by Florida City Gas
- . | La Rosa\n\nSource: https://www.floridapsc.com/watch-archive-psc-events
-PRIORITY:5
-URL:https://www.floridapsc.com/watch-archive-psc-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260010: Storm protection plan cost recovery clause. 
- Docket No : 20260011 \; Title: Natural gas facilities relocation cost reco
- very clause
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-DTSTAMP:20260930T160822Z
-UID:6f34331fcdedb2f00d19@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260010\, 20260011\n\nTuesday\, September 15\, 2
- 026 Event type: Hearing Time : Immediately following previous event Locati
- on: E 148 - Tallahassee | | | Docket No : 20260010 \; Title: Storm protect
- ion plan cost recovery clause. Docket No : 20260011 \; Title: Natural gas 
- facilities relocation cost recovery clause. | All Commissioners\n\nSource:
-  https://www.floridapsc.com/watch-archive-psc-events
-PRIORITY:5
-URL:https://www.floridapsc.com/watch-archive-psc-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260026: Application for rate increase by Florida Cit
- y Gas
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-DTSTAMP:20260930T160822Z
-UID:5a077a68b81a70aa5f99@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026\n\nMonday\, September 28\, 2026 Event ty
+ entiary Hearing\nDocket: 20260026\n\nThursday\, October 01\, 2026 Event ty
  pe: Hearing Time : 09:30 AM Location: E 148 - Tallahassee | | | Docket No 
  : 20260026 \; Title: Application for rate increase by Florida City Gas. | 
  All Commissioners\n\nSource: https://www.floridapsc.com/watch-archive-psc-
@@ -76,88 +28,25 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[FL] Docket 20260026: Application for rate increase by Florida Cit
  y Gas
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-DTSTAMP:20260930T160822Z
-UID:bf6a60e305db51f98e0a@psc-calendar
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20261001T121824Z
+UID:cce60ad2b4991aa46348@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026\n\nTuesday\, September 29\, 2026 Event t
- ype: Hearing Time : 09:30 AM Location: E 148 - Tallahassee | | | Docket No
-  : 20260026 \; Title: Application for rate increase by Florida City Gas. |
-  All Commissioners\n\nSource: https://www.floridapsc.com/watch-archive-psc
- -events
+ entiary Hearing\nDocket: 20260026\n\nFriday\, October 02\, 2026 Event type
+ : Hearing Time : 09:30 AM Location: E 148 - Tallahassee | | | Docket No : 
+ 20260026 \; Title: Application for rate increase by Florida City Gas. | Al
+ l Commissioners\n\nSource: https://www.floridapsc.com/watch-archive-psc-ev
+ ents
 PRIORITY:5
 URL:https://www.floridapsc.com/watch-archive-psc-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260143: Petition for determination of need for Avon 
- Park to Vandolah transmission line in Highlands and Hardee Counties\, by D
- uke Energy Florida\, LLC
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-DTSTAMP:20260930T160822Z
-UID:e75ae0103511873b1b84@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260143\n\nTuesday\, September 29\, 2026 Event t
- ype: Informal Meeting Time : 04:00 PM Location: G 105 - Tallahassee | | | 
- Docket No : 20260143 \; Title: Petition for determination of need for Avon
-  Park to Vandolah transmission line in Highlands and Hardee Counties\, by 
- Duke Energy Florida\, LLC. | Staff\n\nSource: https://www.floridapsc.com/c
- lerks-office-dockets-level2?docketNo=20260143
-PRIORITY:5
-URL:https://www.floridapsc.com/clerks-office-dockets-level2?docketNo=20260
- 143
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Docket 20260026: Application for rate increase by Florida Cit
- y Gas
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-DTSTAMP:20260930T160822Z
-UID:812469e1f4e9637b6edd@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026\n\nWednesday\, September 30\, 2026 Event
-  type: Hearing Time : 09:30 AM Location: E 148 - Tallahassee | | | Docket 
- No : 20260026 \; Title: Application for rate increase by Florida City Gas.
-  | All Commissioners\n\nSource: https://www.floridapsc.com/watch-archive-p
- sc-events
-PRIORITY:5
-URL:https://www.floridapsc.com/watch-archive-psc-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Hearing: 20260026-GU (Day:4)
-DTSTART;TZID=America/New_York:20261001T090000
-DTEND;TZID=America/New_York:20261001T110000
-DTSTAMP:20260930T160822Z
-UID:96eafd80ad11d9e3297d@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026-GU\n\nSource: https://psc-fl.granicus.co
- m/AgendaViewer.php?view_id=2&event_id=2905
-PRIORITY:5
-URL:https://psc-fl.granicus.com/AgendaViewer.php?view_id=2&event_id=2905
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Hearing: 20260026-GU (Day:5)
-DTSTART;TZID=America/New_York:20261002T090000
-DTEND;TZID=America/New_York:20261002T110000
-DTSTAMP:20260930T160822Z
-UID:b930cd70a078145681ce@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260026-GU\n\nSource: https://psc-fl.granicus.co
- m/AgendaViewer.php?view_id=2&event_id=2906
-PRIORITY:5
-URL:https://psc-fl.granicus.com/AgendaViewer.php?view_id=2&event_id=2906
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[FL] Commission Conference - IA immediately following
 DTSTART;TZID=America/New_York:20261006T090000
 DTEND;TZID=America/New_York:20261006T110000
-DTSTAMP:20260930T160822Z
+DTSTAMP:20261001T121824Z
 UID:116f1d645f9314e113af@psc-calendar
 CATEGORIES:FL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Open
@@ -170,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Prehearing: 20260083-SU
 DTSTART;TZID=America/New_York:20261007T090000
 DTEND;TZID=America/New_York:20261007T110000
-DTSTAMP:20260930T160822Z
+DTSTAMP:20261001T121824Z
 UID:996eae0df760743d3678@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid

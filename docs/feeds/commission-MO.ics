@@ -9,11 +9,26 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[MO] ER-2026-0143 - Evergy Metro - Evidentiary Hearing ( Clark - H
+ earing Room 310)
+DTSTART;TZID=America/Chicago:20261008T090000
+DTEND;TZID=America/Chicago:20261008T110000
+DTSTAMP:20261001T121824Z
+UID:6e4869a40059e3442498@psc-calendar
+CATEGORIES:MO,Evidentiary Hearing
+DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Evi
+ dentiary Hearing\nDocket: ER-2026-0143\n\nAdj 9:00am ER-2026-0143 - Evergy
+  Metro - Evidentiary Hearing ( Clark - Hearing Room 310 )\n\nSource: https
+ ://efis.psc.mo.gov/Display/ER-2026-0143
+PRIORITY:5
+URL:https://efis.psc.mo.gov/Display/ER-2026-0143
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
-DTSTART;TZID=America/Chicago:20260902T110000
-DTEND;TZID=America/Chicago:20260902T130000
-DTSTAMP:20260930T160822Z
-UID:93a70fa47ca619bb2f9f@psc-calendar
+DTSTART;TZID=America/Chicago:20261008T110000
+DTEND;TZID=America/Chicago:20261008T130000
+DTSTAMP:20261001T121824Z
+UID:27659ef901780b3f8960@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
  n Meeting / Commission Meeting\n\nAdj 11:00am Agenda Meeting ( Room 310 an
@@ -24,10 +39,68 @@ URL:https://psc.mo.gov/Calendars.aspx?Selected=Hearings
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
-DTSTART;TZID=America/Chicago:20260930T110000
-DTEND;TZID=America/Chicago:20260930T130000
-DTSTAMP:20260930T160822Z
-UID:9dbaffbc00ff8bbfb140@psc-calendar
+DTSTART;TZID=America/Chicago:20261014T110000
+DTEND;TZID=America/Chicago:20261014T130000
+DTSTAMP:20261001T121824Z
+UID:a353a20bb1d94660b102@psc-calendar
+CATEGORIES:MO,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
+ n Meeting / Commission Meeting\n\nAdj 11:00am Agenda Meeting ( Room 310 an
+ d via WebEx )\n\nSource: https://psc.mo.gov/Calendars.aspx?Selected=Hearin
+ gs
+PRIORITY:5
+URL:https://psc.mo.gov/Calendars.aspx?Selected=Hearings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MO] EA-2026-0154 - Evergy Metro - Evidentiary Hearing ( Seyer - R
+ oom 310)
+DTSTART;TZID=America/Chicago:20261021T090000
+DTEND;TZID=America/Chicago:20261021T110000
+DTSTAMP:20261001T121824Z
+UID:3022e5d7ed3bb0b83d59@psc-calendar
+CATEGORIES:MO,Evidentiary Hearing
+DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Evi
+ dentiary Hearing\nDocket: EA-2026-0154\n\nAdj 9:00am EA-2026-0154 - Evergy
+  Metro - Evidentiary Hearing ( Seyer - Room 310 )\n\nSource: https://efis.
+ psc.mo.gov/Display/EA-2026-0154
+PRIORITY:5
+URL:https://efis.psc.mo.gov/Display/EA-2026-0154
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
+DTSTART;TZID=America/Chicago:20261021T110000
+DTEND;TZID=America/Chicago:20261021T130000
+DTSTAMP:20261001T121824Z
+UID:a95bf7a14e30a9b9bacf@psc-calendar
+CATEGORIES:MO,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
+ n Meeting / Commission Meeting\n\nAdj 11:00am Agenda Meeting ( Room 310 an
+ d via WebEx )\n\nSource: https://psc.mo.gov/Calendars.aspx?Selected=Hearin
+ gs
+PRIORITY:5
+URL:https://psc.mo.gov/Calendars.aspx?Selected=Hearings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MO] EO-2026-0345 - Evergy Missouri - Evidentiary Hearing ( Seyer 
+ - Hearing Room 310)
+DTSTART;TZID=America/Chicago:20261028T090000
+DTEND;TZID=America/Chicago:20261028T110000
+DTSTAMP:20261001T121824Z
+UID:af1e3fc6b489d44aeb09@psc-calendar
+CATEGORIES:MO,Evidentiary Hearing
+DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Evi
+ dentiary Hearing\nDocket: EO-2026-0345\n\nAdj 9:00am EO-2026-0345 - Evergy
+  Missouri - Evidentiary Hearing ( Seyer - Hearing Room 310 )\n\nSource: ht
+ tps://efis.psc.mo.gov/Display/EO-2026-0345
+PRIORITY:5
+URL:https://efis.psc.mo.gov/Display/EO-2026-0345
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
+DTSTART;TZID=America/Chicago:20261028T110000
+DTEND;TZID=America/Chicago:20261028T130000
+DTSTAMP:20261001T121824Z
+UID:6a86ea027c24ec75e7fe@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
  n Meeting / Commission Meeting\n\nAdj 11:00am Agenda Meeting ( Room 310 an
