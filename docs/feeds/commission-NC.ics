@@ -13,7 +13,7 @@ SUMMARY:[NC] Expert Witness Hearing - Application of Cardinal Pipeline Com
  pany\, LLC\, for an Adjustment in Its Rates and Charges
 DTSTART;TZID=America/New_York:20260930T100000
 DTEND;TZID=America/New_York:20260930T120000
-DTSTAMP:20261001T165256Z
+DTSTAMP:20261001T175335Z
 UID:37b47266eed3431f6596@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -27,31 +27,12 @@ URL:https://starw1.ncuc.gov/NCUC/page/docket-docs/PSC/DocketDetails.aspx?D
  ocketId=6b586b0e-59a2-4587-a40a-a15e29d26656
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NC] Expert Witness Hearing: Application of Piedmont Natural Gas C
- ompany\, Inc. for Annual Review of Gas Costs
-DTSTART;TZID=America/New_York:20261006T100000
-DTEND;TZID=America/New_York:20261006T120000
-DTSTAMP:20261001T165256Z
-UID:88a1947bf2f5104c10c3@psc-calendar
-CATEGORIES:NC,Evidentiary Hearing
-DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
- identiary Hearing\n\n10/06/2026 | 10:00am | Commission Hearing Room 2115 D
- obbs Building\, 430 North Salisbury Street\, Raleigh | G-9 Sub 1082 | Expe
- rt Witness Hearing: Application of Piedmont Natural Gas Company\, Inc. for
-  Annual Review of Gas Costs |\n\nSource: https://starw1.ncuc.gov/NCUC/page
- /docket-docs/PSC/DocketDetails.aspx?DocketId=fe7d23da-4c6f-46cb-9644-7e384
- 5adcf92
-PRIORITY:5
-URL:https://starw1.ncuc.gov/NCUC/page/docket-docs/PSC/DocketDetails.aspx?D
- ocketId=fe7d23da-4c6f-46cb-9644-7e3845adcf92
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NC] Expert Witness Hearing - Application of Merry Hill PV I\, LLC
  \, for a Certificate of Public Convenience and Necessity to Construct a 11
  0 MW Solar Facility in Bertie
 DTSTART;TZID=America/New_York:20261012T140000
 DTEND;TZID=America/New_York:20261012T160000
-DTSTAMP:20261001T165256Z
+DTSTAMP:20261001T175335Z
 UID:ef64ceb7e506f36a2117@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -70,7 +51,7 @@ SUMMARY:[NC] Public and Expert Witness Hearing - Application of Toccoa Nat
  ural Gas for Annual Review of Gas Costs
 DTSTART;TZID=America/New_York:20261104T100000
 DTEND;TZID=America/New_York:20261104T120000
-DTSTAMP:20261001T165256Z
+DTSTAMP:20261001T175335Z
 UID:0f7e56c8ff24624415c3@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -90,7 +71,7 @@ SUMMARY:[NC] Public and Expert Witness Hearing: Application of Virginia El
  eport and Cost Recovery Rider
 DTSTART;TZID=America/New_York:20261117T100000
 DTEND;TZID=America/New_York:20261117T120000
-DTSTAMP:20261001T165256Z
+DTSTAMP:20261001T175335Z
 UID:02bdc386d36a5e2ff373@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -111,7 +92,7 @@ SUMMARY:[NC] Expert Witness Hearing: Application of Virginia Electric and
  es and Charges Applicable to Electric Service In North Carolina
 DTSTART;TZID=America/New_York:20261118T100000
 DTEND;TZID=America/New_York:20261118T120000
-DTSTAMP:20261001T165256Z
+DTSTAMP:20261001T175335Z
 UID:5e0cb70fe2d21131dce5@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -132,7 +113,7 @@ SUMMARY:[NC] Expert Witness Hearing - Application of Western Carolina Univ
   and Charges Applicable to Electric Service
 DTSTART;TZID=America/New_York:20270201T140000
 DTEND;TZID=America/New_York:20270201T160000
-DTSTAMP:20261001T165256Z
+DTSTAMP:20261001T175335Z
 UID:2723a37e4c69f4ecc625@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -153,7 +134,7 @@ SUMMARY:[NC] Expert Witness Hearing: Joint Application of Dominion Energy
  \, LLC for Approval of Proposed Merge
 DTSTART;TZID=America/New_York:20270223T100000
 DTEND;TZID=America/New_York:20270223T120000
-DTSTAMP:20261001T165256Z
+DTSTAMP:20261001T175335Z
 UID:b534c9102403ac585a97@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
