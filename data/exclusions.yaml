@@ -1490,7 +1490,28 @@ events:
     title: "Docket 20260026: Application for rate increase by Florida City Gas"
   - commission: PA
     date: 2026-10-01
-    title: Revised Agenda
+    title: Revised Agenda  # --- added 2026-10-01 - paste directly under the existing `events:` line ---
+  - commission: IL
+    date: 2026-10-06
+    title: Illinois Commerce Commission Prehearing for 26-0535
+  - commission: IL
+    date: 2026-10-06
+    title: Illinois Commerce Commission Prehearing for 26-0669
+  - commission: MA
+    date: 2026-10-06
+    title: Navigating Pre-filing Requirements for Large Clean Energy Infrastructure Projects
+  - commission: ME
+    date: 2026-10-06
+    title: Deliberations Audio/Video
+  - commission: ND
+    date: 2026-10-05
+    title: Notice of Opportunity for Hearing Case No. RC-25-294 Falkirk Mining Company Revision 40, NAFK-9503 Application
+  - commission: NE
+    date: 2026-10-06
+    title: "06 Oct Commission Meeting Location: Commission Hearing Room 10:00am"
+  - commission: NE
+    date: 2026-10-06
+    title: "06 Oct Hearing – B-2204 – Los & Sons Transportation, LLC Location: Commission Hearing Room 1:00pm"
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
