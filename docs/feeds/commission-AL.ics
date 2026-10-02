@@ -9,24 +9,18 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[AL] PEARLS OF WISDOM MEDICAL TRANSPORT SERVICES LLC
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-DTSTAMP:20261001T181108Z
-UID:c47d98d19ab4ce781355@psc-calendar
+SUMMARY:[AL] Upcoming Hearings Hearings scheduled from 10/2/2026 through 1
+ 1/2/2026 No Hearings Scheduled
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20261002T155959Z
+UID:a5b12d9004e7349e5caa@psc-calendar
 CATEGORIES:AL,Evidentiary Hearing
 DESCRIPTION:Commission: Alabama Public Service Commission (AL)\nType: Evid
- entiary Hearing\n\n9/29/2026 | TR2641354 TRANSCRIPT FOR HEARING HELD AUGUS
- T 25\, 2026 FOR PEARLS OF WISDOM MEDICAL TRANPORT SERVICES LLC Status: Pen
- ding Synopsis: TRANSCRIPT FOR HEARING HELD AUGUST 25\, 2026 FOR PEARLS OF 
- WISDOM MEDICAL TRANPORT SERVICES LLC | TR2641354 TRANSCRIPT FOR HEARING HE
- LD AUGUST 25\, 2026 FOR PEARLS OF WISDOM MEDICAL TRANPORT SERVICES LLC Sta
- tus: Pending Synopsis: TRANSCRIPT FOR HEARING HELD AUGUST 25\, 2026 FOR PE
- ARLS OF WISDOM MEDICAL TRANPORT SERVICES LLC | PEARLS OF WISDOM MEDICAL TR
- ANSPORT SERVICES LLC\n\nSource: https://www.pscpublicaccess.alabama.gov/ps
- cpublicaccess/page/default/portal.aspx
+ entiary Hearing\n\nSource: https://www.pscpublicaccess.alabama.gov/pscpubl
+ icaccess/RSS/PSC/RecentHearingsRssFeed.aspx
 PRIORITY:5
-URL:https://www.pscpublicaccess.alabama.gov/pscpublicaccess/page/default/p
- ortal.aspx
+URL:https://www.pscpublicaccess.alabama.gov/pscpublicaccess/RSS/PSC/Recent
+ HearingsRssFeed.aspx
 END:VEVENT
 END:VCALENDAR
