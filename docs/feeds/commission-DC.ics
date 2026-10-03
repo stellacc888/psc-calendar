@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261007T110000
 DTEND;TZID=America/New_York:20261007T130000
-DTSTAMP:20261002T155959Z
+DTSTAMP:20261003T142723Z
 UID:57152088f4301f6866fe@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -24,35 +24,10 @@ PRIORITY:5
 URL:https://dcpsc.org/Schedule-of-Open-Commission-Meetings.aspx
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[DC] Calendar of Events: 13 9:00 AM Formal Case No. 1176 Evidentia
- ry Hearing Formal Case No. 1176 Evidentiary Hearing 10/13/2026 9:00 AM | W
- hitney Douglas The Commission will hold an Evidentiary Hearing for Formal 
- Case No. FC1176.
-DTSTART;TZID=America/New_York:20261013T090000
-DTEND;TZID=America/New_York:20261013T110000
-DTSTAMP:20261002T155959Z
-UID:611993ee7065c2c345a6@psc-calendar
-CATEGORIES:DC,Evidentiary Hearing
-DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
- )\nType: Evidentiary Hearing\nDocket: 1176\, FC1176\n\n11 | 12 | 13 9:00 A
- M Formal Case No. 1176 Evidentiary Hearing Formal Case No. 1176 Evidentiar
- y Hearing 10/13/2026 9:00 AM | Whitney Douglas The Commission will hold an
-  Evidentiary Hearing for Formal Case No. FC1176. | 14 9:00 AM Formal Case 
- No. 1176 Evidentiary Hearing Formal Case No. 1176 Evidentiary Hearing 10/1
- 4/2026 9:00 AM | Whitney Douglas The Commission will hold an Evidentiary H
- earing for Formal Case No. FC1176. | 15 11:00 AM Ward 4 Senior Jubilee War
- d 4 Senior Jubilee 10/15/2026 11:00 AM | Karimah Bilal DCPSC will attend C
- ouncilmember Janeese Lewis George’s Ward 4 Senior Jubilee event\n\nSourc
- e: https://dcpsc.org/Calendar/Formal-Case-No-1176-Evidentiary-Hearing.aspx
-PRIORITY:5
-URL:https://dcpsc.org/Calendar/Formal-Case-No-1176-Evidentiary-Hearing.asp
- x
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261021T110000
 DTEND;TZID=America/New_York:20261021T130000
-DTSTAMP:20261002T155959Z
+DTSTAMP:20261003T142723Z
 UID:c95e53aa80931f392efb@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -69,7 +44,7 @@ SUMMARY:[DC] Calendar of Events: 3 12:00 PM Deanwood Library: Coffee and C
  ation event to distribute utility-re
 DTSTART;TZID=America/New_York:20261103T120000
 DTEND;TZID=America/New_York:20261103T140000
-DTSTAMP:20261002T155959Z
+DTSTAMP:20261003T142723Z
 UID:131b452b7511b393cfd8@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -90,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261104T110000
 DTEND;TZID=America/New_York:20261104T130000
-DTSTAMP:20261002T155959Z
+DTSTAMP:20261003T142723Z
 UID:f5811f63b8d650e7c157@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -104,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261118T110000
 DTEND;TZID=America/New_York:20261118T130000
-DTSTAMP:20261002T155959Z
+DTSTAMP:20261003T142723Z
 UID:bafe59efad307ffc955a@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -118,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261202T110000
 DTEND;TZID=America/New_York:20261202T130000
-DTSTAMP:20261002T155959Z
+DTSTAMP:20261003T142723Z
 UID:b3b7c0e99dc34e10ac59@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -132,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261216T110000
 DTEND;TZID=America/New_York:20261216T130000
-DTSTAMP:20261002T155959Z
+DTSTAMP:20261003T142723Z
 UID:94844bb829c576cfa20e@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
