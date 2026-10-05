@@ -9,31 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[IN] PETITION OF INDIANA MICHIGAN POWER COMPANY FOR APPROVAL OF A 
- GENERATION RESOURCE SUBMITTAL IN ACCORDANCE WITH PETITIONER’S EGR PLAN A
- PPROVED IN CAUSE NUMBER 46301 AND ASSOCIATED ACCOUNTING AND RATEMAKING TRE
- ATMENT. (No P
-DTSTART;TZID=America/Indiana/Indianapolis:20260904T130000
-DTEND;TZID=America/Indiana/Indianapolis:20260904T150000
-DTSTAMP:20261004T150156Z
-UID:9868a2aabaa31ffb7514@psc-calendar
-CATEGORIES:IN,Evidentiary Hearing
-DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
- Evidentiary Hearing\n\nSource: https://www.in.gov/iurc/files/UPDATED%20Hea
- rings List for wk of August 31\, 2026.pdf
-LOCATION:PNC\, Room 222
-PRIORITY:5
-URL:https://www.in.gov/iurc/files/UPDATED%20Hearings List for wk of August
-  31, 2026.pdf
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[IN] VERIFIED PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPAN
  Y d/b/a CENTERPOINT ENERGY INDIANA SOUTH FOR (1) APPROVAL OF AN ADJUSTMENT
   TO ITS ELECTRIC SERVICE RATES THROUGH ITS ENVIRONMENTAL COST ADJUSTMENT (
  “ECA”) RATE
 DTSTART;TZID=America/Indiana/Indianapolis:20260908T093000
 DTEND;TZID=America/Indiana/Indianapolis:20260908T113000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:c066071ba20fcca813de@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -50,7 +32,7 @@ SUMMARY:[IN] VERIFIED PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY
   ITS GENERATION COST TRACKER ADJUSTMENT (Cause 45947-GCT4)
 DTSTART;TZID=America/Indiana/Indianapolis:20260908T103000
 DTEND;TZID=America/Indiana/Indianapolis:20260908T123000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:5286544f909fa52e7961@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -67,7 +49,7 @@ SUMMARY:[IN] PETITION OF THE TOWN OF ORESTES FOR APPROVAL OF A REGULATORY
   46357)
 DTSTART;TZID=America/Indiana/Indianapolis:20260908T130000
 DTEND;TZID=America/Indiana/Indianapolis:20260908T150000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:249db358a04ae4b39bf9@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -84,7 +66,7 @@ SUMMARY:[IN] PETITION OF SOUTH EASTERN INDIANA NATURAL GAS CO.\, INC. FOR
  1-2-42(G) (Cause 37785-GCA140)
 DTSTART;TZID=America/Indiana/Indianapolis:20260909T133000
 DTEND;TZID=America/Indiana/Indianapolis:20260909T153000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:7bfc4311dcdee5fa133f@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -101,7 +83,7 @@ SUMMARY:[IN] PETITION OF FOUNTAINTOWN GAS COMPANY\, INC. FOR APPROVAL OF C
   8-1-2-42(G) (Cause 37913-GCA154)
 DTSTART;TZID=America/Indiana/Indianapolis:20260909T134500
 DTEND;TZID=America/Indiana/Indianapolis:20260909T154500
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:8ce0b534d1e332e3944a@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -118,7 +100,7 @@ SUMMARY:[IN] PETITION OF OHIO VALLEY GAS CORPORATION FOR APPROVAL OF CHANG
  -2-42(G) (Cause 44147-GCA55)
 DTSTART;TZID=America/Indiana/Indianapolis:20260909T140000
 DTEND;TZID=America/Indiana/Indianapolis:20260909T160000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:9c2120afb89fd8000769@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -136,7 +118,7 @@ SUMMARY:[IN] APPLICATION OF DUKE ENERGY INDIANA\, LLC FOR APPROVAL OF A CH
  CORDANCE WIT
 DTSTART;TZID=America/Indiana/Indianapolis:20260916T090000
 DTEND;TZID=America/Indiana/Indianapolis:20260916T110000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:8b7b48d4e6d863dc27c1@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -151,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] LOCAL TIME\, in the IURC Conference Center
 DTSTART;TZID=America/Indiana/Indianapolis:20260916T100000
 DTEND;TZID=America/Indiana/Indianapolis:20260916T120000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:135bbfdc1b16630957ab@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -164,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] Conference to be held LOCAL TIME\, IURC Conference
 DTSTART;TZID=America/Indiana/Indianapolis:20260916T100000
 DTEND;TZID=America/Indiana/Indianapolis:20260916T120000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:f853beed829aac2980a5@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -177,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] LOCAL TIME\, in the IURC Conference Center\, Suite
 DTSTART;TZID=America/Indiana/Indianapolis:20260922T133000
 DTEND;TZID=America/Indiana/Indianapolis:20260922T153000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:6ce72a0423ada6667d75@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -190,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] Conference to be held LOCAL TIME\, IURC Conference Center
 DTSTART;TZID=America/Indiana/Indianapolis:20260922T133000
 DTEND;TZID=America/Indiana/Indianapolis:20260922T153000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:e3cfd75fbc9b4d8f0b08@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -206,7 +188,7 @@ SUMMARY:[IN] VERIFIED PETITION OF THE INDIANA OFFICE OF UTILITY CONSUMER C
   POWER OUTAGE RESTOR
 DTSTART;TZID=America/Indiana/Indianapolis:20260928T113000
 DTEND;TZID=America/Indiana/Indianapolis:20260928T133000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:fa470e5949a9cdf4ef2f@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -224,7 +206,7 @@ SUMMARY:[IN] IN THE MATTER OF THE PETITION OF AEP GENERATING COMPANY FOR A
  URED PROMISSO
 DTSTART;TZID=America/Indiana/Indianapolis:20260929T093000
 DTEND;TZID=America/Indiana/Indianapolis:20260929T113000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:daed74393b5faf7a9d16@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -242,7 +224,7 @@ SUMMARY:[IN] IN THE MATTER OF THE PETITION OF INDIANA MICHIGAN POWER COMPA
  OR MORE NEW SE
 DTSTART;TZID=America/Indiana/Indianapolis:20260929T133000
 DTEND;TZID=America/Indiana/Indianapolis:20260929T153000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:0c14f4081591e4ddd71b@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -259,7 +241,7 @@ SUMMARY:[IN] & \, 7\, and 16\, 2026 – Executive Session Meetings (Cybers
  ic Notice posted on 9.28.26
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:f7b2cde6e3b3e132329b@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -278,7 +260,7 @@ SUMMARY:[IN] PETITION OF VALLEY RURAL UTILITY COMPANY FOR APPROVAL OF ITS
  E NO. 42115 (Cause 42115-GCA23)
 DTSTART;TZID=America/Indiana/Indianapolis:20260930T093000
 DTEND;TZID=America/Indiana/Indianapolis:20260930T113000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:864418cf11cce451f6b7@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -293,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] LOCAL TIME\, in the IURC Conference Center
 DTSTART;TZID=America/Indiana/Indianapolis:20260930T100000
 DTEND;TZID=America/Indiana/Indianapolis:20260930T120000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:e06f011ab608fa641e6e@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -306,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] Conference to be held LOCAL TIME\, IURC Conference
 DTSTART;TZID=America/Indiana/Indianapolis:20260930T100000
 DTEND;TZID=America/Indiana/Indianapolis:20260930T120000
-DTSTAMP:20261004T150156Z
+DTSTAMP:20261005T185406Z
 UID:f8ba57332372c03d5514@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -314,5 +296,31 @@ DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType:
  /Final%20Agenda 09-30-2026.pdf
 PRIORITY:5
 URL:https://www.in.gov/iurc/files/Final%20Agenda 09-30-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] LOCAL TIME\, in the IURC Conference Center\, Suite
+DTSTART;TZID=America/Indiana/Indianapolis:20261007T100000
+DTEND;TZID=America/Indiana/Indianapolis:20261007T120000
+DTSTAMP:20261005T185406Z
+UID:e8b3b7761de9c0abd49b@psc-calendar
+CATEGORIES:IN,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Open Meeting / Commission Meeting\n\nSource: https://www.in.gov/iurc/files
+ /Final%20Agenda 10-07-2026.pdf
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Final%20Agenda 10-07-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] Conference to be held on LOCAL TIME\, IURC Conference
+DTSTART;TZID=America/Indiana/Indianapolis:20261007T100000
+DTEND;TZID=America/Indiana/Indianapolis:20261007T120000
+DTSTAMP:20261005T185406Z
+UID:3d1f8ae69a23aadd9b36@psc-calendar
+CATEGORIES:IN,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Open Meeting / Commission Meeting\n\nSource: https://www.in.gov/iurc/files
+ /Final%20Agenda 10-07-2026.pdf
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Final%20Agenda 10-07-2026.pdf
 END:VEVENT
 END:VCALENDAR
