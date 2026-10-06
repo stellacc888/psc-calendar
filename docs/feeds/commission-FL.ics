@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Commission Conference - IA immediately following
 DTSTART;TZID=America/New_York:20261006T090000
 DTEND;TZID=America/New_York:20261006T110000
-DTSTAMP:20261005T185406Z
+DTSTAMP:20261006T162034Z
 UID:116f1d645f9314e113af@psc-calendar
 CATEGORIES:FL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Open
