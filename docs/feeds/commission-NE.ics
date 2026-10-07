@@ -13,7 +13,7 @@ SUMMARY:[NE] 13 Oct Quarterly Status Meeting – NG-101.1 – Black Hills
  Energy Location: Commission Hearing Room 2:00pm
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:9f7d23f664a415870599@psc-calendar
 CATEGORIES:NE,Evidentiary Hearing
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
@@ -28,7 +28,7 @@ SUMMARY:[NE] 14 Oct Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20261014T150000Z
 DTEND:20261014T170000Z
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:057ad4b463e43bcdc111@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -36,5 +36,19 @@ DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
  ion-meeting-262
 PRIORITY:5
 URL:https://psc.nebraska.gov/commission-meeting-262
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NE] 20 Oct Commission Meeting Location: Commission Hearing Room 1
+ 0:00am
+DTSTART:20261020T150000Z
+DTEND:20261020T170000Z
+DTSTAMP:20261007T170308Z
+UID:414fd445da6c5d094a3c@psc-calendar
+CATEGORIES:NE,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.nebraska.gov/commiss
+ ion-meeting-263
+PRIORITY:5
+URL:https://psc.nebraska.gov/commission-meeting-263
 END:VEVENT
 END:VCALENDAR

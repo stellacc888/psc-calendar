@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261008T110000
 DTEND;TZID=America/Chicago:20261008T130000
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:d29198427ab07228434c@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
@@ -25,14 +25,14 @@ URL:https://minnesotapuc.legistar.com/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
-DTSTART;TZID=America/Chicago:20261014T100000
-DTEND;TZID=America/Chicago:20261014T120000
-DTSTAMP:20261006T162034Z
+DTSTART;TZID=America/Chicago:20261014T110000
+DTEND;TZID=America/Chicago:20261014T130000
+DTSTAMP:20261007T170308Z
 UID:91f3feafe61ff955fa8d@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
  Open Meeting / Commission Meeting\n\nPUC Agenda Meeting | 10/14/2026 | | 1
- 0:00 AM | | Meeting details | Agenda | Not available | Not available | Not
+ 1:00 AM | | Meeting details | Agenda | Not available | Not available | Not
   available | Not available\n\nSource: https://minnesotapuc.legistar.com/Ca
  lendar.aspx
 PRIORITY:5
@@ -42,14 +42,14 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261022T100000
 DTEND;TZID=America/Chicago:20261022T120000
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:36d5acc137802eb9d917@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
  Open Meeting / Commission Meeting\n\nPUC Agenda Meeting | 10/22/2026 | | 1
- 0:00 AM | | Meeting details | Not available | Not available | Not availabl
- e | Not available | Not available\n\nSource: https://minnesotapuc.legistar
- .com/Calendar.aspx
+ 0:00 AM | | Meeting details | Agenda | Not available | Not available | Not
+  available | Not available\n\nSource: https://minnesotapuc.legistar.com/Ca
+ lendar.aspx
 PRIORITY:5
 URL:https://minnesotapuc.legistar.com/Calendar.aspx
 END:VEVENT
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261029T100000
 DTEND;TZID=America/Chicago:20261029T120000
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:f864bfafab0209ae2078@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 

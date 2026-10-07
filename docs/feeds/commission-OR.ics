@@ -9,11 +9,184 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 2340 - STAFF INVESTIGATION INTO GUIDELINES FOR WILD
+ FIRE MITIGATION PLANS
+DTSTART;TZID=America/Los_Angeles:20261013T093000
+DTEND;TZID=America/Los_Angeles:20261013T113000
+DTSTAMP:20261007T170308Z
+UID:8e1eb57ecb7ed4292b9c@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=10/12/2026&EndDate=10/18/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/12/202
+ 6&EndDate=10/18/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 1180 - RSPF SURCHARGE RATE
+DTSTART;TZID=America/Los_Angeles:20261013T093000
+DTEND;TZID=America/Los_Angeles:20261013T113000
+DTSTAMP:20261007T170308Z
+UID:1662f9389c05f67635a8@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=10/12/2026&EndDate=10/18/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/12/202
+ 6&EndDate=10/18/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 1789 - PGE DEFERRAL OF COSTS RELATED TO SCHEDULE 14
+ 9
+DTSTART;TZID=America/Los_Angeles:20261013T093000
+DTEND;TZID=America/Los_Angeles:20261013T113000
+DTSTAMP:20261007T170308Z
+UID:640bddb6fc79c0cdb2fc@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=10/12/2026&EndDate=10/18/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/12/202
+ 6&EndDate=10/18/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 1930 - COMMUNITY SOLAR IMPLEMENTATION
+DTSTART;TZID=America/Los_Angeles:20261013T093000
+DTEND;TZID=America/Los_Angeles:20261013T113000
+DTSTAMP:20261007T170308Z
+UID:c95163894d6d8ed4d4a5@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=10/12/2026&EndDate=10/18/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/12/202
+ 6&EndDate=10/18/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket ADV 1871 - PACIFICORP ADVICE NO. 26-012 SCHEDULE 94 VE
+ GETATION MANAGEMENT
+DTSTART;TZID=America/Los_Angeles:20261013T093000
+DTEND;TZID=America/Los_Angeles:20261013T113000
+DTSTAMP:20261007T170308Z
+UID:496c283cb9f664bfaa33@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=10/12/2026&EndDate=10/18/2026
+LOCATION:HEARING ROOM - PUC\, 201 HIGH ST SE\, SALEM\, OR
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/12/202
+ 6&EndDate=10/18/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket ADV 1884 - PGE ADVICE NO. 26-29 SCHEDULE 151 WILDFIRE 
+ MITIGATION
+DTSTART;TZID=America/Los_Angeles:20261013T093000
+DTEND;TZID=America/Los_Angeles:20261013T113000
+DTSTAMP:20261007T170308Z
+UID:b2d53de616c83ae29f04@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=10/12/2026&EndDate=10/18/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/12/202
+ 6&EndDate=10/18/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UI 541 - PACIFICORP AFFILIATED INTEREST WITH BLACK BUT
+ TE COAL COMPANY
+DTSTART;TZID=America/Los_Angeles:20261013T093000
+DTEND;TZID=America/Los_Angeles:20261013T113000
+DTSTAMP:20261007T170308Z
+UID:9197083bbcfa1e551e56@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=10/12/2026&EndDate=10/18/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/12/202
+ 6&EndDate=10/18/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket ADV 1889 - IDAHO POWER ADVICE NO. 26-10 SCHEDULE 63 AN
+ D SCHEDULE 64
+DTSTART;TZID=America/Los_Angeles:20261013T093000
+DTEND;TZID=America/Los_Angeles:20261013T113000
+DTSTAMP:20261007T170308Z
+UID:963adf97f0b5184fc710@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=10/12/2026&EndDate=10/18/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/12/202
+ 6&EndDate=10/18/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket ADV 1898 - PGE ADVICE NO. 26-354 SCHEDULE 138 ENERGY S
+ TORAGE COST RECOVERY MECHANISM
+DTSTART;TZID=America/Los_Angeles:20261013T093000
+DTEND;TZID=America/Los_Angeles:20261013T113000
+DTSTAMP:20261007T170308Z
+UID:c4c7971d55b44aa4a546@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=10/12/2026&EndDate=10/18/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/12/202
+ 6&EndDate=10/18/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket ADV 1899 - PGE ADVICE NO. 26-36 SCHEDULE 122
+DTSTART;TZID=America/Los_Angeles:20261013T093000
+DTEND;TZID=America/Los_Angeles:20261013T113000
+DTSTAMP:20261007T170308Z
+UID:3a72704bd458afff154d@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=10/12/2026&EndDate=10/18/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/12/202
+ 6&EndDate=10/18/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket ADV 1902 - PAGE ADVICE NO. 26-38 SCHEDULE 146 COLSTRIP
+  OPERATING LIFE ADJUSTMENT
+DTSTART;TZID=America/Los_Angeles:20261013T093000
+DTEND;TZID=America/Los_Angeles:20261013T113000
+DTSTAMP:20261007T170308Z
+UID:78bee188e82d0367b96d@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=10/12/2026&EndDate=10/18/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/12/202
+ 6&EndDate=10/18/2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[OR] Docket AR 684 - PURPA STANDARD AVOIDED COSTS\, PRICE ADJUSTME
  NT MECHANISM\, HB 3863 IMPLEMENTED
 DTSTART;TZID=America/Los_Angeles:20261022T133000
 DTEND;TZID=America/Los_Angeles:20261022T153000
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:bb3216cec56bfdd3d186@psc-calendar
 CATEGORIES:OR,Evidentiary Hearing
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Evide
@@ -29,7 +202,7 @@ SUMMARY:[OR] Docket UG 531 - NW NATURAL 2026 PURCHASE GAS ADJUSTMENTS AND
  OTHER SCHEDULES
 DTSTART;TZID=America/Los_Angeles:20261027T013000
 DTEND;TZID=America/Los_Angeles:20261027T033000
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:c7186aebbda08399a25e@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -40,26 +213,10 @@ URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/26/202
  6&EndDate=11/1/2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OR] Docket UM 2417 - PUC IDENTIFYING PRIORITIES IN IMPLEMENTATION
-  OF EOS 25-25 AND 25-29
-DTSTART;TZID=America/Los_Angeles:20261027T093000
-DTEND;TZID=America/Los_Angeles:20261027T113000
-DTSTAMP:20261006T162034Z
-UID:224c5cc6ad17452295ae@psc-calendar
-CATEGORIES:OR,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
- Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
- ets/hcallist.asp?StartDate=10/26/2026&EndDate=11/1/2026
-LOCATION:\, OR
-PRIORITY:5
-URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/26/202
- 6&EndDate=11/1/2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[OR] Docket AR 682 - RESOURCE ADEQUACY RULEMAKING
 DTSTART;TZID=America/Los_Angeles:20261027T093000
 DTEND;TZID=America/Los_Angeles:20261027T113000
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:d226834389028224dddb@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -74,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:[OR] Docket UG 529 - AVISTA ADVICE NO. 26-02-G 2026 PGAS
 DTSTART;TZID=America/Los_Angeles:20261027T133000
 DTEND;TZID=America/Los_Angeles:20261027T153000
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:241cb1bc06a478f86b8c@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -85,11 +242,28 @@ URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/26/202
  6&EndDate=11/1/2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 2417 - PUC IDENTIFYING PRIORITIES IN IMPLEMENTATION
+  OF EOS 25-25 AND 25-29
+DTSTART;TZID=America/Los_Angeles:20261029T093000
+DTEND;TZID=America/Los_Angeles:20261029T113000
+DTSTAMP:20261007T170308Z
+UID:6af883fec2b46fe1f00e@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=10/26/2026&EndDate=11/1/2026
+LOCATION:HEARING ROOM - PUC\, 201 HIGH ST SE\, SALEM\, OR\, Back to Hearin
+ gs
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=10/26/202
+ 6&EndDate=11/1/2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[OR] Docket AR 681 - MICROGRID FRAMEWORKS (HB 2065 & HB 2066 IMPLE
  MENTATION)
 DTSTART;TZID=America/Los_Angeles:20261124T093000
 DTEND;TZID=America/Los_Angeles:20261124T113000
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:494a769e42402793ff7f@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 

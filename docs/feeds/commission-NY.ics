@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] Con Edison Steam Rate Case Virtual Public Statement Hearing
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:de94aa540d61c401ccb6@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -25,10 +25,26 @@ URL:https://dps.ny.gov/event/con-edison-steam-rate-case-virtual-public-sta
  tement-hearing
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NY] Con Edison steam rate case virtual evidentiary hearing
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20261007T170308Z
+UID:f7ede1acd224d76bf294@psc-calendar
+CATEGORIES:NY,Evidentiary Hearing
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
+ dentiary Hearing\n\nOCT 13 Image of a Calendar. Hearings Con Edison steam 
+ rate case virtual evidentiary hearing Oct 13\, 2026 10:30 AM ET Via WebEx
+ \n\nSource: https://dps.ny.gov/event/con-edison-steam-rate-case-virtual-ev
+ identiary-hearing
+PRIORITY:5
+URL:https://dps.ny.gov/event/con-edison-steam-rate-case-virtual-evidentiar
+ y-hearing
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NY] OCTOBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:8146bd601a3e85c05827@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -45,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] Greens Corners Solar Virtual Public Statement Hearing
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:d35fdf0a577abae07ff2@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -59,10 +75,27 @@ URL:https://dps.ny.gov/event/greens-corners-solar-virtual-public-statement
  -hearing
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NY] Zenobe Burns\, LLC §68 Virtual Public Statement Hearing and 
+ Proced...
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20261007T170308Z
+UID:a6aa5add920ac6a7f326@psc-calendar
+CATEGORIES:NY,Evidentiary Hearing
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
+ dentiary Hearing\n\nOCT 27 Hearings Zenobe Burns\, LLC §68 Virtual Public
+  Statement Hearing and Proced... Oct 27\, 2026 4:30 PM ET Via WebEx\n\nSou
+ rce: https://dps.ny.gov/event/zenobe-burns-llc-ss68-virtual-public-stateme
+ nt-hearing-and-procedural-conference
+PRIORITY:5
+URL:https://dps.ny.gov/event/zenobe-burns-llc-ss68-virtual-public-statemen
+ t-hearing-and-procedural-conference
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NY] NOVEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:7fb30086e9fc1c74a1c3@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -79,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] DECEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261006T162034Z
+DTSTAMP:20261007T170308Z
 UID:3542fbb3b93eff2c8773@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
