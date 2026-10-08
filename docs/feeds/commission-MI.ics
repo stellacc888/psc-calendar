@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] October 15\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20261008T181801Z
+DTSTAMP:20261008T184935Z
 UID:150484bbf585a65f16c3@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -25,26 +25,10 @@ URL:https://www.michigan.gov/mpsc/commission/events/2026/10/15/october-15-
  2026-commission-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[MI] MPSC to hold Commission meeting in Upper Peninsula
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-DTSTAMP:20261008T181801Z
-UID:3c095374aac93ba96a85@psc-calendar
-CATEGORIES:MI,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
- n Meeting / Commission Meeting\n\nMPSC to hold Oct. 15 Commission meeting 
- in Upper Peninsula September 17\, 2026\n\nSource: https://www.michigan.gov
- /mpsc/commission/news-releases/2026/09/17/mpsc-to-hold-oct-15-meeting-in-u
- p
-PRIORITY:5
-URL:https://www.michigan.gov/mpsc/commission/news-releases/2026/09/17/mpsc
- -to-hold-oct-15-meeting-in-up
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[MI] November 5\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261008T181801Z
+DTSTAMP:20261008T184935Z
 UID:67c9890ee0ca5a5a6c19@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -60,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] December 8\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261008T181801Z
+DTSTAMP:20261008T184935Z
 UID:c73e308bc100d69454cb@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -76,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] December 17\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261008T181801Z
+DTSTAMP:20261008T184935Z
 UID:ef52f80fe95e7213e3bd@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
