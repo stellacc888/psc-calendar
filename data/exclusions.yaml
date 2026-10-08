@@ -1676,7 +1676,178 @@ events:
     title: Case 9707-Future of Gas, Phase II Evidentiary Hearing
   - commission: PA
     date: 2026-10-07
-    title: "Docket Number C-2026-3063249 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Katrina L Dunderdale"
+    title: "Docket Number C-2026-3063249 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Katrina L Dunderdale"  # --- added 2026-10-08 - paste directly under the existing `events:` line ---
+  - commission: CA
+    date: 2026-10-08
+    title: CPUC Voting Meeting 10-08-26
+  - commission: CO
+    date: 2026-10-14
+    title: "PUC: Show Cause Hearing (JS)"
+  - commission: CO
+    date: 2026-10-15
+    title: "Remote PCH: Pro. No. 25R-0468ALL, Proposed Rulemaking Implementing SB 21-272, ALJ Farley (JS)"
+  - commission: GA
+    date: 2026-10-15
+    title: Docket No. 57171 RTP Revenue Credit and Allocation Methodology Hearing 10-15-2026
+  - commission: IA
+    date: 2026-10-08
+    title: Monthly Commission Meeting
+  - commission: IA
+    date: 2026-10-08
+    title: "Docket No. PSA-2026-0001 | Open Meeting and Closed Session Deliberation"
+  - commission: IL
+    date: 2026-10-08
+    title: Illinois Commerce Commission Regular Open Meeting
+  - commission: IL
+    date: 2026-10-08
+    title: Regular Open Meeting Illinois Commerce Commission 160 North LaSalle Street Eighth Floor, Bilandic Building Chicago, Illinois 60601
+  - commission: IL
+    date: 2026-10-13
+    title: Illinois Commerce Commission Prehearing for 26-0585
+  - commission: IL
+    date: 2026-10-13
+    title: Illinois Commerce Commission Prehearing for 26-0639
+  - commission: IL
+    date: 2026-10-14
+    title: Illinois Commerce Commission Hearing for T24-0107
+  - commission: IL
+    date: 2026-10-14
+    title: Illinois Commerce Commission Prehearing for 26-0648
+  - commission: IN
+    date: 2026-10-13
+    title: "PETITION OF COMMUNITY NATURAL GAS CO., INC. FOR APPROVAL OF CHANGES IN ITS RATES THROUGH A GAS COST ADJUSTMENT IN ACCORDANCE WITH IND. CODE § 8-1-2-42(g) (Cause 37488-GCA170)"
+  - commission: IN
+    date: 2026-10-13
+    title: "PETITION OF INDIANA NATURAL GAS CORPORATION FOR APPROVAL OF CHANGES IN ITS GAS RATES THROUGH A GAS COST ADJUSTMENT IN ACCORDANCE WITH IND. CODE § 8-1-2-42(g) (Cause 37418-GCA171)"
+  - commission: IN
+    date: 2026-10-13
+    title: "PETITION OF MIDWEST NATURAL GAS CORPORATION FOR APPROVAL OF CHANGES IN ITS GAS RATES THROUGH A GAS COST ADJUSTMENT IN ACCORDANCE WITH IND. CODE § 8-1-2-42(g) (Cause 37440-GCA171)"
+  - commission: IN
+    date: 2026-10-14
+    title: "PETITION OF SYCAMORE GAS COMPANY FOR APPROVAL OF CHANGES IN ITS GAS RATES THROUGH A GAS COST ADJUSTMENT IN ACCORDANCE WITH IND. CODE §§ 8-1-2-42(g) AND 8-1-2-42.3 FOR THE MONTHS OF NOVEMBER 2026 THROUGH JANUARY 2027 (Cau"
+  - commission: IN
+    date: 2026-10-14
+    title: "PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPANY D/B/A CENTERPOINT ENERGY INDIANA SOUTH (“CEI SOUTH”) FOR APPROVAL OF A CHANGE IN ITS FUEL COST ADJUSTMENT FOR ELECTRIC SERVICE IN ACCORDANCE WITH THE ORDER OF THE COM"
+  - commission: IN
+    date: 2026-10-14
+    title: IN THE MATTER OF THE APPLICATION OF INDIANA MICHIGAN POWER COMPANY FOR APPROVAL OF A FUEL COST ADJUSTMENT FOR ELECTRIC SERVICE APPLICABLE FOR THE BILLING MONTHS OF NOVEMBER 2026 THROUGH APRIL 2027, FOR CONTINUED RECOVERY
+  - commission: IN
+    date: 2026-10-15
+    title: "VERIFIED PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPANY D/B/A CENTERPOINT ENERGY INDIANA SOUTH (“CEI SOUTH”) FOR APPROVAL OF A RELIABILITY COST AND REVENUE ADJUSTMENT FOR ELECTRIC SERVICE IN ACCORDANCE WITH THE OR"
+  - commission: IN
+    date: 2026-10-15
+    title: VERIFIED JOINT PETITION OF ANGELINA SOLAR I, LLC AND REV RENEWABLES DEVCO, LLC FOR (1) A DETERMINATION THAT REV RENEWABLES DEVCO, LLC HAS THE NECESSARY TECHNICAL, FINANCIAL, AND MANAGERIAL CAPABILITY TO OWN AND OPERATE T
+  - commission: IN
+    date: 2026-10-15
+    title: IN THE MATTER OF THE JOINT PETITION OF DUKE ENERGY INDIANA, LLC AND JOHNSON COUNTY RURAL ELECTRIC MEMBERSHIP CORPORATION FOR THE TRANSFER OF ASSETS FROM JOHNSON COUNTY RURAL ELECTRIC MEMBERSHIP CORPORATION TO DUKE ENERGY
+  - commission: LA
+    date: 2026-10-14
+    title: "Hearing: T-38065"
+  - commission: LA
+    date: 2026-10-15
+    title: "Hearing: T-38060"
+  - commission: MA
+    date: 2026-10-15
+    title: 25-200 - DPU - Investigation
+  - commission: MA
+    date: 2026-10-16
+    title: 26-105 - Fitchburg Gas and Electric Light Company d/b/a Unitil - Investigation
+  - commission: MA
+    date: 2026-10-16
+    title: 26-104 - Massachusetts Electric Company and Nantucket Electric Company, each d/b/a National Grid - Investigation
+  - commission: MA
+    date: 2026-10-16
+    title: 26-103 - NSTAR Electric Company d/b/a Eversource Energy - Investigation
+  - commission: ME
+    date: 2026-10-14
+    title: Deliberations Audio/Video
+  - commission: ME
+    date: 2026-10-15
+    title: Hearing- CASD No. 2026-V-00045
+  - commission: ME
+    date: 2026-10-16
+    title: Hearing- CASD No. 2026-V-00283
+  - commission: MN
+    date: 2026-10-08
+    title: PUC Agenda Meeting
+  - commission: MO
+    date: 2026-10-08
+    title: ER-2026-0143 - Evergy Metro - Evidentiary Hearing ( Clark - Hearing Room 310)
+  - commission: MO
+    date: 2026-10-08
+    title: Agenda Meeting ( Room 310 and via WebEx)
+  - commission: NC
+    date: 2026-10-12
+    title: Expert Witness Hearing - Application of Merry Hill PV I, LLC, for a Certificate of Public Convenience and Necessity to Construct a 110 MW Solar Facility in Bertie
+  - commission: ND
+    date: 2026-10-09
+    title: Notice of Opportunity for Hearing Case No. PU-26-294 Otter Tail Power Company AMDT Cost Recovery 2027 Rates
+  - commission: NM
+    date: 2026-10-08
+    title: State Capitol Building, Room 309, Santa Fe
+  - commission: OH
+    date: 2026-10-08
+    title: Case No. 26-678-EL-CSS
+  - commission: OR
+    date: 2026-10-13
+    title: Docket UM 1180 - RSPF SURCHARGE RATE
+  - commission: OR
+    date: 2026-10-13
+    title: Docket UM 1789 - PGE DEFERRAL OF COSTS RELATED TO SCHEDULE 149
+  - commission: OR
+    date: 2026-10-13
+    title: Docket UM 1930 - COMMUNITY SOLAR IMPLEMENTATION
+  - commission: OR
+    date: 2026-10-13
+    title: Docket ADV 1871 - PACIFICORP ADVICE NO. 26-012 SCHEDULE 94 VEGETATION MANAGEMENT
+  - commission: OR
+    date: 2026-10-13
+    title: Docket UI 541 - PACIFICORP AFFILIATED INTEREST WITH BLACK BUTTE COAL COMPANY
+  - commission: OR
+    date: 2026-10-13
+    title: Docket ADV 1889 - IDAHO POWER ADVICE NO. 26-10 SCHEDULE 63 AND SCHEDULE 64
+  - commission: OR
+    date: 2026-10-13
+    title: Docket ADV 1902 - PAGE ADVICE NO. 26-38 SCHEDULE 146 COLSTRIP OPERATING LIFE ADJUSTMENT
+  - commission: PA
+    date: 2026-10-08
+    title: "Docket Number C-2026-3064145 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Katrina L Dunderdale"
+  - commission: PA
+    date: 2026-10-09
+    title: "Docket Number C-2026-3064045 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-10-09
+    title: "Docket Number C-2026-3061876 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Barbara Shadie Nause"
+  - commission: PA
+    date: 2026-10-09
+    title: "Docket Number C-2025-3057808 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Alphonso Arnold III"
+  - commission: SC
+    date: 2026-10-08
+    title: "Subscribe to Commission Calendar: 10/8/2026 11:00 AM Scheduled"
+  - commission: SC
+    date: 2026-10-08
+    title: Commission Business Meeting
+  - commission: TX-RRC
+    date: 2026-10-08
+    title: "*ROY JACKSON ENERGY OPERATING, LL-DOCKET NO. OG-26-00031774 (DISMISSED)"
+  - commission: TX-RRC
+    date: 2026-10-14
+    title: "*ARRINGTON OIL&GAS OPERATING LLC-DOCKET NO. OG-26-00032969"
+  - commission: TX-RRC
+    date: 2026-10-14
+    title: "*BASIN WELL SERVICE OF ODESSA, INC-DOCKET NO. OG-26-00031988 ET AL (DISMISSED)"
+  - commission: TX-RRC
+    date: 2026-10-15
+    title: VALIDUS ENERGY II MIDCON LLC-DOCKET NO. OG-26-00032432
+  - commission: TX-RRC
+    date: 2026-10-15
+    title: "*GALVESTON BAY OPERATING CO LLC.-DOCKET NO. OG-25-00031780"
+  - commission: TX-RRC
+    date: 2026-10-16
+    title: MCA PETROLEUM CORPORATION-DOCKET NOS. OG-26-00033253 AND OG-26-00033254
+  - commission: WA
+    date: 2026-10-08
+    title: Open Meeting
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
