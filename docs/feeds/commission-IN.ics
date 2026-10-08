@@ -9,64 +9,12 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[IN] VERIFIED PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPAN
- Y d/b/a CENTERPOINT ENERGY INDIANA SOUTH FOR (1) APPROVAL OF AN ADJUSTMENT
-  TO ITS ELECTRIC SERVICE RATES THROUGH ITS ENVIRONMENTAL COST ADJUSTMENT (
- “ECA”) RATE
-DTSTART;TZID=America/Indiana/Indianapolis:20260908T093000
-DTEND;TZID=America/Indiana/Indianapolis:20260908T113000
-DTSTAMP:20261007T170308Z
-UID:c066071ba20fcca813de@psc-calendar
-CATEGORIES:IN,Evidentiary Hearing
-DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
- Evidentiary Hearing\n\nSource: https://www.in.gov/iurc/files/Hearings%20Li
- st for wk of September 7\, 2026.pdf
-LOCATION:PNC\, Room 222
-PRIORITY:5
-URL:https://www.in.gov/iurc/files/Hearings%20List for wk of September 7, 2
- 026.pdf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[IN] VERIFIED PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY
- \, LLC FOR APPROVAL OF AN ADJUSTMENT TO ITS ELECTRIC SERVICE RATES THROUGH
-  ITS GENERATION COST TRACKER ADJUSTMENT (Cause 45947-GCT4)
-DTSTART;TZID=America/Indiana/Indianapolis:20260908T103000
-DTEND;TZID=America/Indiana/Indianapolis:20260908T123000
-DTSTAMP:20261007T170308Z
-UID:5286544f909fa52e7961@psc-calendar
-CATEGORIES:IN,Evidentiary Hearing
-DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
- Evidentiary Hearing\nDocket: 45947-GCT4\n\nSource: https://www.in.gov/iurc
- /files/Hearings%20List for wk of September 7\, 2026.pdf
-LOCATION:PNC\, Room 222
-PRIORITY:5
-URL:https://www.in.gov/iurc/files/Hearings%20List for wk of September 7, 2
- 026.pdf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[IN] PETITION OF THE TOWN OF ORESTES FOR APPROVAL OF A REGULATORY 
- ORDINANCE COVERING UNINCORPORATED AREAS OF MADISON COUNTY\, INDIANA (Cause
-  46357)
-DTSTART;TZID=America/Indiana/Indianapolis:20260908T130000
-DTEND;TZID=America/Indiana/Indianapolis:20260908T150000
-DTSTAMP:20261007T170308Z
-UID:249db358a04ae4b39bf9@psc-calendar
-CATEGORIES:IN,Evidentiary Hearing
-DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
- Evidentiary Hearing\nDocket: 46357\n\nSource: https://www.in.gov/iurc/file
- s/Hearings%20List for wk of September 7\, 2026.pdf
-LOCATION:PNC\, Room 222
-PRIORITY:5
-URL:https://www.in.gov/iurc/files/Hearings%20List for wk of September 7, 2
- 026.pdf
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[IN] PETITION OF SOUTH EASTERN INDIANA NATURAL GAS CO.\, INC. FOR 
  APPROVAL OF CHANGES TO ITS GCA RATES IN ACCORDANCE WITH INDIANA CODE § 8-
  1-2-42(G) (Cause 37785-GCA140)
 DTSTART;TZID=America/Indiana/Indianapolis:20260909T133000
 DTEND;TZID=America/Indiana/Indianapolis:20260909T153000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:7bfc4311dcdee5fa133f@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -83,7 +31,7 @@ SUMMARY:[IN] PETITION OF FOUNTAINTOWN GAS COMPANY\, INC. FOR APPROVAL OF C
   8-1-2-42(G) (Cause 37913-GCA154)
 DTSTART;TZID=America/Indiana/Indianapolis:20260909T134500
 DTEND;TZID=America/Indiana/Indianapolis:20260909T154500
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:8ce0b534d1e332e3944a@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -100,7 +48,7 @@ SUMMARY:[IN] PETITION OF OHIO VALLEY GAS CORPORATION FOR APPROVAL OF CHANG
  -2-42(G) (Cause 44147-GCA55)
 DTSTART;TZID=America/Indiana/Indianapolis:20260909T140000
 DTEND;TZID=America/Indiana/Indianapolis:20260909T160000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:9c2120afb89fd8000769@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -118,7 +66,7 @@ SUMMARY:[IN] APPLICATION OF DUKE ENERGY INDIANA\, LLC FOR APPROVAL OF A CH
  CORDANCE WIT
 DTSTART;TZID=America/Indiana/Indianapolis:20260916T090000
 DTEND;TZID=America/Indiana/Indianapolis:20260916T110000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:8b7b48d4e6d863dc27c1@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -133,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] LOCAL TIME\, in the IURC Conference Center
 DTSTART;TZID=America/Indiana/Indianapolis:20260916T100000
 DTEND;TZID=America/Indiana/Indianapolis:20260916T120000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:135bbfdc1b16630957ab@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -146,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] Conference to be held LOCAL TIME\, IURC Conference
 DTSTART;TZID=America/Indiana/Indianapolis:20260916T100000
 DTEND;TZID=America/Indiana/Indianapolis:20260916T120000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:f853beed829aac2980a5@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -159,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] LOCAL TIME\, in the IURC Conference Center\, Suite
 DTSTART;TZID=America/Indiana/Indianapolis:20260922T133000
 DTEND;TZID=America/Indiana/Indianapolis:20260922T153000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:6ce72a0423ada6667d75@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -172,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] Conference to be held LOCAL TIME\, IURC Conference Center
 DTSTART;TZID=America/Indiana/Indianapolis:20260922T133000
 DTEND;TZID=America/Indiana/Indianapolis:20260922T153000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:e3cfd75fbc9b4d8f0b08@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -188,7 +136,7 @@ SUMMARY:[IN] VERIFIED PETITION OF THE INDIANA OFFICE OF UTILITY CONSUMER C
   POWER OUTAGE RESTOR
 DTSTART;TZID=America/Indiana/Indianapolis:20260928T113000
 DTEND;TZID=America/Indiana/Indianapolis:20260928T133000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:fa470e5949a9cdf4ef2f@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -206,7 +154,7 @@ SUMMARY:[IN] IN THE MATTER OF THE PETITION OF AEP GENERATING COMPANY FOR A
  URED PROMISSO
 DTSTART;TZID=America/Indiana/Indianapolis:20260929T093000
 DTEND;TZID=America/Indiana/Indianapolis:20260929T113000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:daed74393b5faf7a9d16@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -224,7 +172,7 @@ SUMMARY:[IN] IN THE MATTER OF THE PETITION OF INDIANA MICHIGAN POWER COMPA
  OR MORE NEW SE
 DTSTART;TZID=America/Indiana/Indianapolis:20260929T133000
 DTEND;TZID=America/Indiana/Indianapolis:20260929T153000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:0c14f4081591e4ddd71b@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -241,7 +189,7 @@ SUMMARY:[IN] & \, 7\, and 16\, 2026 – Executive Session Meetings (Cybers
  ic Notice posted on 9.28.26
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:f7b2cde6e3b3e132329b@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -260,7 +208,7 @@ SUMMARY:[IN] PETITION OF VALLEY RURAL UTILITY COMPANY FOR APPROVAL OF ITS
  E NO. 42115 (Cause 42115-GCA23)
 DTSTART;TZID=America/Indiana/Indianapolis:20260930T093000
 DTEND;TZID=America/Indiana/Indianapolis:20260930T113000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:864418cf11cce451f6b7@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -275,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] LOCAL TIME\, in the IURC Conference Center
 DTSTART;TZID=America/Indiana/Indianapolis:20260930T100000
 DTEND;TZID=America/Indiana/Indianapolis:20260930T120000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:e06f011ab608fa641e6e@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -288,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] Conference to be held LOCAL TIME\, IURC Conference
 DTSTART;TZID=America/Indiana/Indianapolis:20260930T100000
 DTEND;TZID=America/Indiana/Indianapolis:20260930T120000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:f8ba57332372c03d5514@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -301,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] LOCAL TIME\, in the IURC Conference Center\, Suite
 DTSTART;TZID=America/Indiana/Indianapolis:20261007T100000
 DTEND;TZID=America/Indiana/Indianapolis:20261007T120000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:e8b3b7761de9c0abd49b@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -314,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] Conference to be held on LOCAL TIME\, IURC Conference
 DTSTART;TZID=America/Indiana/Indianapolis:20261007T100000
 DTEND;TZID=America/Indiana/Indianapolis:20261007T120000
-DTSTAMP:20261007T170308Z
+DTSTAMP:20261008T170120Z
 UID:3d1f8ae69a23aadd9b36@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -322,5 +270,200 @@ DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType:
  /Final%20Agenda 10-07-2026.pdf
 PRIORITY:5
 URL:https://www.in.gov/iurc/files/Final%20Agenda 10-07-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] PETITION OF INDIANA MICHIGAN POWER COMPANY FOR APPROVAL OF A 
+ GENERATION RESOURCE SUBMITTAL IN ACCORDANCE WITH PETITIONER’S EGR PLAN A
+ PPROVED IN CAUSE NUMBER 46301 AND ASSOCIATED ACCOUNTING AND RATEMAKING TRE
+ ATMENT (Cause
+DTSTART;TZID=America/Indiana/Indianapolis:20261013T093000
+DTEND;TZID=America/Indiana/Indianapolis:20261013T113000
+DTSTAMP:20261008T170120Z
+UID:48dac1e05e195aef03a7@psc-calendar
+CATEGORIES:IN,Evidentiary Hearing
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Evidentiary Hearing\n\nSource: https://www.in.gov/iurc/files/Hearings%20Li
+ st for wk of October 12\, 2026.pdf
+LOCATION:PNC\, Room 222
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Hearings%20List for wk of October 12, 20
+ 26.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] PETITION OF COMMUNITY NATURAL GAS CO.\, INC. FOR APPROVAL OF 
+ CHANGES IN ITS RATES THROUGH A GAS COST ADJUSTMENT IN ACCORDANCE WITH IND.
+  CODE § 8-1-2-42(g) (Cause 37488-GCA170)
+DTSTART;TZID=America/Indiana/Indianapolis:20261013T133000
+DTEND;TZID=America/Indiana/Indianapolis:20261013T153000
+DTSTAMP:20261008T170120Z
+UID:5377a2b58b9876426249@psc-calendar
+CATEGORIES:IN,Evidentiary Hearing
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Evidentiary Hearing\nDocket: 37488-GCA170\n\nSource: https://www.in.gov/iu
+ rc/files/Hearings%20List for wk of October 12\, 2026.pdf
+LOCATION:PNC\, Room 222
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Hearings%20List for wk of October 12, 20
+ 26.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] PETITION OF INDIANA NATURAL GAS CORPORATION FOR APPROVAL OF C
+ HANGES IN ITS GAS RATES THROUGH A GAS COST ADJUSTMENT IN ACCORDANCE WITH I
+ ND. CODE § 8-1-2-42(g) (Cause 37418-GCA171)
+DTSTART;TZID=America/Indiana/Indianapolis:20261013T140000
+DTEND;TZID=America/Indiana/Indianapolis:20261013T160000
+DTSTAMP:20261008T170120Z
+UID:6003810dd7b3048205a1@psc-calendar
+CATEGORIES:IN,Evidentiary Hearing
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Evidentiary Hearing\nDocket: 37418-GCA171\n\nSource: https://www.in.gov/iu
+ rc/files/Hearings%20List for wk of October 12\, 2026.pdf
+LOCATION:PNC\, Room 222
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Hearings%20List for wk of October 12, 20
+ 26.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] PETITION OF MIDWEST NATURAL GAS CORPORATION FOR APPROVAL OF C
+ HANGES IN ITS GAS RATES THROUGH A GAS COST ADJUSTMENT IN ACCORDANCE WITH I
+ ND. CODE § 8-1-2-42(g) (Cause 37440-GCA171)
+DTSTART;TZID=America/Indiana/Indianapolis:20261013T143000
+DTEND;TZID=America/Indiana/Indianapolis:20261013T163000
+DTSTAMP:20261008T170120Z
+UID:813502e4c53acda5f578@psc-calendar
+CATEGORIES:IN,Evidentiary Hearing
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Evidentiary Hearing\nDocket: 37440-GCA171\n\nSource: https://www.in.gov/iu
+ rc/files/Hearings%20List for wk of October 12\, 2026.pdf
+LOCATION:PNC\, Room 222
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Hearings%20List for wk of October 12, 20
+ 26.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] PETITION OF SYCAMORE GAS COMPANY FOR APPROVAL OF CHANGES IN I
+ TS GAS RATES THROUGH A GAS COST ADJUSTMENT IN ACCORDANCE WITH IND. CODE §
+ § 8-1-2-42(g) AND 8-1-2-42.3 FOR THE MONTHS OF NOVEMBER 2026 THROUGH JANU
+ ARY 2027 (Cau
+DTSTART;TZID=America/Indiana/Indianapolis:20261014T093000
+DTEND;TZID=America/Indiana/Indianapolis:20261014T113000
+DTSTAMP:20261008T170120Z
+UID:088bb4075aa757e9c6c9@psc-calendar
+CATEGORIES:IN,Evidentiary Hearing
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Evidentiary Hearing\n\nSource: https://www.in.gov/iurc/files/Hearings%20Li
+ st for wk of October 12\, 2026.pdf
+LOCATION:PNC\, Room 222
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Hearings%20List for wk of October 12, 20
+ 26.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPANY D/B/A C
+ ENTERPOINT ENERGY INDIANA SOUTH (“CEI SOUTH”) FOR APPROVAL OF A CHANGE
+  IN ITS FUEL COST ADJUSTMENT FOR ELECTRIC SERVICE IN ACCORDANCE WITH THE O
+ RDER OF THE COM
+DTSTART;TZID=America/Indiana/Indianapolis:20261014T103000
+DTEND;TZID=America/Indiana/Indianapolis:20261014T123000
+DTSTAMP:20261008T170120Z
+UID:39b6c633d522c1edb027@psc-calendar
+CATEGORIES:IN,Evidentiary Hearing
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Evidentiary Hearing\n\nSource: https://www.in.gov/iurc/files/Hearings%20Li
+ st for wk of October 12\, 2026.pdf
+LOCATION:PNC\, Room 222
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Hearings%20List for wk of October 12, 20
+ 26.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] VERIFIED PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPAN
+ Y D/B/A CENTERPOINT ENERGY INDIANA SOUTH (“CEI SOUTH”) FOR APPROVAL OF
+  CHANGES IN ITS GAS COST ADJUSTMENTS IN ACCORDANCE WITH I.C. 8-1-2-42(g) a
+ nd 8-1-2-42.3 (
+DTSTART;TZID=America/Indiana/Indianapolis:20261014T130000
+DTEND;TZID=America/Indiana/Indianapolis:20261014T150000
+DTSTAMP:20261008T170120Z
+UID:0db555a32b506e6ff68b@psc-calendar
+CATEGORIES:IN,Evidentiary Hearing
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Evidentiary Hearing\n\nSource: https://www.in.gov/iurc/files/Hearings%20Li
+ st for wk of October 12\, 2026.pdf
+LOCATION:PNC\, Room 222
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Hearings%20List for wk of October 12, 20
+ 26.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] IN THE MATTER OF THE APPLICATION OF INDIANA MICHIGAN POWER CO
+ MPANY FOR APPROVAL OF A FUEL COST ADJUSTMENT FOR ELECTRIC SERVICE APPLICAB
+ LE FOR THE BILLING MONTHS OF NOVEMBER 2026 THROUGH APRIL 2027\, FOR CONTIN
+ UED RECOVERY
+DTSTART;TZID=America/Indiana/Indianapolis:20261014T133000
+DTEND;TZID=America/Indiana/Indianapolis:20261014T153000
+DTSTAMP:20261008T170120Z
+UID:f61a6b609ffb7de6910f@psc-calendar
+CATEGORIES:IN,Evidentiary Hearing
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Evidentiary Hearing\n\nSource: https://www.in.gov/iurc/files/Hearings%20Li
+ st for wk of October 12\, 2026.pdf
+LOCATION:PNC\, Room 222
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Hearings%20List for wk of October 12, 20
+ 26.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] VERIFIED PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPAN
+ Y D/B/A CENTERPOINT ENERGY INDIANA SOUTH (“CEI SOUTH”) FOR APPROVAL OF
+  A RELIABILITY COST AND REVENUE ADJUSTMENT FOR ELECTRIC SERVICE IN ACCORDA
+ NCE WITH THE OR
+DTSTART;TZID=America/Indiana/Indianapolis:20261015T100000
+DTEND;TZID=America/Indiana/Indianapolis:20261015T120000
+DTSTAMP:20261008T170120Z
+UID:6ab5680cea5cb194be44@psc-calendar
+CATEGORIES:IN,Evidentiary Hearing
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Evidentiary Hearing\n\nSource: https://www.in.gov/iurc/files/Hearings%20Li
+ st for wk of October 12\, 2026.pdf
+LOCATION:PNC\, Room 222
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Hearings%20List for wk of October 12, 20
+ 26.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] VERIFIED JOINT PETITION OF ANGELINA SOLAR I\, LLC AND REV REN
+ EWABLES DEVCO\, LLC FOR (1) A DETERMINATION THAT REV RENEWABLES DEVCO\, LL
+ C HAS THE NECESSARY TECHNICAL\, FINANCIAL\, AND MANAGERIAL CAPABILITY TO O
+ WN AND OPERATE T
+DTSTART;TZID=America/Indiana/Indianapolis:20261015T133000
+DTEND;TZID=America/Indiana/Indianapolis:20261015T153000
+DTSTAMP:20261008T170120Z
+UID:4700e73e9afdb71fa982@psc-calendar
+CATEGORIES:IN,Evidentiary Hearing
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Evidentiary Hearing\n\nSource: https://www.in.gov/iurc/files/Hearings%20Li
+ st for wk of October 12\, 2026.pdf
+LOCATION:PNC\, Room 222
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Hearings%20List for wk of October 12, 20
+ 26.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IN] IN THE MATTER OF THE JOINT PETITION OF DUKE ENERGY INDIANA\, 
+ LLC AND JOHNSON COUNTY RURAL ELECTRIC MEMBERSHIP CORPORATION FOR THE TRANS
+ FER OF ASSETS FROM JOHNSON COUNTY RURAL ELECTRIC MEMBERSHIP CORPORATION TO
+  DUKE ENERGY
+DTSTART;TZID=America/Indiana/Indianapolis:20261015T143000
+DTEND;TZID=America/Indiana/Indianapolis:20261015T163000
+DTSTAMP:20261008T170120Z
+UID:a454258446b6b28ca437@psc-calendar
+CATEGORIES:IN,Evidentiary Hearing
+DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
+ Evidentiary Hearing\n\nSource: https://www.in.gov/iurc/files/Hearings%20Li
+ st for wk of October 12\, 2026.pdf
+LOCATION:PNC\, Room 222
+PRIORITY:5
+URL:https://www.in.gov/iurc/files/Hearings%20List for wk of October 12, 20
+ 26.pdf
 END:VEVENT
 END:VCALENDAR
