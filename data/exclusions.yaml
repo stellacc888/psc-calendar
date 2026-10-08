@@ -1847,7 +1847,22 @@ events:
     title: MCA PETROLEUM CORPORATION-DOCKET NOS. OG-26-00033253 AND OG-26-00033254
   - commission: WA
     date: 2026-10-08
-    title: Open Meeting
+    title: Open Meeting  # --- added 2026-10-08 - paste directly under the existing `events:` line ---
+  - commission: IN
+    date: 2026-10-14
+    title: "VERIFIED PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPANY D/B/A CENTERPOINT ENERGY INDIANA SOUTH (“CEI SOUTH”) FOR APPROVAL OF CHANGES IN ITS GAS COST ADJUSTMENTS IN ACCORDANCE WITH I.C. 8-1-2-42(g) and 8-1-2-42.3 ("
+  - commission: MI
+    date: 2026-10-15
+    title: MPSC to hold Commission meeting in Upper Peninsula
+  - commission: NE
+    date: 2026-10-13
+    title: "13 Oct Quarterly Status Meeting – NG-101.1 – Black Hills Energy Location: Commission Hearing Room 2:00pm"
+  - commission: NOLA
+    date: 2026-10-15
+    title: Regular Meeting
+  - commission: NV
+    date: 2026-10-14
+    title: Scheduled Commission Utility Agendas
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
