@@ -1862,7 +1862,22 @@ events:
     title: Regular Meeting
   - commission: NV
     date: 2026-10-14
-    title: Scheduled Commission Utility Agendas
+    title: Scheduled Commission Utility Agendas  # --- added 2026-10-08 - paste directly under the existing `events:` line ---
+  - commission: MA
+    date: 2026-10-13
+    title: "Notice of Hearings: DPU Transportation Oversight Division"
+  - commission: OR
+    date: 2026-10-13
+    title: Docket UM 2340 - STAFF INVESTIGATION INTO GUIDELINES FOR WILDFIRE MITIGATION PLANS
+  - commission: OR
+    date: 2026-10-13
+    title: Docket ADV 1884 - PGE ADVICE NO. 26-29 SCHEDULE 151 WILDFIRE MITIGATION
+  - commission: OR
+    date: 2026-10-13
+    title: Docket ADV 1898 - PGE ADVICE NO. 26-354 SCHEDULE 138 ENERGY STORAGE COST RECOVERY MECHANISM
+  - commission: OR
+    date: 2026-10-13
+    title: Docket ADV 1899 - PGE ADVICE NO. 26-36 SCHEDULE 122
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
