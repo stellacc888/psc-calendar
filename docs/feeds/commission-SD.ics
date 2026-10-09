@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:[SD] South Dakota Public Utilities Commission Meeting
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20261008T191744Z
+DTSTAMP:20261009T163932Z
 UID:23572dc89606432e37f0@psc-calendar
 CATEGORIES:SD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[SD] Addendum to the Agenda of Commission Meeting
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261008T191744Z
+DTSTAMP:20261009T163932Z
 UID:cc5ea718f1c4a705ac46@psc-calendar
 CATEGORIES:SD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:[SD] South Dakota Public Utilities Commission Meeting
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261008T191744Z
+DTSTAMP:20261009T163932Z
 UID:75e0abf7e5cf5562564e@psc-calendar
 CATEGORIES:SD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp
