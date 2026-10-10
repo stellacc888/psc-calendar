@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20260916T100000
 DTEND;TZID=America/New_York:20260916T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:720cce510abc84e93c68@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261007T100000
 DTEND;TZID=America/New_York:20261007T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:92519a9a128d20877cb4@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Case 9707-Future of Gas\, Phase II Evidentiary Hearing
 DTSTART;TZID=America/New_York:20261014T093000
 DTEND;TZID=America/New_York:20261014T113000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:5b6e50fec9090156faf4@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -48,23 +48,10 @@ PRIORITY:5
 URL:https://psc.maryland.gov/news-events/calendars/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[MD] Administrative Meeting
-DTSTART;TZID=America/New_York:20261014T100000
-DTEND;TZID=America/New_York:20261014T120000
-DTSTAMP:20261009T163932Z
-UID:a91f180b66ea72d72769@psc-calendar
-CATEGORIES:MD,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
- n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
- ents/calendars/
-PRIORITY:5
-URL:https://psc.maryland.gov/news-events/calendars/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[MD] Case 9707-Future of Gas\, Phase II Evidentiary Hearing
 DTSTART;TZID=America/New_York:20261015T093000
 DTEND;TZID=America/New_York:20261015T113000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:90abc3958f6e8c17ddc6@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -77,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Case 9707-Future of Gas\, Phase II Evidentiary Hearing
 DTSTART;TZID=America/New_York:20261016T093000
 DTEND;TZID=America/New_York:20261016T113000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:b087576d80d49f6e2788@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -90,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261021T100000
 DTEND;TZID=America/New_York:20261021T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:8ed1a8bbce605f3d312e@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -103,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Hearing on Q1/Q2 2026 Semi-Annual Reports—9890
 DTSTART;TZID=America/New_York:20261026T100000
 DTEND;TZID=America/New_York:20261026T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:1cbe440967cd50c426ca@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -116,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Hearing on Q1/Q2 2026 Semi-Annual Reports—9890
 DTSTART;TZID=America/New_York:20261027T100000
 DTEND;TZID=America/New_York:20261027T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:7b4df5dd792d22732a79@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -129,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261028T100000
 DTEND;TZID=America/New_York:20261028T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:d756afb61bddd336dc51@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -142,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Hearing on Q1/Q2 2026 Semi-Annual Reports—9890
 DTSTART;TZID=America/New_York:20261028T100000
 DTEND;TZID=America/New_York:20261028T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:7b8b98304fef32426211@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -155,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Hearing on Q1/Q2 2026 Semi-Annual Reports—9890
 DTSTART;TZID=America/New_York:20261029T100000
 DTEND;TZID=America/New_York:20261029T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:69e77e5f3c3ea11901d1@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -168,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261104T100000
 DTEND;TZID=America/New_York:20261104T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:1315adf3938d5cf0d661@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -181,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261118T100000
 DTEND;TZID=America/New_York:20261118T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:707db444255208982309@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -194,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261124T100000
 DTEND;TZID=America/New_York:20261124T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:71c25bee3c7947be4f4e@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -207,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261202T100000
 DTEND;TZID=America/New_York:20261202T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:9ec5ffd85ba3cefeec2a@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -220,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Legislative-Style Hearing—Large Load Tariffs—PC72
 DTSTART;TZID=America/New_York:20261208T100000
 DTEND;TZID=America/New_York:20261208T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:7711b1b6513248941f79@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -233,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261209T100000
 DTEND;TZID=America/New_York:20261209T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:635b3357ec7b5d630459@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -246,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Legislative-Style Hearing—Large Load Tariffs—PC72
 DTSTART;TZID=America/New_York:20261209T100000
 DTEND;TZID=America/New_York:20261209T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:46646dda51a8f02fa036@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -259,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] PC 59 Limited-Income Mechanism Work Group Regular Meeting
 DTSTART;TZID=America/New_York:20261210T100000
 DTEND;TZID=America/New_York:20261210T110000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:fe9f217e0d17d5046b9b@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -272,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Legislative-Style Hearing—Large Load Tariffs—PC72
 DTSTART;TZID=America/New_York:20261210T100000
 DTEND;TZID=America/New_York:20261210T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:21580790401db415e1f7@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -285,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Legislative-Style Hearing—Large Load Tariffs—PC72
 DTSTART;TZID=America/New_York:20261211T100000
 DTEND;TZID=America/New_York:20261211T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:c1945a4b3d2645268630@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -298,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261216T100000
 DTEND;TZID=America/New_York:20261216T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:27b28c3e4c71d1c86c7f@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -311,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261222T100000
 DTEND;TZID=America/New_York:20261222T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:58788573cb06651a8587@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -324,8 +311,21 @@ BEGIN:VEVENT
 SUMMARY:[MD] PC 59 Limited-Income Mechanism Work Group Regular Meeting
 DTSTART;TZID=America/New_York:20261224T100000
 DTEND;TZID=America/New_York:20261224T110000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:97d6f72ab1b64c351a99@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270106T100000
+DTEND;TZID=America/New_York:20270106T000000
+DTSTAMP:20261010T153642Z
+UID:da0b55093d6807c98128@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
  n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
@@ -337,8 +337,34 @@ BEGIN:VEVENT
 SUMMARY:[MD] PC 59 Limited-Income Mechanism Work Group Regular Meeting
 DTSTART;TZID=America/New_York:20270107T100000
 DTEND;TZID=America/New_York:20270107T110000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:eadb16c3c0650d065815@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270113T100000
+DTEND;TZID=America/New_York:20270113T120000
+DTSTAMP:20261010T153642Z
+UID:e6e75dccd2324313977c@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270120T100000
+DTEND;TZID=America/New_York:20270120T120000
+DTSTAMP:20261010T153642Z
+UID:ae1ac5add46aa203a87b@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
  n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
@@ -350,8 +376,138 @@ BEGIN:VEVENT
 SUMMARY:[MD] PC 59 Limited-Income Mechanism Work Group Regular Meeting
 DTSTART;TZID=America/New_York:20270121T100000
 DTEND;TZID=America/New_York:20270121T110000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:421f28585dfc5f32389b@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270127T100000
+DTEND;TZID=America/New_York:20270127T120000
+DTSTAMP:20261010T153642Z
+UID:2c4fb217972feac42b2b@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270203T100000
+DTEND;TZID=America/New_York:20270203T120000
+DTSTAMP:20261010T153642Z
+UID:08189bc1697ebbbba898@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270210T100000
+DTEND;TZID=America/New_York:20270210T120000
+DTSTAMP:20261010T153642Z
+UID:4e2d4f20c847682b16c9@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270217T100000
+DTEND;TZID=America/New_York:20270217T120000
+DTSTAMP:20261010T153642Z
+UID:cf54a1cdcc3bac078c85@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270224T100000
+DTEND;TZID=America/New_York:20270224T120000
+DTSTAMP:20261010T153642Z
+UID:5d8731014c4fbd04148c@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270303T100000
+DTEND;TZID=America/New_York:20270303T120000
+DTSTAMP:20261010T153642Z
+UID:785edc47cad66ccf93f8@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270310T100000
+DTEND;TZID=America/New_York:20270310T120000
+DTSTAMP:20261010T153642Z
+UID:8195cb96703789b71422@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270317T100000
+DTEND;TZID=America/New_York:20270317T120000
+DTSTAMP:20261010T153642Z
+UID:1b5c31e253f20ea29754@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270324T100000
+DTEND;TZID=America/New_York:20270324T120000
+DTSTAMP:20261010T153642Z
+UID:7c62231ff7eb8d3020da@psc-calendar
+CATEGORIES:MD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev
+ ents/calendars/
+PRIORITY:5
+URL:https://psc.maryland.gov/news-events/calendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MD] Administrative Meeting
+DTSTART;TZID=America/New_York:20270331T100000
+DTEND;TZID=America/New_York:20270331T120000
+DTSTAMP:20261010T153642Z
+UID:cccefd2ef898655241f0@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
  n Meeting / Commission Meeting\n\nSource: https://psc.maryland.gov/news-ev

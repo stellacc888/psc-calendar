@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Notice Agenda and Quarterly Meeting dates Revised
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:e29d781fff915128aeaf@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Regular Board Agenda Meetings
 DTSTART;TZID=America/New_York:20261014T100000
 DTEND;TZID=America/New_York:20261014T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:2a89084a63a5b45c2ec2@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Regular Board Agenda Meetings
 DTSTART;TZID=America/New_York:20261028T100000
 DTEND;TZID=America/New_York:20261028T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:a6865b30cd006dfef7e5@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Regular Board Agenda Meetings
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:47b19be3a2a46aba06de@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Quarterly Meetings
 DTSTART;TZID=America/New_York:20261211T100000
 DTEND;TZID=America/New_York:20261211T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:350e4a0e85f38f628f1d@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Regular Board Agenda Meetings
 DTSTART;TZID=America/New_York:20261216T100000
 DTEND;TZID=America/New_York:20261216T120000
-DTSTAMP:20261009T163932Z
+DTSTAMP:20261010T153642Z
 UID:cdb17fe9796eee44c90d@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O

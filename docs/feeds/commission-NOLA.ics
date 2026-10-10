@@ -10,115 +10,168 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NOLA] Special Meeting
-DTSTART;TZID=America/Chicago:20260922T150000
-DTEND;TZID=America/Chicago:20260922T170000
-DTSTAMP:20261009T163932Z
-UID:6c5cac90013e2565b42f@psc-calendar
-CATEGORIES:NOLA,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
- \nType: Open Meeting / Commission Meeting\n\nSource: https://council.nola.
- gov/meetings/2026/special-meetings/20260922-special-meeting/?feed=events
-PRIORITY:5
-URL:https://council.nola.gov/meetings/2026/special-meetings/20260922-speci
- al-meeting/?feed=events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NOLA] ABCB Sales Tax Hearing
-DTSTART;TZID=America/Chicago:20260929T153030
-DTEND;TZID=America/Chicago:20260929T173030
-DTSTAMP:20261009T163932Z
-UID:a1d5e8137092fb149d8a@psc-calendar
+SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 1 - Sep 29\, 2026
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20261010T153642Z
+UID:195063a61719baf15930@psc-calendar
 CATEGORIES:NOLA,Evidentiary Hearing
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
- \nType: Evidentiary Hearing\n\nSource: https://council.nola.gov/meetings/2
- 026/20260929-abcb-sales-tax-hearing/?feed=events
+ \nType: Evidentiary Hearing\n\nThe agenda for 2027 Proposed Budget Hearing
+ s - Day 1 dated Tuesday\, 29 September 2026 has been archived. Access it h
+ ere: https://cityofno.granicus.com/AgendaViewer.php?view_id=42&amp\;clip_i
+ d=5591\n\nSource: https://cityofno.granicus.com/AgendaViewer.php?view_id=4
+ 2&clip_id=5591
 PRIORITY:5
-URL:https://council.nola.gov/meetings/2026/20260929-abcb-sales-tax-hearing
- /?feed=events
+URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&clip_id=5591
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NOLA] ABCB Nuisance Hearing
-DTSTART;TZID=America/Chicago:20260929T180000
-DTEND;TZID=America/Chicago:20260929T200000
-DTSTAMP:20261009T163932Z
-UID:2e881349b0beb204ce9f@psc-calendar
+SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 2 - Sep 30\, 2026
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20261010T153642Z
+UID:fab16ce661931a88fe2a@psc-calendar
 CATEGORIES:NOLA,Evidentiary Hearing
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
- \nType: Evidentiary Hearing\n\nSource: https://council.nola.gov/meetings/2
- 026/20260929-abcb-nuisance-hearing/?feed=events
+ \nType: Evidentiary Hearing\n\nThe agenda for 2027 Proposed Budget Hearing
+ s - Day 2 dated Wednesday\, 30 September 2026 has been archived. Access it
+  here: https://cityofno.granicus.com/AgendaViewer.php?view_id=42&amp\;clip
+ _id=5592\n\nSource: https://cityofno.granicus.com/AgendaViewer.php?view_id
+ =42&clip_id=5592
 PRIORITY:5
-URL:https://council.nola.gov/meetings/2026/20260929-abcb-nuisance-hearing/
- ?feed=events
+URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&clip_id=5592
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NOLA] Special Meeting
-DTSTART;TZID=America/Chicago:20261029T180000
-DTEND;TZID=America/Chicago:20261029T200000
-DTSTAMP:20261009T163932Z
-UID:aeecd47cc093a7cdad83@psc-calendar
-CATEGORIES:NOLA,Open Meeting / Commission Meeting
+SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 3 - Oct 05\, 2026
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+DTSTAMP:20261010T153642Z
+UID:e599501b8ce67b3b3a09@psc-calendar
+CATEGORIES:NOLA,Evidentiary Hearing
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
- \nType: Open Meeting / Commission Meeting\n\nSource: https://council.nola.
- gov/meetings/2026/special-meetings/20261029-special-meeting/?feed=events
+ \nType: Evidentiary Hearing\n\nThe agenda for 2027 Proposed Budget Hearing
+ s - Day 3 dated Monday\, 05 October 2026 has been archived. Access it here
+ : https://cityofno.granicus.com/AgendaViewer.php?view_id=42&amp\;clip_id=5
+ 594\n\nSource: https://cityofno.granicus.com/AgendaViewer.php?view_id=42&c
+ lip_id=5594
 PRIORITY:5
-URL:https://council.nola.gov/meetings/2026/special-meetings/20261029-speci
- al-meeting/?feed=events
+URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&clip_id=5594
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NOLA] Regular Meeting
-DTSTART;TZID=America/Chicago:20261105T160000
-DTEND;TZID=America/Chicago:20261105T180000
-DTSTAMP:20261009T163932Z
-UID:7f510a7a9bce00b81fce@psc-calendar
-CATEGORIES:NOLA,Open Meeting / Commission Meeting
+SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 4 - Oct 07\, 2026
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+DTSTAMP:20261010T153642Z
+UID:85c0a08c57434016dd7e@psc-calendar
+CATEGORIES:NOLA,Evidentiary Hearing
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
- \nType: Open Meeting / Commission Meeting\n\nSource: https://council.nola.
- gov/meetings/2026/regular-meetings/20261105-regular-meeting/?feed=events
+ \nType: Evidentiary Hearing\n\nThe agenda for 2027 Proposed Budget Hearing
+ s - Day 4 dated Wednesday\, 07 October 2026 has been archived. Access it h
+ ere: https://cityofno.granicus.com/AgendaViewer.php?view_id=42&amp\;clip_i
+ d=5595\n\nSource: https://cityofno.granicus.com/AgendaViewer.php?view_id=4
+ 2&clip_id=5595
 PRIORITY:5
-URL:https://council.nola.gov/meetings/2026/regular-meetings/20261105-regul
- ar-meeting/?feed=events
+URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&clip_id=5595
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NOLA] Regular Meeting
-DTSTART;TZID=America/Chicago:20261119T160000
-DTEND;TZID=America/Chicago:20261119T180000
-DTSTAMP:20261009T163932Z
-UID:14fb2f8b3945a117c858@psc-calendar
-CATEGORIES:NOLA,Open Meeting / Commission Meeting
+SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 5 - Oct 08\, 2026
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20261010T153642Z
+UID:520f0ee90dc7f6467f73@psc-calendar
+CATEGORIES:NOLA,Evidentiary Hearing
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
- \nType: Open Meeting / Commission Meeting\n\nSource: https://council.nola.
- gov/meetings/2026/regular-meetings/20261119-regular-meeting/?feed=events
+ \nType: Evidentiary Hearing\n\nThe agenda for 2027 Proposed Budget Hearing
+ s - Day 5 dated Thursday\, 08 October 2026 has been archived. Access it he
+ re: https://cityofno.granicus.com/AgendaViewer.php?view_id=42&amp\;clip_id
+ =5596\n\nSource: https://cityofno.granicus.com/AgendaViewer.php?view_id=42
+ &clip_id=5596
 PRIORITY:5
-URL:https://council.nola.gov/meetings/2026/regular-meetings/20261119-regul
- ar-meeting/?feed=events
+URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&clip_id=5596
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NOLA] Regular Meeting
-DTSTART;TZID=America/Chicago:20261201T160000
-DTEND;TZID=America/Chicago:20261201T180000
-DTSTAMP:20261009T163932Z
-UID:9e4b56799c4874eb08d4@psc-calendar
-CATEGORIES:NOLA,Open Meeting / Commission Meeting
+SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 6 - Oct 19\, 2026
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20261010T153642Z
+UID:b904d0a0376b2cecf3ed@psc-calendar
+CATEGORIES:NOLA,Evidentiary Hearing
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
- \nType: Open Meeting / Commission Meeting\n\nSource: https://council.nola.
- gov/meetings/2026/regular-meetings/20261201-regular-meeting/?feed=events
+ \nType: Evidentiary Hearing\n\nThe agenda for 2027 Proposed Budget Hearing
+ s - Day 6 dated Monday\, 19 October 2026 has been published. Access it her
+ e: https://cityofno.granicus.com/AgendaViewer.php?view_id=42&amp\;event_id
+ =24804\n\nSource: https://cityofno.granicus.com/AgendaViewer.php?view_id=4
+ 2&event_id=24804
 PRIORITY:5
-URL:https://council.nola.gov/meetings/2026/regular-meetings/20261201-regul
- ar-meeting/?feed=events
+URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&event_id=248
+ 04
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NOLA] Regular Meeting
-DTSTART;TZID=America/Chicago:20261217T160000
-DTEND;TZID=America/Chicago:20261217T180000
-DTSTAMP:20261009T163932Z
-UID:7e1153f2e8ec6d358c17@psc-calendar
-CATEGORIES:NOLA,Open Meeting / Commission Meeting
+SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 7 - Oct 21\, 2026
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261010T153642Z
+UID:e5cb05871951fa8b7cbb@psc-calendar
+CATEGORIES:NOLA,Evidentiary Hearing
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
- \nType: Open Meeting / Commission Meeting\n\nSource: https://council.nola.
- gov/meetings/2026/regular-meetings/20261217-regular-meeting/?feed=events
+ \nType: Evidentiary Hearing\n\nThe agenda for 2027 Proposed Budget Hearing
+ s - Day 7 dated Wednesday\, 21 October 2026 has been published. Access it 
+ here: https://cityofno.granicus.com/AgendaViewer.php?view_id=42&amp\;event
+ _id=24805\n\nSource: https://cityofno.granicus.com/AgendaViewer.php?view_i
+ d=42&event_id=24805
 PRIORITY:5
-URL:https://council.nola.gov/meetings/2026/regular-meetings/20261217-regul
- ar-meeting/?feed=events
+URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&event_id=248
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 8 - Oct 22\, 2026
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20261010T153642Z
+UID:14bbcc867afaaa11e93e@psc-calendar
+CATEGORIES:NOLA,Evidentiary Hearing
+DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
+ \nType: Evidentiary Hearing\n\nThe agenda for 2027 Proposed Budget Hearing
+ s - Day 8 dated Thursday\, 22 October 2026 has been published. Access it h
+ ere: https://cityofno.granicus.com/AgendaViewer.php?view_id=42&amp\;event_
+ id=24806\n\nSource: https://cityofno.granicus.com/AgendaViewer.php?view_id
+ =42&event_id=24806
+PRIORITY:5
+URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&event_id=248
+ 06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 9 - Oct 28\, 2026
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261010T153642Z
+UID:6fa83f94bf07631a3103@psc-calendar
+CATEGORIES:NOLA,Evidentiary Hearing
+DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
+ \nType: Evidentiary Hearing\n\nThe agenda for 2027 Proposed Budget Hearing
+ s - Day 9 dated Wednesday\, 28 October 2026 has been published. Access it 
+ here: https://cityofno.granicus.com/AgendaViewer.php?view_id=42&amp\;event
+ _id=24807\n\nSource: https://cityofno.granicus.com/AgendaViewer.php?view_i
+ d=42&event_id=24807
+PRIORITY:5
+URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&event_id=248
+ 07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 10 - Oct 29\, 2026
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261010T153642Z
+UID:895d7781036c16a4f21f@psc-calendar
+CATEGORIES:NOLA,Evidentiary Hearing
+DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
+ \nType: Evidentiary Hearing\n\nThe agenda for 2027 Proposed Budget Hearing
+ s - Day 10 dated Thursday\, 29 October 2026 has been published. Access it 
+ here: https://cityofno.granicus.com/AgendaViewer.php?view_id=42&amp\;event
+ _id=24808\n\nSource: https://cityofno.granicus.com/AgendaViewer.php?view_i
+ d=42&event_id=24808
+PRIORITY:5
+URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&event_id=248
+ 08
 END:VEVENT
 END:VCALENDAR
