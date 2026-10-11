@@ -177,10 +177,10 @@
    "SWX"
   ]
  },
- "generated_at": "2026-10-10T11:36:42.278917-04:00",
- "generated_at_utc": "2026-10-10T15:38:14.433538+00:00",
+ "generated_at": "2026-10-11T11:59:45.235247-04:00",
+ "generated_at_utc": "2026-10-11T16:01:04.091799+00:00",
  "event_count": 458,
- "hidden_by_review": 174,
+ "hidden_by_review": 167,
  "stale_exclusions": [
   "LA 2026-10-12 hearing: u-37882",
   "LA 2026-10-22 hearing: u-37904",
@@ -210,7 +210,7 @@
    "error": "https://rca.alaska.gov/RCAWeb/WhatsNew/CalendarOfEvents.aspx?rm=yes [auto] -> FetchError: HTTP 403 ;; https://rca.alaska.gov/RCAWeb/Home/PublicMeetings.aspx [auto] -> FetchError: HTTP 403",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 1.22
+   "duration_s": 1.04
   },
   {
    "commission": "AL",
@@ -227,7 +227,7 @@
     "Untitled row (no event name on the page)": 1
    },
    "filtered_only": false,
-   "duration_s": 1.34
+   "duration_s": 1.66
   },
   {
    "commission": "AR",
@@ -240,7 +240,7 @@
    "error": "https://psc.arkansas.gov/calendar/ [auto] -> FetchError: ConnectionError: HTTPSConnectionPool(host='psc.arkansas.gov', port=443): Max retries exceeded with url: /calendar/ (Caused by NameResolutionError(\"HTTPSConnection(host='psc.arkansas.gov', port=443): Failed to resolve 'psc.arkansas.gov' ([Errno -2] Name or service not known)\")) ;; https://apscservices.info/hearing.asp [auto] -> FetchError: ConnectionError: HTTPSConnectionPool(host='apscservices.info', port=443): Max retries exceeded with ur",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 18.87
+   "duration_s": 18.71
   },
   {
    "commission": "AZ",
@@ -253,7 +253,7 @@
    "error": "https://www.azcc.gov/news [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calendar links | epoch_links: no epoch-dated links | drupal_settings: no drupal-settings-json block",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 2.45
+   "duration_s": 3.02
   },
   {
    "commission": "CA",
@@ -269,7 +269,7 @@
     "Workshop / Conference": 2
    },
    "filtered_only": false,
-   "duration_s": 2.87
+   "duration_s": 4.6
   },
   {
    "commission": "CO",
@@ -281,15 +281,15 @@
    "source_url": "https://calendar.google.com/calendar/ical/state.co.us_mie9aqkvh15rk34shmhs6mnfq8%40group.calendar.google.com/public/basic.ics",
    "error": "",
    "dropped": {
-    "Other": 6,
     "Public Comment Hearing": 14,
-    "Out of sector (water/telecom/transport)": 5,
     "Desk filter: title contains \"cancel\"": 4,
+    "Other": 6,
+    "Workshop / Conference": 5,
     "Procedural Milestone": 4,
-    "Workshop / Conference": 5
+    "Out of sector (water/telecom/transport)": 5
    },
    "filtered_only": false,
-   "duration_s": 3.42
+   "duration_s": 4.64
   },
   {
    "commission": "CT",
@@ -302,7 +302,7 @@
    "error": "https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PURA_CalendarEvents.xsp [browser] -> Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PURA_CalendarEvents.xsp\nCall log:\n  - navigating to \"https://www.dpuc.state.ct.us/dockcurr.nsf/XP_PURA_CalendarEvents.xsp\", waiting until \"domcontentloaded\"\n ;; https://portal.ct.gov/pura/events [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calend",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 2.26
+   "duration_s": 4.68
   },
   {
    "commission": "DC",
@@ -318,7 +318,7 @@
     "Other": 1
    },
    "filtered_only": false,
-   "duration_s": 13.07
+   "duration_s": 13.3
   },
   {
    "commission": "DE",
@@ -334,7 +334,7 @@
     "Public Comment Hearing": 2
    },
    "filtered_only": true,
-   "duration_s": 2.5
+   "duration_s": 2.87
   },
   {
    "commission": "FERC",
@@ -347,7 +347,7 @@
    "error": "https://www.federalregister.gov/api/v1/documents.json?per_page=20&order=newest&conditions%5Bagencies%5D%5B%5D=federal-energy-regulatory-commission&conditions%5Btype%5D%5B%5D=NOTICE&conditions%5Bterm%5D=%22sunshine%20act%22&fields%5B%5D=title&fields%5B%5D=publication_date&fields%5B%5D=dates&fields%5B%5D=abstract&fields%5B%5D=html_url [federal_register] -> ValueError: no in-window documents with parseable dates; https://www.ferc.gov/media/commission-meeting-calendar [auto] -> FetchError: HTTP 404",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 4.78
+   "duration_s": 6.58
   },
   {
    "commission": "FL",
@@ -365,7 +365,7 @@
     "Procedural Milestone": 1
    },
    "filtered_only": false,
-   "duration_s": 42.64
+   "duration_s": 31.99
   },
   {
    "commission": "GA",
@@ -382,7 +382,7 @@
     "Workshop / Conference": 1
    },
    "filtered_only": false,
-   "duration_s": 2.18
+   "duration_s": 2.6
   },
   {
    "commission": "HI",
@@ -392,14 +392,14 @@
    "event_count": 0,
    "strategy_used": "",
    "source_url": "",
-   "error": "scraped fine - all 5 events are types you excluded (Other, Out of sector (water/telecom/transport), Workshop / Conference)",
+   "error": "scraped fine - all 4 events are types you excluded (Other, Out of sector (water/telecom/transport), Workshop / Conference)",
    "dropped": {
-    "Other": 3,
+    "Other": 2,
     "Out of sector (water/telecom/transport)": 1,
     "Workshop / Conference": 1
    },
    "filtered_only": true,
-   "duration_s": 1.98
+   "duration_s": 2.0
   },
   {
    "commission": "IA",
@@ -409,15 +409,15 @@
    "event_count": 10,
    "strategy_used": "ics(10)",
    "source_url": "https://calendar.google.com/calendar/ical/iowa.gov_1qaeij61ffpcpcq7shfl9v5d3o%40group.calendar.google.com/public/basic.ics",
-   "error": "https://iuc.iowa.gov/commission-activity/hearing-meeting-calendar [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calendar links | epoch_links: no epoch-dated links | drupal_settings: no events array in drupal settings; https://iuc.iowa.gov/commission-activity/public-meeting-documents [html_table] -> all 28 events excluded by current type/sector settings",
+   "error": "https://iuc.iowa.gov/commission-activity/hearing-meeting-calendar [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calendar links | epoch_links: no epoch-dated links | drupal_settings: no events array in drupal settings; https://iuc.iowa.gov/commission-activity/public-meeting-documents [html_table] -> all 27 events excluded by current type/sector settings",
    "dropped": {
-    "Other": 6,
     "Workshop / Conference": 10,
+    "Procedural Milestone": 2,
     "Public Comment Hearing": 10,
-    "Procedural Milestone": 2
+    "Other": 5
    },
    "filtered_only": false,
-   "duration_s": 5.0
+   "duration_s": 6.33
   },
   {
    "commission": "ID",
@@ -432,37 +432,37 @@
     "Other": 5
    },
    "filtered_only": false,
-   "duration_s": 0.67
+   "duration_s": 0.85
   },
   {
    "commission": "IL",
    "commission_name": "Illinois Commerce Commission",
    "tier": "core",
    "ok": true,
-   "event_count": 27,
-   "strategy_used": "html_cards(13) + html_table(13) + html_table(1)",
+   "event_count": 26,
+   "strategy_used": "html_cards(13) + html_table(12) + html_table(1)",
    "source_url": "https://www.icc.illinois.gov/meetings",
    "error": "",
    "dropped": {
     "Other": 21
    },
    "filtered_only": false,
-   "duration_s": 12.9
+   "duration_s": 21.46
   },
   {
    "commission": "IN",
    "commission_name": "Indiana Utility Regulatory Commission",
    "tier": "core",
    "ok": true,
-   "event_count": 46,
-   "strategy_used": "pdf_links(37) + pdf_links(8) + date_regex(2)",
+   "event_count": 44,
+   "strategy_used": "pdf_links(35) + pdf_links(8) + date_regex(2)",
    "source_url": "https://www.in.gov/iurc/docketed-cases/find-a-docketed-case/weekly-hearings",
    "error": "https://calendar.in.gov/site/iurc/?format=ical [ics] -> ValueError: not a parseable iCalendar: Content line could not be parsed into parts: '  <!doctype html>': <!doctypehtml>",
    "dropped": {
     "Out of sector (water/telecom/transport)": 6
    },
    "filtered_only": false,
-   "duration_s": 17.66
+   "duration_s": 19.02
   },
   {
    "commission": "KS",
@@ -475,7 +475,7 @@
    "error": "https://www.kcc.ks.gov/calendar [auto] -> FetchError: HTTP 404 ;; https://www.kcc.ks.gov/business-meetings [auto] -> FetchError: HTTP 404",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 1.31
+   "duration_s": 1.58
   },
   {
    "commission": "KY",
@@ -488,7 +488,7 @@
    "error": "https://psc.ky.gov/Home/Hearings [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calendar links | epoch_links: no epoch-dated links | drupal_settings: no drupal-settings-json block ;; https://psc.ky.gov/Home/Calendar [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calendar links | epoch_links: no epoch-dated links | drupal_settings: no drupal-set",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 5.75
+   "duration_s": 5.82
   },
   {
    "commission": "LA",
@@ -504,15 +504,15 @@
     "Other": 4
    },
    "filtered_only": false,
-   "duration_s": 2.67
+   "duration_s": 2.79
   },
   {
    "commission": "MA",
    "commission_name": "Massachusetts Department of Public Utilities",
    "tier": "full",
    "ok": true,
-   "event_count": 24,
-   "strategy_used": "ma_fileroom(23) + html_cards(4)",
+   "event_count": 23,
+   "strategy_used": "ma_fileroom(22) + html_cards(4)",
    "source_url": "https://eeaonline.eea.state.ma.us/dpu/fileroom/api/search/hearings/",
    "error": "",
    "dropped": {
@@ -520,7 +520,7 @@
     "Public Comment Hearing": 1
    },
    "filtered_only": false,
-   "duration_s": 7.06
+   "duration_s": 8.35
   },
   {
    "commission": "MD",
@@ -530,16 +530,16 @@
    "event_count": 53,
    "strategy_used": "fullcalendar(53)",
    "source_url": "https://psc.maryland.gov/wp-admin/admin-ajax.php?action=dgtlnk_events_calendar_ajax",
-   "error": "https://psc.maryland.gov/news-events/upcoming-public-comment-hearings/ [date_regex] -> all 77 events excluded by current type/sector settings; https://webpscxb.pscmaryland.com/DMS/agendas [auto] -> FetchError: HTTP 403",
+   "error": "https://psc.maryland.gov/news-events/upcoming-public-comment-hearings/ [date_regex] -> all 76 events excluded by current type/sector settings; https://webpscxb.pscmaryland.com/DMS/agendas [auto] -> FetchError: HTTP 403",
    "dropped": {
-    "Public Comment Hearing": 28,
     "Other": 30,
+    "Public Comment Hearing": 27,
     "Workshop / Conference": 17,
     "Desk filter: title contains \"cancel\"": 1,
     "Procedural Milestone": 1
    },
    "filtered_only": false,
-   "duration_s": 4.26
+   "duration_s": 5.59
   },
   {
    "commission": "ME",
@@ -555,7 +555,7 @@
     "Procedural Milestone": 1
    },
    "filtered_only": false,
-   "duration_s": 5.19
+   "duration_s": 5.51
   },
   {
    "commission": "MI",
@@ -571,7 +571,7 @@
     "Untitled row (no event name on the page)": 5
    },
    "filtered_only": false,
-   "duration_s": 13.47
+   "duration_s": 15.61
   },
   {
    "commission": "MN",
@@ -586,7 +586,7 @@
     "Untitled row (no event name on the page)": 1
    },
    "filtered_only": false,
-   "duration_s": 2.49
+   "duration_s": 3.47
   },
   {
    "commission": "MO",
@@ -602,7 +602,7 @@
     "Untitled row (no event name on the page)": 6
    },
    "filtered_only": false,
-   "duration_s": 7.81
+   "duration_s": 7.03
   },
   {
    "commission": "MS",
@@ -617,7 +617,7 @@
     "Other": 4
    },
    "filtered_only": false,
-   "duration_s": 3.77
+   "duration_s": 4.02
   },
   {
    "commission": "MT",
@@ -630,7 +630,7 @@
    "error": "https://psc.mt.gov/_docs/Current-Agenda.pdf [pdf] -> FetchError: SSLError: HTTPSConnectionPool(host='psc.mt.gov', port=443): Max retries exceeded with url: /_docs/Current-Agenda.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))) ;; https://psc.mt.gov/Meetings [auto] -> FetchError: SSLError: HTTPSConnectionPool(host='psc.mt.gov', port=443): Max retries exceeded with url: /Meeting",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 19.6
+   "duration_s": 19.25
   },
   {
    "commission": "NC",
@@ -647,7 +647,7 @@
     "Public Comment Hearing": 7
    },
    "filtered_only": false,
-   "duration_s": 3.59
+   "duration_s": 3.52
   },
   {
    "commission": "ND",
@@ -662,7 +662,7 @@
     "Other": 1
    },
    "filtered_only": false,
-   "duration_s": 1.94
+   "duration_s": 2.24
   },
   {
    "commission": "NE",
@@ -677,7 +677,7 @@
     "Other": 1
    },
    "filtered_only": false,
-   "duration_s": 3.77
+   "duration_s": 3.75
   },
   {
    "commission": "NH",
@@ -690,7 +690,7 @@
    "error": "https://www.puc.nh.gov/Regulatory/Calendar.html [auto] -> FetchError: HTTP 403",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 0.19
+   "duration_s": 0.18
   },
   {
    "commission": "NJ",
@@ -700,20 +700,20 @@
    "event_count": 10,
    "strategy_used": "html_table(2) + pdf(8)",
    "source_url": "https://www.nj.gov/bpu/newsroom/public/",
-   "error": "https://www.nj.gov/bpu/newsroom/utility/index.html [html_table] -> all 20 events excluded by current type/sector settings",
+   "error": "https://www.nj.gov/bpu/newsroom/utility/index.html [html_table] -> all 19 events excluded by current type/sector settings",
    "dropped": {
-    "Other": 20
+    "Other": 19
    },
    "filtered_only": false,
-   "duration_s": 10.53
+   "duration_s": 10.57
   },
   {
    "commission": "NM",
    "commission_name": "New Mexico Public Regulation Commission",
    "tier": "full",
    "ok": true,
-   "event_count": 12,
-   "strategy_used": "date_regex(4) + html_table(8)",
+   "event_count": 11,
+   "strategy_used": "date_regex(4) + html_table(7)",
    "source_url": "https://www.prc.nm.gov/public-hearings/",
    "error": "",
    "dropped": {
@@ -721,7 +721,7 @@
     "Public Comment Hearing": 2
    },
    "filtered_only": false,
-   "duration_s": 2.44
+   "duration_s": 3.01
   },
   {
    "commission": "NOLA",
@@ -737,7 +737,7 @@
     "Desk filter: title contains \"budget\"": 1
    },
    "filtered_only": false,
-   "duration_s": 3.94
+   "duration_s": 7.51
   },
   {
    "commission": "NV",
@@ -753,7 +753,7 @@
     "Procedural Milestone": 2
    },
    "filtered_only": false,
-   "duration_s": 4.66
+   "duration_s": 4.79
   },
   {
    "commission": "NY",
@@ -770,7 +770,7 @@
     "Public Comment Hearing": 1
    },
    "filtered_only": false,
-   "duration_s": 18.35
+   "duration_s": 19.46
   },
   {
    "commission": "OH",
@@ -783,7 +783,7 @@
    "error": "https://puco.ohio.gov/news [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calendar links | epoch_links: no epoch-dated links | drupal_settings: no drupal-settings-json block",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 14.83
+   "duration_s": 22.34
   },
   {
    "commission": "OK",
@@ -796,7 +796,7 @@
    "error": "https://oklahoma.gov/occ/news-and-media/events.html [auto] -> FetchError: HTTP 404; https://oklahoma.gov/occ/divisions/public-utility.html [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calendar links | epoch_links: no epoch-dated links | drupal_settings: no drupal-settings-json block",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 8.34
+   "duration_s": 15.42
   },
   {
    "commission": "OR",
@@ -814,7 +814,7 @@
     "Out of sector (water/telecom/transport)": 1
    },
    "filtered_only": false,
-   "duration_s": 8.64
+   "duration_s": 8.37
   },
   {
    "commission": "PA",
@@ -827,7 +827,7 @@
    "error": "",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 2.86
+   "duration_s": 3.51
   },
   {
    "commission": "RI",
@@ -840,7 +840,7 @@
    "error": "https://opengov.sos.ri.gov/RSSFeed/Rss?feedType=1&entityID=0&filter1=&filter2=&Keywords=&FromDate={today}&ToDate={plus18mo}&RefineSearch=&PublicBodies=Public+Utilities+Commission [rss] -> ValueError: feed has no entries; https://ripuc.ri.gov/events [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calendar links | epoch_links: no epoch-dated links | drupal_settings: no events array in drupal settings",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 6.81
+   "duration_s": 6.35
   },
   {
    "commission": "SC",
@@ -857,7 +857,7 @@
     "Workshop / Conference": 2
    },
    "filtered_only": false,
-   "duration_s": 6.17
+   "duration_s": 6.88
   },
   {
    "commission": "SD",
@@ -870,7 +870,7 @@
    "error": "https://puc.sd.gov/commission/calendar.aspx [auto] -> FetchError: HTTP 404; https://puc.sd.gov/commission/meetings.aspx [auto] -> FetchError: HTTP 404",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 7.46
+   "duration_s": 8.41
   },
   {
    "commission": "TN",
@@ -882,10 +882,10 @@
    "source_url": "https://www.tn.gov/tpuc/conference-meetings/tra-conference-agendas.html",
    "error": "https://www.tn.gov/tpuc/agency/calendar-of-upcoming-events.html [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calendar links | epoch_links: no epoch-dated links | drupal_settings: no drupal-settings-json block",
    "dropped": {
-    "Other": 67
+    "Other": 64
    },
    "filtered_only": false,
-   "duration_s": 11.63
+   "duration_s": 11.68
   },
   {
    "commission": "TX",
@@ -902,15 +902,15 @@
     "Workshop / Conference": 3
    },
    "filtered_only": false,
-   "duration_s": 4.5
+   "duration_s": 5.22
   },
   {
    "commission": "TX-RRC",
    "commission_name": "Railroad Commission of Texas",
    "tier": "core",
    "ok": true,
-   "event_count": 84,
-   "strategy_used": "ics(84) + date_regex(4)",
+   "event_count": 83,
+   "strategy_used": "ics(83) + date_regex(4)",
    "source_url": "https://outlook.office365.com/owa/calendar/12df60392a5b4b46896cb5140c9bd191@rrc.texas.gov/811655264c4c474e8f9a144c8d0c56172702639553116114065/calendar.ics",
    "error": "https://www.rrc.texas.gov/hearings/hearings-calendar/ [date_regex] -> all 21 events excluded by current type/sector settings",
    "dropped": {
@@ -918,7 +918,7 @@
     "Other": 2
    },
    "filtered_only": false,
-   "duration_s": 8.06
+   "duration_s": 9.84
   },
   {
    "commission": "UT",
@@ -930,13 +930,13 @@
    "source_url": "https://calendar.google.com/calendar/ical/utah.gov_t5o5rhseg6ce20bke58ok6bmd8%40group.calendar.google.com/public/basic.ics",
    "error": "",
    "dropped": {
-    "Desk filter: title contains \"cancel\"": 2,
+    "Public Comment Hearing": 3,
     "Workshop / Conference": 5,
     "Procedural Milestone": 4,
-    "Public Comment Hearing": 3
+    "Desk filter: title contains \"cancel\"": 2
    },
    "filtered_only": false,
-   "duration_s": 5.07
+   "duration_s": 5.89
   },
   {
    "commission": "VA",
@@ -953,7 +953,7 @@
     "Out of sector (water/telecom/transport)": 1
    },
    "filtered_only": false,
-   "duration_s": 7.97
+   "duration_s": 9.26
   },
   {
    "commission": "VT",
@@ -968,15 +968,15 @@
     "Public Comment Hearing": 3
    },
    "filtered_only": true,
-   "duration_s": 5.97
+   "duration_s": 4.42
   },
   {
    "commission": "WA",
    "commission_name": "Washington Utilities and Transportation Commission",
    "tier": "full",
    "ok": true,
-   "event_count": 27,
-   "strategy_used": "drupal_settings(20) + html_table(7)",
+   "event_count": 26,
+   "strategy_used": "drupal_settings(19) + html_table(7)",
    "source_url": "https://www.utc.wa.gov/documents-and-proceedings/events",
    "error": "https://www.utc.wa.gov/documents-and-proceedings/open-meetings [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calendar links | epoch_links: no epoch-dated links | drupal_settings: no events array in drupal settings",
    "dropped": {
@@ -986,7 +986,7 @@
     "Workshop / Conference": 5
    },
    "filtered_only": false,
-   "duration_s": 36.94
+   "duration_s": 16.38
   },
   {
    "commission": "WI",
@@ -999,7 +999,7 @@
    "error": "https://apps.psc.wi.gov/apps/calendar/External [auto] -> FetchError: HTTP 403 ;; https://psc.wi.gov/Pages/NewsEvents/StayInformed.aspx [auto] -> ValueError: all strategies failed -> telerik: no RadScheduler appointment data in page | addtocalendar: no add-to-calendar links | epoch_links: no epoch-dated links | drupal_settings: no drupal-settings-json block ;; https://apps.psc.wi.gov/apps/calendar/External/HearingDetails [auto] -> FetchError: HTTP 403",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 2.42
+   "duration_s": 2.71
   },
   {
    "commission": "WV",
@@ -1009,10 +1009,10 @@
    "event_count": 0,
    "strategy_used": "",
    "source_url": "",
-   "error": "https://www.psc.state.wv.us/calendar/ [auto] -> FetchError: HTTP 403 ;; https://www.psc.state.wv.us/HearingSchedule/ [auto] -> FetchError: HTTP 404",
+   "error": "https://www.psc.state.wv.us/calendar/ [auto] -> FetchError: HTTP 403 ;; https://www.psc.state.wv.us/HearingSchedule/ [auto] -> FetchError: HTTP 403",
    "dropped": {},
    "filtered_only": false,
-   "duration_s": 1.11
+   "duration_s": 1.3
   },
   {
    "commission": "WY",
@@ -1028,7 +1028,7 @@
     "Other": 1
    },
    "filtered_only": false,
-   "duration_s": 4.03
+   "duration_s": 3.63
   }
  ],
  "events": [
@@ -1050,7 +1050,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "fb68d8a22485a09f772b@psc-calendar",
    "start_date": "2026-09-14"
   },
@@ -1072,7 +1072,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "ce27467fb638f90f0734@psc-calendar",
    "start_date": "2026-09-14"
   },
@@ -1094,7 +1094,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c1fadff009c6bb601c18@psc-calendar",
    "start_date": "2026-09-14"
   },
@@ -1118,7 +1118,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "ae1fe919f778f4fb0431@psc-calendar",
    "start_date": "2026-09-14"
   },
@@ -1140,7 +1140,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e29d781fff915128aeaf@psc-calendar",
    "start_date": "2026-09-15"
   },
@@ -1162,7 +1162,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "4ab5fa6545597fc56ab6@psc-calendar",
    "start_date": "2026-09-15"
   },
@@ -1184,7 +1184,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1742a9954268caadaf6e@psc-calendar",
    "start_date": "2026-09-15"
   },
@@ -1206,7 +1206,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2b40d1b0a4ce3f945faf@psc-calendar",
    "start_date": "2026-09-15"
   },
@@ -1228,7 +1228,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8b7b48d4e6d863dc27c1@psc-calendar",
    "start_date": "2026-09-16"
   },
@@ -1250,7 +1250,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "720cce510abc84e93c68@psc-calendar",
    "start_date": "2026-09-16"
   },
@@ -1272,7 +1272,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "23572dc89606432e37f0@psc-calendar",
    "start_date": "2026-09-22"
   },
@@ -1294,7 +1294,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e4b8f86f955688d45b23@psc-calendar",
    "start_date": "2026-09-22"
   },
@@ -1316,7 +1316,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "6ce72a0423ada6667d75@psc-calendar",
    "start_date": "2026-09-22"
   },
@@ -1338,7 +1338,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e3cfd75fbc9b4d8f0b08@psc-calendar",
    "start_date": "2026-09-22"
   },
@@ -1360,7 +1360,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "70d038387552b9ba4b48@psc-calendar",
    "start_date": "2026-09-22"
   },
@@ -1382,7 +1382,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d000e7100f1c10cfaf5f@psc-calendar",
    "start_date": "2026-09-23"
   },
@@ -1404,7 +1404,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "5f571a97176c1cf06db1@psc-calendar",
    "start_date": "2026-09-23"
   },
@@ -1426,7 +1426,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "47a9e02ffd8e772ff24d@psc-calendar",
    "start_date": "2026-09-24"
   },
@@ -1448,7 +1448,7 @@
    "event_type_label": "Decision / Order",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "fff7ff36f356e97616a5@psc-calendar",
    "start_date": "2026-09-28"
   },
@@ -1470,7 +1470,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "874e6c5144b7e6d069b3@psc-calendar",
    "start_date": "2026-09-28"
   },
@@ -1492,7 +1492,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "fa470e5949a9cdf4ef2f@psc-calendar",
    "start_date": "2026-09-28"
   },
@@ -1514,7 +1514,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "195063a61719baf15930@psc-calendar",
    "start_date": "2026-09-29"
   },
@@ -1536,7 +1536,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "daed74393b5faf7a9d16@psc-calendar",
    "start_date": "2026-09-29"
   },
@@ -1560,7 +1560,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "df087ad903688fe8932e@psc-calendar",
    "start_date": "2026-09-29"
   },
@@ -1582,7 +1582,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "0c14f4081591e4ddd71b@psc-calendar",
    "start_date": "2026-09-29"
   },
@@ -1604,7 +1604,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f7b2cde6e3b3e132329b@psc-calendar",
    "start_date": "2026-09-30"
   },
@@ -1626,7 +1626,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "fab16ce661931a88fe2a@psc-calendar",
    "start_date": "2026-09-30"
   },
@@ -1651,7 +1651,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "864418cf11cce451f6b7@psc-calendar",
    "start_date": "2026-09-30"
   },
@@ -1673,7 +1673,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e06f011ab608fa641e6e@psc-calendar",
    "start_date": "2026-09-30"
   },
@@ -1695,7 +1695,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f8ba57332372c03d5514@psc-calendar",
    "start_date": "2026-09-30"
   },
@@ -1717,7 +1717,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8628d8eff10f4ad1d69c@psc-calendar",
    "start_date": "2026-10-01"
   },
@@ -1743,7 +1743,7 @@
    "event_type_label": "Decision / Order",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c4f8558c23077fa076e9@psc-calendar",
    "start_date": "2026-10-05"
   },
@@ -1765,7 +1765,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e599501b8ce67b3b3a09@psc-calendar",
    "start_date": "2026-10-05"
   },
@@ -1787,7 +1787,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d99ed065524f6ed39996@psc-calendar",
    "start_date": "2026-10-05"
   },
@@ -1809,7 +1809,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "40e3eba64dae62c81b3b@psc-calendar",
    "start_date": "2026-10-05"
   },
@@ -1831,7 +1831,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "4e52e499530c0b3983cf@psc-calendar",
    "start_date": "2026-10-05"
   },
@@ -1853,7 +1853,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "76e4c9fbfb393b1e70ae@psc-calendar",
    "start_date": "2026-10-06"
   },
@@ -1875,7 +1875,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "cc5ea718f1c4a705ac46@psc-calendar",
    "start_date": "2026-10-06"
   },
@@ -1897,7 +1897,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "75e0abf7e5cf5562564e@psc-calendar",
    "start_date": "2026-10-06"
   },
@@ -1919,7 +1919,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a8dbf32475e6502a7fb8@psc-calendar",
    "start_date": "2026-10-06"
   },
@@ -1941,7 +1941,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "85c0a08c57434016dd7e@psc-calendar",
    "start_date": "2026-10-07"
   },
@@ -1963,7 +1963,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "69cb1612331f1c87d91d@psc-calendar",
    "start_date": "2026-10-07"
   },
@@ -1985,7 +1985,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e8b3b7761de9c0abd49b@psc-calendar",
    "start_date": "2026-10-07"
   },
@@ -2007,7 +2007,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "3d1f8ae69a23aadd9b36@psc-calendar",
    "start_date": "2026-10-07"
   },
@@ -2029,7 +2029,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "92519a9a128d20877cb4@psc-calendar",
    "start_date": "2026-10-07"
   },
@@ -2053,7 +2053,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e34bfc58221c048ccbe8@psc-calendar",
    "start_date": "2026-10-07"
   },
@@ -2075,7 +2075,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "57152088f4301f6866fe@psc-calendar",
    "start_date": "2026-10-07"
   },
@@ -2097,7 +2097,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "520f0ee90dc7f6467f73@psc-calendar",
    "start_date": "2026-10-08"
   },
@@ -2119,7 +2119,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7b4b205fc2c082f6f3ed@psc-calendar",
    "start_date": "2026-10-09"
   },
@@ -2141,7 +2141,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f7ede1acd224d76bf294@psc-calendar",
    "start_date": "2026-10-13"
   },
@@ -2163,7 +2163,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "affc11ba729cb229497d@psc-calendar",
    "start_date": "2026-10-13"
   },
@@ -2185,7 +2185,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f48fbc09acd5c47c6b98@psc-calendar",
    "start_date": "2026-10-13"
   },
@@ -2207,7 +2207,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "0cb2a5a665f6a014a9e5@psc-calendar",
    "start_date": "2026-10-13"
   },
@@ -2229,7 +2229,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "9eeb3920e2aa05d01460@psc-calendar",
    "start_date": "2026-10-13"
   },
@@ -2251,7 +2251,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "6596eb52345890bb3e9c@psc-calendar",
    "start_date": "2026-10-13"
   },
@@ -2273,7 +2273,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "67af6768a93d86d7876f@psc-calendar",
    "start_date": "2026-10-13"
   },
@@ -2295,7 +2295,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "fbb2d9bb0780c8263fd6@psc-calendar",
    "start_date": "2026-10-13"
   },
@@ -2317,7 +2317,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "48dac1e05e195aef03a7@psc-calendar",
    "start_date": "2026-10-13"
   },
@@ -2342,7 +2342,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "35e0d77a7985fbf5eaac@psc-calendar",
    "start_date": "2026-10-13"
   },
@@ -2366,7 +2366,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "557ee226ed288aecb77c@psc-calendar",
    "start_date": "2026-10-13"
   },
@@ -2388,7 +2388,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b06aa4b17768bc57a3d0@psc-calendar",
    "start_date": "2026-10-13"
   },
@@ -2410,7 +2410,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "576ddfeec174efe56554@psc-calendar",
    "start_date": "2026-10-14"
   },
@@ -2432,7 +2432,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "5f1cf52399343b3a68d2@psc-calendar",
    "start_date": "2026-10-14"
   },
@@ -2454,7 +2454,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "68b1dc0d2d1a05cc5fcc@psc-calendar",
    "start_date": "2026-10-14"
   },
@@ -2478,7 +2478,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "5b6e50fec9090156faf4@psc-calendar",
    "start_date": "2026-10-14"
   },
@@ -2500,7 +2500,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2a89084a63a5b45c2ec2@psc-calendar",
    "start_date": "2026-10-14"
   },
@@ -2522,7 +2522,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "35b5fba48d5ab1f9c39c@psc-calendar",
    "start_date": "2026-10-14"
   },
@@ -2544,7 +2544,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "057ad4b463e43bcdc111@psc-calendar",
    "start_date": "2026-10-14"
   },
@@ -2566,7 +2566,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "91f3feafe61ff955fa8d@psc-calendar",
    "start_date": "2026-10-14"
   },
@@ -2588,7 +2588,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8da2eea8644fa4da948c@psc-calendar",
    "start_date": "2026-10-14"
   },
@@ -2610,7 +2610,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "67ee9ffac4e796e59a2f@psc-calendar",
    "start_date": "2026-10-14"
   },
@@ -2632,7 +2632,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d6aecac45c20ba16380e@psc-calendar",
    "start_date": "2026-10-14"
   },
@@ -2654,7 +2654,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "eb7792e9596261c43a5d@psc-calendar",
    "start_date": "2026-10-14"
   },
@@ -2676,7 +2676,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "150484bbf585a65f16c3@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2698,7 +2698,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8146bd601a3e85c05827@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2720,7 +2720,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "9c80325717511001c6b3@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2742,7 +2742,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e5132d38974cc3850305@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2764,7 +2764,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "205faa56c2a6dd35b61c@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2786,7 +2786,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b1518edb8d11b55bdaf2@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2808,7 +2808,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bdfee14c27631fe7b172@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2830,7 +2830,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7afcd6a31b13a7e6155f@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2852,7 +2852,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "6acaf48bc863cc768496@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2876,7 +2876,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "90abc3958f6e8c17ddc6@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2898,7 +2898,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "fe3ac007ad7a8732f3da@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2920,7 +2920,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "3c42079d25a71812cfe0@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2942,7 +2942,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "ae6b812b34df0ac086a1@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2964,7 +2964,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f6b68d17296ff63d3414@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -2986,7 +2986,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b807c49c2362b16c23c5@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -3008,7 +3008,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "cd331b8c30a6dbe15f9c@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -3030,7 +3030,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b45edfa67336639c87c2@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -3052,7 +3052,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c8e648d61c8df056e27a@psc-calendar",
    "start_date": "2026-10-15"
   },
@@ -3076,7 +3076,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b087576d80d49f6e2788@psc-calendar",
    "start_date": "2026-10-16"
   },
@@ -3098,7 +3098,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e4d93e91750c13d50e3f@psc-calendar",
    "start_date": "2026-10-16"
   },
@@ -3120,7 +3120,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b71e2078dbb1d7741d23@psc-calendar",
    "start_date": "2026-10-16"
   },
@@ -3142,7 +3142,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "db8e39534f1f4ddc1525@psc-calendar",
    "start_date": "2026-10-19"
   },
@@ -3164,7 +3164,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b904d0a0376b2cecf3ed@psc-calendar",
    "start_date": "2026-10-19"
   },
@@ -3188,7 +3188,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "22f7332d5946fcb2862d@psc-calendar",
    "start_date": "2026-10-19"
   },
@@ -3212,7 +3212,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "45fa14ecce1258855586@psc-calendar",
    "start_date": "2026-10-19"
   },
@@ -3237,7 +3237,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "500cba29c3f13b371b96@psc-calendar",
    "start_date": "2026-10-19"
   },
@@ -3259,7 +3259,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d35fdf0a577abae07ff2@psc-calendar",
    "start_date": "2026-10-20"
   },
@@ -3281,7 +3281,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e3ff989e9031cd943dde@psc-calendar",
    "start_date": "2026-10-20"
   },
@@ -3303,7 +3303,7 @@
    "event_type_label": "Decision / Order",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "07d79e09ab24e4cfc8a4@psc-calendar",
    "start_date": "2026-10-20"
   },
@@ -3325,7 +3325,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a57b4fc354f52a267f04@psc-calendar",
    "start_date": "2026-10-20"
   },
@@ -3347,7 +3347,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "414fd445da6c5d094a3c@psc-calendar",
    "start_date": "2026-10-20"
   },
@@ -3369,7 +3369,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e5cb05871951fa8b7cbb@psc-calendar",
    "start_date": "2026-10-21"
   },
@@ -3391,7 +3391,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a7c785c3927767a08ebe@psc-calendar",
    "start_date": "2026-10-21"
   },
@@ -3413,7 +3413,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "86b003e373f627d16714@psc-calendar",
    "start_date": "2026-10-21"
   },
@@ -3435,7 +3435,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8ed1a8bbce605f3d312e@psc-calendar",
    "start_date": "2026-10-21"
   },
@@ -3457,7 +3457,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "124f11e2ae3f88ca981b@psc-calendar",
    "start_date": "2026-10-21"
   },
@@ -3481,7 +3481,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "3022e5d7ed3bb0b83d59@psc-calendar",
    "start_date": "2026-10-21"
   },
@@ -3503,7 +3503,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c95e53aa80931f392efb@psc-calendar",
    "start_date": "2026-10-21"
   },
@@ -3525,7 +3525,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a95bf7a14e30a9b9bacf@psc-calendar",
    "start_date": "2026-10-21"
   },
@@ -3547,7 +3547,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "80996b112b3937f369b1@psc-calendar",
    "start_date": "2026-10-21"
   },
@@ -3571,7 +3571,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "639ee898bf10d6a65c52@psc-calendar",
    "start_date": "2026-10-21"
   },
@@ -3593,7 +3593,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b820a64451deab60ed4f@psc-calendar",
    "start_date": "2026-10-21"
   },
@@ -3615,7 +3615,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "06a37476b45706483318@psc-calendar",
    "start_date": "2026-10-22"
   },
@@ -3637,7 +3637,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "494b76722f7e77184e7a@psc-calendar",
    "start_date": "2026-10-22"
   },
@@ -3659,7 +3659,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "14bbcc867afaaa11e93e@psc-calendar",
    "start_date": "2026-10-22"
   },
@@ -3681,7 +3681,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "5a8b1ca128b64a009cd5@psc-calendar",
    "start_date": "2026-10-22"
   },
@@ -3705,7 +3705,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "10fa04b6d0433045a302@psc-calendar",
    "start_date": "2026-10-22"
   },
@@ -3727,7 +3727,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c307a19d2431c5e0dd15@psc-calendar",
    "start_date": "2026-10-22"
   },
@@ -3749,7 +3749,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d66b0d8fa4ea6963d8ce@psc-calendar",
    "start_date": "2026-10-22"
   },
@@ -3771,7 +3771,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1316b7d90251d23970ab@psc-calendar",
    "start_date": "2026-10-22"
   },
@@ -3793,7 +3793,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "36d5acc137802eb9d917@psc-calendar",
    "start_date": "2026-10-22"
   },
@@ -3815,7 +3815,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "6b386b43251f32a600a8@psc-calendar",
    "start_date": "2026-10-22"
   },
@@ -3837,7 +3837,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f14a2c660ed41d9a1983@psc-calendar",
    "start_date": "2026-10-22"
   },
@@ -3859,7 +3859,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bb3216cec56bfdd3d186@psc-calendar",
    "start_date": "2026-10-22"
   },
@@ -3883,7 +3883,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "28a54d0ae363b6f59f7d@psc-calendar",
    "start_date": "2026-10-23"
   },
@@ -3907,7 +3907,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "658ba513d9fdd19dcd8f@psc-calendar",
    "start_date": "2026-10-23"
   },
@@ -3931,7 +3931,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e26eb58330c89bdad974@psc-calendar",
    "start_date": "2026-10-23"
   },
@@ -3953,7 +3953,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1cbe440967cd50c426ca@psc-calendar",
    "start_date": "2026-10-26"
   },
@@ -3977,7 +3977,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1408341e18e9f1258a32@psc-calendar",
    "start_date": "2026-10-26"
   },
@@ -3999,7 +3999,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a0a086a50fe15d1785f6@psc-calendar",
    "start_date": "2026-10-26"
   },
@@ -4023,7 +4023,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e41292e84f5d1cb5a048@psc-calendar",
    "start_date": "2026-10-26"
   },
@@ -4047,7 +4047,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "688bedfea6016aadf230@psc-calendar",
    "start_date": "2026-10-26"
   },
@@ -4069,7 +4069,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a6aa5add920ac6a7f326@psc-calendar",
    "start_date": "2026-10-27"
   },
@@ -4091,7 +4091,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "04b4931ab398a2a0631f@psc-calendar",
    "start_date": "2026-10-27"
   },
@@ -4113,7 +4113,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c7186aebbda08399a25e@psc-calendar",
    "start_date": "2026-10-27"
   },
@@ -4135,7 +4135,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7b4df5dd792d22732a79@psc-calendar",
    "start_date": "2026-10-27"
   },
@@ -4157,7 +4157,7 @@
    "event_type_label": "Decision / Order",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bdd9b82d549c7783be35@psc-calendar",
    "start_date": "2026-10-27"
   },
@@ -4179,7 +4179,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b2ef9994d2cd2e706a0e@psc-calendar",
    "start_date": "2026-10-27"
   },
@@ -4201,7 +4201,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d226834389028224dddb@psc-calendar",
    "start_date": "2026-10-27"
   },
@@ -4223,7 +4223,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a553a300f25496aa62f6@psc-calendar",
    "start_date": "2026-10-27"
   },
@@ -4247,7 +4247,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "9c19d128bf4f6a6af79b@psc-calendar",
    "start_date": "2026-10-27"
   },
@@ -4269,7 +4269,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "241cb1bc06a478f86b8c@psc-calendar",
    "start_date": "2026-10-27"
   },
@@ -4291,7 +4291,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "cb1f7c8a9bf25b07da65@psc-calendar",
    "start_date": "2026-10-28"
   },
@@ -4313,7 +4313,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "6fa83f94bf07631a3103@psc-calendar",
    "start_date": "2026-10-28"
   },
@@ -4335,7 +4335,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d756afb61bddd336dc51@psc-calendar",
    "start_date": "2026-10-28"
   },
@@ -4357,7 +4357,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7b8b98304fef32426211@psc-calendar",
    "start_date": "2026-10-28"
   },
@@ -4379,7 +4379,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a6865b30cd006dfef7e5@psc-calendar",
    "start_date": "2026-10-28"
   },
@@ -4403,7 +4403,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "075390a4eb4b04cb1ea3@psc-calendar",
    "start_date": "2026-10-28"
   },
@@ -4425,7 +4425,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "6a86ea027c24ec75e7fe@psc-calendar",
    "start_date": "2026-10-28"
   },
@@ -4447,7 +4447,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "74ee386b5b5dc97f64c2@psc-calendar",
    "start_date": "2026-10-28"
   },
@@ -4469,7 +4469,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "895d7781036c16a4f21f@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4491,7 +4491,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c29bc29000da4e2a8d4f@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4515,7 +4515,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "55bde5af0b750f6278ca@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4537,7 +4537,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "69e77e5f3c3ea11901d1@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4561,7 +4561,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "05163b0c3b02f9ae8b50@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4585,7 +4585,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "17376953dc9175548491@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4607,7 +4607,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f864bfafab0209ae2078@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4631,7 +4631,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "47a55da8e68465130b4d@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4653,7 +4653,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "739f1c61df9bc3adedcb@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4675,7 +4675,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "6af883fec2b46fe1f00e@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4697,7 +4697,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "87240445050d8eecdca9@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4719,7 +4719,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a4a8a1e3d5247027e8c1@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4744,7 +4744,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7554e0d6d8aef30ae91e@psc-calendar",
    "start_date": "2026-10-29"
   },
@@ -4766,7 +4766,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "fb92987100c864e66ccb@psc-calendar",
    "start_date": "2026-10-30"
   },
@@ -4790,7 +4790,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "9a67bc8a5a51b8563427@psc-calendar",
    "start_date": "2026-10-30"
   },
@@ -4814,7 +4814,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bedf5771434d87f7ed1f@psc-calendar",
    "start_date": "2026-11-02"
   },
@@ -4836,7 +4836,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "9340ce083df034922315@psc-calendar",
    "start_date": "2026-11-02"
   },
@@ -4860,7 +4860,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "03494d96fcc1a9e1eed3@psc-calendar",
    "start_date": "2026-11-02"
   },
@@ -4882,7 +4882,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "195fae7fe7e5cabc25e4@psc-calendar",
    "start_date": "2026-11-03"
   },
@@ -4906,7 +4906,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "31d2612fa8ba4b87e6bd@psc-calendar",
    "start_date": "2026-11-03"
   },
@@ -4928,7 +4928,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "131b452b7511b393cfd8@psc-calendar",
    "start_date": "2026-11-03"
   },
@@ -4952,7 +4952,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e9547fae278feb5b39b0@psc-calendar",
    "start_date": "2026-11-03"
   },
@@ -4976,7 +4976,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "aa69d1cc489e0b508bc8@psc-calendar",
    "start_date": "2026-11-03"
   },
@@ -4998,7 +4998,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "add0271f917cf1262ece@psc-calendar",
    "start_date": "2026-11-03"
   },
@@ -5020,7 +5020,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d745785f9bd23abdfc80@psc-calendar",
    "start_date": "2026-11-04"
   },
@@ -5042,7 +5042,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1315adf3938d5cf0d661@psc-calendar",
    "start_date": "2026-11-04"
   },
@@ -5064,7 +5064,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "0f7e56c8ff24624415c3@psc-calendar",
    "start_date": "2026-11-04"
   },
@@ -5086,7 +5086,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f5811f63b8d650e7c157@psc-calendar",
    "start_date": "2026-11-04"
   },
@@ -5110,7 +5110,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c50f2034f802ab42ccd6@psc-calendar",
    "start_date": "2026-11-04"
   },
@@ -5134,7 +5134,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e51e17b4a378ca9d60ac@psc-calendar",
    "start_date": "2026-11-04"
   },
@@ -5158,7 +5158,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "01cb6785c652db9b6dd0@psc-calendar",
    "start_date": "2026-11-04"
   },
@@ -5180,7 +5180,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "67c9890ee0ca5a5a6c19@psc-calendar",
    "start_date": "2026-11-05"
   },
@@ -5202,7 +5202,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1adfd672e12bff12ec4a@psc-calendar",
    "start_date": "2026-11-05"
   },
@@ -5224,7 +5224,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "96d51173e5651ff3d1d4@psc-calendar",
    "start_date": "2026-11-05"
   },
@@ -5246,7 +5246,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d588b21063a9c7f774b5@psc-calendar",
    "start_date": "2026-11-05"
   },
@@ -5268,7 +5268,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2292a18cb6f0188e905c@psc-calendar",
    "start_date": "2026-11-05"
   },
@@ -5290,7 +5290,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "3305ba1b71f92a0b8f88@psc-calendar",
    "start_date": "2026-11-05"
   },
@@ -5312,7 +5312,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f7f5af2135bceccc25cc@psc-calendar",
    "start_date": "2026-11-05"
   },
@@ -5334,7 +5334,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "db8bdf32501b9b76c3da@psc-calendar",
    "start_date": "2026-11-05"
   },
@@ -5356,7 +5356,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "9d3d8721ae59d3ea669a@psc-calendar",
    "start_date": "2026-11-05"
   },
@@ -5378,7 +5378,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "97f31927b0875526f684@psc-calendar",
    "start_date": "2026-11-05"
   },
@@ -5402,7 +5402,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "67bc2031022cf74d9082@psc-calendar",
    "start_date": "2026-11-05"
   },
@@ -5424,7 +5424,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a49c1402c47cc7a9cb53@psc-calendar",
    "start_date": "2026-11-05"
   },
@@ -5448,7 +5448,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f26323e8d48f875f4117@psc-calendar",
    "start_date": "2026-11-06"
   },
@@ -5470,7 +5470,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1dac3e2872c57594588b@psc-calendar",
    "start_date": "2026-11-09"
   },
@@ -5494,7 +5494,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1cc1148683ed778b1147@psc-calendar",
    "start_date": "2026-11-10"
   },
@@ -5516,7 +5516,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "92688c68101ced2de040@psc-calendar",
    "start_date": "2026-11-10"
   },
@@ -5538,7 +5538,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "4899d5c01770b2c70da9@psc-calendar",
    "start_date": "2026-11-12"
   },
@@ -5562,7 +5562,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e905750d2031c9eddd82@psc-calendar",
    "start_date": "2026-11-12"
   },
@@ -5584,7 +5584,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a89ce52c78cbf7e33d62@psc-calendar",
    "start_date": "2026-11-12"
   },
@@ -5606,7 +5606,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f6f6ab758547c488224b@psc-calendar",
    "start_date": "2026-11-12"
   },
@@ -5628,7 +5628,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d18e9c929ebcafcf12dd@psc-calendar",
    "start_date": "2026-11-16"
   },
@@ -5652,7 +5652,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e1f948abfe557bd8e13b@psc-calendar",
    "start_date": "2026-11-16"
   },
@@ -5674,7 +5674,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d828a518c1c36b65d1ee@psc-calendar",
    "start_date": "2026-11-16"
   },
@@ -5698,7 +5698,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "efab53e2224d01a4b053@psc-calendar",
    "start_date": "2026-11-16"
   },
@@ -5722,7 +5722,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "740f767ac879882d7e40@psc-calendar",
    "start_date": "2026-11-16"
   },
@@ -5744,7 +5744,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "09583d3251fc5316d085@psc-calendar",
    "start_date": "2026-11-17"
   },
@@ -5766,7 +5766,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a5c9680e68c3e865d087@psc-calendar",
    "start_date": "2026-11-17"
   },
@@ -5788,7 +5788,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "db0284c301a3ab5b8469@psc-calendar",
    "start_date": "2026-11-17"
   },
@@ -5810,30 +5810,8 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "02bdc386d36a5e2ff373@psc-calendar",
-   "start_date": "2026-11-17"
-  },
-  {
-   "commission": "CO",
-   "commission_name": "Colorado Public Utilities Commission",
-   "state": "CO",
-   "tz": "America/Denver",
-   "title": "Remote: HRG: Pro. No. 26G-0229TO, 145829 - CPAN - Park it Right, Inc, ALJ Farley",
-   "start": "2026-11-17T16:00:00+00:00",
-   "end": "2026-11-18T00:00:00+00:00",
-   "all_day": false,
-   "location": "Remote / HR A",
-   "description": "",
-   "url": "https://puc.colorado.gov/puccalendar",
-   "source_url": "https://calendar.google.com/calendar/ical/state.co.us_mie9aqkvh15rk34shmhs6mnfq8%40group.calendar.google.com/public/basic.ics",
-   "dockets": [],
-   "event_type": "evidentiary_hearing",
-   "event_type_label": "Evidentiary Hearing",
-   "relevance": "High",
-   "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
-   "uid": "71d67b78a8e4a8d116e5@psc-calendar",
    "start_date": "2026-11-17"
   },
   {
@@ -5854,8 +5832,30 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "63433aa30832846b9319@psc-calendar",
+   "start_date": "2026-11-17"
+  },
+  {
+   "commission": "CO",
+   "commission_name": "Colorado Public Utilities Commission",
+   "state": "CO",
+   "tz": "America/Denver",
+   "title": "Remote: HRG: Pro. No. 26G-0229TO, 145829 - CPAN - Park it Right, Inc, ALJ Farley",
+   "start": "2026-11-17T16:00:00+00:00",
+   "end": "2026-11-18T00:00:00+00:00",
+   "all_day": false,
+   "location": "Remote / HR A",
+   "description": "",
+   "url": "https://puc.colorado.gov/puccalendar",
+   "source_url": "https://calendar.google.com/calendar/ical/state.co.us_mie9aqkvh15rk34shmhs6mnfq8%40group.calendar.google.com/public/basic.ics",
+   "dockets": [],
+   "event_type": "evidentiary_hearing",
+   "event_type_label": "Evidentiary Hearing",
+   "relevance": "High",
+   "weight": 3,
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
+   "uid": "71d67b78a8e4a8d116e5@psc-calendar",
    "start_date": "2026-11-17"
   },
   {
@@ -5878,7 +5878,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "4682c68c53879ad99fd5@psc-calendar",
    "start_date": "2026-11-17"
   },
@@ -5900,7 +5900,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8094c419bb6d141cd6bd@psc-calendar",
    "start_date": "2026-11-18"
   },
@@ -5922,7 +5922,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "707db444255208982309@psc-calendar",
    "start_date": "2026-11-18"
   },
@@ -5944,32 +5944,8 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "5e0cb70fe2d21131dce5@psc-calendar",
-   "start_date": "2026-11-18"
-  },
-  {
-   "commission": "TX-RRC",
-   "commission_name": "Railroad Commission of Texas",
-   "state": "TX",
-   "tz": "America/Chicago",
-   "title": "*INCENDIUM RESOURCES LLC-DOCKET NO. OG-26-00032250",
-   "start": "2026-11-18T09:00:00-06:00",
-   "end": "2026-11-20T17:00:00-06:00",
-   "all_day": false,
-   "location": "1-100",
-   "description": "*DOCKET NO. OG-26-00032250 INCENDIUM RESOURCES LLC STATEWIDE RULE 46 INJECTION PERMIT WILDCAT FIELD FRANKLIN COUNTY EXAMINER: ARDEN ELLIOT ALJ: MANDY S. PATEL *IN-PERSON*",
-   "url": "https://www.rrc.texas.gov/hearings/hearings-calendar/",
-   "source_url": "https://outlook.office365.com/owa/calendar/12df60392a5b4b46896cb5140c9bd191@rrc.texas.gov/811655264c4c474e8f9a144c8d0c56172702639553116114065/calendar.ics",
-   "dockets": [
-    "OG-26-00032250"
-   ],
-   "event_type": "evidentiary_hearing",
-   "event_type_label": "Evidentiary Hearing",
-   "relevance": "High",
-   "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
-   "uid": "d641bf66c9768f8ddb0e@psc-calendar",
    "start_date": "2026-11-18"
   },
   {
@@ -5992,8 +5968,32 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e5df4c3e4f81fba60425@psc-calendar",
+   "start_date": "2026-11-18"
+  },
+  {
+   "commission": "TX-RRC",
+   "commission_name": "Railroad Commission of Texas",
+   "state": "TX",
+   "tz": "America/Chicago",
+   "title": "*INCENDIUM RESOURCES LLC-DOCKET NO. OG-26-00032250",
+   "start": "2026-11-18T09:00:00-06:00",
+   "end": "2026-11-20T17:00:00-06:00",
+   "all_day": false,
+   "location": "1-100",
+   "description": "*DOCKET NO. OG-26-00032250 INCENDIUM RESOURCES LLC STATEWIDE RULE 46 INJECTION PERMIT WILDCAT FIELD FRANKLIN COUNTY EXAMINER: ARDEN ELLIOT ALJ: MANDY S. PATEL *IN-PERSON*",
+   "url": "https://www.rrc.texas.gov/hearings/hearings-calendar/",
+   "source_url": "https://outlook.office365.com/owa/calendar/12df60392a5b4b46896cb5140c9bd191@rrc.texas.gov/811655264c4c474e8f9a144c8d0c56172702639553116114065/calendar.ics",
+   "dockets": [
+    "OG-26-00032250"
+   ],
+   "event_type": "evidentiary_hearing",
+   "event_type_label": "Evidentiary Hearing",
+   "relevance": "High",
+   "weight": 3,
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
+   "uid": "d641bf66c9768f8ddb0e@psc-calendar",
    "start_date": "2026-11-18"
   },
   {
@@ -6014,7 +6014,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "ca6621ef4b01c79624a8@psc-calendar",
    "start_date": "2026-11-18"
   },
@@ -6036,7 +6036,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a942598d5d820d114f46@psc-calendar",
    "start_date": "2026-11-18"
   },
@@ -6058,7 +6058,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bafe59efad307ffc955a@psc-calendar",
    "start_date": "2026-11-18"
   },
@@ -6080,7 +6080,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "57e86c19d24093ba7fba@psc-calendar",
    "start_date": "2026-11-18"
   },
@@ -6104,7 +6104,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bf87223404d3beb16165@psc-calendar",
    "start_date": "2026-11-18"
   },
@@ -6126,7 +6126,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bf2db2973de34134fd29@psc-calendar",
    "start_date": "2026-11-18"
   },
@@ -6148,7 +6148,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "00112a7c1f20c8657318@psc-calendar",
    "start_date": "2026-11-18"
   },
@@ -6170,7 +6170,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7fb30086e9fc1c74a1c3@psc-calendar",
    "start_date": "2026-11-19"
   },
@@ -6192,7 +6192,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f6bff6115c3748e0acbd@psc-calendar",
    "start_date": "2026-11-19"
   },
@@ -6214,7 +6214,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c8399b7ddf765d33089c@psc-calendar",
    "start_date": "2026-11-19"
   },
@@ -6236,7 +6236,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2cd5bddb53a6bd74d565@psc-calendar",
    "start_date": "2026-11-19"
   },
@@ -6258,7 +6258,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "25c6894c7eca3cb76ada@psc-calendar",
    "start_date": "2026-11-19"
   },
@@ -6282,7 +6282,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bb63955c030e784b1ee4@psc-calendar",
    "start_date": "2026-11-19"
   },
@@ -6304,7 +6304,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "700c85cb5de31db68d65@psc-calendar",
    "start_date": "2026-11-19"
   },
@@ -6326,7 +6326,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "aa47d12bef7db13edb0d@psc-calendar",
    "start_date": "2026-11-19"
   },
@@ -6348,7 +6348,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7a3171cd2dd36892cf60@psc-calendar",
    "start_date": "2026-11-19"
   },
@@ -6370,7 +6370,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "47b19be3a2a46aba06de@psc-calendar",
    "start_date": "2026-11-20"
   },
@@ -6394,7 +6394,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f0af1903eaa291b2c199@psc-calendar",
    "start_date": "2026-11-20"
   },
@@ -6418,7 +6418,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "04e4e19ddc106d51196c@psc-calendar",
    "start_date": "2026-11-20"
   },
@@ -6442,7 +6442,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2c1c23c683fa851da52c@psc-calendar",
    "start_date": "2026-11-20"
   },
@@ -6466,7 +6466,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "6bc055636edaade042a0@psc-calendar",
    "start_date": "2026-11-23"
   },
@@ -6488,7 +6488,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a512d1794b50cbba5aea@psc-calendar",
    "start_date": "2026-11-23"
   },
@@ -6510,7 +6510,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "71c25bee3c7947be4f4e@psc-calendar",
    "start_date": "2026-11-24"
   },
@@ -6532,7 +6532,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "5efc093cc79c4996f19e@psc-calendar",
    "start_date": "2026-11-24"
   },
@@ -6554,7 +6554,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "494a769e42402793ff7f@psc-calendar",
    "start_date": "2026-11-24"
   },
@@ -6576,7 +6576,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f5ad25655f2af9a0fcee@psc-calendar",
    "start_date": "2026-11-24"
   },
@@ -6598,7 +6598,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "9e484c6990051c0fdee1@psc-calendar",
    "start_date": "2026-11-25"
   },
@@ -6620,7 +6620,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1dd76bdd5c39b935e0f4@psc-calendar",
    "start_date": "2026-11-26"
   },
@@ -6642,7 +6642,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8558f6f45edb9bfcc3a6@psc-calendar",
    "start_date": "2026-11-27"
   },
@@ -6664,7 +6664,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "606a5a1adc2eb6dd1856@psc-calendar",
    "start_date": "2026-11-30"
   },
@@ -6688,7 +6688,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "42c2d119445236c846b9@psc-calendar",
    "start_date": "2026-11-30"
   },
@@ -6710,7 +6710,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7926cc6a5b893410d4ed@psc-calendar",
    "start_date": "2026-12-01"
   },
@@ -6734,7 +6734,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c6465b6037268fdd1a58@psc-calendar",
    "start_date": "2026-12-01"
   },
@@ -6758,7 +6758,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "68196be695f07d23ea6f@psc-calendar",
    "start_date": "2026-12-01"
   },
@@ -6780,7 +6780,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "6c17391da54184fe4b57@psc-calendar",
    "start_date": "2026-12-01"
   },
@@ -6802,7 +6802,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "0f398b3dbe5be4bf29b3@psc-calendar",
    "start_date": "2026-12-02"
   },
@@ -6824,7 +6824,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d431db2eb660c4e6238e@psc-calendar",
    "start_date": "2026-12-02"
   },
@@ -6846,7 +6846,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "9ec5ffd85ba3cefeec2a@psc-calendar",
    "start_date": "2026-12-02"
   },
@@ -6870,7 +6870,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "084c73b17b1865c94ec3@psc-calendar",
    "start_date": "2026-12-02"
   },
@@ -6892,7 +6892,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "167552d78b72c0421321@psc-calendar",
    "start_date": "2026-12-02"
   },
@@ -6914,7 +6914,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b3b7c0e99dc34e10ac59@psc-calendar",
    "start_date": "2026-12-02"
   },
@@ -6936,7 +6936,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "fa9de04f5c5592828966@psc-calendar",
    "start_date": "2026-12-02"
   },
@@ -6958,7 +6958,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "74532ff4d2bf678644fa@psc-calendar",
    "start_date": "2026-12-03"
   },
@@ -6980,7 +6980,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "dafe0177f0fddbc5be57@psc-calendar",
    "start_date": "2026-12-03"
   },
@@ -7002,7 +7002,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a49f6d87fd5a1eb6e7a7@psc-calendar",
    "start_date": "2026-12-03"
   },
@@ -7026,7 +7026,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c0d783202f52b669c199@psc-calendar",
    "start_date": "2026-12-03"
   },
@@ -7048,7 +7048,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "98dc0e5372d2a5701482@psc-calendar",
    "start_date": "2026-12-03"
   },
@@ -7070,7 +7070,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "cafda7ce832b654d305c@psc-calendar",
    "start_date": "2026-12-03"
   },
@@ -7092,7 +7092,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "053e131fa941a5a72765@psc-calendar",
    "start_date": "2026-12-03"
   },
@@ -7114,7 +7114,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "3df1a1b5666a0df3273f@psc-calendar",
    "start_date": "2026-12-03"
   },
@@ -7138,7 +7138,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "ed49148986df6119a90f@psc-calendar",
    "start_date": "2026-12-07"
   },
@@ -7162,7 +7162,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "79ea87c29635f0ce2552@psc-calendar",
    "start_date": "2026-12-07"
   },
@@ -7184,7 +7184,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f624c8afba5de455c4f8@psc-calendar",
    "start_date": "2026-12-07"
   },
@@ -7208,7 +7208,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2c8e081a33af513b58ba@psc-calendar",
    "start_date": "2026-12-07"
   },
@@ -7232,7 +7232,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "aa5e45dbd11d5bb33404@psc-calendar",
    "start_date": "2026-12-07"
   },
@@ -7256,7 +7256,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "18de184296e7e7310112@psc-calendar",
    "start_date": "2026-12-07"
   },
@@ -7280,7 +7280,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "277cfce11b5eb6eb6e9d@psc-calendar",
    "start_date": "2026-12-07"
   },
@@ -7302,7 +7302,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c73e308bc100d69454cb@psc-calendar",
    "start_date": "2026-12-08"
   },
@@ -7324,7 +7324,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a04aaae299fa73e607b0@psc-calendar",
    "start_date": "2026-12-08"
   },
@@ -7348,7 +7348,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "4fdb80a3ff4050735c03@psc-calendar",
    "start_date": "2026-12-08"
   },
@@ -7370,7 +7370,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7711b1b6513248941f79@psc-calendar",
    "start_date": "2026-12-08"
   },
@@ -7394,7 +7394,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bc11fb55f5c22eb3dc23@psc-calendar",
    "start_date": "2026-12-08"
   },
@@ -7416,7 +7416,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "79c808f5064e7d2350cd@psc-calendar",
    "start_date": "2026-12-08"
   },
@@ -7440,7 +7440,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "9dfb36c362fa50781924@psc-calendar",
    "start_date": "2026-12-09"
   },
@@ -7464,7 +7464,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "aeecb3bacaab748a061c@psc-calendar",
    "start_date": "2026-12-09"
   },
@@ -7486,7 +7486,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "635b3357ec7b5d630459@psc-calendar",
    "start_date": "2026-12-09"
   },
@@ -7508,7 +7508,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "46646dda51a8f02fa036@psc-calendar",
    "start_date": "2026-12-09"
   },
@@ -7532,7 +7532,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "cb73b7cf845a9620cee9@psc-calendar",
    "start_date": "2026-12-09"
   },
@@ -7556,7 +7556,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b97163a720ad38832029@psc-calendar",
    "start_date": "2026-12-09"
   },
@@ -7580,7 +7580,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "0f4c04f8443a42279bb6@psc-calendar",
    "start_date": "2026-12-09"
   },
@@ -7604,7 +7604,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "96d5e781b164042ba942@psc-calendar",
    "start_date": "2026-12-10"
   },
@@ -7626,7 +7626,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "fe9f217e0d17d5046b9b@psc-calendar",
    "start_date": "2026-12-10"
   },
@@ -7648,7 +7648,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "21580790401db415e1f7@psc-calendar",
    "start_date": "2026-12-10"
   },
@@ -7672,7 +7672,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8b7abbf8fb7f7b9cad20@psc-calendar",
    "start_date": "2026-12-10"
   },
@@ -7696,7 +7696,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "03b1f61ac4234ea684d7@psc-calendar",
    "start_date": "2026-12-10"
   },
@@ -7718,7 +7718,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "9643573dd30725576874@psc-calendar",
    "start_date": "2026-12-10"
   },
@@ -7740,7 +7740,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "85fdba2daee5f74c6486@psc-calendar",
    "start_date": "2026-12-10"
   },
@@ -7762,7 +7762,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "72d877eb0ed88ea01edc@psc-calendar",
    "start_date": "2026-12-10"
   },
@@ -7784,7 +7784,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c86fbf52539f986c1a21@psc-calendar",
    "start_date": "2026-12-11"
   },
@@ -7808,7 +7808,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "ccf824da136bce986211@psc-calendar",
    "start_date": "2026-12-11"
   },
@@ -7830,7 +7830,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c1945a4b3d2645268630@psc-calendar",
    "start_date": "2026-12-11"
   },
@@ -7852,7 +7852,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "350e4a0e85f38f628f1d@psc-calendar",
    "start_date": "2026-12-11"
   },
@@ -7876,7 +7876,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c2a91e78ea177ee38086@psc-calendar",
    "start_date": "2026-12-14"
   },
@@ -7898,7 +7898,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "cb8ab535c5a980a60286@psc-calendar",
    "start_date": "2026-12-15"
   },
@@ -7920,7 +7920,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bd5a9d09b2ea48f53802@psc-calendar",
    "start_date": "2026-12-15"
   },
@@ -7942,7 +7942,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8aa7737defb1970a8cb9@psc-calendar",
    "start_date": "2026-12-15"
   },
@@ -7964,7 +7964,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "01d79a8621f024a859da@psc-calendar",
    "start_date": "2026-12-15"
   },
@@ -7986,7 +7986,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b3f1ab06a1d6fe9bedb2@psc-calendar",
    "start_date": "2026-12-15"
   },
@@ -8008,7 +8008,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "3290a3d630fae7e7e2a6@psc-calendar",
    "start_date": "2026-12-16"
   },
@@ -8030,7 +8030,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "27b28c3e4c71d1c86c7f@psc-calendar",
    "start_date": "2026-12-16"
   },
@@ -8052,7 +8052,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "cdb17fe9796eee44c90d@psc-calendar",
    "start_date": "2026-12-16"
   },
@@ -8076,7 +8076,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c2f98bdb15f6674cc66a@psc-calendar",
    "start_date": "2026-12-16"
   },
@@ -8098,7 +8098,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "94844bb829c576cfa20e@psc-calendar",
    "start_date": "2026-12-16"
   },
@@ -8120,7 +8120,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2cc7aec766522a699e7e@psc-calendar",
    "start_date": "2026-12-16"
   },
@@ -8142,7 +8142,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "210a0caf0f9ed21584d5@psc-calendar",
    "start_date": "2026-12-16"
   },
@@ -8164,7 +8164,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "ef52f80fe95e7213e3bd@psc-calendar",
    "start_date": "2026-12-17"
   },
@@ -8186,7 +8186,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "3542fbb3b93eff2c8773@psc-calendar",
    "start_date": "2026-12-17"
   },
@@ -8208,7 +8208,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f0f1cc1d172805b1bb3a@psc-calendar",
    "start_date": "2026-12-17"
   },
@@ -8230,7 +8230,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f9422bdea0b8b230654f@psc-calendar",
    "start_date": "2026-12-17"
   },
@@ -8252,7 +8252,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "264357a2a8eb1b6d7eb2@psc-calendar",
    "start_date": "2026-12-17"
   },
@@ -8276,7 +8276,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1833dbab0fcbf81502f2@psc-calendar",
    "start_date": "2026-12-17"
   },
@@ -8298,7 +8298,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "47fd6acc760aa4163c21@psc-calendar",
    "start_date": "2026-12-17"
   },
@@ -8320,7 +8320,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "aee7c9980e97b536ac6a@psc-calendar",
    "start_date": "2026-12-17"
   },
@@ -8342,7 +8342,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "da25af756be1ce160972@psc-calendar",
    "start_date": "2026-12-17"
   },
@@ -8364,7 +8364,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "3de5239175a5518bca9b@psc-calendar",
    "start_date": "2026-12-21"
   },
@@ -8386,7 +8386,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "58788573cb06651a8587@psc-calendar",
    "start_date": "2026-12-22"
   },
@@ -8408,7 +8408,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "0f3ad8ff8a7dbee03add@psc-calendar",
    "start_date": "2026-12-23"
   },
@@ -8430,7 +8430,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e14e4ef3b2a66dc5bda8@psc-calendar",
    "start_date": "2026-12-24"
   },
@@ -8452,7 +8452,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "97d6f72ab1b64c351a99@psc-calendar",
    "start_date": "2026-12-24"
   },
@@ -8474,7 +8474,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f636b149953e3457f17a@psc-calendar",
    "start_date": "2026-12-25"
   },
@@ -8496,7 +8496,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c4f639a9a478fb339337@psc-calendar",
    "start_date": "2026-12-29"
   },
@@ -8518,7 +8518,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b6020138f7af3534af9e@psc-calendar",
    "start_date": "2026-12-30"
   },
@@ -8540,7 +8540,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "64bab88159ced640e61f@psc-calendar",
    "start_date": "2027-01-01"
   },
@@ -8562,7 +8562,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "da0b55093d6807c98128@psc-calendar",
    "start_date": "2027-01-06"
   },
@@ -8584,7 +8584,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "eadb16c3c0650d065815@psc-calendar",
    "start_date": "2027-01-07"
   },
@@ -8608,7 +8608,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "489356690cc133b783f6@psc-calendar",
    "start_date": "2027-01-07"
   },
@@ -8630,7 +8630,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "4bc516bd6181d972619e@psc-calendar",
    "start_date": "2027-01-12"
   },
@@ -8652,7 +8652,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b7d42f76ca3ae873a319@psc-calendar",
    "start_date": "2027-01-12"
   },
@@ -8674,7 +8674,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bac6aa8dc96b7636fa35@psc-calendar",
    "start_date": "2027-01-12"
   },
@@ -8696,7 +8696,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "eee61b862a55bb2c8f9a@psc-calendar",
    "start_date": "2027-01-12"
   },
@@ -8718,7 +8718,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "419b4db63ce09ac14ae6@psc-calendar",
    "start_date": "2027-01-12"
   },
@@ -8740,7 +8740,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "22493415eb399eda35de@psc-calendar",
    "start_date": "2027-01-13"
   },
@@ -8762,7 +8762,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e6e75dccd2324313977c@psc-calendar",
    "start_date": "2027-01-13"
   },
@@ -8786,7 +8786,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "07a1e29ecc9c4c847631@psc-calendar",
    "start_date": "2027-01-13"
   },
@@ -8808,7 +8808,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "18a7f80c71f9f5770c08@psc-calendar",
    "start_date": "2027-01-13"
   },
@@ -8830,7 +8830,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "6aad46df23782fe6fdc7@psc-calendar",
    "start_date": "2027-01-14"
   },
@@ -8852,7 +8852,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "4e1ec9b5c78129edda6a@psc-calendar",
    "start_date": "2027-01-14"
   },
@@ -8874,7 +8874,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f83e62d6363554f933c7@psc-calendar",
    "start_date": "2027-01-14"
   },
@@ -8898,7 +8898,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d2cecb88823263362fb7@psc-calendar",
    "start_date": "2027-01-14"
   },
@@ -8922,7 +8922,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "106ca35f45f8856ba983@psc-calendar",
    "start_date": "2027-01-15"
   },
@@ -8944,7 +8944,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7b359d31c5f686edaca4@psc-calendar",
    "start_date": "2027-01-18"
   },
@@ -8968,7 +8968,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c9a9782aeeef601ea1dd@psc-calendar",
    "start_date": "2027-01-19"
   },
@@ -8990,7 +8990,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d13b35bcfd2d631c5d19@psc-calendar",
    "start_date": "2027-01-19"
   },
@@ -9012,32 +9012,8 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "ae1ac5add46aa203a87b@psc-calendar",
-   "start_date": "2027-01-20"
-  },
-  {
-   "commission": "TX-RRC",
-   "commission_name": "Railroad Commission of Texas",
-   "state": "TX",
-   "tz": "America/Chicago",
-   "title": "*MILESTONE CARBON MIDLAND CCS HUB-DOCKET NO. OG-26-00031321",
-   "start": "2027-01-20T09:00:00-06:00",
-   "end": "2027-01-23T17:00:00-06:00",
-   "all_day": false,
-   "location": "12-126 Large Hearings Room",
-   "description": "*DOCKET NO. OG-26-00031321 MILESTONE CARBON MIDLAND CCS HUB CARBON CAPTURE AND GEOLOGIC STORAGE (CLASS VI) PERMIT WILDCAT FIELD UPTON COUNTY EXAMINER: ASHLEY CORRELL EXAMINER: JAKE HALFHILL ALJ: MANDY S. PATEL *IN-PERSON*",
-   "url": "https://www.rrc.texas.gov/hearings/hearings-calendar/",
-   "source_url": "https://outlook.office365.com/owa/calendar/12df60392a5b4b46896cb5140c9bd191@rrc.texas.gov/811655264c4c474e8f9a144c8d0c56172702639553116114065/calendar.ics",
-   "dockets": [
-    "OG-26-00031321"
-   ],
-   "event_type": "evidentiary_hearing",
-   "event_type_label": "Evidentiary Hearing",
-   "relevance": "High",
-   "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
-   "uid": "6a1f873e4645d3751160@psc-calendar",
    "start_date": "2027-01-20"
   },
   {
@@ -9060,8 +9036,32 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "ad7e14885f146e9359ec@psc-calendar",
+   "start_date": "2027-01-20"
+  },
+  {
+   "commission": "TX-RRC",
+   "commission_name": "Railroad Commission of Texas",
+   "state": "TX",
+   "tz": "America/Chicago",
+   "title": "*MILESTONE CARBON MIDLAND CCS HUB-DOCKET NO. OG-26-00031321",
+   "start": "2027-01-20T09:00:00-06:00",
+   "end": "2027-01-23T17:00:00-06:00",
+   "all_day": false,
+   "location": "12-126 Large Hearings Room",
+   "description": "*DOCKET NO. OG-26-00031321 MILESTONE CARBON MIDLAND CCS HUB CARBON CAPTURE AND GEOLOGIC STORAGE (CLASS VI) PERMIT WILDCAT FIELD UPTON COUNTY EXAMINER: ASHLEY CORRELL EXAMINER: JAKE HALFHILL ALJ: MANDY S. PATEL *IN-PERSON*",
+   "url": "https://www.rrc.texas.gov/hearings/hearings-calendar/",
+   "source_url": "https://outlook.office365.com/owa/calendar/12df60392a5b4b46896cb5140c9bd191@rrc.texas.gov/811655264c4c474e8f9a144c8d0c56172702639553116114065/calendar.ics",
+   "dockets": [
+    "OG-26-00031321"
+   ],
+   "event_type": "evidentiary_hearing",
+   "event_type_label": "Evidentiary Hearing",
+   "relevance": "High",
+   "weight": 3,
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
+   "uid": "6a1f873e4645d3751160@psc-calendar",
    "start_date": "2027-01-20"
   },
   {
@@ -9082,7 +9082,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "4a8def97bef705f439ec@psc-calendar",
    "start_date": "2027-01-20"
   },
@@ -9104,7 +9104,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "421f28585dfc5f32389b@psc-calendar",
    "start_date": "2027-01-21"
   },
@@ -9126,7 +9126,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "67a10acecbe8cbcf9dce@psc-calendar",
    "start_date": "2027-01-21"
   },
@@ -9150,7 +9150,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "073d5a9c628ec6f284dc@psc-calendar",
    "start_date": "2027-01-25"
   },
@@ -9172,7 +9172,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "19f82c7db310aff32477@psc-calendar",
    "start_date": "2027-01-25"
   },
@@ -9196,7 +9196,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "63307ffa4aedb8f0063b@psc-calendar",
    "start_date": "2027-01-26"
   },
@@ -9220,7 +9220,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "3c5a8f35100a2d34137f@psc-calendar",
    "start_date": "2027-01-26"
   },
@@ -9244,7 +9244,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "70f4cf8d3e49f304015b@psc-calendar",
    "start_date": "2027-01-26"
   },
@@ -9268,7 +9268,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "5e83611f587269f54294@psc-calendar",
    "start_date": "2027-01-26"
   },
@@ -9290,7 +9290,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "beff804f5cfa119bf960@psc-calendar",
    "start_date": "2027-01-26"
   },
@@ -9312,7 +9312,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2c4fb217972feac42b2b@psc-calendar",
    "start_date": "2027-01-27"
   },
@@ -9334,7 +9334,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "5f01ab7e4e5d23c104c9@psc-calendar",
    "start_date": "2027-01-27"
   },
@@ -9358,7 +9358,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bdbe122b04c2d1c3f2c3@psc-calendar",
    "start_date": "2027-01-27"
   },
@@ -9382,7 +9382,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "68f019e28e362bd78631@psc-calendar",
    "start_date": "2027-01-27"
   },
@@ -9404,7 +9404,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2e6790e5e8a83e2d8a96@psc-calendar",
    "start_date": "2027-01-28"
   },
@@ -9426,7 +9426,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c506bcf740f9a1747657@psc-calendar",
    "start_date": "2027-01-29"
   },
@@ -9448,7 +9448,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2723a37e4c69f4ecc625@psc-calendar",
    "start_date": "2027-02-01"
   },
@@ -9470,7 +9470,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "08189bc1697ebbbba898@psc-calendar",
    "start_date": "2027-02-03"
   },
@@ -9494,7 +9494,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "247eb4e1afe4d6f3b2bd@psc-calendar",
    "start_date": "2027-02-03"
   },
@@ -9516,7 +9516,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c76f46f86e84f436fceb@psc-calendar",
    "start_date": "2027-02-04"
   },
@@ -9538,7 +9538,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "356da60aae97b1ad98fd@psc-calendar",
    "start_date": "2027-02-09"
   },
@@ -9560,7 +9560,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "4e2d4f20c847682b16c9@psc-calendar",
    "start_date": "2027-02-10"
   },
@@ -9584,7 +9584,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "15f7e99bd3e0ce2f85dc@psc-calendar",
    "start_date": "2027-02-11"
   },
@@ -9608,7 +9608,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "49e3b1844954bb0cd47b@psc-calendar",
    "start_date": "2027-02-12"
   },
@@ -9630,7 +9630,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1535cde328d20786b7ed@psc-calendar",
    "start_date": "2027-02-15"
   },
@@ -9652,7 +9652,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f171855c26b9b5bcc1fe@psc-calendar",
    "start_date": "2027-02-17"
   },
@@ -9674,7 +9674,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "64c03310bc8af2a4a9be@psc-calendar",
    "start_date": "2027-02-17"
   },
@@ -9696,7 +9696,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "be52044379f58d49379d@psc-calendar",
    "start_date": "2027-02-17"
   },
@@ -9718,7 +9718,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "cf54a1cdcc3bac078c85@psc-calendar",
    "start_date": "2027-02-17"
   },
@@ -9742,7 +9742,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2d50710de873a5184fa2@psc-calendar",
    "start_date": "2027-02-17"
   },
@@ -9764,7 +9764,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "6110352327a6dbfc2371@psc-calendar",
    "start_date": "2027-02-18"
   },
@@ -9786,7 +9786,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e6ace389062480db238d@psc-calendar",
    "start_date": "2027-02-18"
   },
@@ -9808,7 +9808,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b534c9102403ac585a97@psc-calendar",
    "start_date": "2027-02-23"
   },
@@ -9832,7 +9832,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7289ef45f9adb693694b@psc-calendar",
    "start_date": "2027-02-23"
   },
@@ -9854,7 +9854,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2ea0be1d18c32ac15352@psc-calendar",
    "start_date": "2027-02-23"
   },
@@ -9876,7 +9876,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "5d8731014c4fbd04148c@psc-calendar",
    "start_date": "2027-02-24"
   },
@@ -9898,7 +9898,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "729e7acd6589fcb28653@psc-calendar",
    "start_date": "2027-02-25"
   },
@@ -9920,7 +9920,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "54d53041a8ef3484d65e@psc-calendar",
    "start_date": "2027-03-01"
   },
@@ -9942,7 +9942,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "785edc47cad66ccf93f8@psc-calendar",
    "start_date": "2027-03-03"
   },
@@ -9964,7 +9964,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d3713fce0bc64212ad31@psc-calendar",
    "start_date": "2027-03-04"
   },
@@ -9986,7 +9986,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "907eb2b570328e3f235a@psc-calendar",
    "start_date": "2027-03-09"
   },
@@ -10008,7 +10008,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8195cb96703789b71422@psc-calendar",
    "start_date": "2027-03-10"
   },
@@ -10030,7 +10030,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "0a8d9dfa3e6cf703070d@psc-calendar",
    "start_date": "2027-03-11"
   },
@@ -10052,7 +10052,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "5a43b9e6b3659a9c7a16@psc-calendar",
    "start_date": "2027-03-11"
   },
@@ -10074,7 +10074,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1a772af6f49b42cc7885@psc-calendar",
    "start_date": "2027-03-11"
   },
@@ -10096,7 +10096,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "908386d85251af5d6bc1@psc-calendar",
    "start_date": "2027-03-17"
   },
@@ -10118,7 +10118,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1b5c31e253f20ea29754@psc-calendar",
    "start_date": "2027-03-17"
   },
@@ -10140,7 +10140,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "366142b9f8b12cd167df@psc-calendar",
    "start_date": "2027-03-23"
   },
@@ -10162,7 +10162,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7c62231ff7eb8d3020da@psc-calendar",
    "start_date": "2027-03-24"
   },
@@ -10184,7 +10184,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "de0caed400205abebb82@psc-calendar",
    "start_date": "2027-03-25"
   },
@@ -10206,7 +10206,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c8c6b5536e419cd9b9a5@psc-calendar",
    "start_date": "2027-03-25"
   },
@@ -10228,7 +10228,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d4ab97ee431f91c4a529@psc-calendar",
    "start_date": "2027-03-30"
   },
@@ -10250,7 +10250,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "cccefd2ef898655241f0@psc-calendar",
    "start_date": "2027-03-31"
   },
@@ -10272,7 +10272,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8e6ec30aa6fdd65c5b27@psc-calendar",
    "start_date": "2027-04-01"
   },
@@ -10294,7 +10294,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "67d24155121892813b8f@psc-calendar",
    "start_date": "2027-04-01"
   },
@@ -10316,7 +10316,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8aec8392d9912aa10cff@psc-calendar",
    "start_date": "2027-04-08"
   },
@@ -10338,7 +10338,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a434a78887ad283e780c@psc-calendar",
    "start_date": "2027-04-08"
   },
@@ -10360,7 +10360,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "9719c99d4d0a65083a0d@psc-calendar",
    "start_date": "2027-04-12"
   },
@@ -10382,7 +10382,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2f4359dff2e634905afb@psc-calendar",
    "start_date": "2027-04-12"
   },
@@ -10404,7 +10404,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1a7ec539d38fde60d3a2@psc-calendar",
    "start_date": "2027-04-14"
   },
@@ -10426,7 +10426,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "d48ce59feee5374ec3a5@psc-calendar",
    "start_date": "2027-04-21"
   },
@@ -10448,7 +10448,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "dded1df9babf2de5f50e@psc-calendar",
    "start_date": "2027-04-22"
   },
@@ -10470,7 +10470,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f943471d100e592a20f6@psc-calendar",
    "start_date": "2027-04-27"
   },
@@ -10492,7 +10492,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "99b99a1d37b6e0e8bb46@psc-calendar",
    "start_date": "2027-04-29"
   },
@@ -10514,7 +10514,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bd94cd6d83d1fb2f932c@psc-calendar",
    "start_date": "2027-05-05"
   },
@@ -10536,7 +10536,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "2c477952b8c134d61242@psc-calendar",
    "start_date": "2027-05-11"
   },
@@ -10558,7 +10558,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8c079dc058a54a15c2aa@psc-calendar",
    "start_date": "2027-05-13"
   },
@@ -10580,7 +10580,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f4672c92cf03e8614654@psc-calendar",
    "start_date": "2027-05-13"
   },
@@ -10602,7 +10602,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "3983b710602564baa166@psc-calendar",
    "start_date": "2027-05-20"
   },
@@ -10624,7 +10624,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b793520929b57bcb49eb@psc-calendar",
    "start_date": "2027-05-25"
   },
@@ -10646,7 +10646,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "73a1d433ec925dbad18d@psc-calendar",
    "start_date": "2027-05-27"
   },
@@ -10668,7 +10668,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "187b063456553afcaa6a@psc-calendar",
    "start_date": "2027-05-31"
   },
@@ -10690,7 +10690,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "6329f32918a0a958f6d5@psc-calendar",
    "start_date": "2027-06-03"
   },
@@ -10712,7 +10712,7 @@
    "event_type_label": "Evidentiary Hearing",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1e2aff2888d30fe79067@psc-calendar",
    "start_date": "2027-06-08"
   },
@@ -10734,7 +10734,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "9d84057e26c362cea55b@psc-calendar",
    "start_date": "2027-06-08"
   },
@@ -10756,7 +10756,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8df765fb568ef153115f@psc-calendar",
    "start_date": "2027-06-10"
   },
@@ -10778,7 +10778,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "ee5fa50523f015566720@psc-calendar",
    "start_date": "2027-06-16"
   },
@@ -10800,7 +10800,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "ee5afddd33931d673a46@psc-calendar",
    "start_date": "2027-06-17"
   },
@@ -10822,7 +10822,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "8fb9720789c8961af86c@psc-calendar",
    "start_date": "2027-06-29"
   },
@@ -10844,7 +10844,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "50d67f32fa586ae5eb27@psc-calendar",
    "start_date": "2027-07-08"
   },
@@ -10866,7 +10866,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "7b632c5d0930ee974572@psc-calendar",
    "start_date": "2027-07-08"
   },
@@ -10888,7 +10888,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "215ca5eb462490effc4f@psc-calendar",
    "start_date": "2027-07-13"
   },
@@ -10910,7 +10910,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e02e56a6935d2fbcae03@psc-calendar",
    "start_date": "2027-07-14"
   },
@@ -10932,7 +10932,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "614dc87a035d4a2203c3@psc-calendar",
    "start_date": "2027-07-27"
   },
@@ -10954,7 +10954,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "b7cd35ed57bb30b578c7@psc-calendar",
    "start_date": "2027-07-29"
   },
@@ -10976,7 +10976,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "847287496c386356daff@psc-calendar",
    "start_date": "2027-07-29"
   },
@@ -10998,7 +10998,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "f26a17e239cfe71b5f77@psc-calendar",
    "start_date": "2027-08-10"
   },
@@ -11020,7 +11020,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "1f397ee58c68dad610dd@psc-calendar",
    "start_date": "2027-08-18"
   },
@@ -11042,7 +11042,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "e1533b79ec94aa77ac12@psc-calendar",
    "start_date": "2027-08-31"
   },
@@ -11064,7 +11064,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "dd0da37db3c19b9aed96@psc-calendar",
    "start_date": "2027-09-14"
   },
@@ -11086,7 +11086,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "abd8a1ad420fbcb2dae6@psc-calendar",
    "start_date": "2027-09-15"
   },
@@ -11108,7 +11108,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "04d714b25bc6f1fb5a9f@psc-calendar",
    "start_date": "2027-09-28"
   },
@@ -11130,7 +11130,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "bc36a6da7846830be2a8@psc-calendar",
    "start_date": "2027-10-12"
   },
@@ -11152,7 +11152,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "106d2d33584db4f86284@psc-calendar",
    "start_date": "2027-10-20"
   },
@@ -11174,7 +11174,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c758fce10e64a77521de@psc-calendar",
    "start_date": "2027-10-26"
   },
@@ -11196,7 +11196,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "4ef4e039c7d8e8e078c1@psc-calendar",
    "start_date": "2027-11-09"
   },
@@ -11218,7 +11218,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "07f8c54c3034627efb09@psc-calendar",
    "start_date": "2027-11-17"
   },
@@ -11240,7 +11240,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "a05e8021a38eeb2bcd7d@psc-calendar",
    "start_date": "2027-11-30"
   },
@@ -11262,7 +11262,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "c4dbdc05061b8bafac54@psc-calendar",
    "start_date": "2027-12-08"
   },
@@ -11284,7 +11284,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "86e32efda4e2e2be8d47@psc-calendar",
    "start_date": "2027-12-14"
   },
@@ -11306,7 +11306,7 @@
    "event_type_label": "Open Meeting / Commission Meeting",
    "relevance": "High",
    "weight": 3,
-   "scraped_at": "2026-10-10T11:36:42.278917-04:00",
+   "scraped_at": "2026-10-11T11:59:45.235247-04:00",
    "uid": "084e3d24f8251c681b26@psc-calendar",
    "start_date": "2027-12-28"
   }
