@@ -9,10 +9,35 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[IA] Docket No. GCU-2026-0005 | Open Meeting & Closed Session Deli
+ beration
+DTSTART:20261014T180000Z
+DTEND:20261014T190000Z
+DTSTAMP:20261012T192727Z
+UID:36949ac02df51e4665e8@psc-calendar
+CATEGORIES:IA,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Open Meeting
+  / Commission Meeting\nDocket: GCU-2026-0005\n\n<a href="https://docs.goog
+ le.com/document/d/11pLzBUiNDRrUK2NdWvreJ7URaC9xlV5Cy3nyDWS5_0k/edit?usp=sh
+ aring" target="_blank">Notice of Public Meeting 10-14-26 Docket No. GCU-20
+ 26-0005</a><br>________________<br><br>Join from PC\, Mac\, iPad\, or Andr
+ oid:<br><a href="https://iuc-iowa.zoom.us/j/87610789526?pwd=I0bBE50aRAJLna
+ gmDLAER5MZ5awx4J.1" target="_blank"><u>https://iuc-iowa.zoom.us/j/87610789
+ 526?pwd=I0bBE50aRAJLnagmDLAER5MZ5awx4J.1</u></a><br>Passcode:86338801<br><
+ br>Phone one-tap:<br>+16465588656\,\,87610789526#\,\,\,\,*86338801# US (Ne
+ w York)<br>+16469313860\,\,87610789526#\,\,\,\,*86338801# US<br><br>Joi\n
+ \nSource: https://iuc.iowa.gov/commission-activity/hearing-meeting-calenda
+ r
+LOCATION:Hearing Room\, Iowa Utilities Commission\, 1375 E Court Ave\, Des
+  Moines\, IA 50319\, USA
+PRIORITY:5
+URL:https://iuc.iowa.gov/commission-activity/hearing-meeting-calendar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[IA] Docket No. E-22550 Hearing
 DTSTART:20261029T140000Z
 DTEND:20261029T220000Z
-DTSTAMP:20261011T155945Z
+DTSTAMP:20261012T192727Z
 UID:55bde5af0b750f6278ca@psc-calendar
 CATEGORIES:IA,Evidentiary Hearing
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Evidentiary 
@@ -34,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:[IA] Docket No. GCU-2026-0002 Hearing
 DTSTART:20261207T160000Z
 DTEND:20261207T230000Z
-DTSTAMP:20261011T155945Z
+DTSTAMP:20261012T192727Z
 UID:2c8e081a33af513b58ba@psc-calendar
 CATEGORIES:IA,Evidentiary Hearing
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Evidentiary 
@@ -53,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:[IA] Docket No. GCU-2026-0002 Hearing
 DTSTART:20261208T140000Z
 DTEND:20261208T230000Z
-DTSTAMP:20261011T155945Z
+DTSTAMP:20261012T192727Z
 UID:4fdb80a3ff4050735c03@psc-calendar
 CATEGORIES:IA,Evidentiary Hearing
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Evidentiary 
@@ -75,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:[IA] Docket No. GCU-2026-0002 Hearing
 DTSTART:20261209T140000Z
 DTEND:20261209T230000Z
-DTSTAMP:20261011T155945Z
+DTSTAMP:20261012T192727Z
 UID:aeecb3bacaab748a061c@psc-calendar
 CATEGORIES:IA,Evidentiary Hearing
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Evidentiary 
@@ -97,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:[IA] Docket No. GCU-2026-0002 Hearing
 DTSTART:20261210T140000Z
 DTEND:20261210T230000Z
-DTSTAMP:20261011T155945Z
+DTSTAMP:20261012T192727Z
 UID:96d5e781b164042ba942@psc-calendar
 CATEGORIES:IA,Evidentiary Hearing
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Evidentiary 
@@ -119,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:[IA] Docket No. GCU-2026-0002 Hearing
 DTSTART:20261211T140000Z
 DTEND:20261211T230000Z
-DTSTAMP:20261011T155945Z
+DTSTAMP:20261012T192727Z
 UID:ccf824da136bce986211@psc-calendar
 CATEGORIES:IA,Evidentiary Hearing
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Evidentiary 
@@ -141,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:[IA] Monthly Commission Meeting
 DTSTART;TZID=America/Chicago:20270217T090000
 DTEND;TZID=America/Chicago:20270217T120000
-DTSTAMP:20261011T155945Z
+DTSTAMP:20261012T192727Z
 UID:be52044379f58d49379d@psc-calendar
 CATEGORIES:IA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Open Meeting

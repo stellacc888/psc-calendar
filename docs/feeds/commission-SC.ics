@@ -11,17 +11,19 @@ X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:[SC] Notice of Special Commission Business Meeting - Special Commi
- ssion Business Meeting
+ ssion Business Meeting Notes: US Toll-free Listen Line: +1-877-309-2073&am
+ p\;nbsp\;Access Code: 601 673 909
 DTSTART;TZID=America/New_York:20261014T100000
 DTEND;TZID=America/New_York:20261014T120000
-DTSTAMP:20261011T155945Z
-UID:35b5fba48d5ab1f9c39c@psc-calendar
+DTSTAMP:20261012T192727Z
+UID:d0142447795f4e4bb087@psc-calendar
 CATEGORIES:SC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
  e: Open Meeting / Commission Meeting\n\n10/14/2026 10:00 AM Scheduled | N/
  A | Notice of Special Commission Business Meeting - Special Commission Bus
- iness Meeting Url: https://www.scetv.org/live/public-service-commission\n
- \nSource: https://dms.psc.sc.gov/Web/Calendar/Detail/84926
+ iness Meeting Notes: US Toll-free Listen Line: +1-877-309-2073&amp\;nbsp\;
+ Access Code: 601 673 909 Url: https://www.scetv.org/live/public-service-co
+ mmission\n\nSource: https://dms.psc.sc.gov/Web/Calendar/Detail/84926
 PRIORITY:5
 URL:https://dms.psc.sc.gov/Web/Calendar/Detail/84926
 END:VEVENT
