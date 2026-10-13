@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:[SD] South Dakota Public Utilities Commission Meeting
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20261012T192727Z
+DTSTAMP:20261013T171150Z
 UID:23572dc89606432e37f0@psc-calendar
 CATEGORIES:SD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[SD] Addendum to the Agenda of Commission Meeting
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261012T192727Z
+DTSTAMP:20261013T171150Z
 UID:cc5ea718f1c4a705ac46@psc-calendar
 CATEGORIES:SD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:[SD] South Dakota Public Utilities Commission Meeting
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261012T192727Z
+DTSTAMP:20261013T171150Z
 UID:75e0abf7e5cf5562564e@psc-calendar
 CATEGORIES:SD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp
@@ -50,5 +50,18 @@ DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp
  /Meetings.aspx?BoardID=213
 PRIORITY:5
 URL:https://boardsandcommissions.sd.gov/Meetings.aspx?BoardID=213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SD] Agenda of Commission Meeting
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20261013T171150Z
+UID:8780d74a89fa7fa22da7@psc-calendar
+CATEGORIES:SD,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp
+ e: Open Meeting / Commission Meeting\n\nOctober 22\, 2026\, Agenda of Comm
+ ission Meeting\n\nSource: https://puc.sd.gov/agendas/2026/default.aspx
+PRIORITY:5
+URL:https://puc.sd.gov/agendas/2026/default.aspx
 END:VEVENT
 END:VCALENDAR
