@@ -13,13 +13,13 @@ SUMMARY:[FERC] 1 Environmental Review and Compliance for Natural Gas Facil
  ities Seminar All day Notational Orders 2026- 10-01 All day
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20261013T171150Z
+DTSTAMP:20261014T144439Z
 UID:fff7ff36f356e97616a5@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
-  Decision / Order\n\n27 | 28 Notational Orders 2026-09-28 All day | 29 Env
- ironmental Review and Compliance for Natural Gas Facilities Seminar All da
- y Notational Orders 2026-09-29 All day | 30 Environmental Review and Compl
+  Decision / Order\n\n27 | 28 Notational Orders 2026-09-28 All day | 29 Not
+ ational Orders 2026-09-29 All day Environmental Review and Compliance for 
+ Natural Gas Facilities Seminar All day | 30 Environmental Review and Compl
  iance for Natural Gas Facilities Seminar All day Notational Orders 2026-09
  -30 All day | 1 Environmental Review and Compliance for Natural Gas Facili
  ties Seminar All day Notational Orders 2026- 10-01 All day | 2 Notational 
@@ -36,7 +36,7 @@ SUMMARY:[FERC] 6 Public Scoping Session for the Corpus Christi Liquefactio
  peline Project (PF25-8-000) 7:00 - 9:0
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261013T171150Z
+DTSTAMP:20261014T144439Z
 UID:c4f8558c23077fa076e9@psc-calendar
 CATEGORIES:FERC,Decision / Order
 DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
@@ -51,5 +51,37 @@ DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
 PRIORITY:5
 URL:https://www.ferc.gov/news-events/events/notational-orders-2026-10-05-1
  0052026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[FERC] 14 Environmental Site Review for the Pontook Hydroelectric 
+ Project (P-2861-056) 10:00 - 11:00am
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20261014T144439Z
+UID:fb23641f4988f6daa265@psc-calendar
+CATEGORIES:FERC,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
+  Open Meeting / Commission Meeting\n\n11 | 12 Columbus Day All day | 13 No
+ tational Orders 2026-10-13 All day | 14 Environmental Site Review for the 
+ Pontook Hydroelectric Project (P-2861-056) 10:00 - 11:00am | 15 Daytime an
+ d Evening Public Scoping Sessions for the Pontook Hydroelectric Project (P
+ -2861-056) All day October 15\, 2026 Open Meeting 10:00 - 11:00am | 16 | 1
+ 7\n\nSource: https://www.ferc.gov/news-events/events/columbus-day-10122026
+PRIORITY:5
+URL:https://www.ferc.gov/news-events/events/columbus-day-10122026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[FERC] Sunshine Act Meeting Notice
+DTSTART;TZID=America/New_York:20261015T100000
+DTEND;TZID=America/New_York:20261015T120000
+DTSTAMP:20261014T144439Z
+UID:6077824f92590b79292c@psc-calendar
+CATEGORIES:FERC,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Federal Energy Regulatory Commission (FERC)\nType:
+  Open Meeting / Commission Meeting\n\nSource: https://www.federalregister.
+ gov/documents/2026/10/14/2026-20998/sunshine-act-meeting-notice
+PRIORITY:5
+URL:https://www.federalregister.gov/documents/2026/10/14/2026-20998/sunshi
+ ne-act-meeting-notice
 END:VEVENT
 END:VCALENDAR
