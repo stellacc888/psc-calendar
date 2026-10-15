@@ -1877,7 +1877,76 @@ events:
     title: Docket ADV 1898 - PGE ADVICE NO. 26-354 SCHEDULE 138 ENERGY STORAGE COST RECOVERY MECHANISM
   - commission: OR
     date: 2026-10-13
-    title: Docket ADV 1899 - PGE ADVICE NO. 26-36 SCHEDULE 122
+    title: Docket ADV 1899 - PGE ADVICE NO. 26-36 SCHEDULE 122  # --- added 2026-10-15 - paste directly under the existing `events:` line ---
+  - commission: DC
+    date: 2026-10-16
+    title: Commission Open Meeting
+  - commission: FERC
+    date: 2026-10-15
+    title: Sunshine Act Meeting Notice
+  - commission: IL
+    date: 2026-10-15
+    title: Illinois Commerce Commission Evidentiary for 26-0364
+  - commission: IL
+    date: 2026-10-15
+    title: Illinois Commerce Commission Prehearing for 26-0657
+  - commission: IL
+    date: 2026-10-15
+    title: Illinois Commerce Commission Prehearing for 26-0649
+  - commission: IL
+    date: 2026-10-15
+    title: Illinois Commerce Commission Regular Open Meeting
+  - commission: IL
+    date: 2026-10-15
+    title: Regular Open Meeting Illinois Commerce Commission 527 East Capitol Avenue Hearing Room A, First Floor, Leland Building Springfield, Illinois 62701
+  - commission: IL
+    date: 2026-10-15
+    title: Illinois Commerce Commission Annual Non-Utility Supplier Diversity Policy Session
+  - commission: IL
+    date: 2026-10-15
+    title: Annual Non-Utility Supplier Diversity Policy Session Illinois Commerce Commission 527 East Capitol Avenue Hearing Room A, First Floor, Leland Building Springfield, Illinois 62701
+  - commission: IL
+    date: 2026-10-16
+    title: Illinois Commerce Commission Prehearing for 26-0647
+  - commission: MA
+    date: 2026-10-16
+    title: 24-15 - DPU - Investigation
+  - commission: MD
+    date: 2026-10-15
+    title: Case 9707-Future of Gas, Phase II Evidentiary Hearing
+  - commission: MD
+    date: 2026-10-16
+    title: Case 9707-Future of Gas, Phase II Evidentiary Hearing
+  - commission: MI
+    date: 2026-10-15
+    title: October 15, 2026 Commission Meeting
+  - commission: NY
+    date: 2026-10-15
+    title: OCTOBER 2026 Public Service Commission Session
+  - commission: OH
+    date: 2026-10-15
+    title: Case No. 26-554--TR-CVF
+  - commission: PA
+    date: 2026-10-15
+    title: "Docket Number C-2026-3063990 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Erin Gannon"
+  - commission: PA
+    date: 2026-10-15
+    title: "Docket Number F-2026-3063968 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Barbara Shadie Nause"
+  - commission: PA
+    date: 2026-10-15
+    title: "Docket Number R-2026-3064386 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-10-15
+    title: "Docket Number F-2026-3061873 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Christopher P Pell"
+  - commission: PA
+    date: 2026-10-15
+    title: "Docket Number C-2026-3061342 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: TX
+    date: 2026-10-15
+    title: Open Meeting - Thursday, October 15, 2026
+  - commission: VA
+    date: 2026-10-15
+    title: PUR-2026-00112 - Joint Petition of Dominion Energy, Inc., Virginia Electric and Power Company, OSW Project LLC, CS HoldCo, LLC, and NextEra Energy, Inc. for a disposition and acquisition of control of public utility (Oral argument)
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
