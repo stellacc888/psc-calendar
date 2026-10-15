@@ -2066,7 +2066,16 @@ events:
     title: 26-62 - DOER - Investigation
   - commission: NM
     date: 2026-10-23
-    title: "Docket 26-0000079 – El Paso Electric Application for Approval to Implement a Demand Response and Distributed Energy Resource Pilot Project. This hearing is set for October 23 and 27 , 2026, at 9:00 a.m. Visit this site to watch the proceeding via liv"
+    title: "Docket 26-0000079 – El Paso Electric Application for Approval to Implement a Demand Response and Distributed Energy Resource Pilot Project. This hearing is set for October 23 and 27 , 2026, at 9:00 a.m. Visit this site to watch the proceeding via liv"  # --- added 2026-10-15 - paste directly under the existing `events:` line ---
+  - commission: IN
+    date: 2026-10-21
+    title: PETITION OF DUKE ENERGY INDIANA, LLC FOR APPROVAL OF A NEW ELECTRIC SUPPLY AGREEMENT WITH STEEL DYNAMICS, INC. ARISING FROM OPERATION OF THE BAR STEEL MILL IN PITTSBORO, INDIANA (Cause 46466)
+  - commission: IN
+    date: 2026-10-22
+    title: COMMISSION INVESTIGATION INTO NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC AND ISSUES ASSOCIATED WITH ITS NATURAL GAS CUSTOMER METERS (Cause 46329)
+  - commission: MA
+    date: 2026-10-22
+    title: 26-62 - DOER - Investigation
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
