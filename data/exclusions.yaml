@@ -1946,7 +1946,106 @@ events:
     title: Open Meeting - Thursday, October 15, 2026
   - commission: VA
     date: 2026-10-15
-    title: PUR-2026-00112 - Joint Petition of Dominion Energy, Inc., Virginia Electric and Power Company, OSW Project LLC, CS HoldCo, LLC, and NextEra Energy, Inc. for a disposition and acquisition of control of public utility (Oral argument)
+    title: PUR-2026-00112 - Joint Petition of Dominion Energy, Inc., Virginia Electric and Power Company, OSW Project LLC, CS HoldCo, LLC, and NextEra Energy, Inc. for a disposition and acquisition of control of public utility (Oral argument)  # --- added 2026-10-15 - paste directly under the existing `events:` line ---
+  - commission: CO
+    date: 2026-10-20
+    title: "Remote HRG: 25A-0539CP-EXT SKI TOWN TRANSPORTATION - 55991 - EXT, ALJ Rosenberg"
+  - commission: CO
+    date: 2026-10-22
+    title: "In Person HRG: 26F-0260EG Anatoliy Savkin vs Public Service Company - Formal Complaint, ALJ Farley"
+  - commission: FL
+    date: 2026-10-20
+    title: "Prehearing: 20260001-04; 07"
+  - commission: FL
+    date: 2026-10-21
+    title: "Hearing: 20260083-SU (Day: 1)"
+  - commission: FL
+    date: 2026-10-22
+    title: "Hearing: 20260083-SU (Day: 2)"
+  - commission: GA
+    date: 2026-10-21
+    title: GUFPA Hearing 10-21-2026
+  - commission: IA
+    date: 2026-10-20
+    title: "Docket Nos. HLP-2021-0001, et al | Open Meeting and Closed Session Deliberation"
+  - commission: IL
+    date: 2026-10-20
+    title: Illinois Commerce Commission Hearing for T25-0103
+  - commission: IL
+    date: 2026-10-21
+    title: Illinois Commerce Commission Hearing for T13-0048
+  - commission: IL
+    date: 2026-10-21
+    title: Illinois Commerce Commission Hearing for M2026-09834
+  - commission: IL
+    date: 2026-10-21
+    title: Illinois Commerce Commission Hearing for T26-0049
+  - commission: IN
+    date: 2026-10-21
+    title: VERIFIED PETITION OF THE BOARD OF DIRECTORS FOR UTILITIES OF THE DEPARTMENT OF PUBLIC UTILITIES OF THE CITY OF INDIANAPOLIS, AS SUCCESSOR TRUSTEE OF A PUBLIC CHARITABLE TRUST, D/B/A CITIZENS THERMAL, FOR (1) APPROVAL OF
+  - commission: IN
+    date: 2026-10-21
+    title: COMPLAINT OF THE GATTEN FARM, LLC AGAINST INDIANA GAS COMPANY, INC. D/B/A CENTERPOINT ENERGY INDIANA NORTH REGARDING A GAS MAIN EXTENSION CONTRACT (Cause 46479)
+  - commission: LA
+    date: 2026-10-22
+    title: "Hearing: T-38069"
+  - commission: ME
+    date: 2026-10-20
+    title: Deliberations Audio/Video
+  - commission: ME
+    date: 2026-10-21
+    title: Hearing on CASD No. 2026-V-00210
+  - commission: ME
+    date: 2026-10-21
+    title: Hearing on Chapter 313 Rulemaking
+  - commission: ME
+    date: 2026-10-22
+    title: Hearing on CASD No. 2025-V-00715
+  - commission: ND
+    date: 2026-10-21
+    title: Informal Hearing -Internet Broadcast Case No. PU-26-213 Badger Communications LLC Designated Eligible Carrier Application
+  - commission: ND
+    date: 2026-10-23
+    title: Formal Hearing -Internet Broadcast Case No. PU-26-284 Harmony Storage, LLC Harmony Storage Project - Cass County Siting Application Days Inn Hotel & Governor's Waterpark RV Park & Fitness Center 2050 Governor's Dr. Casselton
+  - commission: NE
+    date: 2026-10-20
+    title: "20 Oct Commission Meeting Location: Commission Hearing Room 10:00am"
+  - commission: NE
+    date: 2026-10-20
+    title: "20 Oct Quarterly Status Meeting – NG-101.2 – NorthWestern Energy Location: Commission Hearing Room 2:00pm"
+  - commission: NOLA
+    date: 2026-10-19
+    title: 2027 Proposed Budget Hearings - Day 6 - Oct 19, 2026
+  - commission: NOLA
+    date: 2026-10-21
+    title: 2027 Proposed Budget Hearings - Day 7 - Oct 21, 2026
+  - commission: NOLA
+    date: 2026-10-22
+    title: 2027 Proposed Budget Hearings - Day 8 - Oct 22, 2026
+  - commission: NY
+    date: 2026-10-20
+    title: Greens Corners Solar Virtual Public Statement Hearing
+  - commission: OR
+    date: 2026-10-22
+    title: Docket AR 684 - PURPA STANDARD AVOIDED COSTS, PRICE ADJUSTMENT MECHANISM, HB 3863 IMPLEMENTED
+  - commission: PA
+    date: 2026-10-22
+    title: "View 2026-2027 Meeting Schedule (PDF): October 22, 2026"
+  - commission: TX-RRC
+    date: 2026-10-19
+    title: "*THALMANN OILFIELD- DOCKET NO. OG-26-00031983"
+  - commission: TX-RRC
+    date: 2026-10-19
+    title: "*BLACKROCK OPERATING, LLC-DOCKET NO. OG-26-00031902"
+  - commission: TX-RRC
+    date: 2026-10-22
+    title: "*SOLUTIONS PROJECTS AND CONSULTING, LLC -DOCKET NO. OG-26-00032046"
+  - commission: TX-RRC
+    date: 2026-10-23
+    title: "*CROSSTEX SERVICES, L.L.C-DOCKET NO. OG-26-00032685 (DISMISSED)"
+  - commission: WA
+    date: 2026-10-19
+    title: UE-260007 & UG-260008 Avista GRC - Post-Hearing Briefs and Updated Joint Issues Matrix
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
