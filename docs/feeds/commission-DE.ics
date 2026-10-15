@@ -11,18 +11,18 @@ X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:[DE] The Delaware Public Service Commission (“Commission”) wil
  l conduct a public evidentiary hearing concerning the above-captioned case
-  on Wednesday\, November 4\, 2026 at 1:00PM. Please see the Public Notice 
- for more information
+  on Wednesday\, November 4\, 2026 at 1:00 PM. Please see the Public Notice
+  for more information
 DTSTART;TZID=America/New_York:20261104T130000
 DTEND;TZID=America/New_York:20261104T150000
-DTSTAMP:20261014T144439Z
+DTSTAMP:20261015T143002Z
 UID:a356a6d63918410923e4@psc-calendar
 CATEGORIES:DE,Evidentiary Hearing
 DESCRIPTION:Commission: Delaware Public Service Commission (DE)\nType: Evi
  dentiary Hearing\n\nSource: https://depsc.delaware.gov/wp-content/uploads/
- sites/54/2026/10/Docket-26-0389-Public-Hearing-Notice-10.12.26.docx
+ sites/54/2026/10/26-0391-Oct-14-2026.pdf
 PRIORITY:5
-URL:https://depsc.delaware.gov/wp-content/uploads/sites/54/2026/10/Docket-
- 26-0389-Public-Hearing-Notice-10.12.26.docx
+URL:https://depsc.delaware.gov/wp-content/uploads/sites/54/2026/10/26-0391
+ -Oct-14-2026.pdf
 END:VEVENT
 END:VCALENDAR

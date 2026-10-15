@@ -9,40 +9,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NE] 14 Oct Commission Meeting Location: Commission Hearing Room 1
- 0:00am
-DTSTART:20261014T150000Z
-DTEND:20261014T170000Z
-DTSTAMP:20261014T144439Z
-UID:057ad4b463e43bcdc111@psc-calendar
-CATEGORIES:NE,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
- n Meeting / Commission Meeting\n\nSource: https://psc.nebraska.gov/commiss
- ion-meeting-261
-PRIORITY:5
-URL:https://psc.nebraska.gov/commission-meeting-261
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NE] 14 Oct Hearing – B-2102.02\, B-2055.02 & B-2153.01 - Insura
- nce Expiration Show Cause Location: Commission Hearing Room 1:00pm
-DTSTART:20261014T180000Z
-DTEND:20261014T200000Z
-DTSTAMP:20261014T144439Z
-UID:0a5964ab9fb72a92f563@psc-calendar
-CATEGORIES:NE,Evidentiary Hearing
-DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
- dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-b-210202-b-20
- 5502-b-215301-insurance-expiration-show-cause
-PRIORITY:5
-URL:https://psc.nebraska.gov/hearing-b-210202-b-205502-b-215301-insurance-
- expiration-show-cause
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NE] 20 Oct Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20261020T150000Z
 DTEND:20261020T170000Z
-DTSTAMP:20261014T144439Z
+DTSTAMP:20261015T143002Z
 UID:414fd445da6c5d094a3c@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -56,7 +27,7 @@ SUMMARY:[NE] 20 Oct Quarterly Status Meeting – NG-101.2 – NorthWestern
   Energy Location: Commission Hearing Room 2:00pm
 DTSTART:20261020T190000Z
 DTEND:20261020T210000Z
-DTSTAMP:20261014T144439Z
+DTSTAMP:20261015T143002Z
 UID:4eec43d732cfe206c4df@psc-calendar
 CATEGORIES:NE,Evidentiary Hearing
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
@@ -65,5 +36,33 @@ DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
 PRIORITY:5
 URL:https://psc.nebraska.gov/quarterly-status-meeting-ng-1012-northwestern
  -energy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NE] 27 Oct Commission Meeting Location: Commission Hearing Room 1
+ 0:00am
+DTSTART:20261027T150000Z
+DTEND:20261027T170000Z
+DTSTAMP:20261015T143002Z
+UID:4847fe8ac988bebf6871@psc-calendar
+CATEGORIES:NE,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.nebraska.gov/commiss
+ ion-meeting-264
+PRIORITY:5
+URL:https://psc.nebraska.gov/commission-meeting-264
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NE] 28 Oct Hearing – B-2199 – Tekabe T\, LLC Location: Commis
+ sion Hearing Room 9:00am
+DTSTART:20261028T140000Z
+DTEND:20261028T160000Z
+DTSTAMP:20261015T143002Z
+UID:5f36f332cf5f81662eff@psc-calendar
+CATEGORIES:NE,Evidentiary Hearing
+DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
+ dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-b-2199-tekabe
+ -t-llc
+PRIORITY:5
+URL:https://psc.nebraska.gov/hearing-b-2199-tekabe-t-llc
 END:VEVENT
 END:VCALENDAR
