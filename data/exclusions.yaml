@@ -2045,7 +2045,28 @@ events:
     title: "*CROSSTEX SERVICES, L.L.C-DOCKET NO. OG-26-00032685 (DISMISSED)"
   - commission: WA
     date: 2026-10-19
-    title: UE-260007 & UG-260008 Avista GRC - Post-Hearing Briefs and Updated Joint Issues Matrix
+    title: UE-260007 & UG-260008 Avista GRC - Post-Hearing Briefs and Updated Joint Issues Matrix  # --- added 2026-10-15 - paste directly under the existing `events:` line ---
+  - commission: IN
+    date: 2026-10-19
+    title: "VERIFIED PETITION OF INDIANAPOLIS POWER & LIGHT COMPANY D/B/A AES INDIANA FOR APPROVAL OF REGIONAL TRANSMISSION ORGANIZATION (“RTO”) ADJUSTMENT FACTORS FOR ELECTRIC SERVICE FOR THE BILLING MONTHS OF NOVEMBER 2026 THROUGH"
+  - commission: IN
+    date: 2026-10-19
+    title: "PETITION OF BOONVILLE NATURAL GAS CORPORATION FOR APPROVAL OF CHANGES IN ITS GAS RATES THROUGH A GAS COST ADJUSTMENT IN ACCORDANCE WITH INDIANA CODE § 8-1-2-42 (g). (Per Docket Entry issued September 28, 2026, this heari"
+  - commission: IN
+    date: 2026-10-20
+    title: "IN THE MATTER OF THE VERIFIED PETITION OF INDIANAPOLIS POWER & LIGHT D/B/A AES INDIANA FOR APPROVAL OF AES INDIANA’S DEMAND- SIDE MANAGEMENT PLAN, INCLUDING ENERGY EFFICIENCY PROGRAMS, AND ASSOCIATED ACCOUNTING AND RATEM"
+  - commission: IN
+    date: 2026-10-21
+    title: "PETITION OF INDIANA UTILITIES CORPORATION FOR APPROVAL OF CHANGES IN ITS GAS RATES THROUGH A GAS COST ADJUSTMENT IN ACCORDANCE WITH IND. CODE §8-1-2-42(g) (Cause 37357-GCA121)"
+  - commission: IN
+    date: 2026-10-21
+    title: "PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPANY D/B/A CENTERPOINT ENERGY INDIANA SOUTH (“CEI SOUTH”) FOR APPROVAL OF A DEMAND-SIDE MANAGEMENT ADJUSTMENT FOR ELECTRIC SERVICE IN ACCORDANCE WITH ORDERS OF THE COMMISS"
+  - commission: MA
+    date: 2026-10-21
+    title: 26-62 - DOER - Investigation
+  - commission: NM
+    date: 2026-10-23
+    title: "Docket 26-0000079 – El Paso Electric Application for Approval to Implement a Demand Response and Distributed Energy Resource Pilot Project. This hearing is set for October 23 and 27 , 2026, at 9:00 a.m. Visit this site to watch the proceeding via liv"
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
