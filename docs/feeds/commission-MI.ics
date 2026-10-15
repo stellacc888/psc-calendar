@@ -9,26 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[MI] October 15\, 2026 Commission Meeting
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-DTSTAMP:20261015T143002Z
-UID:150484bbf585a65f16c3@psc-calendar
-CATEGORIES:MI,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
- n Meeting / Commission Meeting\n\nOctober 15 October 15\, 2026 Commission 
- Meeting 11:00 AM to 12:00 PM Teleconference and In-Person\n\nSource: https
- ://www.michigan.gov/mpsc/commission/events/2026/10/15/october-15-2026-comm
- ission-meeting
-PRIORITY:5
-URL:https://www.michigan.gov/mpsc/commission/events/2026/10/15/october-15-
- 2026-commission-meeting
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[MI] November 5\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261015T143002Z
+DTSTAMP:20261015T144951Z
 UID:67c9890ee0ca5a5a6c19@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -44,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] December 8\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261015T143002Z
+DTSTAMP:20261015T144951Z
 UID:c73e308bc100d69454cb@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -60,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] December 17\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261015T143002Z
+DTSTAMP:20261015T144951Z
 UID:ef52f80fe95e7213e3bd@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
