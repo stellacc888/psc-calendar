@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261027T100000
 DTEND;TZID=America/New_York:20261027T120000
-DTSTAMP:20261015T152007Z
+DTSTAMP:20261020T143301Z
 UID:bdd9b82d549c7783be35@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Hearing CASD No. 2026-V-00203
 DTSTART;TZID=America/New_York:20261030T100000
 DTEND;TZID=America/New_York:20261030T120000
-DTSTAMP:20261015T152007Z
+DTSTAMP:20261020T143301Z
 UID:bbb7fd76ca7a6d1d11d7@psc-calendar
 CATEGORIES:ME,Evidentiary Hearing
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Hearing CASD No. 2026-V-00280
 DTSTART;TZID=America/New_York:20261030T133000
 DTEND;TZID=America/New_York:20261030T153000
-DTSTAMP:20261015T152007Z
+DTSTAMP:20261020T143301Z
 UID:6f433d4adf2e155bc819@psc-calendar
 CATEGORIES:ME,Evidentiary Hearing
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Special Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261112T130000
 DTEND;TZID=America/New_York:20261112T150000
-DTSTAMP:20261015T152007Z
+DTSTAMP:20261020T143301Z
 UID:0907c0ba27494b5fb483@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
@@ -67,5 +67,20 @@ DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
 PRIORITY:5
 URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations
  &id=13363841&v=Article088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ME] Deliberations Audio/Video
+DTSTART;TZID=America/New_York:20261117T100000
+DTEND;TZID=America/New_York:20261117T120000
+DTSTAMP:20261020T143301Z
+UID:2a10892edec8f6bc8769@psc-calendar
+CATEGORIES:ME,Decision / Order
+DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
+ sion / Order\n\n11/17/2026 | Deliberations Audio/Video | 10:00 AM\n\nSourc
+ e: https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations&
+ id=13363883&v=Article088
+PRIORITY:5
+URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations
+ &id=13363883&v=Article088
 END:VEVENT
 END:VCALENDAR

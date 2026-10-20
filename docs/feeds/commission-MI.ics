@@ -9,10 +9,26 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[MI] October 29\, 2026 Special Commission Meeting
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261020T143301Z
+UID:dd69a592ea4a02ae46b9@psc-calendar
+CATEGORIES:MI,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
+ n Meeting / Commission Meeting\n\nOctober 29 October 29\, 2026 Special Com
+ mission Meeting 1:00 PM to 2:00 PM Teleconference and In-Person Location: 
+ Michigan Public Service Commission\n\nSource: https://www.michigan.gov/mps
+ c/commission/events/2026/10/29/october-29-2026-special-commission-meeting
+PRIORITY:5
+URL:https://www.michigan.gov/mpsc/commission/events/2026/10/29/october-29-
+ 2026-special-commission-meeting
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[MI] November 5\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261019T164023Z
+DTSTAMP:20261020T143301Z
 UID:67c9890ee0ca5a5a6c19@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -28,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] December 8\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261019T164023Z
+DTSTAMP:20261020T143301Z
 UID:c73e308bc100d69454cb@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -44,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] December 17\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261019T164023Z
+DTSTAMP:20261020T143301Z
 UID:ef52f80fe95e7213e3bd@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -54,11 +70,11 @@ DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
  026 Commission Meeting 1:00 PM to 2:00 PM Teleconference and In-Person Loc
  ation: Michigan Public Service Commission November 05 November 5\, 2026 Co
  mmission Meeting 1:00 PM to 2:00 PM Teleconference and In-Person Location:
-  Michigan Public Service Commission October 15 October 15\, 2026 Commissio
- n Meeting 11:00 AM to 12:00 PM Teleconference and In-Person October 01 Oct
- ober 1\, 2026 Commission Meeting 1:00 PM to 2:0\n\nSource: https://www.mic
- higan.gov/mpsc/commission/events/2026/12/17/december-17-2026-commission-me
- eting
+  Michigan Public Service Commission October 29 October 29\, 2026 Special C
+ ommission Meeting 1:00 PM to 2:00 PM Teleconference and In-Person Location
+ : Michigan Public Service Commission October 1\n\nSource: https://www.mich
+ igan.gov/mpsc/commission/events/2026/12/17/december-17-2026-commission-mee
+ ting
 PRIORITY:5
 URL:https://www.michigan.gov/mpsc/commission/events/2026/12/17/december-17
  -2026-commission-meeting
