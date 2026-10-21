@@ -9,108 +9,23 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[WY] 20000-716-EA-26 (Record No. 18211) - Pursuant to the Wyoming 
- Administrative Procedure Act and the Wyoming Public Service Commission’s
-  (Commission) Rules and Regulations\, notice is hereby given of Rocky Moun
- tain Power’s (RMP or the Company) Appli
-DTSTART;TZID=America/Denver:20260721T000000
-DTEND;TZID=America/Denver:20260721T020000
-DTSTAMP:20260817T110059Z
-UID:568f841b04c9852eadf6@psc-calendar
-CATEGORIES:WY,Other
-DESCRIPTION:Commission: Wyoming Public Service Commission (WY)\nType: Othe
- r\n\nJuly 21\, 2026 – 20000-716-EA-26 (Record No. 18211) - Pursuant to t
- he Wyoming Administrative Procedure Act and the Wyoming Public Service Com
- mission’s (Commission) Rules and Regulations\, notice is hereby given of
-  Rocky Mountain Power’s (RMP or the Company) Application for Commission 
- review and approval of its 2026-2028 Wildfire Mitigation Plan (WMP).\n\nSo
- urce: https://drive.google.com/file/d/1yNLzWHbvkGnD8WnEozs70JG2_A5wS9hE/vi
- ew
-PRIORITY:9
-URL:https://drive.google.com/file/d/1yNLzWHbvkGnD8WnEozs70JG2_A5wS9hE/view
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[WY] 10003-57-CT-26 (Record No. 18180) – Pursuant to the Wyoming
-  Administrative Procedure Act and the Wyoming Public Service Commission’
- s (Commission) Rules and Regulations\, notice is hereby given of the Appli
- cation of Garland Light and Power Company
-DTSTART;TZID=America/Denver:20260805T000000
-DTEND;TZID=America/Denver:20260805T020000
-DTSTAMP:20260817T110059Z
-UID:3ab01d84f467f5b63c11@psc-calendar
-CATEGORIES:WY,Other
-DESCRIPTION:Commission: Wyoming Public Service Commission (WY)\nType: Othe
- r\nDocket: 57-CT-26\n\nAugust 5\, 2026 – 10003-57-CT-26 (Record No. 1818
- 0) – Pursuant to the Wyoming Administrative Procedure Act and the Wyomin
- g Public Service Commission’s (Commission) Rules and Regulations\, notic
- e is hereby given of the Application of Garland Light and Power Company (G
- arland)\, for authority to revise its rules and regulations regarding the 
- pricing of security lights.\n\nSource: https://drive.google.com/file/d/1fS
- jh3Znes5bNzZ9edK4tz6Yv4dFCOZKz/view
-PRIORITY:9
-URL:https://drive.google.com/file/d/1fSjh3Znes5bNzZ9edK4tz6Yv4dFCOZKz/view
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[WY] 10015-106-CT-26 (Record No. 18187) - The Wyoming Public Servi
- ce Commission (Commission) hereby gives notice of the Application of High 
- West Energy\, Inc. (High West or the Cooperative) for authority to revise 
- its standard line extension policy in
-DTSTART;TZID=America/Denver:20260805T000000
-DTEND;TZID=America/Denver:20260805T020000
-DTSTAMP:20260817T110059Z
-UID:6434980bcdcd1a9285be@psc-calendar
-CATEGORIES:WY,Other
-DESCRIPTION:Commission: Wyoming Public Service Commission (WY)\nType: Othe
- r\n\nAugust 5\, 2026 – 10015-106-CT-26 (Record No. 18187) - The Wyoming 
- Public Service Commission (Commission) hereby gives notice of the Applicat
- ion of High West Energy\, Inc. (High West or the Cooperative) for authorit
- y to revise its standard line extension policy in Wyoming Tariff No. 5.\n\
- nSource: https://drive.google.com/file/d/1ImAwvwItxWMwWlmjD9yAEnvpZGQlyzSU
- /view
-PRIORITY:9
-URL:https://drive.google.com/file/d/1ImAwvwItxWMwWlmjD9yAEnvpZGQlyzSU/view
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[WY] mence on
-DTSTART;TZID=America/Denver:20260806T133000
-DTEND;TZID=America/Denver:20260806T153000
-DTSTAMP:20260817T110059Z
-UID:fee3b9ba58e724734ebe@psc-calendar
-CATEGORIES:WY,Other
-DESCRIPTION:Commission: Wyoming Public Service Commission (WY)\nType: Othe
- r\n\nmence on Thursday\, August 6\, 2026\, at 1:30 p.m.\n\nSource: https:/
- /psc.wyo.gov/home/public-notices
-PRIORITY:9
+SUMMARY:[WY] Docket No. 20000-676-EA-24 (Record No. 17741)\, is scheduled 
+ to commence on Tuesday\, November 3\, 2026\, at 1:30 p.m.\, in the Commiss
+ ion's hearing room located at 2515 Warren Avenue\, Suite 300\, in Cheyenne
+ \, Wyoming. Deliberations will take place at
+DTSTART;TZID=America/Denver:20261103T133000
+DTEND;TZID=America/Denver:20261103T153000
+DTSTAMP:20261021T144334Z
+UID:a0c1ec3210d7574df3f5@psc-calendar
+CATEGORIES:WY,Decision / Order
+DESCRIPTION:Commission: Wyoming Public Service Commission (WY)\nType: Deci
+ sion / Order\nDocket: 20000-676-EA-24\n\n\, Docket No. 20000-676-EA-24 (Re
+ cord No. 17741)\, is scheduled to commence on Tuesday\, November 3\, 2026
+ \, at 1:30 p.m.\, in the Commission's hearing room located at 2515 Warren 
+ Avenue\, Suite 300\, in Cheyenne\, Wyoming. Deliberations will take place 
+ at the end of the regularly scheduled Open Meeting.\n\nSource: https://psc
+ .wyo.gov/home/public-notices
+PRIORITY:5
 URL:https://psc.wyo.gov/home/public-notices
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[WY] The public comment hearing is set to commence on Tuesday\, Au
- gust 11\, 2026\, at 4:30 p.m.\, in the Weston County Senior Citizen Center
-  located at 627 Pine St.\, Newcastle\, Wyoming
-DTSTART;TZID=America/Denver:20260811T163000
-DTEND;TZID=America/Denver:20260811T183000
-DTSTAMP:20260817T110059Z
-UID:45eb752a407dafd729e3@psc-calendar
-CATEGORIES:WY,Public Comment Hearing
-DESCRIPTION:Commission: Wyoming Public Service Commission (WY)\nType: Publ
- ic Comment Hearing\n\nSource: https://drive.google.com/file/d/1OUPtOWwRtTI
- 7SjcP-waqAHzg7T9aMq6Y/view
-PRIORITY:9
-URL:https://drive.google.com/file/d/1OUPtOWwRtTI7SjcP-waqAHzg7T9aMq6Y/view
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[WY] The public hearing is set to commence on Tuesday\, August 25\
- , 2026\, at 9:00 a.m.\, in the Commission’s hearing room located at 2515
-  Warren Avenue\, Suite 300\, in Cheyenne\, Wyoming
-DTSTART;TZID=America/Denver:20260825T090000
-DTEND;TZID=America/Denver:20260825T110000
-DTSTAMP:20260817T110059Z
-UID:79d284a27dedb014706c@psc-calendar
-CATEGORIES:WY,Public Comment Hearing
-DESCRIPTION:Commission: Wyoming Public Service Commission (WY)\nType: Publ
- ic Comment Hearing\n\nSource: https://drive.google.com/file/d/1F2gApUok4w2
- wdvjAHfQiP2rlU9Azxz6H/view
-PRIORITY:9
-URL:https://drive.google.com/file/d/1F2gApUok4w2wdvjAHfQiP2rlU9Azxz6H/view
 END:VEVENT
 END:VCALENDAR

@@ -9,10 +9,27 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[TN] Notice and Agenda for Commission Conference
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+DTSTAMP:20261021T144334Z
+UID:728dcc4e7fab5fedd931@psc-calendar
+CATEGORIES:TN,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op
+ en Meeting / Commission Meeting\n\nNovember 02\, 2026 - Notice and Agenda 
+ for Commission Conference\n\nSource: https://www.tn.gov/content/dam/tn/pub
+ licutility/documents/meetings/commissionconferences/2026/20261102conferenc
+ eitems/20261102_Commission%20Conference%20Notice%20and%20Agenda.pdf
+PRIORITY:5
+URL:https://www.tn.gov/content/dam/tn/publicutility/documents/meetings/com
+ missionconferences/2026/20261102conferenceitems/20261102_Commission%20Conf
+ erence%20Notice%20and%20Agenda.pdf
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[TN] Notice of April Commission Conference WebEx Meeting Access
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
-DTSTAMP:20261019T164023Z
+DTSTAMP:20261021T144334Z
 UID:9719c99d4d0a65083a0d@psc-calendar
 CATEGORIES:TN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op
@@ -30,7 +47,7 @@ SUMMARY:[TN] Notice of April Commission Conference Held Electronically via
   WebEx
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
-DTSTAMP:20261019T164023Z
+DTSTAMP:20261021T144334Z
 UID:2f4359dff2e634905afb@psc-calendar
 CATEGORIES:TN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op
