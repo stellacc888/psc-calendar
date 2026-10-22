@@ -2318,7 +2318,61 @@ events:
     title: Commission Meeting
   - commission: TX-RRC
     date: 2026-10-22
-    title: "*SOLUTIONS PROJECTS AND CONSULTING, LLC -DOCKET NO. OG-26-00032046 (CONTINUED)"
+    title: "*SOLUTIONS PROJECTS AND CONSULTING, LLC -DOCKET NO. OG-26-00032046 (CONTINUED)"  # --- added 2026-10-22 - paste directly under the existing `events:` line ---
+  - commission: CO
+    date: 2026-10-28
+    title: Show Cause Hearing (JS)
+  - commission: CO
+    date: 2026-10-30
+    title: "HRG: 26A-0366SE Black Hills Colorado Electric - Long Term Debt, ALJ (TB)"
+  - commission: IL
+    date: 2026-10-28
+    title: Illinois Commerce Commission Evidentiary for 26-0498
+  - commission: IL
+    date: 2026-10-28
+    title: Illinois Commerce Commission Hearing for T24-0107
+  - commission: IL
+    date: 2026-10-28
+    title: Illinois Commerce Commission Hearing for T25-0104
+  - commission: IL
+    date: 2026-10-28
+    title: Illinois Commerce Commission Hearing for T26-0045
+  - commission: MD
+    date: 2026-10-26
+    title: "Hearing on Q1/Q2 2026 Semi-Annual Reports—9890"
+  - commission: MD
+    date: 2026-10-27
+    title: "Hearing on Q1/Q2 2026 Semi-Annual Reports—9890"
+  - commission: MD
+    date: 2026-10-28
+    title: "Hearing on Q1/Q2 2026 Semi-Annual Reports—9890"
+  - commission: MD
+    date: 2026-10-29
+    title: "Hearing on Q1/Q2 2026 Semi-Annual Reports—9890"
+  - commission: NY
+    date: 2026-10-27
+    title: "Zenobe Burns, LLC §68 Virtual Public Statement Hearing and Proced..."
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UG 530 - CASCADE 2026 PURCHASE GAS ADJUSTMENTS AND OTHER SCHEDULES
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UG 529 - AVISTA ADVICE NO. 26-02-G 2026 PGAS
+  - commission: OR
+    date: 2026-10-29
+    title: Docket UM 2417 - PUC IDENTIFYING PRIORITIES IN IMPLEMENTATION OF EOS 25-25 AND 25-29
+  - commission: TX-RRC
+    date: 2026-10-29
+    title: "*ENFORCEMENT- DOCKET NO. OS-26-00029480"
+  - commission: TX-RRC
+    date: 2026-10-29
+    title: "*ENFORCEMENT- DOCKET NO. OG-26-00030398"
+  - commission: UT
+    date: 2026-10-27
+    title: Virtual Hearing (26-035-37, Application to Amend PPA w/Tesoro)
+  - commission: VA
+    date: 2026-10-28
+    title: PUR-2026-00085 - Petition of Dominion Energy Virginia to reinstate and update the rate adjustment clause designated Rider RGGI
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
