@@ -9,28 +9,27 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NY] Zenobe Burns\, LLC §68 Virtual Public Statement Hearing and 
- Proced...
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DTSTAMP:20261022T150307Z
-UID:a6aa5add920ac6a7f326@psc-calendar
+SUMMARY:[NY] Greens Corners Solar Virtual Public Statement Hearing
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261022T203408Z
+UID:aea1c6b7f2f61144fa14@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
- dentiary Hearing\n\nOCT 27 Hearings Zenobe Burns\, LLC §68 Virtual Public
-  Statement Hearing and Proced... Oct 27\, 2026 4:30 PM ET Via WebEx\n\nSou
- rce: https://dps.ny.gov/event/zenobe-burns-llc-ss68-virtual-public-stateme
- nt-hearing-and-procedural-conference
+ dentiary Hearing\n\nNOV 05 Comments Due\, and other Deadlines Greens Corne
+ rs Solar Virtual Public Statement Hearing Nov 05\, 2026 1:00 PM ET Via Web
+ Ex\n\nSource: https://dps.ny.gov/event/greens-corners-solar-virtual-public
+ -statement-hearing-0
 PRIORITY:5
-URL:https://dps.ny.gov/event/zenobe-burns-llc-ss68-virtual-public-statemen
- t-hearing-and-procedural-conference
+URL:https://dps.ny.gov/event/greens-corners-solar-virtual-public-statement
+ -hearing-0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NY] Liberty Utilities Water Rate Case Merrick Public Statement He
  arin...
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261022T150307Z
+DTSTAMP:20261022T203408Z
 UID:bf5077055f29ee95796c@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -48,7 +47,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Lynbrook Public Statement H
  eari...
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261022T150307Z
+DTSTAMP:20261022T203408Z
 UID:d2488673135a9cb5fc7c@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -65,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] NOVEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261022T150307Z
+DTSTAMP:20261022T203408Z
 UID:7fb30086e9fc1c74a1c3@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -83,7 +82,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Ellenville Public Statement
   Hea...
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261022T150307Z
+DTSTAMP:20261022T203408Z
 UID:d1d5878b6da482c37423@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -101,7 +100,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Brewster Public Statement H
  eari...
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261022T150307Z
+DTSTAMP:20261022T203408Z
 UID:28f1357d6350a342c7ab@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -119,7 +118,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Virtual Public Statement He
  arin...
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261022T150307Z
+DTSTAMP:20261022T203408Z
 UID:c09ed64f040cf5b31381@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -136,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] DECEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261022T150307Z
+DTSTAMP:20261022T203408Z
 UID:3542fbb3b93eff2c8773@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope

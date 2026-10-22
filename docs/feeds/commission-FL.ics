@@ -9,41 +9,28 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[FL] Prehearing: 20260001-04\; 07
-DTSTART;TZID=America/New_York:20261020T090000
-DTEND;TZID=America/New_York:20261020T110000
-DTSTAMP:20261015T144951Z
-UID:23c075141f816fc53483@psc-calendar
+SUMMARY:[FL] Commission Conference - Hearing immediately following
+DTSTART;TZID=America/New_York:20261103T090000
+DTEND;TZID=America/New_York:20261103T110000
+DTSTAMP:20261022T203408Z
+UID:e8b0216c97fc8a91db5a@psc-calendar
+CATEGORIES:FL,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Open
+  Meeting / Commission Meeting\n\nSource: https://psc-fl.granicus.com/ViewP
+ ublisher.php?view_id=2
+PRIORITY:5
+URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[FL] Hearing: 20260001-04\;07 (Day:1)
+DTSTART;TZID=America/New_York:20261103T110000
+DTEND;TZID=America/New_York:20261103T130000
+DTSTAMP:20261022T203408Z
+UID:fa4919da0d26db683d5d@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
  entiary Hearing\nDocket: 20260001\n\nSource: https://psc-fl.granicus.com/V
  iewPublisher.php?view_id=2
-PRIORITY:5
-URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Hearing: 20260083-SU (Day: 1)
-DTSTART;TZID=America/New_York:20261021T090000
-DTEND;TZID=America/New_York:20261021T110000
-DTSTAMP:20261015T144951Z
-UID:ad58cc4bffbd1bc20a97@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260083-SU\n\nSource: https://psc-fl.granicus.co
- m/ViewPublisher.php?view_id=2
-PRIORITY:5
-URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FL] Hearing: 20260083-SU (Day: 2)
-DTSTART;TZID=America/New_York:20261022T090000
-DTEND;TZID=America/New_York:20261022T110000
-DTSTAMP:20261015T144951Z
-UID:53313182385e5dd619c7@psc-calendar
-CATEGORIES:FL,Evidentiary Hearing
-DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260083-SU\n\nSource: https://psc-fl.granicus.co
- m/ViewPublisher.php?view_id=2
 PRIORITY:5
 URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
 END:VEVENT
