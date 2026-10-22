@@ -2309,7 +2309,16 @@ events:
     title: Hearing (26-057-16, Piceance III Properties as Wexpro II Property)
   - commission: UT
     date: 2026-10-30
-    title: Hearing (26-057-16, Piceance III Properties as Wexpro II Property)
+    title: Hearing (26-057-16, Piceance III Properties as Wexpro II Property)  # --- added 2026-10-22 - paste directly under the existing `events:` line ---
+  - commission: IA
+    date: 2026-10-29
+    title: Docket No. E-22550 Hearing
+  - commission: OH
+    date: 2026-10-22
+    title: Commission Meeting
+  - commission: TX-RRC
+    date: 2026-10-22
+    title: "*SOLUTIONS PROJECTS AND CONSULTING, LLC -DOCKET NO. OG-26-00032046 (CONTINUED)"
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
