@@ -13,7 +13,7 @@ SUMMARY:[NE] 27 Oct Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20261027T150000Z
 DTEND:20261027T170000Z
-DTSTAMP:20261021T144334Z
+DTSTAMP:20261022T140936Z
 UID:4847fe8ac988bebf6871@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -23,39 +23,11 @@ PRIORITY:5
 URL:https://psc.nebraska.gov/commission-meeting-264
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NE] 28 Oct Hearing – B-2199 – Tekabe T\, LLC Location: Commis
- sion Hearing Room 9:00am
-DTSTART:20261028T140000Z
-DTEND:20261028T160000Z
-DTSTAMP:20261021T144334Z
-UID:5f36f332cf5f81662eff@psc-calendar
-CATEGORIES:NE,Evidentiary Hearing
-DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
- dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-b-2199-tekabe
- -t-llc
-PRIORITY:5
-URL:https://psc.nebraska.gov/hearing-b-2199-tekabe-t-llc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NE] 29 Oct Hearing – MANF-19\, MODF-21\, & RVF-20 – Annual Fe
- es Location: Commission Hearing Room 10:00am
-DTSTART:20261029T150000Z
-DTEND:20261029T170000Z
-DTSTAMP:20261021T144334Z
-UID:03d677a4f90f90bd5295@psc-calendar
-CATEGORIES:NE,Evidentiary Hearing
-DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
- dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-manf-19-modf-
- 21-rvf-20-annual-fees
-PRIORITY:5
-URL:https://psc.nebraska.gov/hearing-manf-19-modf-21-rvf-20-annual-fees
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NE] 03 Nov Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20261103T160000Z
 DTEND:20261103T180000Z
-DTSTAMP:20261021T144334Z
+DTSTAMP:20261022T140936Z
 UID:873707dfa9eb7a469444@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope

@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261014T110000
 DTEND;TZID=America/Chicago:20261014T130000
-DTSTAMP:20261021T144334Z
+DTSTAMP:20261022T140936Z
 UID:91f3feafe61ff955fa8d@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
@@ -25,24 +25,9 @@ URL:https://minnesotapuc.legistar.com/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
-DTSTART;TZID=America/Chicago:20261022T100000
-DTEND;TZID=America/Chicago:20261022T120000
-DTSTAMP:20261021T144334Z
-UID:36d5acc137802eb9d917@psc-calendar
-CATEGORIES:MN,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
- Open Meeting / Commission Meeting\n\nPUC Agenda Meeting | 10/22/2026 | | 1
- 0:00 AM | | Meeting details | Agenda | Not available | Not available | Not
-  available | Not available\n\nSource: https://minnesotapuc.legistar.com/Ca
- lendar.aspx
-PRIORITY:5
-URL:https://minnesotapuc.legistar.com/Calendar.aspx
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261029T100000
 DTEND;TZID=America/Chicago:20261029T120000
-DTSTAMP:20261021T144334Z
+DTSTAMP:20261022T140936Z
 UID:f864bfafab0209ae2078@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
@@ -52,5 +37,20 @@ DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType:
  lendar.aspx
 PRIORITY:5
 URL:https://minnesotapuc.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MN] PUC Agenda Meeting
+DTSTART;TZID=America/Chicago:20261105T100000
+DTEND;TZID=America/Chicago:20261105T120000
+DTSTAMP:20261022T140936Z
+UID:d3a5903abc5e08b8e32e@psc-calendar
+CATEGORIES:MN,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
+ Open Meeting / Commission Meeting\n\nSource: https://minnesotapuc.legistar
+ .com/MeetingDetail.aspx?LEGID=3042&GID=313&G=599750AF-63DB-4CF0-96FA-96B93
+ EDD8025
+PRIORITY:5
+URL:https://minnesotapuc.legistar.com/MeetingDetail.aspx?LEGID=3042&GID=31
+ 3&G=599750AF-63DB-4CF0-96FA-96B93EDD8025
 END:VEVENT
 END:VCALENDAR

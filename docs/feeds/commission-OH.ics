@@ -9,16 +9,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[OH] Case No. 26-627-EL-BGN Will-Power OH\, LLC
-DTSTART;TZID=America/New_York:20261021T100000
-DTEND;TZID=America/New_York:20261021T100000
-DTSTAMP:20261021T144334Z
-UID:26547fc6cdedaf63e13d@psc-calendar
-CATEGORIES:OH,Evidentiary Hearing
-DESCRIPTION:Commission: Public Utilities Commission of Ohio (OH)\nType: Ev
- identiary Hearing\nDocket: 26-627-EL\, 26-627-EL-BGN\n\nSource: https://pu
- co.ohio.gov/agendas-and-hearings/hearing-schedule/
-LOCATION:180 East Broad Street\, Columbus\, Ohio 43215
+SUMMARY:[OH] Commission Meeting
+DTSTART;TZID=America/New_York:20261022T140000
+DTEND;TZID=America/New_York:20261022T140000
+DTSTAMP:20261022T140936Z
+UID:594bb10610626480212c@psc-calendar
+CATEGORIES:OH,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Public Utilities Commission of Ohio (OH)\nType: Op
+ en Meeting / Commission Meeting\n\nSource: https://puco.ohio.gov/agendas-a
+ nd-hearings/hearing-schedule/
+LOCATION:180 E. Broad St.\, Columbus\, OH 43215
 PRIORITY:5
 URL:https://puco.ohio.gov/agendas-and-hearings/hearing-schedule/
 END:VEVENT

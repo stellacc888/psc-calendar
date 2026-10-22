@@ -13,7 +13,7 @@ SUMMARY:[NY] Zenobe Burns\, LLC §68 Virtual Public Statement Hearing and
  Proced...
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261021T144334Z
+DTSTAMP:20261022T140936Z
 UID:a6aa5add920ac6a7f326@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -26,10 +26,46 @@ URL:https://dps.ny.gov/event/zenobe-burns-llc-ss68-virtual-public-statemen
  t-hearing-and-procedural-conference
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NY] Liberty Utilities Water Rate Case Merrick Public Statement He
+ arin...
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261022T140936Z
+UID:bf5077055f29ee95796c@psc-calendar
+CATEGORIES:NY,Evidentiary Hearing
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
+ dentiary Hearing\n\nNOV 18 Hearings Liberty Utilities Water Rate Case Merr
+ ick Public Statement Hearin... Nov 18\, 2026 12:00 PM ET In Person Merrick
+  Public Library Community Room 2279 Merrick Avenue Merrick \, NY 11566 Uni
+ ted States\n\nSource: https://dps.ny.gov/event/liberty-utilities-water-rat
+ e-case-merrick-public-statement-hearing
+PRIORITY:5
+URL:https://dps.ny.gov/event/liberty-utilities-water-rate-case-merrick-pub
+ lic-statement-hearing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NY] Liberty Utilities Water Rate Case Lynbrook Public Statement H
+ eari...
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261022T140936Z
+UID:d2488673135a9cb5fc7c@psc-calendar
+CATEGORIES:NY,Evidentiary Hearing
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
+ dentiary Hearing\n\nNOV 18 Hearings Liberty Utilities Water Rate Case Lynb
+ rook Public Statement Heari... Nov 18\, 2026 5:00 PM ET In Person Lynbrook
+  Library Community Room 56 Eldert Street Lynbrook \, NY 11563 United State
+ s\n\nSource: https://dps.ny.gov/event/liberty-utilities-water-rate-case-ly
+ nbrook-public-statement-hearing
+PRIORITY:5
+URL:https://dps.ny.gov/event/liberty-utilities-water-rate-case-lynbrook-pu
+ blic-statement-hearing
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NY] NOVEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261021T144334Z
+DTSTAMP:20261022T140936Z
 UID:7fb30086e9fc1c74a1c3@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -43,10 +79,64 @@ URL:https://dps.ny.gov/event/november-2026-public-service-commission-sessi
  on
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NY] Liberty Utilities Water Rate Case Ellenville Public Statement
+  Hea...
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261022T140936Z
+UID:d1d5878b6da482c37423@psc-calendar
+CATEGORIES:NY,Evidentiary Hearing
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
+ dentiary Hearing\n\nNOV 19 Hearings Liberty Utilities Water Rate Case Elle
+ nville Public Statement Hea... Nov 19\, 2026 12:00 PM ET In Person Town of
+  Wawarsing\, Court Room (2nd floor) 108 Canal Street Ellenville \, NY 1242
+ 8 United States\n\nSource: https://dps.ny.gov/event/liberty-utilities-wate
+ r-rate-case-ellenville-public-statement-hearing
+PRIORITY:5
+URL:https://dps.ny.gov/event/liberty-utilities-water-rate-case-ellenville-
+ public-statement-hearing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NY] Liberty Utilities Water Rate Case Brewster Public Statement H
+ eari...
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261022T140936Z
+UID:28f1357d6350a342c7ab@psc-calendar
+CATEGORIES:NY,Evidentiary Hearing
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
+ dentiary Hearing\n\nNOV 19 Hearings Liberty Utilities Water Rate Case Brew
+ ster Public Statement Heari... Nov 19\, 2026 5:00 PM ET In Person Lakeview
+  Manor Community Center 215 Shore Drive Brewster \, NY 10509 United States
+ \n\nSource: https://dps.ny.gov/event/liberty-utilities-water-rate-case-bre
+ wster-public-statement-hearing
+PRIORITY:5
+URL:https://dps.ny.gov/event/liberty-utilities-water-rate-case-brewster-pu
+ blic-statement-hearing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NY] Liberty Utilities Water Rate Case Virtual Public Statement He
+ arin...
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+DTSTAMP:20261022T140936Z
+UID:c09ed64f040cf5b31381@psc-calendar
+CATEGORIES:NY,Evidentiary Hearing
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
+ dentiary Hearing\n\nDEC 02 Hearings Liberty Utilities Water Rate Case Virt
+ ual Public Statement Hearin... Two virtual hearings: 1pm and 5pm. Register
+  by 11/27/26. Dec 02\, 2026 1:00 PM ET Via WebEx\n\nSource: https://dps.ny
+ .gov/event/liberty-utilities-water-rate-case-virtual-public-statement-hear
+ ings
+PRIORITY:5
+URL:https://dps.ny.gov/event/liberty-utilities-water-rate-case-virtual-pub
+ lic-statement-hearings
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NY] DECEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261021T144334Z
+DTSTAMP:20261022T140936Z
 UID:3542fbb3b93eff2c8773@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
