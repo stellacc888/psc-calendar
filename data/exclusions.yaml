@@ -2075,7 +2075,241 @@ events:
     title: COMMISSION INVESTIGATION INTO NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC AND ISSUES ASSOCIATED WITH ITS NATURAL GAS CUSTOMER METERS (Cause 46329)
   - commission: MA
     date: 2026-10-22
-    title: 26-62 - DOER - Investigation
+    title: 26-62 - DOER - Investigation  # --- added 2026-10-22 - paste directly under the existing `events:` line ---
+  - commission: CA
+    date: 2026-10-29
+    title: CPUC Voting Meeting 10-29-26
+  - commission: CO
+    date: 2026-10-22
+    title: "HRG: 26AL-0137E, Public Service Company - AL 2018 - Tariff 8 - Large Load, C3 (Record)"
+  - commission: CO
+    date: 2026-10-22
+    title: "In Person HRG: 26F-0260EG Anatoliy Savkin vs Public Service Company - Formal Complaint, ALJ Farley (JS)"
+  - commission: CO
+    date: 2026-10-29
+    title: "V&R 12/10/26: HRG: 26F-0268EG, William J. Kelso V. Public Service Co. - Formal Complaint, ALJ Farley"
+  - commission: IL
+    date: 2026-10-22
+    title: Illinois Commerce Commission Hearing for T26-0004
+  - commission: IL
+    date: 2026-10-22
+    title: Illinois Commerce Commission Hearing for T24-0094
+  - commission: IL
+    date: 2026-10-22
+    title: Illinois Commerce Commission Hearing for T26-0005
+  - commission: IL
+    date: 2026-10-22
+    title: Illinois Commerce Commission Hearing for T25-0021
+  - commission: IL
+    date: 2026-10-23
+    title: Illinois Commerce Commission Hearing for T25-0069
+  - commission: IL
+    date: 2026-10-23
+    title: Illinois Commerce Commission Hearing for T20-0058
+  - commission: LA
+    date: 2026-10-22
+    title: Business and Executive Session
+  - commission: MA
+    date: 2026-10-23
+    title: 26-90 - DPU - Rulemaking
+  - commission: MA
+    date: 2026-10-26
+    title: 26-GC-26 - Boston Gas Company d/b/a National Grid - Contract
+  - commission: MA
+    date: 2026-10-27
+    title: 25-117 - DPU - Investigation
+  - commission: MD
+    date: 2026-10-29
+    title: "SOS Procurement Hearing—Case Nos. 9056 and 9064"
+  - commission: ME
+    date: 2026-10-27
+    title: Deliberations Audio/Video
+  - commission: ME
+    date: 2026-10-30
+    title: Hearing CASD No. 2026-V-00203
+  - commission: ME
+    date: 2026-10-30
+    title: Hearing CASD No. 2026-V-00280
+  - commission: MN
+    date: 2026-10-22
+    title: PUC Agenda Meeting
+  - commission: NE
+    date: 2026-10-28
+    title: "28 Oct Hearing – B-2199 – Tekabe T, LLC Location: Commission Hearing Room 9:00am"
+  - commission: NE
+    date: 2026-10-29
+    title: "29 Oct Hearing – MANF-19, MODF-21, & RVF-20 – Annual Fees Location: Commission Hearing Room 10:00am"
+  - commission: NM
+    date: 2026-10-22
+    title: Guthrie Hall, 1261 International Mall, Las Cruces, NM 88001
+  - commission: NOLA
+    date: 2026-10-28
+    title: 2027 Proposed Budget Hearings - Day 9 - Oct 28, 2026
+  - commission: NOLA
+    date: 2026-10-29
+    title: 2027 Proposed Budget Hearings - Day 10 - Oct 29, 2026
+  - commission: NV
+    date: 2026-10-27
+    title: Scheduled Commission Utility Agendas
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UG 531 - NW NATURAL 2026 PURCHASE GAS ADJUSTMENTS AND OTHER SCHEDULES
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2465 - QWEST PRO FORMA INTERNAL CORPORATE RESTRUCTURING TRANSACTIONS
+  - commission: OR
+    date: 2026-10-27
+    title: Docket ADV 1893 - QWEST ADVICE NO. C06-2026 METRO OPTICAL ETHERNET SERVICE
+  - commission: OR
+    date: 2026-10-27
+    title: Docket ADV 1894 - QWEST ADVICE NO. CO7-2026 METRO OPTICAL ETHERNET SERVICE
+  - commission: OR
+    date: 2026-10-27
+    title: Docket ARB 1242 - BARR TELL USA INC / CENTURYTELS
+  - commission: OR
+    date: 2026-10-27
+    title: Docket ARB 1243 - BARR TELL USA INC / QWEST CORPORATION
+  - commission: OR
+    date: 2026-10-27
+    title: Docket ADV 1901 - PACIFICORP ADVICE NO. 26-016 SCHEDULE 203
+  - commission: OR
+    date: 2026-10-27
+    title: Docket ADV 1890 - PACIFICORP ADVICE NO. 26-015 SCHEDULES 7, 92 AND RULE 11A
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2469 - PGE AND PACIFICORP JOINT REQUEST FOR WAIVER OF OAR 860-095-0040(10)-(11)
+  - commission: OR
+    date: 2026-10-27
+    title: Docket ADV 1904 - NW NATURAL ADVICE NO. 26-06 SCHEDULE 352
+  - commission: OR
+    date: 2026-10-27
+    title: Docket ADV 1903 - PGE ADVICE NO. 26-40 SCHEDULE 120 SEASIDE BATTERY STORAGE
+  - commission: OR
+    date: 2026-10-27
+    title: Docket ADV 1905 - NW NATURAL 26-07 SCHEDULE 351
+  - commission: OR
+    date: 2026-10-27
+    title: Docket ADV 1907 - IDAHO POWER ADVICE NO. 26-11 SCHEDULE 101 COMMUNITY SOLAR PROGRAM
+  - commission: OR
+    date: 2026-10-27
+    title: Docket ADV 1908 - PACIFICORP ADVICE NO. 26-017 SCHEDULE 103 MCBIT
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UF 4372 - IDAHO POWER APPLICATION FOR TO ISSUE UNSECURED BORROWINGS
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 1693 - PACIFICORP- DEFERRED ACCOUNTING OF NET POWER COST VARIANCES
+  - commission: OR
+    date: 2026-10-27
+    title: Docket CP 1611 - FIRESERVE LLC
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2078 - PGE DEFERRAL OF COSTS ASSOCIATED WITH RESIDENTIAL BATTERY ENERGY STORAGE PILOT
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2374 - CASCADE DEFERRAL OF DECARBONIZATION PILOT PROGRAM COSTS
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2383 - PACIFICORP APPLICATION FOR PARTIAL WAIVER DRAFT RFP
+  - commission: OR
+    date: 2026-10-27
+    title: Docket CP 538 - OPEX COMMUNICATIONS INC FKA PREMIERCOM INC
+  - commission: OR
+    date: 2026-10-27
+    title: Docket CP 1686 - ITG COMMUNICATIONS LLC
+  - commission: OR
+    date: 2026-10-27
+    title: Docket AR 682 - RESOURCE ADEQUACY RULEMAKING
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2446 - PACIFICORP PROPOSAL TO APPROVE FUNDS DISBURSEMENT
+  - commission: OR
+    date: 2026-10-27
+    title: Docket ADV 1883 - PACIFICORP'S ADVICE NO. 26-013 SCHEDULE 190
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2372 - NW NATURAL DEFERRAL OF RESIDENTIAL ARREARAGE MANAGEMENT PROGRAM
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 1356 - AVISTA UTILITIES DEFER INTERVENOR FUNDING
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 1497 - AVISTA UTILITIES DEFERRED ACCOUNTING / PGA
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2230 - CASCADE DEFERRAL OF COSTS AND REVENUES ASSOCIATED WITH HB 2475
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2233 - NW NATURAL DEFERRAL OF COSTS AND REVENUES ASSOCIATED WITH HB 2475
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2252 - NW NATURAL DEFERRAL OF CCP COSTS
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2311 - NW NATURAL DEFERRAL OF METER MODERNIZATION PROGRAM COSTS
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2323 - NW NATURAL DEFERRAL OF EE PROGRAM FOR TE CUSTOMERS
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2324 - NW NATURAL DEFERRAL OF DEMAND RESPONSE PROGRAM COSTS
+  - commission: OR
+    date: 2026-10-27
+    title: Docket UM 2338 - CASCADE DEFERRAL OF RNG PROGRAM COSTS AND REVENUES
+  - commission: PA
+    date: 2026-10-22
+    title: "Next Public Meeting: Thursday, October 22, 2026 View 2026-2027 Meeting Schedule (PDF)"
+  - commission: PA
+    date: 2026-10-22
+    title: "Docket Number C-2020-3019347 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: HBG 4 Copy Delivery ((Original & 1 copy/e-File) (Expedited Delivery/5 days) Judges: John Coogan"
+  - commission: PA
+    date: 2026-10-22
+    title: "Docket Number F-2026-3062722 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Barbara Shadie Nause"
+  - commission: PA
+    date: 2026-10-22
+    title: "Docket Number P-2026-3063136 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Alphonso Arnold III"
+  - commission: PA
+    date: 2026-10-22
+    title: "Docket Number C-2026-3062074 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Christopher P Pell"
+  - commission: PA
+    date: 2026-10-22
+    title: "Docket Number C-2026-3064326 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Katrina L Dunderdale"
+  - commission: PA
+    date: 2026-10-22
+    title: "Docket Number F-2026-3064378 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Lindsay Cowen"
+  - commission: PA
+    date: 2026-10-22
+    title: "Docket Number R-2026-3064271 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Expedited Delivery/5 days) Judges: Emily DeVoe"
+  - commission: PA
+    date: 2026-10-22
+    title: "Docket Number R-2026-3064275 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Expedited Delivery/5 days) Judges: Emily DeVoe"
+  - commission: PA
+    date: 2026-10-23
+    title: "Docket Number C-2026-3062314 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Teri-Lee Rhoades"
+  - commission: PA
+    date: 2026-10-23
+    title: "Docket Number F-2026-3064118 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Charece Z Collins"
+  - commission: PA
+    date: 2026-10-23
+    title: "Docket Number C-2026-3059895 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: SC
+    date: 2026-10-22
+    title: Commission Business Meeting
+  - commission: TX-RRC
+    date: 2026-10-26
+    title: "*EASTLAND OPERATING, LLC-DOCKET NOS. OG-26-00032301 et al"
+  - commission: TX-RRC
+    date: 2026-10-26
+    title: PEEK ROAD HOLDINGS, LLC-DOCKET NO. OG-26-00033101
+  - commission: TX-RRC
+    date: 2026-10-28
+    title: "*EOG RESOURCES, INC.-DOCKET NO. OG-26-00033086 ET AL"
+  - commission: UT
+    date: 2026-10-29
+    title: Hearing (26-057-16, Piceance III Properties as Wexpro II Property)
+  - commission: UT
+    date: 2026-10-30
+    title: Hearing (26-057-16, Piceance III Properties as Wexpro II Property)
 # Repeats every month? Use a recurring rule instead, so you
 # only decide once:
 # recurring:
