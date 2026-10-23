@@ -9,16 +9,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[OH] Commission Meeting
-DTSTART;TZID=America/New_York:20261022T140000
-DTEND;TZID=America/New_York:20261022T140000
-DTSTAMP:20261022T144329Z
-UID:594bb10610626480212c@psc-calendar
-CATEGORIES:OH,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Public Utilities Commission of Ohio (OH)\nType: Op
- en Meeting / Commission Meeting\n\nSource: https://puco.ohio.gov/agendas-a
- nd-hearings/hearing-schedule/
-LOCATION:180 E. Broad St.\, Columbus\, OH 43215
+SUMMARY:[OH] Case No. 26-898-TR-CVF
+DTSTART;TZID=America/New_York:20261026T100000
+DTEND;TZID=America/New_York:20261026T100000
+DTSTAMP:20261023T143018Z
+UID:a8f05bb01490db6ba178@psc-calendar
+CATEGORIES:OH,Evidentiary Hearing
+DESCRIPTION:Commission: Public Utilities Commission of Ohio (OH)\nType: Ev
+ identiary Hearing\nDocket: 26-898-TR\, 26-898-TR-CVF\n\nSource: https://pu
+ co.ohio.gov/agendas-and-hearings/hearing-schedule/
+LOCATION:Teleconference
 PRIORITY:5
 URL:https://puco.ohio.gov/agendas-and-hearings/hearing-schedule/
 END:VEVENT

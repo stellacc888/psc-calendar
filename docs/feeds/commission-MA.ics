@@ -10,25 +10,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[MA] 26-55 - DPU - Rulemaking
-DTSTART;TZID=America/New_York:20260923T100000
-DTEND;TZID=America/New_York:20260923T110000
-DTSTAMP:20261022T203408Z
-UID:d000e7100f1c10cfaf5f@psc-calendar
-CATEGORIES:MA,Evidentiary Hearing
-DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
- \nType: Evidentiary Hearing\n\nSource: https://eeaonline.eea.state.ma.us/d
- pu/fileroom/#/hearings
-LOCATION:436 Dwight Street\, 3rd floor Courtroom\, Springfield MA 01103
-PRIORITY:5
-URL:https://eeaonline.eea.state.ma.us/dpu/fileroom/#/hearings
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[MA] 26-89 - Fitchburg Gas and Electric Light Company d/b/a Unitil
   - Contract
 DTSTART;TZID=America/New_York:20261005T100000
 DTEND;TZID=America/New_York:20261005T170000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:d99ed065524f6ed39996@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -44,7 +30,7 @@ SUMMARY:[MA] 26-88 - Massachusetts Electric Company and Nantucket Electric
   Company\, each d/b/a National Grid - Contract
 DTSTART;TZID=America/New_York:20261005T100000
 DTEND;TZID=America/New_York:20261005T170000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:40e3eba64dae62c81b3b@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -60,7 +46,7 @@ SUMMARY:[MA] 26-87 - NSTAR Electric Company d/b/a Eversource Energy - Cont
  ract
 DTSTART;TZID=America/New_York:20261005T100000
 DTEND;TZID=America/New_York:20261005T170000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:4e52e499530c0b3983cf@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -75,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 26-121 - City of Brockton - Municipal Aggregation
 DTSTART;TZID=America/New_York:20261102T140000
 DTEND;TZID=America/New_York:20261102T150000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:9340ce083df034922315@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -91,7 +77,7 @@ SUMMARY:[MA] 26-101 - NSTAR Electric Company d/b/a Eversource Energy - Fin
  ancing
 DTSTART;TZID=America/New_York:20261215T100000
 DTEND;TZID=America/New_York:20261215T110000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:01d79a8621f024a859da@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)

@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261007T110000
 DTEND;TZID=America/New_York:20261007T130000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:57152088f4301f6866fe@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261021T110000
 DTEND;TZID=America/New_York:20261021T130000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:c95e53aa80931f392efb@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -44,19 +44,21 @@ SUMMARY:[DC] Calendar of Events: 3 12:00 PM Deanwood Library: Coffee and C
  ation event to distribute utility-re
 DTSTART;TZID=America/New_York:20261103T120000
 DTEND;TZID=America/New_York:20261103T140000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:131b452b7511b393cfd8@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
- )\nType: Open Meeting / Commission Meeting\n\n1 | 2 | 3 12:00 PM Deanwood 
- Library: Coffee and Conversation Deanwood Library: Coffee and Conversation
-  11/3/2026 12:00 PM | Karimah Bilal DCPSC will attend the Deanwood Library
- 's Coffee and Conversation event to distribute utility-related information
-  and giveaways. | 4 11:00 AM Open Commission Meeting for November 4\, 2026
-  Open Commission Meeting for November 4\, 2026 11/4/2026 11:00 AM | Brinda
-  Westbrook A recording of the Open Meeting will be available on the Commis
- sion’s website after the meeting concludes. | 5 | 6 | 7\n\nSource: https
- ://dcpsc.org/Calendar/Deanwood-Library-Coffee-and-Conversation-(1).aspx
+ )\nType: Open Meeting / Commission Meeting\nDocket: 01-E-17\, 01-G-13\n\n1
+  | 2 | 3 12:00 PM Deanwood Library: Coffee and Conversation Deanwood Libra
+ ry: Coffee and Conversation 11/3/2026 12:00 PM | Karimah Bilal DCPSC will 
+ attend the Deanwood Library's Coffee and Conversation event to distribute 
+ utility-related information and giveaways. | 4 11:00 AM Open Commission Me
+ eting for November 4\, 2026 Open Commission Meeting for November 4\, 2026 
+ 11/4/2026 11:00 AM | Brinda Westbrook A recording of the Open Meeting will
+  be available on the Commission’s website after the meeting concludes. |
+  5 2:00 PM PEPPOR-2026-01-E-17\, WGPOR-2026-01-G-13 - Virtual Technical Co
+ nference PEP\n\nSource: https://dcpsc.org/Calendar/Deanwood-Library-Coffee
+ -and-Conversation-(1).aspx
 PRIORITY:5
 URL:https://dcpsc.org/Calendar/Deanwood-Library-Coffee-and-Conversation-(1
  ).aspx
@@ -65,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261104T110000
 DTEND;TZID=America/New_York:20261104T130000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:f5811f63b8d650e7c157@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -79,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261118T110000
 DTEND;TZID=America/New_York:20261118T130000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:bafe59efad307ffc955a@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -93,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261202T110000
 DTEND;TZID=America/New_York:20261202T130000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:b3b7c0e99dc34e10ac59@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -107,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261216T110000
 DTEND;TZID=America/New_York:20261216T130000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:94844bb829c576cfa20e@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC

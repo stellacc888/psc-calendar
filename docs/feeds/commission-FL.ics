@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Commission Conference - Hearing immediately following
 DTSTART;TZID=America/New_York:20261103T090000
 DTEND;TZID=America/New_York:20261103T110000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:e8b0216c97fc8a91db5a@psc-calendar
 CATEGORIES:FL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Open
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260001-04\;07 (Day:1)
 DTSTART;TZID=America/New_York:20261103T110000
 DTEND;TZID=America/New_York:20261103T130000
-DTSTAMP:20261022T203408Z
+DTSTAMP:20261023T143018Z
 UID:fa4919da0d26db683d5d@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
