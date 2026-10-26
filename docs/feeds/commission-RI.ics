@@ -10,12 +10,44 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[RI] PUC - Notice of Open Meeting - Wednesday October 28\, 2026 at
+  10:00am at the PUC Hearing Room A\, 89 Jefferson Blvd\, Warwick\, Rhode I
+ sland
+DTSTART;TZID=America/New_York:20261028T100000
+DTEND;TZID=America/New_York:20261028T120000
+DTSTAMP:20261026T162031Z
+UID:7315fa34cf731b9c6c12@psc-calendar
+CATEGORIES:RI,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Rhode Island Public Utilities Commission (RI)\nTyp
+ e: Open Meeting / Commission Meeting\n\nSource: https://ripuc.ri.gov/sites
+ /g/files/xkgbur841/files/2026-10/Open%20Meeting%20Notice%2010-28-2026%20Fi
+ nal.pdf
+PRIORITY:5
+URL:https://ripuc.ri.gov/sites/g/files/xkgbur841/files/2026-10/Open%20Meet
+ ing%20Notice%2010-28-2026%20Final.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RI] at the PUC Hearing Room A\, 89 Jefferson Blvd\, Warwick\, Rho
+ de Island
+DTSTART;TZID=America/New_York:20261029T093000
+DTEND;TZID=America/New_York:20261029T113000
+DTSTAMP:20261026T162031Z
+UID:a7f15d489f0a4aa7cf04@psc-calendar
+CATEGORIES:RI,Evidentiary Hearing
+DESCRIPTION:Commission: Rhode Island Public Utilities Commission (RI)\nTyp
+ e: Evidentiary Hearing\n\nOctober 29\, 2026 at 9:30am at the PUC Hearing R
+ oom A\, 89 Jefferson Blvd\, Warwick\, Rhode Island\n\nSource: https://ripu
+ c.ri.gov/events-and-actions/public-hearings
+PRIORITY:5
+URL:https://ripuc.ri.gov/events-and-actions/public-hearings
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[RI] PUC - Notice of Evidentiary Hearing - Wednesday November 4\, 
  2026 at 9:30am at the PUC Hearing Room A\, 89 Jefferson Blvd\, Warwick\, R
  hode Island
 DTSTART;TZID=America/New_York:20261104T093000
 DTEND;TZID=America/New_York:20261104T113000
-DTSTAMP:20261025T135915Z
+DTSTAMP:20261026T162031Z
 UID:811dfe98be42de65c668@psc-calendar
 CATEGORIES:RI,Evidentiary Hearing
 DESCRIPTION:Commission: Rhode Island Public Utilities Commission (RI)\nTyp
