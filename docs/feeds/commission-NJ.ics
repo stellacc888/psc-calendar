@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Regular Board Agenda Meetings
 DTSTART;TZID=America/New_York:20261014T100000
 DTEND;TZID=America/New_York:20261014T120000
-DTSTAMP:20261026T162031Z
+DTSTAMP:20261027T154524Z
 UID:2a89084a63a5b45c2ec2@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -23,10 +23,25 @@ URL:https://www.nj.gov/bpu/pdf/publicnotice/Notice%20Agenda%20and%20Quarte
  rly%20Meeting%20dates-2026-SL.pdf
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NJ] CY2026 Board Agenda Meeting Notice (Revised)
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20261027T154524Z
+UID:708611f0d30f05908602@psc-calendar
+CATEGORIES:NJ,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
+ pen Meeting / Commission Meeting\n\nCY2026 Board Agenda Meeting Notice (Re
+ vised) | Oct 26 | | |\n\nSource: https://www.nj.gov/bpu/pdf/publicnotice/N
+ otice Agenda and Quarterly Meeting dates-2026-Revised-10-27-2026-SL.pdf
+PRIORITY:5
+URL:https://www.nj.gov/bpu/pdf/publicnotice/Notice Agenda and Quarterly Me
+ eting dates-2026-Revised-10-27-2026-SL.pdf
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NJ] Regular Board Agenda Meetings
 DTSTART;TZID=America/New_York:20261028T100000
 DTEND;TZID=America/New_York:20261028T120000
-DTSTAMP:20261026T162031Z
+DTSTAMP:20261027T154524Z
 UID:a6865b30cd006dfef7e5@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -37,10 +52,25 @@ URL:https://www.nj.gov/bpu/pdf/publicnotice/Notice%20Agenda%20and%20Quarte
  rly%20Meeting%20dates-2026-SL.pdf
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NJ] November 12\, 2026\, Board Agenda Meeting Oct 26
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261027T154524Z
+UID:6d1660665d4dc754a077@psc-calendar
+CATEGORIES:NJ,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
+ pen Meeting / Commission Meeting\n\nNovember 12\, 2026\, Board Agenda Meet
+ ing | Oct 26 | | |\n\nSource: https://www.nj.gov/bpu/pdf/publicnotice/Noti
+ ce-November%2012%202026%20Board%20Agenda%20Meeting-SL.pdf
+PRIORITY:5
+URL:https://www.nj.gov/bpu/pdf/publicnotice/Notice-November%2012%202026%20
+ Board%20Agenda%20Meeting-SL.pdf
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NJ] Regular Board Agenda Meetings
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T120000
-DTSTAMP:20261026T162031Z
+DTSTAMP:20261027T154524Z
 UID:47b19be3a2a46aba06de@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -54,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Quarterly Meetings
 DTSTART;TZID=America/New_York:20261211T100000
 DTEND;TZID=America/New_York:20261211T120000
-DTSTAMP:20261026T162031Z
+DTSTAMP:20261027T154524Z
 UID:350e4a0e85f38f628f1d@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -68,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Regular Board Agenda Meetings
 DTSTART;TZID=America/New_York:20261216T100000
 DTEND;TZID=America/New_York:20261216T120000
-DTSTAMP:20261026T162031Z
+DTSTAMP:20261027T154524Z
 UID:cdb17fe9796eee44c90d@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O

@@ -9,10 +9,25 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[ME] Special Deliberations Audio/Video
+DTSTART;TZID=America/New_York:20261104T124500
+DTEND;TZID=America/New_York:20261104T144500
+DTSTAMP:20261027T154524Z
+UID:12844bfd499eeee5f724@psc-calendar
+CATEGORIES:ME,Decision / Order
+DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
+ sion / Order\n\n11/4/2026 | Special Deliberations Audio/Video | 12:45 PM\n
+ \nSource: https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliber
+ ations&id=13365586&v=Article088
+PRIORITY:5
+URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations
+ &id=13365586&v=Article088
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[ME] Hearing - CASD No. 2026-V-00467
 DTSTART;TZID=America/New_York:20261104T130000
 DTEND;TZID=America/New_York:20261104T150000
-DTSTAMP:20261026T162031Z
+DTSTAMP:20261027T154524Z
 UID:f9d569b7465fa5f154b0@psc-calendar
 CATEGORIES:ME,Evidentiary Hearing
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
@@ -25,13 +40,13 @@ URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-otherevents&i
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ME] Special Deliberations Audio/Video
-DTSTART;TZID=America/New_York:20261112T130000
-DTEND;TZID=America/New_York:20261112T150000
-DTSTAMP:20261026T162031Z
-UID:0907c0ba27494b5fb483@psc-calendar
+DTSTART;TZID=America/New_York:20261105T124500
+DTEND;TZID=America/New_York:20261105T144500
+DTSTAMP:20261027T154524Z
+UID:87a1709dac49eb5c1abb@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
- sion / Order\n\n11/12/2026 | Special Deliberations Audio/Video | 1:00 PM\n
+ sion / Order\n\n11/5/2026 | Special Deliberations Audio/Video | 12:45 PM\n
  \nSource: https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliber
  ations&id=13363841&v=Article088
 PRIORITY:5
@@ -39,10 +54,25 @@ URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations
  &id=13363841&v=Article088
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[ME] Special Deliberations Audio/Video
+DTSTART;TZID=America/New_York:20261112T130000
+DTEND;TZID=America/New_York:20261112T150000
+DTSTAMP:20261027T154524Z
+UID:0907c0ba27494b5fb483@psc-calendar
+CATEGORIES:ME,Decision / Order
+DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
+ sion / Order\n\n11/12/2026 | Special Deliberations Audio/Video | 1:00 PM\n
+ \nSource: https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliber
+ ations&id=13365587&v=Article088
+PRIORITY:5
+URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations
+ &id=13365587&v=Article088
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[ME] Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261117T100000
 DTEND;TZID=America/New_York:20261117T120000
-DTSTAMP:20261026T162031Z
+DTSTAMP:20261027T154524Z
 UID:2a10892edec8f6bc8769@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
@@ -54,18 +84,33 @@ URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations
  &id=13363883&v=Article088
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ME] Deliberations Audio/Video
-DTSTART;TZID=America/New_York:20261201T100000
-DTEND;TZID=America/New_York:20261201T120000
-DTSTAMP:20261026T162031Z
-UID:62b80d42ec872396390d@psc-calendar
+SUMMARY:[ME] Special Deliberations Audio/Video
+DTSTART;TZID=America/New_York:20261118T130000
+DTEND;TZID=America/New_York:20261118T150000
+DTSTAMP:20261027T154524Z
+UID:3d2f0bd5975885cfad9e@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
- sion / Order\n\n12/1/2026 | Deliberations Audio/Video | 10:00 AM\n\nSource
- : https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations&i
- d=13365525&v=Article088
+ sion / Order\n\n11/18/2026 | Special Deliberations Audio/Video | 1:00 PM\n
+ \nSource: https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliber
+ ations&id=13365588&v=Article088
 PRIORITY:5
 URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations
- &id=13365525&v=Article088
+ &id=13365588&v=Article088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ME] Special Deliberations Audio/Video
+DTSTART;TZID=America/New_York:20261119T130000
+DTEND;TZID=America/New_York:20261119T150000
+DTSTAMP:20261027T154524Z
+UID:c485414896372af2908a@psc-calendar
+CATEGORIES:ME,Decision / Order
+DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
+ sion / Order\n\n11/19/2026 | Special Deliberations Audio/Video | 1:00 PM\n
+ \nSource: https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliber
+ ations&id=13365589&v=Article088
+PRIORITY:5
+URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations
+ &id=13365589&v=Article088
 END:VEVENT
 END:VCALENDAR

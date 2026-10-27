@@ -14,7 +14,7 @@ SUMMARY:[MA] 26-89 - Fitchburg Gas and Electric Light Company d/b/a Unitil
   - Contract
 DTSTART;TZID=America/New_York:20261005T100000
 DTEND;TZID=America/New_York:20261005T170000
-DTSTAMP:20261026T162031Z
+DTSTAMP:20261027T154524Z
 UID:d99ed065524f6ed39996@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -30,7 +30,7 @@ SUMMARY:[MA] 26-88 - Massachusetts Electric Company and Nantucket Electric
   Company\, each d/b/a National Grid - Contract
 DTSTART;TZID=America/New_York:20261005T100000
 DTEND;TZID=America/New_York:20261005T170000
-DTSTAMP:20261026T162031Z
+DTSTAMP:20261027T154524Z
 UID:40e3eba64dae62c81b3b@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -46,7 +46,7 @@ SUMMARY:[MA] 26-87 - NSTAR Electric Company d/b/a Eversource Energy - Cont
  ract
 DTSTART;TZID=America/New_York:20261005T100000
 DTEND;TZID=America/New_York:20261005T170000
-DTSTAMP:20261026T162031Z
+DTSTAMP:20261027T154524Z
 UID:4e52e499530c0b3983cf@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 26-121 - City of Brockton - Municipal Aggregation
 DTSTART;TZID=America/New_York:20261102T140000
 DTEND;TZID=America/New_York:20261102T150000
-DTSTAMP:20261026T162031Z
+DTSTAMP:20261027T154524Z
 UID:9340ce083df034922315@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -73,11 +73,28 @@ PRIORITY:5
 URL:https://eeaonline.eea.state.ma.us/dpu/fileroom/#/hearings
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[MA] Notice of Hearings: DPU Transportation Oversight Division
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261027T154524Z
+UID:00b748d4553d979cb43b@psc-calendar
+CATEGORIES:MA,Evidentiary Hearing
+DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
+ \nType: Evidentiary Hearing\n\nNov 10 Notice of Hearings: DPU Transportati
+ on Oversight Division One South Station\, 3rd floor\, Boston\, MA 02110 Tu
+ esday\, November 10\, 2026 9 a.m. - 10 a.m.\n\nSource: https://www.mass.go
+ v/event/notice-of-hearings-dpu-transportation-oversight-division-11-10-202
+ 6
+PRIORITY:5
+URL:https://www.mass.gov/event/notice-of-hearings-dpu-transportation-overs
+ ight-division-11-10-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[MA] 26-101 - NSTAR Electric Company d/b/a Eversource Energy - Fin
  ancing
 DTSTART;TZID=America/New_York:20261215T100000
 DTEND;TZID=America/New_York:20261215T110000
-DTSTAMP:20261026T162031Z
+DTSTAMP:20261027T154524Z
 UID:01d79a8621f024a859da@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
