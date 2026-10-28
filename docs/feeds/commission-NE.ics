@@ -9,25 +9,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NE] 27 Oct Commission Meeting Location: Commission Hearing Room 1
- 0:00am
-DTSTART:20261027T150000Z
-DTEND:20261027T170000Z
-DTSTAMP:20261027T154524Z
-UID:4847fe8ac988bebf6871@psc-calendar
-CATEGORIES:NE,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
- n Meeting / Commission Meeting\n\nSource: https://psc.nebraska.gov/commiss
- ion-meeting-263
-PRIORITY:5
-URL:https://psc.nebraska.gov/commission-meeting-263
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NE] 03 Nov Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20261103T160000Z
 DTEND:20261103T180000Z
-DTSTAMP:20261027T154524Z
+DTSTAMP:20261028T161845Z
 UID:873707dfa9eb7a469444@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -35,5 +21,20 @@ DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
  ion-meeting-264
 PRIORITY:5
 URL:https://psc.nebraska.gov/commission-meeting-264
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NE] 04 Nov Hearing – NG-133 – Black Hills Energy 2027 Systems
+  Safety and Integrity Rider Location: Commission Hearing Room 1:30pm
+DTSTART:20261104T193000Z
+DTEND:20261104T213000Z
+DTSTAMP:20261028T161845Z
+UID:29218c248fa4dc120363@psc-calendar
+CATEGORIES:NE,Evidentiary Hearing
+DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
+ dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-ng-133-black-
+ hills-energy-2027-systems-safety-and-integrity-rider
+PRIORITY:5
+URL:https://psc.nebraska.gov/hearing-ng-133-black-hills-energy-2027-system
+ s-safety-and-integrity-rider
 END:VEVENT
 END:VCALENDAR

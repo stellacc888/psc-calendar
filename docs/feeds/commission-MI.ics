@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] October 29\, 2026 Special Commission Meeting
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261027T154524Z
+DTSTAMP:20261028T161845Z
 UID:dd69a592ea4a02ae46b9@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] November 5\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261027T154524Z
+DTSTAMP:20261028T161845Z
 UID:67c9890ee0ca5a5a6c19@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] December 8\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261027T154524Z
+DTSTAMP:20261028T161845Z
 UID:c73e308bc100d69454cb@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] December 17\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261027T154524Z
+DTSTAMP:20261028T161845Z
 UID:ef52f80fe95e7213e3bd@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -68,11 +68,11 @@ DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
  17\, 2026 Commission Meeting 1:00 PM to 2:00 PM Teleconference and In-Pers
  on Location: Michigan Public Service Commission December 08 December 8\, 2
  026 Commission Meeting 1:00 PM to 2:00 PM Teleconference and In-Person Loc
- ation: Michigan Public Service Commission November 05 November 5\, 2026 Co
- mmission Meeting 1:00 PM to 2:00 PM Teleconference and In-Person Location:
-  Michigan Public Service Commission October 29 October 29\, 2026 Special C
- ommission Meeting 1:00 PM to 2:00 PM Teleconference and In-Person Location
- : Michigan Public Service Commission October 1\n\nSource: https://www.mich
+ ation: Michigan Public Service Commission November 17 Affordability in Foc
+ us: An MPSC Community Workshop - Detroit 6:00 PM to 8:30 PM In-Person Only
+  November 05 November 5\, 2026 Commission Meeting 1:00 PM to 2:00 PM Telec
+ onference and In-Person Location: Michigan Public Service Commission Octob
+ er 29 October 29\, 2026 Special Commission Mee\n\nSource: https://www.mich
  igan.gov/mpsc/commission/events/2026/12/17/december-17-2026-commission-mee
  ting
 PRIORITY:5
