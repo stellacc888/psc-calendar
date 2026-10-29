@@ -2379,6 +2379,177 @@ events:
 #   - commission: FL
 #     title_contains: Internal Affairs - Hearing immediately following
 #   - commission: FL
-#     title_contains: "Hearing: 20260087-EM (Day:1) — Petition for dete"
+#     title_contains: "Hearing: 20260087-EM (Day:1) — Petition for dete"  # --- added 2026-10-29 - paste directly under the existing `events:` line ---
+  - commission: CA
+    date: 2026-10-29
+    title: "2026 Voting Meetings: 10/29/2026 San Francisco"
+  - commission: CO
+    date: 2026-10-29
+    title: "Remote HRG: 26AL-0137E, Public Service Company - AL 2018 - Tariff 8 - Large Load, C3 (JS)"
+  - commission: CO
+    date: 2026-10-30
+    title: "Remote HRG: 26AL-0137E, Public Service Company - AL 2018 - Tariff 8 - Large Load, C3 (TB)"
+  - commission: CO
+    date: 2026-11-05
+    title: "HRG: 26F-0387G Robert Rankin V Colorado Natural Gas - Formal Complaint, ALJ Mirbaba"
+  - commission: CO
+    date: 2026-11-06
+    title: "VACATE: Remote HRG: 26A-0235E, Public Service Company - 2027 - 2028 Resource Adequacy, C3"
+  - commission: DC
+    date: 2026-11-03
+    title: "Calendar of Events: 3 12:00 PM Deanwood Library: Coffee and Conversation Deanwood Library: Coffee and Conversation 11/3/2026 12:00 PM | Karimah Bilal DCPSC will attend the Deanwood Library's Coffee and Conversation event to distribute utility-related information and giveaways."
+  - commission: GA
+    date: 2026-10-29
+    title: "Hearing on Petitioners’ Challenge of Trade Secret information and Request for Access to Trade Secret Information"
+  - commission: IA
+    date: 2026-10-29
+    title: "Docket Nos. HLP-2021-0001, et al | Open Meeting and Closed Session Deliberation"
+  - commission: IL
+    date: 2026-10-29
+    title: Illinois Commerce Commission Regular Open Meeting
+  - commission: IL
+    date: 2026-10-29
+    title: Public Utility Cover Letter Regular Open Meeting Agenda Public Utility Cover Letter Policy Agenda Transportation Cover Letter Bench Agenda
+  - commission: IL
+    date: 2026-10-29
+    title: Illinois Commerce Commission Prehearing for 26-0562
+  - commission: IL
+    date: 2026-10-29
+    title: Illinois Commerce Commission Prehearing for 26-0621
+  - commission: IL
+    date: 2026-10-30
+    title: Illinois Commerce Commission Hearing for M2024-11068
+  - commission: IL
+    date: 2026-11-02
+    title: Illinois Commerce Commission Prehearing for 26-0635
+  - commission: IL
+    date: 2026-11-02
+    title: Illinois Commerce Commission Prehearing for 26-0709
+  - commission: IL
+    date: 2026-11-02
+    title: Illinois Commerce Commission Prehearing for 26-0726
+  - commission: IN
+    date: 2026-10-29
+    title: IN THE MATTER OF THE VERIFIED PETITION OF INDIANA MICHIGAN POWER COMPANY FOR APPROVAL OF AN ADJUSTMENT TO ITS RATES THROUGH ITS DEMAND-SIDE MANAGEMENT AND ENERGY EFFICIENCY PROGRAM COST RIDER (Cause 46255-DSM1)
+  - commission: LA
+    date: 2026-10-29
+    title: "Hearing: U-37853"
+  - commission: LA
+    date: 2026-11-05
+    title: "Hearing: T-38083"
+  - commission: LA
+    date: 2026-11-05
+    title: "Hearing: T-38006"
+  - commission: LA
+    date: 2026-11-05
+    title: "Hearing: T-38094"
+  - commission: LA
+    date: 2026-11-05
+    title: "Hearing: T-38095"
+  - commission: LA
+    date: 2026-11-05
+    title: "Hearing: T-37999"
+  - commission: LA
+    date: 2026-11-05
+    title: "Hearing: T-38055"
+  - commission: MA
+    date: 2026-11-02
+    title: 26-121 - City of Brockton - Municipal Aggregation
+  - commission: ME
+    date: 2026-11-04
+    title: Special Deliberations Audio/Video
+  - commission: ME
+    date: 2026-11-05
+    title: Special Deliberations Audio/Video
+  - commission: MI
+    date: 2026-10-29
+    title: October 29, 2026 Special Commission Meeting
+  - commission: MN
+    date: 2026-10-29
+    title: PUC Agenda Meeting
+  - commission: MO
+    date: 2026-10-29
+    title: Agenda Meeting ( Room 310 and via WebEx)
+  - commission: NC
+    date: 2026-11-04
+    title: Public and Expert Witness Hearing - Application of Toccoa Natural Gas for Annual Review of Gas Costs
+  - commission: ND
+    date: 2026-11-02
+    title: Notice of Opportunity for Hearing Case No. RC-25-184 Falkirk Mining Company Revision 42, Permit NAFK-8705 Application
+  - commission: NY
+    date: 2026-11-05
+    title: Greens Corners Solar Virtual Public Statement Hearing
+  - commission: PA
+    date: 2026-10-29
+    title: "Docket Number C-2026-3062688 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: PA
+    date: 2026-10-29
+    title: "Docket Number C-2026-3063145 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-10-29
+    title: "Docket Number C-2024-3047163 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Alphonso Arnold III"
+  - commission: PA
+    date: 2026-10-29
+    title: "Docket Number A-2026-3062675 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Steven K Haas Emily A Farren"
+  - commission: PA
+    date: 2026-10-29
+    title: "Docket Number A-2026-3062686 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Steven K Haas Emily A Farren"
+  - commission: PA
+    date: 2026-10-29
+    title: "Docket Number P-2026-3062687 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: P-2026-3062687 Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Emily A Farren Steven K Haas"
+  - commission: PA
+    date: 2026-10-29
+    title: "Docket Number F-2026-3064313 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: William E. Angle"
+  - commission: PA
+    date: 2026-10-29
+    title: "Docket Number C-2025-3056925 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Chad Allensworth"
+  - commission: PA
+    date: 2026-10-29
+    title: "Docket Number C-2026-3063001 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Emily DeVoe"
+  - commission: PA
+    date: 2026-10-30
+    title: "Docket Number C-2026-3062706 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: William E. Angle"
+  - commission: PA
+    date: 2026-10-30
+    title: "Docket Number F-2026-3064402 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: PA
+    date: 2026-10-30
+    title: "Docket Number C-2026-3061695 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-11-05
+    title: "Next Public Meeting: Thursday, November 5, 2026 View 2026-2027 Meeting Schedule (PDF)"
+  - commission: RI
+    date: 2026-10-29
+    title: at the PUC Hearing Room A, 89 Jefferson Blvd, Warwick, Rhode Island
+  - commission: RI
+    date: 2026-11-04
+    title: "PUC - Notice of Evidentiary Hearing - Wednesday November 4, 2026 at 9:30am at the PUC Hearing Room A, 89 Jefferson Blvd, Warwick, Rhode Island"
+  - commission: TX-RRC
+    date: 2026-10-29
+    title: "*ENFORCEMENT- DOCKET NO. CI-26-00029480"
+  - commission: TX-RRC
+    date: 2026-11-03
+    title: "*LEWIS PETRO PROPERTIES, INC.-DOCKET NO. OG-26-00032798"
+  - commission: TX-RRC
+    date: 2026-11-06
+    title: "*O'RYAN OIL AND GAS-DOCKET NO. OG-26-00031863"
+  - commission: TX
+    date: 2026-11-09
+    title: Office Closed - Monday, November 9, 2026
+  - commission: WA
+    date: 2026-10-29
+    title: Open Meeting
+  - commission: WA
+    date: 2026-11-03
+    title: Docket UE-260005 et al PSE - Hybrid Evidentiary Hearing Day 1
+  - commission: WA
+    date: 2026-11-03
+    title: "To participate in the hearing by phone, call (253) 215-8782 and enter the Meeting ID: 817 6761 1771# and Passcode: 985452#. To participate via Zoom,…"
+  - commission: WA
+    date: 2026-11-04
+    title: Docket UE-260005 et al PSE - Hybrid Evidentiary Hearing Day 2
+  - commission: WA
+    date: 2026-11-05
+    title: Docket UE-260005 et al PSE - Hybrid Evidentiary Hearing Day 2
 
 recurring: []
