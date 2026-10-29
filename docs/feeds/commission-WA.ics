@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20261112T093000
 DTEND;TZID=America/Los_Angeles:20261112T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:f6f6ab758547c488224b@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20261125T093000
 DTEND;TZID=America/Los_Angeles:20261125T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:9e484c6990051c0fdee1@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] UE-260208 PacifiCorp & PGE - Virtual Evidentiary Hearing
 DTSTART;TZID=America/Los_Angeles:20261207T090000
 DTEND;TZID=America/Los_Angeles:20261207T170000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:18de184296e7e7310112@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -53,7 +53,7 @@ SUMMARY:[WA] To attend the hearing via Zoom\, join the virtual evidentiary
   hearing \, or call (253) 215-8782 and enter…
 DTSTART;TZID=America/Los_Angeles:20261207T090000
 DTEND;TZID=America/Los_Angeles:20261207T110000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:277cfce11b5eb6eb6e9d@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20261210T093000
 DTEND;TZID=America/Los_Angeles:20261210T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:72d877eb0ed88ea01edc@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20261223T093000
 DTEND;TZID=America/Los_Angeles:20261223T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:0f3ad8ff8a7dbee03add@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270114T093000
 DTEND;TZID=America/Los_Angeles:20270114T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:3f5c11f6ae1e547ce7e1@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] UG-260127 CNG - Hybrid Evidentiary Hearing
 DTSTART;TZID=America/Los_Angeles:20270126T090000
 DTEND;TZID=America/Los_Angeles:20270126T170000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:70f4cf8d3e49f304015b@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -122,7 +122,7 @@ SUMMARY:[WA] Parties may attend the hearing in person at the Commission’
  s headquarters or virtually via Zoom or phone. To participate in the…
 DTSTART;TZID=America/Los_Angeles:20270126T090000
 DTEND;TZID=America/Los_Angeles:20270126T110000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:5e83611f587269f54294@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] UG-260127 CNG - Hybrid Evidentiary Hearing
 DTSTART;TZID=America/Los_Angeles:20270127T100000
 DTEND;TZID=America/Los_Angeles:20270127T170000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:bdbe122b04c2d1c3f2c3@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -152,7 +152,7 @@ SUMMARY:[WA] Parties may attend the hearing in person at the Commission’
  s headquarters or virtually via Zoom or phone. To participate in the…
 DTSTART;TZID=America/Los_Angeles:20270127T100000
 DTEND;TZID=America/Los_Angeles:20270127T120000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:68f019e28e362bd78631@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] UE-260364 PSE Formal Complaint - Hybrid Evidentiary Hearing
 DTSTART;TZID=America/Los_Angeles:20270128T093000
 DTEND;TZID=America/Los_Angeles:20270128T170000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:37124bb051c9123e0a6c@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -183,7 +183,7 @@ SUMMARY:[WA] To participate in the hearing by phone\, call (253) 215-8782
  ate via Zoom\,…
 DTSTART;TZID=America/Los_Angeles:20270128T093000
 DTEND;TZID=America/Los_Angeles:20270128T113000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:168c9d393d8b05a06f79@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270212T093000
 DTEND;TZID=America/Los_Angeles:20270212T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:8ae76bbedc81b9f3298d@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270225T093000
 DTEND;TZID=America/Los_Angeles:20270225T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:90a57b7a48304e39bb46@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270311T093000
 DTEND;TZID=America/Los_Angeles:20270311T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:e31f8284e9fddeb361d4@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270325T093000
 DTEND;TZID=America/Los_Angeles:20270325T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:554588a4eab086acbe56@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270408T093000
 DTEND;TZID=America/Los_Angeles:20270408T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:25c54877ae030c558965@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270429T093000
 DTEND;TZID=America/Los_Angeles:20270429T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:98f1f1657a9111fafe82@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270513T093000
 DTEND;TZID=America/Los_Angeles:20270513T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:4a32fde25cbc3a5a110e@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -290,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270527T093000
 DTEND;TZID=America/Los_Angeles:20270527T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:4d29babd3b9a03e93e9c@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270611T093000
 DTEND;TZID=America/Los_Angeles:20270611T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:4eb52841c1a300f01aa8@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270624T093000
 DTEND;TZID=America/Los_Angeles:20270624T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:bbb14f60e547fcd2438a@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -329,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270708T093000
 DTEND;TZID=America/Los_Angeles:20270708T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:368ef9f8ff08b40f9cfb@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -342,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270729T093000
 DTEND;TZID=America/Los_Angeles:20270729T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:21f0787b81c84ca51c01@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270812T093000
 DTEND;TZID=America/Los_Angeles:20270812T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:a88d62ba440587476f9b@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -368,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270826T093000
 DTEND;TZID=America/Los_Angeles:20270826T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:fc6c1f7f080eedf0cd66@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270909T093000
 DTEND;TZID=America/Los_Angeles:20270909T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:42b49845f5e7f5eeeb45@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270923T093000
 DTEND;TZID=America/Los_Angeles:20270923T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:d7812a22bc82263e6ed7@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20271007T093000
 DTEND;TZID=America/Los_Angeles:20271007T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:c8c92251f002b6e2d936@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20271028T093000
 DTEND;TZID=America/Los_Angeles:20271028T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:5cc684a0604f2ad1f288@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20271112T093000
 DTEND;TZID=America/Los_Angeles:20271112T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:cdb9a8962d928cc8d7ec@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20271124T093000
 DTEND;TZID=America/Los_Angeles:20271124T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:464ab2d8861ad86b4d02@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -459,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20271209T093000
 DTEND;TZID=America/Los_Angeles:20271209T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:1872d387ebc4c5128646@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -472,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20271223T093000
 DTEND;TZID=America/Los_Angeles:20271223T093000
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:4d6cb7770913cc4fc3d0@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission

@@ -9,11 +9,46 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[NY] OCTOBER 2023 Public Service Commission Session
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20261029T164621Z
+UID:ae4b8ba8767ebb8339dd@psc-calendar
+CATEGORIES:NY,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
+ n Meeting / Commission Meeting\n\nOCT 12 Past Commission Sessions\, Commis
+ sion Sessions OCTOBER 2023 Public Service Commission Session Session is li
+ kely to last longer than normal\, with end time TBD. Please plan according
+ ly. Oct 12\, 2023 10:30 AM ET In Person and via Webcast Empire State Plaza
+  Agency Building 3\, 19th Floor Albany \, NY 12223 United States\n\nSource
+ : https://dps.ny.gov/event/october-2023-public-service-commission-session
+PRIORITY:5
+URL:https://dps.ny.gov/event/october-2023-public-service-commission-sessio
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NY] NOVEMBER 2023 Public Service Commission Session
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261029T164621Z
+UID:3bdec0f50f37520aba29@psc-calendar
+CATEGORIES:NY,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
+ n Meeting / Commission Meeting\n\nNOV 16 Past Commission Sessions\, Commis
+ sion Sessions NOVEMBER 2023 Public Service Commission Session Nov 16\, 202
+ 3 10:30 AM ET — 1:00 PM ET In Person and via Webcast 90 Church St New Yo
+ rk \, NY 10007 United States\n\nSource: https://dps.ny.gov/event/november-
+ 2023-public-service-commission-session
+PRIORITY:5
+URL:https://dps.ny.gov/event/november-2023-public-service-commission-sessi
+ on
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NY] Liberty Utilities Water Rate Case Merrick Public Statement He
  arin...
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:bf5077055f29ee95796c@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -31,7 +66,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Lynbrook Public Statement H
  eari...
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:d2488673135a9cb5fc7c@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -48,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] NOVEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:7fb30086e9fc1c74a1c3@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -66,7 +101,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Ellenville Public Statement
   Hea...
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:d1d5878b6da482c37423@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -84,7 +119,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Brewster Public Statement H
  eari...
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:28f1357d6350a342c7ab@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -102,7 +137,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Virtual Public Statement He
  arin...
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:c09ed64f040cf5b31381@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -116,10 +151,27 @@ URL:https://dps.ny.gov/event/liberty-utilities-water-rate-case-virtual-pub
  lic-statement-hearings
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NY] DECEMBER 2023 Public Service Commission Session
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+DTSTAMP:20261029T164621Z
+UID:0d70852c0c22ff1074d4@psc-calendar
+CATEGORIES:NY,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
+ n Meeting / Commission Meeting\n\nDEC 14 Past Commission Sessions\, Commis
+ sion Sessions DECEMBER 2023 Public Service Commission Session Dec 14\, 202
+ 3 10:30 AM ET — 1:00 PM ET In Person and via Webcast Empire State Plaza 
+ Agency Building 3 Albany \, NY 12223 United States\n\nSource: https://dps.
+ ny.gov/event/december-2023-public-service-commission-session
+PRIORITY:5
+URL:https://dps.ny.gov/event/december-2023-public-service-commission-sessi
+ on
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NY] DECEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261029T162905Z
+DTSTAMP:20261029T164621Z
 UID:3542fbb3b93eff2c8773@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -131,5 +183,70 @@ DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
 PRIORITY:5
 URL:https://dps.ny.gov/event/december-2026-public-service-commission-sessi
  on
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NY] JANUARY 2024 Public Service Commission Session
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+DTSTAMP:20261029T164621Z
+UID:ae11cd2304d9eb107f04@psc-calendar
+CATEGORIES:NY,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
+ n Meeting / Commission Meeting\n\nJAN 18 Past Commission Sessions\, Commis
+ sion Sessions JANUARY 2024 Public Service Commission Session Jan 18\, 2024
+  10:30 AM ET — 1:00 PM ET In Person and via Webcast Empire State Plaza A
+ gency Building 3\, 19th Floor Albany \, NY 12223 United States\n\nSource: 
+ https://dps.ny.gov/event/january-2024-public-service-commission-session
+PRIORITY:5
+URL:https://dps.ny.gov/event/january-2024-public-service-commission-sessio
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NY] APRIL 2023 Public Service Commission Session
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+DTSTAMP:20261029T164621Z
+UID:49dab4f5461574a7b838@psc-calendar
+CATEGORIES:NY,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
+ n Meeting / Commission Meeting\n\nAPR 20 Past Commission Sessions\, Commis
+ sion Sessions APRIL 2023 Public Service Commission Session Apr 20\, 2023 1
+ 0:30 AM ET — 1:00 PM ET In Person and via Webcast Empire State Plaza Age
+ ncy Building 3 Albany \, NY 12223 United States\n\nSource: https://dps.ny.
+ gov/event/april-2023-public-service-commission-session
+PRIORITY:5
+URL:https://dps.ny.gov/event/april-2023-public-service-commission-session
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NY] MAY 2023 Public Service Commission Session
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+DTSTAMP:20261029T164621Z
+UID:797d9b26b59aac7f5d03@psc-calendar
+CATEGORIES:NY,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
+ n Meeting / Commission Meeting\n\nMAY 18 Past Commission Sessions\, Commis
+ sion Sessions MAY 2023 Public Service Commission Session May 18\, 2023 10:
+ 30 AM ET — 1:00 PM ET In Person and via Webcast Empire State Plaza Agenc
+ y Building 3 Albany \, NY 12223 United States\n\nSource: https://dps.ny.go
+ v/event/may-2023-public-service-commission-session
+PRIORITY:5
+URL:https://dps.ny.gov/event/may-2023-public-service-commission-session
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NY] JUNE 2023 Public Service Commission Session
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+DTSTAMP:20261029T164621Z
+UID:2c5f8e5968bb617d2b5f@psc-calendar
+CATEGORIES:NY,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
+ n Meeting / Commission Meeting\n\nJUN 22 Past Commission Sessions\, Commis
+ sion Sessions JUNE 2023 Public Service Commission Session Jun 22\, 2023 10
+ :30 AM ET — 1:00 PM ET In Person and via Webcast Empire State Plaza Agen
+ cy Building 3 Albany \, NY 12223 United States\n\nSource: https://dps.ny.g
+ ov/event/june-2023-public-service-commission-session
+PRIORITY:5
+URL:https://dps.ny.gov/event/june-2023-public-service-commission-session
 END:VEVENT
 END:VCALENDAR
