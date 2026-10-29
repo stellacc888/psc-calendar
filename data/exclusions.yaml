@@ -2550,6 +2550,45 @@ events:
     title: Docket UE-260005 et al PSE - Hybrid Evidentiary Hearing Day 2
   - commission: WA
     date: 2026-11-05
-    title: Docket UE-260005 et al PSE - Hybrid Evidentiary Hearing Day 2
+    title: Docket UE-260005 et al PSE - Hybrid Evidentiary Hearing Day 2  # --- added 2026-10-29 - paste directly under the existing `events:` line ---
+  - commission: CO
+    date: 2026-11-05
+    title: "HRG: 26F-0387G Robert Rankin V Colorado Natural Gas - Formal Complaint, ALJ Mirbaba (TB)"
+  - commission: DE
+    date: 2026-11-04
+    title: "The Delaware Public Service Commission (“Commission”) will conduct a public evidentiary hearing concerning the above-captioned case on Wednesday, November 4, 2026 at 1:00 PM. Please see the Public Notice for more information"
+  - commission: FL
+    date: 2026-11-03
+    title: "Hearing: 20260001-04;07 (Day:1)"
+  - commission: IL
+    date: 2026-11-04
+    title: Illinois Commerce Commission Evidentiary for 26-0299
+  - commission: LA
+    date: 2026-11-04
+    title: "Hearing: U-37914"
+  - commission: ME
+    date: 2026-11-04
+    title: Hearing - CASD No. 2026-V-00467
+  - commission: OH
+    date: 2026-10-29
+    title: Case No. 24-886-EL-CSS
+  - commission: OR
+    date: 2026-11-05
+    title: Docket UM 2447 - IDAHO POWER AND OREGON TRAIL ELECTRIC COOPERATIVE JOINT APPLICATION
+  - commission: TN
+    date: 2026-11-04
+    title: Notice of Hearing in Docket 26-00060
+  - commission: TX-RRC
+    date: 2026-11-03
+    title: "*MCBRIDE OPERATING LLC-DOCKET NO. OG-26-00031836"
+  - commission: TX-RRC
+    date: 2026-11-04
+    title: BLACKBEARD OPERATING, LLC-DOCKET NO. OG-26-00033115
+  - commission: TX-RRC
+    date: 2026-11-04
+    title: JAMEX, INC.-DOCKET NO. OG-26-00033486
+  - commission: WY
+    date: 2026-11-03
+    title: "Docket No. 20000-676-EA-24 (Record No. 17741), is scheduled to commence on Tuesday, November 3, 2026, at 1:30 p.m., in the Commission's hearing room located at 2515 Warren Avenue, Suite 300, in Cheyenne, Wyoming. Deliberations will take place at the"
 
 recurring: []
