@@ -12,20 +12,20 @@ BEGIN:VEVENT
 SUMMARY:[FL] Commission Conference - Hearing immediately following
 DTSTART;TZID=America/New_York:20261103T090000
 DTEND;TZID=America/New_York:20261103T110000
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:e8b0216c97fc8a91db5a@psc-calendar
 CATEGORIES:FL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Open
-  Meeting / Commission Meeting\n\nSource: https://psc-fl.granicus.com/ViewP
- ublisher.php?view_id=2
+  Meeting / Commission Meeting\n\nSource: https://psc-fl.granicus.com/Agend
+ aViewer.php?view_id=2&event_id=2914
 PRIORITY:5
-URL:https://psc-fl.granicus.com/ViewPublisher.php?view_id=2
+URL:https://psc-fl.granicus.com/AgendaViewer.php?view_id=2&event_id=2914
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260001-04\;07 (Day:1)
 DTSTART;TZID=America/New_York:20261103T110000
 DTEND;TZID=America/New_York:20261103T130000
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:fa4919da0d26db683d5d@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260001-04\;07 (Day:2)
 DTSTART;TZID=America/New_York:20261104T090000
 DTEND;TZID=America/New_York:20261104T110000
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:ba67d8384f9901e91a5f@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260001-04\;07 (Day:3)
 DTSTART;TZID=America/New_York:20261105T090000
 DTEND;TZID=America/New_York:20261105T110000
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:98c3199b24243c31277f@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260001-04\;07 (Day:4)
 DTSTART;TZID=America/New_York:20261106T090000
 DTEND;TZID=America/New_York:20261106T110000
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:87447b18d8106d04eb67@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Internal Affairs - Prehearing immediately following
 DTSTART;TZID=America/New_York:20261117T090000
 DTEND;TZID=America/New_York:20261117T110000
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:58014f722b11fd1ef188@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Prehearing: 20260143-EI
 DTSTART;TZID=America/New_York:20261117T110000
 DTEND;TZID=America/New_York:20261117T130000
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:2de0c042b71aa2a0be55@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid

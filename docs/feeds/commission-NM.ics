@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:[NM] State Capitol Building\, Room 309\, Santa Fe
 DTSTART;TZID=America/Denver:20261105T100000
 DTEND;TZID=America/Denver:20261105T120000
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:97f31927b0875526f684@psc-calendar
 CATEGORIES:NM,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -30,7 +30,7 @@ SUMMARY:[NM] Docket 26-0000115 – Public Service Company of New Mexico Ap
   this site to watch the proceeding via l
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:1cc1148683ed778b1147@psc-calendar
 CATEGORIES:NM,Evidentiary Hearing
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -44,7 +44,7 @@ SUMMARY:[NM] Sandoval County Administrative Office\, 1500 Idalia Road\, Bl
  dg. D.\,Bernalillo
 DTSTART;TZID=America/Denver:20261119T100000
 DTEND;TZID=America/Denver:20261119T120000
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:9b554c6a29b9b5f7dcda@psc-calendar
 CATEGORIES:NM,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:[NM] State Capitol Building\, Room 309\, Santa Fe
 DTSTART;TZID=America/Denver:20261203T100000
 DTEND;TZID=America/Denver:20261203T120000
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:98dc0e5372d2a5701482@psc-calendar
 CATEGORIES:NM,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -75,7 +75,7 @@ SUMMARY:[NM] Docket 26-0000133 – El Paso Electric Application for Approv
  he proceeding via livestream or watch it
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:ed49148986df6119a90f@psc-calendar
 CATEGORIES:NM,Evidentiary Hearing
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -91,7 +91,7 @@ SUMMARY:[NM] Docket 25-00082-UT – El Paso Electric Application for Revis
  atch the proceeding via livestream or watc
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:9dfb36c362fa50781924@psc-calendar
 CATEGORIES:NM,Evidentiary Hearing
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:[NM] Clifford Plaza\, 4100 Osuna Road NE\, Ste. 102\, Albuquerque
 DTSTART;TZID=America/Denver:20261217T100000
 DTEND;TZID=America/Denver:20261217T120000
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:47fd6acc760aa4163c21@psc-calendar
 CATEGORIES:NM,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -121,7 +121,7 @@ SUMMARY:[NM] This evidentiary hearing is set for January 19 to February 1
  annel. Hearings may be rescheduled or vac
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-DTSTAMP:20261029T114647Z
+DTSTAMP:20261029T162905Z
 UID:0e5e3e90c7c2c4506882@psc-calendar
 CATEGORIES:NM,Evidentiary Hearing
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
