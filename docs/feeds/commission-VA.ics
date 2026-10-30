@@ -9,11 +9,71 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[VA] PUR-2026-00112 - Joint Petition of Dominion Energy\, Inc.\, V
+ irginia Electric and Power Company\, OSW Project LLC\, CS HoldCo\, LLC\, a
+ nd NextEra Energy\, Inc. for a disposition and acquisition of control of p
+ ublic utility (Telephonic proceeding)
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261030T161833Z
+UID:b83b0ee71bb8be516ee9@psc-calendar
+CATEGORIES:VA,Evidentiary Hearing
+DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
+ Evidentiary Hearing\n\nNov. 5\, 2026 | 8:30-11 a.m. | PUR-2026-00112 - Joi
+ nt Petition of Dominion Energy\, Inc.\, Virginia Electric and Power Compan
+ y\, OSW Project LLC\, CS HoldCo\, LLC\, and NextEra Energy\, Inc. for a di
+ sposition and acquisition of control of public utility (Telephonic proceed
+ ing) |\n\nSource: https://www.scc.virginia.gov/docketsearch#/caseDetails/1
+ 47078
+PRIORITY:5
+URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/147078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[VA] PUR-2026-00112 - Joint Petition of Dominion Energy\, Inc.\, V
+ irginia Electric and Power Company\, OSW Project LLC\, CS HoldCo\, LLC\, a
+ nd NextEra Energy\, Inc. for a disposition and acquisition of control of p
+ ublic utility (Telephonic proceeding)
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20261030T161833Z
+UID:d72570ccc390b5ffe9a0@psc-calendar
+CATEGORIES:VA,Evidentiary Hearing
+DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
+ Evidentiary Hearing\n\nNov. 9\, 2026 | 4- 7 p.m. | PUR-2026-00112 - Joint 
+ Petition of Dominion Energy\, Inc.\, Virginia Electric and Power Company\,
+  OSW Project LLC\, CS HoldCo\, LLC\, and NextEra Energy\, Inc. for a dispo
+ sition and acquisition of control of public utility (Telephonic proceeding
+ ) |\n\nSource: https://www.scc.virginia.gov/docketsearch#/caseDetails/1470
+ 78
+PRIORITY:5
+URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/147078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[VA] PUR-2026-00112 - Joint Petition of Dominion Energy\, Inc.\, V
+ irginia Electric and Power Company\, OSW Project LLC\, CS HoldCo\, LLC\, a
+ nd NextEra Energy\, Inc. for a disposition and acquisition of control of p
+ ublic utility (Telephonic proceeding)
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261030T161833Z
+UID:5d8c6a9144aa61bcb15d@psc-calendar
+CATEGORIES:VA,Evidentiary Hearing
+DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
+ Evidentiary Hearing\n\nNov. 10\, 2026 | 4- 7 p.m. | PUR-2026-00112 - Joint
+  Petition of Dominion Energy\, Inc.\, Virginia Electric and Power Company
+ \, OSW Project LLC\, CS HoldCo\, LLC\, and NextEra Energy\, Inc. for a dis
+ position and acquisition of control of public utility (Telephonic proceedi
+ ng) |\n\nSource: https://www.scc.virginia.gov/docketsearch#/caseDetails/14
+ 7078
+PRIORITY:5
+URL:https://www.scc.virginia.gov/docketsearch#/caseDetails/147078
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[VA] PUR-2026-00051 - Application of Kentucky Utilities Company d/
  b/a Old Dominion Power Company for an adjustment of electric base rates
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:4899d5c01770b2c70da9@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -31,7 +91,7 @@ SUMMARY:[VA] PUR-2026-00021 - Application of Dominion Energy Virginia for
  ranch-Morrisville Line #2464\; Expanded 
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:d18e9c929ebcafcf12dd@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -51,7 +111,7 @@ SUMMARY:[VA] PUR-2026-00112 - Joint Petition of Dominion Energy\, Inc.\, V
  ublic utility
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:09583d3251fc5316d085@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -69,7 +129,7 @@ SUMMARY:[VA] PUR-2026-00050 - Application of Dominion Energy Virginia for
  ild Project (Evidentiary proceeding)
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:0f398b3dbe5be4bf29b3@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -86,7 +146,7 @@ SUMMARY:[VA] PUR-2026-00018 - Application of NextEra Energy Transmission V
  videntiary proceeding)
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:a04aaae299fa73e607b0@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -103,7 +163,7 @@ SUMMARY:[VA] PUR-2026-00014 - Petition of Columbia Gas of Virginia\, Inc.
  e to gas service
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:cb8ab535c5a980a60286@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -121,7 +181,7 @@ SUMMARY:[VA] PUR-2026-00076 - Application of Dominion Energy Virginia for
  4\, Corridor Optimization and Related P
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:4bc516bd6181d972619e@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -141,7 +201,7 @@ SUMMARY:[VA] PUR-2026-00102 - Application of Expedition Generating 1\, LLC
  ating facility and associated faciliti
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:b7d42f76ca3ae873a319@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -161,7 +221,7 @@ SUMMARY:[VA] PUR-2026-00102 - Application of Expedition Generating I\, LLC
  ating facility and associated faciliti
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:bac6aa8dc96b7636fa35@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -179,7 +239,7 @@ SUMMARY:[VA] PUR-2026-00126 - Petition of Virginia Electric and Power Comp
  any for revision of rate adjustment clause\, designated Rider DIST
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:f171855c26b9b5bcc1fe@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -195,7 +255,7 @@ SUMMARY:[VA] PUR-2026-00095 - Application of Atmos Energy Corporation for
  a general increase in rates
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:366142b9f8b12cd167df@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -211,7 +271,7 @@ SUMMARY:[VA] PUR-2026-00114 - Petition of Northern Virginia Electric Coope
  DPS\, HV-1\, and HV-2
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:d48ce59feee5374ec3a5@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -228,7 +288,7 @@ SUMMARY:[VA] PUR-2026-00036 - Application of Virginia Natural Gas\, Inc. f
  ons applicable to natural gas service
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
-DTSTAMP:20261029T164621Z
+DTSTAMP:20261030T161833Z
 UID:1e2aff2888d30fe79067@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
