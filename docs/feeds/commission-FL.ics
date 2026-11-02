@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Commission Conference - Hearing immediately following
 DTSTART;TZID=America/New_York:20261103T090000
 DTEND;TZID=America/New_York:20261103T110000
-DTSTAMP:20261101T163002Z
+DTSTAMP:20261102T195147Z
 UID:e8b0216c97fc8a91db5a@psc-calendar
 CATEGORIES:FL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Open
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260001-04\;07 (Day:2)
 DTSTART;TZID=America/New_York:20261104T090000
 DTEND;TZID=America/New_York:20261104T110000
-DTSTAMP:20261101T163002Z
+DTSTAMP:20261102T195147Z
 UID:ba67d8384f9901e91a5f@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260001-04\;07 (Day:3)
 DTSTART;TZID=America/New_York:20261105T090000
 DTEND;TZID=America/New_York:20261105T110000
-DTSTAMP:20261101T163002Z
+DTSTAMP:20261102T195147Z
 UID:98c3199b24243c31277f@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260001-04\;07 (Day:4)
 DTSTART;TZID=America/New_York:20261106T090000
 DTEND;TZID=America/New_York:20261106T110000
-DTSTAMP:20261101T163002Z
+DTSTAMP:20261102T195147Z
 UID:87447b18d8106d04eb67@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Wednesday\, November 11\, 2026 HOLIDAY: Veteran's Day
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261101T163002Z
+DTSTAMP:20261102T195147Z
 UID:9a78231d3eab4868eb71@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Internal Affairs - Prehearing immediately following
 DTSTART;TZID=America/New_York:20261117T090000
 DTEND;TZID=America/New_York:20261117T110000
-DTSTAMP:20261101T163002Z
+DTSTAMP:20261102T195147Z
 UID:58014f722b11fd1ef188@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -92,7 +92,7 @@ SUMMARY:[FL] Prehearing: 20260143-EI — Petition for determination of nee
  ties\, by Duke Energy Florida\, LLC
 DTSTART;TZID=America/New_York:20261117T110000
 DTEND;TZID=America/New_York:20261117T130000
-DTSTAMP:20261101T163002Z
+DTSTAMP:20261102T195147Z
 UID:89db5553d10d1c5ccf8f@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Thursday\, November 26\, 2026 HOLIDAY: Thanksgiving
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261101T163002Z
+DTSTAMP:20261102T195147Z
 UID:b5fa83e82232440fbe6e@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Friday\, November 27\, 2026 HOLIDAY: Thanksgiving
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261101T163002Z
+DTSTAMP:20261102T195147Z
 UID:18b6661df86d907d5b47@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
