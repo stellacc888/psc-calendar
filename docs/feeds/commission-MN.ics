@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261014T110000
 DTEND;TZID=America/Chicago:20261014T130000
-DTSTAMP:20261102T195147Z
+DTSTAMP:20261103T172403Z
 UID:91f3feafe61ff955fa8d@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261105T100000
 DTEND;TZID=America/Chicago:20261105T120000
-DTSTAMP:20261102T195147Z
+DTSTAMP:20261103T172403Z
 UID:d3a5903abc5e08b8e32e@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261113T100000
 DTEND;TZID=America/Chicago:20261113T120000
-DTSTAMP:20261102T195147Z
+DTSTAMP:20261103T172403Z
 UID:d93563287478e97e1a38@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
@@ -57,11 +57,26 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261119T100000
 DTEND;TZID=America/Chicago:20261119T120000
-DTSTAMP:20261102T195147Z
+DTSTAMP:20261103T172403Z
 UID:8fb5b885aee562d9d7c8@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
  Open Meeting / Commission Meeting\n\nPUC Agenda Meeting | 11/19/2026 | | 1
+ 0:00 AM | | Meeting details | Not available | Not available | Not availabl
+ e | Not available | Not available\n\nSource: https://minnesotapuc.legistar
+ .com/Calendar.aspx
+PRIORITY:5
+URL:https://minnesotapuc.legistar.com/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MN] PUC Agenda Meeting
+DTSTART;TZID=America/Chicago:20261124T100000
+DTEND;TZID=America/Chicago:20261124T120000
+DTSTAMP:20261103T172403Z
+UID:c68d9736a2c9a78a5bc7@psc-calendar
+CATEGORIES:MN,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
+ Open Meeting / Commission Meeting\n\nPUC Agenda Meeting | 11/24/2026 | | 1
  0:00 AM | | Meeting details | Not available | Not available | Not availabl
  e | Not available | Not available\n\nSource: https://minnesotapuc.legistar
  .com/Calendar.aspx

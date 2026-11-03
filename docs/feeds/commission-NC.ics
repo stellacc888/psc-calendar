@@ -15,7 +15,7 @@ SUMMARY:[NC] Public and Expert Witness Hearing: Application of Virginia El
  eport and Cost Recovery Rider
 DTSTART;TZID=America/New_York:20261117T100000
 DTEND;TZID=America/New_York:20261117T120000
-DTSTAMP:20261102T195147Z
+DTSTAMP:20261103T172403Z
 UID:02bdc386d36a5e2ff373@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -36,7 +36,7 @@ SUMMARY:[NC] Expert Witness Hearing: Application of Virginia Electric and
  es and Charges Applicable to Electric Service In North Carolina
 DTSTART;TZID=America/New_York:20261118T100000
 DTEND;TZID=America/New_York:20261118T120000
-DTSTAMP:20261102T195147Z
+DTSTAMP:20261103T172403Z
 UID:5e0cb70fe2d21131dce5@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -57,7 +57,7 @@ SUMMARY:[NC] Expert Witness Hearing - Application of Western Carolina Univ
   and Charges Applicable to Electric Service
 DTSTART;TZID=America/New_York:20270201T140000
 DTEND;TZID=America/New_York:20270201T160000
-DTSTAMP:20261102T195147Z
+DTSTAMP:20261103T172403Z
 UID:2723a37e4c69f4ecc625@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -78,7 +78,7 @@ SUMMARY:[NC] Expert Witness Hearing - Joint Application of Duke Energy Pro
  l Gas-Fueled Combined Cycle Electric G
 DTSTART;TZID=America/New_York:20270203T103000
 DTEND;TZID=America/New_York:20270203T123000
-DTSTAMP:20261102T195147Z
+DTSTAMP:20261103T172403Z
 UID:cebf76b84c37c1e35e32@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -95,13 +95,35 @@ URL:https://starw1.ncuc.gov/NCUC/page/docket-docs/PSC/DocketDetails.aspx?D
  ocketId=6bd42c37-f16e-4d70-8c14-ebe91ee5aa8c
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NC] Expert Witness Hearing - Application of Merry Hill PV I\, LLC
+  for a Certificate of Environmental Compatibility and Public Convenience a
+ nd Necessity to Construct Approximately 2.25 Miles of New 230 kV Transmiss
+ ion Line in Bertie County\, North Caro
+DTSTART;TZID=America/New_York:20270204T100000
+DTEND;TZID=America/New_York:20270204T120000
+DTSTAMP:20261103T172403Z
+UID:9c42108717ed9a5f3505@psc-calendar
+CATEGORIES:NC,Evidentiary Hearing
+DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
+ identiary Hearing\n\n02/04/2027 | 10:00am | Hearing Room 2115\, Dobbs Buil
+ ding\, 430 N Salisbury St. Raleigh | EMP-127 Sub 1 | Expert Witness Hearin
+ g - Application of Merry Hill PV I\, LLC for a Certificate of Environmenta
+ l Compatibility and Public Convenience and Necessity to Construct Approxim
+ ately 2.25 Miles of New 230 kV Transmission Line in Bertie County\, North 
+ Carolina |\n\nSource: https://starw1.ncuc.gov/NCUC/page/docket-docs/PSC/Do
+ cketDetails.aspx?DocketId=92347c3c-b815-4ca3-88b3-a1e6b14deb94
+PRIORITY:5
+URL:https://starw1.ncuc.gov/NCUC/page/docket-docs/PSC/DocketDetails.aspx?D
+ ocketId=92347c3c-b815-4ca3-88b3-a1e6b14deb94
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NC] Expert Witness Hearing: Joint Application of Dominion Energy
  \, Inc.\, Virginia Electric and Power Company\, d/b/a Dominion Energy Nort
  h Carolina\, NextEra Energy\, Inc.\, WG Development Corp.\, and CS Holdco
  \, LLC for Approval of Proposed Merge
 DTSTART;TZID=America/New_York:20270223T100000
 DTEND;TZID=America/New_York:20270223T120000
-DTSTAMP:20261102T195147Z
+DTSTAMP:20261103T172403Z
 UID:b534c9102403ac585a97@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -122,7 +144,7 @@ SUMMARY:[NC] Public/Expert Witness Hearing - Application of Tesla Energy O
  n Electric Generator Lessor
 DTSTART;TZID=America/New_York:20270301T140000
 DTEND;TZID=America/New_York:20270301T160000
-DTSTAMP:20261102T195147Z
+DTSTAMP:20261103T172403Z
 UID:54d53041a8ef3484d65e@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
