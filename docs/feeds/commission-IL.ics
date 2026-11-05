@@ -14,7 +14,7 @@ SUMMARY:[IL] Public Utility Cover Letter Regular Open Meeting Agenda Publi
  nda Audio or Video Recording
 DTSTART;TZID=America/Chicago:20261029T113000
 DTEND;TZID=America/Chicago:20261029T133000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:5de91668be62a6201909@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Special Open Meeting
 DTSTART;TZID=America/Chicago:20261105T093000
 DTEND;TZID=America/Chicago:20261105T113000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:faf512910e614244c6a6@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -48,7 +48,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20261105T093000
 DTEND;TZID=America/Chicago:20261105T113000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:6f7b5527305eb91e0f88@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -56,8 +56,8 @@ DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
  ng Illinois Commerce Commission 527 East Capitol Avenue Hearing Room A\, F
  irst Floor\, Leland Building Springfield\, Illinois 62701 | Public Utility
   Cover Letter Special Open Meeting Agenda Transportation Cover Letter Benc
- h Agenda\n\nSource: https://www.icc.illinois.gov/meetings/meeting/commissi
- on-meeting/21754
+ h Agenda Audio or Video Recording\n\nSource: https://www.icc.illinois.gov/
+ meetings/meeting/commission-meeting/21754
 PRIORITY:5
 URL:https://www.icc.illinois.gov/meetings/meeting/commission-meeting/21754
 END:VEVENT
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Hearing for T26-0051
 DTSTART;TZID=America/Chicago:20261105T100000
 DTEND;TZID=America/Chicago:20261105T120000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:bfd7d295bfb519e158ef@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Oral Argument for 26-0065
 DTSTART;TZID=America/Chicago:20261105T103000
 DTEND;TZID=America/Chicago:20261105T123000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:bb7b5bd9ab3b41d8ffc7@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Regular Open Meeting
 DTSTART;TZID=America/Chicago:20261105T113000
 DTEND;TZID=America/Chicago:20261105T133000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:acf4ed211d72ebb6bf01@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -105,24 +105,10 @@ PRIORITY:5
 URL:https://www.icc.illinois.gov/meetings/meeting/commission-meeting/21718
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[IL] Illinois Commerce Commission Hearing for M2025-16953
-DTSTART;TZID=America/Chicago:20261109T100000
-DTEND;TZID=America/Chicago:20261109T120000
-DTSTAMP:20261104T173732Z
-UID:d94f73cf9ad8f8f425e4@psc-calendar
-CATEGORIES:IL,Evidentiary Hearing
-DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
- ry Hearing\n\nNov - 2026 9 Illinois Commerce Commission Hearing for M2025-
- 16953 November 9\, 2026 10:00 AM\n\nSource: https://www.icc.illinois.gov/m
- eetings/meeting/hearing/151523
-PRIORITY:5
-URL:https://www.icc.illinois.gov/meetings/meeting/hearing/151523
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0630
 DTSTART;TZID=America/Chicago:20261109T100000
 DTEND;TZID=America/Chicago:20261109T120000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:563a8d31e28e0e081439@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -133,10 +119,24 @@ PRIORITY:5
 URL:https://www.icc.illinois.gov/meetings/meeting/hearing/151574
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[IL] Illinois Commerce Commission Hearing for M2025-16953
+DTSTART;TZID=America/Chicago:20261109T100000
+DTEND;TZID=America/Chicago:20261109T120000
+DTSTAMP:20261105T174327Z
+UID:d94f73cf9ad8f8f425e4@psc-calendar
+CATEGORIES:IL,Evidentiary Hearing
+DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
+ ry Hearing\n\nNov - 2026 9 Illinois Commerce Commission Hearing for M2025-
+ 16953 November 9\, 2026 10:00 AM\n\nSource: https://www.icc.illinois.gov/m
+ eetings/meeting/hearing/151523
+PRIORITY:5
+URL:https://www.icc.illinois.gov/meetings/meeting/hearing/151523
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0656
 DTSTART;TZID=America/Chicago:20261109T103000
 DTEND;TZID=America/Chicago:20261109T123000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:5f4570b1b92e7d95924e@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Hearing for T26-0001
 DTSTART;TZID=America/Chicago:20261110T100000
 DTEND;TZID=America/Chicago:20261110T120000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:3ee5a0c4106c8bdb922a@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0729
 DTSTART;TZID=America/Chicago:20261110T100000
 DTEND;TZID=America/Chicago:20261110T120000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:1d780f7e4a07d444ebb1@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Hearing for T24-0010
 DTSTART;TZID=America/Chicago:20261110T103000
 DTEND;TZID=America/Chicago:20261110T123000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:c7a0b49c3ce5cc4a237a@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0617
 DTSTART;TZID=America/Chicago:20261110T130000
 DTEND;TZID=America/Chicago:20261110T150000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:7d3044b05ee71a513c4f@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0749
 DTSTART;TZID=America/Chicago:20261110T130000
 DTEND;TZID=America/Chicago:20261110T150000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:707284fa49f8237af420@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0754
 DTSTART;TZID=America/Chicago:20261110T133000
 DTEND;TZID=America/Chicago:20261110T153000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:88f673f36be4a8bd4ffb@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -237,7 +237,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261119T113000
 DTEND;TZID=America/Chicago:20261119T133000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:aa47d12bef7db13edb0d@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -253,7 +253,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261124T113000
 DTEND;TZID=America/Chicago:20261124T133000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:5efc093cc79c4996f19e@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -270,7 +270,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20261203T113000
 DTEND;TZID=America/Chicago:20261203T133000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:cafda7ce832b654d305c@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -286,7 +286,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261210T113000
 DTEND;TZID=America/Chicago:20261210T133000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:85fdba2daee5f74c6486@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -303,7 +303,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20261215T113000
 DTEND;TZID=America/Chicago:20261215T133000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:b3f1ab06a1d6fe9bedb2@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -319,7 +319,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261217T113000
 DTEND;TZID=America/Chicago:20261217T133000
-DTSTAMP:20261104T173732Z
+DTSTAMP:20261105T174327Z
 UID:aee7c9980e97b536ac6a@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet

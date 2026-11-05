@@ -9,26 +9,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NE] 04 Nov Hearing – NG-133 – Black Hills Energy 2027 Systems
-  Safety and Integrity Rider Location: Commission Hearing Room 1:30pm
-DTSTART:20261104T193000Z
-DTEND:20261104T213000Z
-DTSTAMP:20261104T173732Z
-UID:29218c248fa4dc120363@psc-calendar
-CATEGORIES:NE,Evidentiary Hearing
-DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
- dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-ng-133-black-
- hills-energy-2027-systems-safety-and-integrity-rider
-PRIORITY:5
-URL:https://psc.nebraska.gov/hearing-ng-133-black-hills-energy-2027-system
- s-safety-and-integrity-rider
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NE] 16 Nov Hearing – B-2193 – Cauris\, LLC Location: Commissi
  on Hearing Room 1:00pm
-DTSTART:20261116T190000Z
-DTEND:20261116T210000Z
-DTSTAMP:20261104T173732Z
+DTSTART:20261116T130000Z
+DTEND:20261116T150000Z
+DTSTAMP:20261105T174327Z
 UID:0bbaee89504ac4d30e70@psc-calendar
 CATEGORIES:NE,Evidentiary Hearing
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
@@ -40,9 +25,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NE] 17 Nov Commission Meeting Location: Commission Hearing Room 1
  0:00am
-DTSTART:20261117T160000Z
-DTEND:20261117T180000Z
-DTSTAMP:20261104T173732Z
+DTSTART:20261117T100000Z
+DTEND:20261117T120000Z
+DTSTAMP:20261105T174327Z
 UID:346337d077ed42fec165@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -50,5 +35,19 @@ DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
  ion-meeting-265
 PRIORITY:5
 URL:https://psc.nebraska.gov/commission-meeting-265
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NE] 17 Nov Hearing – GW/GD-2026-002 – Grain Fee Updates Locat
+ ion: Commission Hearing Room 11:00am
+DTSTART:20261117T110000Z
+DTEND:20261117T130000Z
+DTSTAMP:20261105T174327Z
+UID:70ee9620c72b0d59818a@psc-calendar
+CATEGORIES:NE,Evidentiary Hearing
+DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
+ dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-gwgd-2026-002
+ -grain-fee-updates
+PRIORITY:5
+URL:https://psc.nebraska.gov/hearing-gwgd-2026-002-grain-fee-updates
 END:VEVENT
 END:VCALENDAR
