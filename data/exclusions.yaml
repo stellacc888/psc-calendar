@@ -2754,6 +2754,39 @@ events:
     title: PUR-2026-00112 - Joint Petition of Dominion Energy, Inc., Virginia Electric and Power Company, OSW Project LLC, CS HoldCo, LLC, and NextEra Energy, Inc. for a disposition and acquisition of control of public utility (Telephonic proceeding)
   - commission: VA
     date: 2026-11-09
+    title: PUR-2026-00112 - Joint Petition of Dominion Energy, Inc., Virginia Electric and Power Company, OSW Project LLC, CS HoldCo, LLC, and NextEra Energy, Inc. for a disposition and acquisition of control of public utility (Telephonic proceeding)  # --- added 2026-11-05 - paste directly under the existing `events:` line ---
+  - commission: CO
+    date: 2026-11-05
+    title: "HRG: 26F-0387G Robert Rankin V Colorado Natural Gas - Formal Complaint, ALJ Segev (TB)"
+  - commission: MN
+    date: 2026-11-13
+    title: PUC Agenda Meeting
+  - commission: NM
+    date: 2026-11-10
+    title: "Docket 26-0000115 – Public Service Company of New Mexico Application for Approval of Its 2027-2029 Transportation Electrification Plan. This hearing is set for November 10 and 12 , 2026, at 9:00 a.m. Visit this site to watch the proceeding via livest"
+  - commission: NOLA
+    date: 2026-11-05
+    title: Hearing of the City Council Meeting
+  - commission: NV
+    date: 2026-11-10
+    title: Regular Agenda/21-26
+  - commission: OH
+    date: 2026-11-05
+    title: Case No. 26-716-EL-CSS
+  - commission: OK
+    date: 2026-11-05
+    title: Commission meeting
+  - commission: SC
+    date: 2026-11-05
+    title: "Subscribe to Commission Calendar: 11/5/2026 11:00 AM Scheduled"
+  - commission: VA
+    date: 2026-11-10
     title: PUR-2026-00112 - Joint Petition of Dominion Energy, Inc., Virginia Electric and Power Company, OSW Project LLC, CS HoldCo, LLC, and NextEra Energy, Inc. for a disposition and acquisition of control of public utility (Telephonic proceeding)
+  - commission: VA
+    date: 2026-11-12
+    title: PUR-2026-00051 - Application of Kentucky Utilities Company d/b/a Old Dominion Power Company for an adjustment of electric base rates
+  - commission: WA
+    date: 2026-11-12
+    title: Open Meeting
 
 recurring: []
