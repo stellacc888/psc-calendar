@@ -2589,6 +2589,171 @@ events:
     title: JAMEX, INC.-DOCKET NO. OG-26-00033486
   - commission: WY
     date: 2026-11-03
-    title: "Docket No. 20000-676-EA-24 (Record No. 17741), is scheduled to commence on Tuesday, November 3, 2026, at 1:30 p.m., in the Commission's hearing room located at 2515 Warren Avenue, Suite 300, in Cheyenne, Wyoming. Deliberations will take place at the"
+    title: "Docket No. 20000-676-EA-24 (Record No. 17741), is scheduled to commence on Tuesday, November 3, 2026, at 1:30 p.m., in the Commission's hearing room located at 2515 Warren Avenue, Suite 300, in Cheyenne, Wyoming. Deliberations will take place at the"  # --- added 2026-11-05 - paste directly under the existing `events:` line ---
+  - commission: CO
+    date: 2026-11-05
+    title: "Remote HRG: 26A-0235E, Public Service Company - 2027 - 2028 Resource Adequacy, C3 (JS)"
+  - commission: CO
+    date: 2026-11-11
+    title: "V & R (11.19.2026) PUC: Show Cause Hearing"
+  - commission: CO
+    date: 2026-11-12
+    title: "HRG: 26F-0242CP Roman Lysenko v Event Transportation Brokers, LLC, ALJ Rosenberg"
+  - commission: FL
+    date: 2026-11-11
+    title: "Wednesday, November 11, 2026 HOLIDAY: Veteran's Day"
+  - commission: GA
+    date: 2026-11-12
+    title: Docket No. 57171 RTP Revenue Credit and Allocation Methodology Hearing 11-12-2026
+  - commission: IL
+    date: 2026-11-05
+    title: Illinois Commerce Commission Special Open Meeting
+  - commission: IL
+    date: 2026-11-05
+    title: Special Open Meeting Illinois Commerce Commission 527 East Capitol Avenue Hearing Room A, First Floor, Leland Building Springfield, Illinois 62701
+  - commission: IL
+    date: 2026-11-05
+    title: Illinois Commerce Commission Hearing for T26-0051
+  - commission: IL
+    date: 2026-11-05
+    title: Illinois Commerce Commission Oral Argument for 26-0065
+  - commission: IL
+    date: 2026-11-05
+    title: Illinois Commerce Commission Regular Open Meeting
+  - commission: IL
+    date: 2026-11-09
+    title: Illinois Commerce Commission Hearing for M2025-16953
+  - commission: IL
+    date: 2026-11-09
+    title: Illinois Commerce Commission Prehearing for 26-0630
+  - commission: IL
+    date: 2026-11-09
+    title: Illinois Commerce Commission Prehearing for 26-0656
+  - commission: IL
+    date: 2026-11-10
+    title: Illinois Commerce Commission Hearing for T26-0001
+  - commission: IL
+    date: 2026-11-10
+    title: Illinois Commerce Commission Prehearing for 26-0729
+  - commission: IL
+    date: 2026-11-10
+    title: Illinois Commerce Commission Hearing for T24-0010
+  - commission: IL
+    date: 2026-11-10
+    title: Illinois Commerce Commission Prehearing for 26-0617
+  - commission: IL
+    date: 2026-11-10
+    title: Illinois Commerce Commission Prehearing for 26-0749
+  - commission: IL
+    date: 2026-11-10
+    title: Illinois Commerce Commission Prehearing for 26-0754
+  - commission: IN
+    date: 2026-11-05
+    title: VERIFIED PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPANY d/b/a CENTERPOINT ENERGY INDIANA SOUTH FOR (1) APPROVAL OF AN ADJUSTMENT TO ITS ELECTRIC SERVICE RATES THROUGH DISTRIBUTION, ITS TRANSMISSION, AND STORAGE SY
+  - commission: IN
+    date: 2026-11-05
+    title: PETITION OF INDIANA MICHIGAN POWER COMPANY, AN INDIANA CORPORATION, FOR APPROVAL WITHIN THE MULTI-YEAR RATE PLAN (MYRP) FRAMEWORK UNDER IND. CODE CH. 8-1-46 AND AN ALTERNATIVE REGULATORY PLAN (ARP) PURSUANT TO IND. CODE
+  - commission: MA
+    date: 2026-11-10
+    title: "Notice of Hearings: DPU Transportation Oversight Division"
+  - commission: ME
+    date: 2026-11-12
+    title: Special Deliberations Audio/Video
+  - commission: MI
+    date: 2026-11-05
+    title: November 5, 2026 Commission Meeting
+  - commission: MN
+    date: 2026-11-05
+    title: PUC Agenda Meeting
+  - commission: NJ
+    date: 2026-11-12
+    title: November 12, 2026, Board Agenda Meeting Oct 26
+  - commission: NM
+    date: 2026-11-05
+    title: State Capitol Building, Room 309, Santa Fe
+  - commission: NOLA
+    date: 2026-11-05
+    title: Hearing of the City Council - Nov 05, 2026
+  - commission: NV
+    date: 2026-11-10
+    title: Scheduled Commission Utility Agendas
+  - commission: OR
+    date: 2026-11-10
+    title: Docket UM 2471 - PGE WAIVER OF COMPETITIVE BIDDING RULES
+  - commission: OR
+    date: 2026-11-10
+    title: Docket ADV 1910 - PGE ADVICE NO. 26-41 HOUSEKEEPING TABLE OF CONTENTS
+  - commission: OR
+    date: 2026-11-10
+    title: Docket UM 1102 - PACIFIC POWER DEFERRAL OF IF GRANTS
+  - commission: OR
+    date: 2026-11-10
+    title: Docket UM 1482 - PORTLAND GENERAL ELECTRIC
+  - commission: OR
+    date: 2026-11-10
+    title: Docket UM 1483 - PACIFIC POWER DEFER COSTS PHOTOVOLTAIC FEED IN TARIFF
+  - commission: OR
+    date: 2026-11-10
+    title: Docket UM 1621 - IDAHO POWER COMPANY
+  - commission: OR
+    date: 2026-11-10
+    title: Docket UM 1696 - ENERGY TRUST OF OREGON ELECTRICAL EXCEPTIONS
+  - commission: OR
+    date: 2026-11-10
+    title: Docket UM 1853 - IDAHO POWER DEFERRAL OF COSTS ASSOCIATED WITH THE NORTH VALMY POWER PLANT
+  - commission: OR
+    date: 2026-11-10
+    title: Docket UM 1930 - COMMUNITY SOLAR IMPLEMENTATION
+  - commission: OR
+    date: 2026-11-10
+    title: Docket UM 2024 - AWEC'S INVESTIGATION INTO LONG-TERM DIRECT ACCESS PROGRAMS
+  - commission: OR
+    date: 2026-11-10
+    title: Docket UM 2340 - STAFF INVESTIGATION INTO GUIDELINES FOR WILDFIRE MITIGATION PLANS
+  - commission: PA
+    date: 2026-11-05
+    title: "View 2026-2027 Meeting Schedule (PDF): November 05, 2026"
+  - commission: PA
+    date: 2026-11-05
+    title: "Docket Number C-2026-3064152 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Alphonso Arnold III"
+  - commission: PA
+    date: 2026-11-05
+    title: "Docket Number C-2026-3064198 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Christopher P Pell"
+  - commission: PA
+    date: 2026-11-05
+    title: "Docket Number C-2026-3063216 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: William E. Angle"
+  - commission: PA
+    date: 2026-11-05
+    title: "Docket Number C-2024-3052239 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Katrina L Dunderdale"
+  - commission: PA
+    date: 2026-11-06
+    title: "Docket Number F-2026-3063280 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Steven K Haas"
+  - commission: PA
+    date: 2026-11-06
+    title: "Docket Number C-2026-3063665 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: M. Jackie Gross"
+  - commission: PA
+    date: 2026-11-06
+    title: "Docket Number F-2026-3064047 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-11-06
+    title: "Docket Number C-2026-3063505 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady"
+  - commission: SC
+    date: 2026-11-05
+    title: Commission Business Meeting
+  - commission: TX-RRC
+    date: 2026-11-13
+    title: SOJOURNER DRILLING CORPORATION- DOCKET NO. OG-26-00033560
+  - commission: TX-RRC
+    date: 2026-11-13
+    title: "*BLACKROCK OPERATING, LLC-DOCKET NO. OG-26-00031902"
+  - commission: TX
+    date: 2026-11-05
+    title: Open Meeting - Thursday, November 5, 2026
+  - commission: VA
+    date: 2026-11-05
+    title: PUR-2026-00112 - Joint Petition of Dominion Energy, Inc., Virginia Electric and Power Company, OSW Project LLC, CS HoldCo, LLC, and NextEra Energy, Inc. for a disposition and acquisition of control of public utility (Telephonic proceeding)
+  - commission: VA
+    date: 2026-11-09
+    title: PUR-2026-00112 - Joint Petition of Dominion Energy, Inc., Virginia Electric and Power Company, OSW Project LLC, CS HoldCo, LLC, and NextEra Energy, Inc. for a disposition and acquisition of control of public utility (Telephonic proceeding)
 
 recurring: []
