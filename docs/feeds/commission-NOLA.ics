@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 4 - Oct 07\, 2026
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20261105T180037Z
+DTSTAMP:20261105T191457Z
 UID:85c0a08c57434016dd7e@psc-calendar
 CATEGORIES:NOLA,Evidentiary Hearing
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 5 - Oct 08\, 2026
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20261105T180037Z
+DTSTAMP:20261105T191457Z
 UID:520f0ee90dc7f6467f73@psc-calendar
 CATEGORIES:NOLA,Evidentiary Hearing
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:[NOLA] Civil Service Commission Meeting - Oct 09\, 2026
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20261105T180037Z
+DTSTAMP:20261105T191457Z
 UID:7de7d95524565ca4f628@psc-calendar
 CATEGORIES:NOLA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:[NOLA] Nuisance Hearing - Oct 23\, 2026
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261105T180037Z
+DTSTAMP:20261105T191457Z
 UID:7ed79cb6c4537377b885@psc-calendar
 CATEGORIES:NOLA,Evidentiary Hearing
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
@@ -71,20 +71,5 @@ DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
  //cityofno.granicus.com/AgendaViewer.php?view_id=42&clip_id=5653
 PRIORITY:5
 URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&clip_id=5653
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NOLA] Hearing of the City Council Meeting
-DTSTART;TZID=America/Chicago:20261105T100000
-DTEND;TZID=America/Chicago:20261105T120000
-DTSTAMP:20261105T180037Z
-UID:13c803f7b84ab116af1f@psc-calendar
-CATEGORIES:NOLA,Evidentiary Hearing
-DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
- \nType: Evidentiary Hearing\n\nNovember 05\, 2026 10:00 AM Hearing of the 
- City Council Meeting\n\nSource: https://council.nola.gov/meetings/2026/spe
- cial-meetings/20261105-hearing-of-the-city-council-meeting/
-PRIORITY:5
-URL:https://council.nola.gov/meetings/2026/special-meetings/20261105-heari
- ng-of-the-city-council-meeting/
 END:VEVENT
 END:VCALENDAR
