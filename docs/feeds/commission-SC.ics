@@ -14,7 +14,7 @@ SUMMARY:[SC] Subscribe to Commission Calendar: 11/5/2026 11:00 AM Schedule
  d
 DTSTART;TZID=America/New_York:20261105T110000
 DTEND;TZID=America/New_York:20261105T130000
-DTSTAMP:20261105T174327Z
+DTSTAMP:20261105T180037Z
 UID:c2eea36decef276aaa98@psc-calendar
 CATEGORIES:SC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
@@ -23,18 +23,5 @@ DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
  urce: https://dms.psc.sc.gov/Web/Calendar/Detail/84991
 PRIORITY:5
 URL:https://dms.psc.sc.gov/Web/Calendar/Detail/84991
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Commission Business Meeting
-DTSTART;TZID=America/New_York:20261105T110000
-DTEND;TZID=America/New_York:20261105T130000
-DTSTAMP:20261105T174327Z
-UID:24840899253bcdb4dbb0@psc-calendar
-CATEGORIES:SC,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
- e: Open Meeting / Commission Meeting\n\n11/5/2026 11:00 AM | Scheduled | C
- ommission Business Meeting\n\nSource: https://dms.psc.sc.gov/Web/Agendas
-PRIORITY:5
-URL:https://dms.psc.sc.gov/Web/Agendas
 END:VEVENT
 END:VCALENDAR
