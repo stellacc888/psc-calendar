@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Hearing - CASD No. 2026-V-00073
 DTSTART;TZID=America/New_York:20261116T130000
 DTEND;TZID=America/New_York:20261116T150000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:1fe1e59805c078f37be9@psc-calendar
 CATEGORIES:ME,Evidentiary Hearing
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Final Hearing in Madison Electric Works Ch. 307 Rate Case
 DTSTART;TZID=America/New_York:20261117T113000
 DTEND;TZID=America/New_York:20261117T133000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:788af9f36e923c0b7b8d@psc-calendar
 CATEGORIES:ME,Evidentiary Hearing
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Special Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261117T130000
 DTEND;TZID=America/New_York:20261117T150000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:5f45e4f70c9b3bef5664@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Special Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261118T130000
 DTEND;TZID=America/New_York:20261118T150000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:3d2f0bd5975885cfad9e@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Hearing - CASD No. 2026-V-00118
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T120000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:603064eb961aa3aa1236@psc-calendar
 CATEGORIES:ME,Evidentiary Hearing
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid

@@ -11,23 +11,9 @@ X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
-DTSTART;TZID=America/New_York:20261007T110000
-DTEND;TZID=America/New_York:20261007T130000
-DTSTAMP:20261105T191457Z
-UID:57152088f4301f6866fe@psc-calendar
-CATEGORIES:DC,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
- )\nType: Open Meeting / Commission Meeting\n\nCommission Open Meeting | Oc
- tober 07\, 2026\, at 11:00 a.m.\n\nSource: https://dcpsc.org/Schedule-of-O
- pen-Commission-Meetings.aspx
-PRIORITY:5
-URL:https://dcpsc.org/Schedule-of-Open-Commission-Meetings.aspx
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261021T110000
 DTEND;TZID=America/New_York:20261021T130000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:c95e53aa80931f392efb@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -41,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261104T110000
 DTEND;TZID=America/New_York:20261104T130000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:f5811f63b8d650e7c157@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -55,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261118T110000
 DTEND;TZID=America/New_York:20261118T130000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:bafe59efad307ffc955a@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -69,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261202T110000
 DTEND;TZID=America/New_York:20261202T130000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:b3b7c0e99dc34e10ac59@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -83,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261216T110000
 DTEND;TZID=America/New_York:20261216T130000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:94844bb829c576cfa20e@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC

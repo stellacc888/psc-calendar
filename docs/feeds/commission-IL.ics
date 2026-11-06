@@ -9,30 +9,74 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[IL] Public Utility Cover Letter Regular Open Meeting Agenda Trans
- portation Cover Letter Bench Agenda Public Utility Cover Letter Policy Age
+SUMMARY:[IL] Public Utility Cover Letter Regular Open Meeting Agenda Publi
+ c Utility Cover Letter Policy Agenda Transportation Cover Letter Bench Age
  nda Audio or Video Recording
 DTSTART;TZID=America/Chicago:20261029T113000
 DTEND;TZID=America/Chicago:20261029T133000
-DTSTAMP:20261105T191457Z
-UID:70c4d11f20a204d66c21@psc-calendar
+DTSTAMP:20261106T165902Z
+UID:5de91668be62a6201909@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
  ing / Commission Meeting\n\nOctober 29\, 2026 11:30 AM | Regular Open Meet
  ing Illinois Commerce Commission 160 North LaSalle Street Eighth Floor\, B
  ilandic Building Chicago\, Illinois 60601 | Public Utility Cover Letter Re
- gular Open Meeting Agenda Transportation Cover Letter Bench Agenda Public 
- Utility Cover Letter Policy Agenda Audio or Video Recording\n\nSource: htt
+ gular Open Meeting Agenda Public Utility Cover Letter Policy Agenda Transp
+ ortation Cover Letter Bench Agenda Audio or Video Recording\n\nSource: htt
  ps://www.icc.illinois.gov/meetings/meeting/commission-meeting/21717
 PRIORITY:5
 URL:https://www.icc.illinois.gov/meetings/meeting/commission-meeting/21717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IL] Illinois Commerce Commission Hearing for T24-0034
+DTSTART;TZID=America/Chicago:20261112T100000
+DTEND;TZID=America/Chicago:20261112T120000
+DTSTAMP:20261106T165902Z
+UID:9cf1547be96c745113d3@psc-calendar
+CATEGORIES:IL,Evidentiary Hearing
+DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
+ ry Hearing\n\nNov - 2026 12 Illinois Commerce Commission Hearing for T24-0
+ 034 November 12\, 2026 10:00 AM\n\nSource: https://www.icc.illinois.gov/me
+ etings/meeting/case-schedule-event/49217
+PRIORITY:5
+URL:https://www.icc.illinois.gov/meetings/meeting/case-schedule-event/4921
+ 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IL] Illinois Commerce Commission Hearing for 25-0990
+DTSTART;TZID=America/Chicago:20261112T110000
+DTEND;TZID=America/Chicago:20261112T130000
+DTSTAMP:20261106T165902Z
+UID:4a5c61830a85ca756e90@psc-calendar
+CATEGORIES:IL,Evidentiary Hearing
+DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
+ ry Hearing\n\nNov - 2026 12 Illinois Commerce Commission Hearing for 25-09
+ 90 November 12\, 2026 11:00 AM\n\nSource: https://www.icc.illinois.gov/mee
+ tings/meeting/hearing/151520
+PRIORITY:5
+URL:https://www.icc.illinois.gov/meetings/meeting/hearing/151520
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IL] Illinois Commerce Commission Hearing for T26-0053
+DTSTART;TZID=America/Chicago:20261112T130000
+DTEND;TZID=America/Chicago:20261112T150000
+DTSTAMP:20261106T165902Z
+UID:f60a569ecff9c2ef6755@psc-calendar
+CATEGORIES:IL,Evidentiary Hearing
+DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
+ ry Hearing\n\nNov - 2026 12 Illinois Commerce Commission Hearing for T26-0
+ 053 November 12\, 2026 1:00 PM\n\nSource: https://www.icc.illinois.gov/mee
+ tings/meeting/case-schedule-event/49630
+PRIORITY:5
+URL:https://www.icc.illinois.gov/meetings/meeting/case-schedule-event/4963
+ 0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261119T113000
 DTEND;TZID=America/Chicago:20261119T133000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:aa47d12bef7db13edb0d@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -48,7 +92,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261124T113000
 DTEND;TZID=America/Chicago:20261124T133000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:5efc093cc79c4996f19e@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -65,7 +109,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20261203T113000
 DTEND;TZID=America/Chicago:20261203T133000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:cafda7ce832b654d305c@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -81,7 +125,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261210T113000
 DTEND;TZID=America/Chicago:20261210T133000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:85fdba2daee5f74c6486@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -98,7 +142,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20261215T113000
 DTEND;TZID=America/Chicago:20261215T133000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:b3f1ab06a1d6fe9bedb2@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -114,7 +158,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261217T113000
 DTEND;TZID=America/Chicago:20261217T133000
-DTSTAMP:20261105T191457Z
+DTSTAMP:20261106T165902Z
 UID:aee7c9980e97b536ac6a@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
