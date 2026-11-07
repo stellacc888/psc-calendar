@@ -10,43 +10,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NOLA] 2027 Proposed Budget Hearings - Day 5 - Oct 08\, 2026
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-DTSTAMP:20261106T165902Z
-UID:520f0ee90dc7f6467f73@psc-calendar
-CATEGORIES:NOLA,Evidentiary Hearing
-DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
- \nType: Evidentiary Hearing\n\nThe agenda for 2027 Proposed Budget Hearing
- s - Day 5 dated Thursday\, 08 October 2026 has been archived. Access it he
- re: https://cityofno.granicus.com/AgendaViewer.php?view_id=42&amp\;clip_id
- =5596\n\nSource: https://cityofno.granicus.com/AgendaViewer.php?view_id=42
- &clip_id=5596
-PRIORITY:5
-URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&clip_id=5596
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CA] 2026 Voting Meetings: 10/08/2026 California State Personnel B
- oard’s Auditorium 801 Capitol Mall\, Sacramento\, CA 95814
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-DTSTAMP:20261106T165902Z
-UID:9dcd714aa527ed3336fd@psc-calendar
-CATEGORIES:CA,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
-  Open Meeting / Commission Meeting\n\n09/28/26 | 10/08/2026 California Sta
- te Personnel Board’s Auditorium 801 Capitol Mall\, Sacramento\, CA 95814
-  | 3588\n\nSource: https://www.cpuc.ca.gov/about-cpuc/transparency-and-rep
- orting/cpuc-voting-meetings/{year}-voting-meetings
-PRIORITY:5
-URL:https://www.cpuc.ca.gov/about-cpuc/transparency-and-reporting/cpuc-vot
- ing-meetings/{year}-voting-meetings
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NOLA] Civil Service Commission Meeting - Oct 09\, 2026
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7de7d95524565ca4f628@psc-calendar
 CATEGORIES:NOLA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
@@ -65,7 +32,7 @@ SUMMARY:[IN] PETITION OF INDIANA MICHIGAN POWER COMPANY FOR APPROVAL OF A
  ATMENT (Cause
 DTSTART;TZID=America/Indiana/Indianapolis:20261013T093000
 DTEND;TZID=America/Indiana/Indianapolis:20261013T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:48dac1e05e195aef03a7@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -81,7 +48,7 @@ SUMMARY:[TX-RRC] *GALVESTON BAY OPERATING CO LLC.-DOCKET NO. OG-25-0003178
  0 (RESCHEDULED)
 DTSTART;TZID=Central Standard Time:20261013T090000
 DTEND;TZID=Central Standard Time:20261013T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:0b87b3f79365aab9711a@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -97,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Case 9707-Future of Gas\, Phase II Evidentiary Hearing
 DTSTART;TZID=America/New_York:20261014T093000
 DTEND;TZID=America/New_York:20261014T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5b6e50fec9090156faf4@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -110,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Regular Board Agenda Meetings
 DTSTART;TZID=America/New_York:20261014T100000
 DTEND;TZID=America/New_York:20261014T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2a89084a63a5b45c2ec2@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -125,7 +92,7 @@ SUMMARY:[TX-RRC] *JAY MANAGEMENT COMPANY\, LLC-DOCKET NO.OG-26-00030866 ET
   AL (CONTINUED)
 DTSTART;TZID=Central Standard Time:20261014T090000
 DTEND;TZID=Central Standard Time:20261014T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a0fb0643b3796fbc5914@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -142,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261014T110000
 DTEND;TZID=America/Chicago:20261014T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:91f3feafe61ff955fa8d@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
@@ -158,7 +125,7 @@ SUMMARY:[IA] Docket No. GCU-2026-0005 | Open Meeting & Closed Session Deli
  beration
 DTSTART:20261014T180000Z
 DTEND:20261014T190000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:36949ac02df51e4665e8@psc-calendar
 CATEGORIES:IA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Open Meeting
@@ -182,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] LOCAL TIME\, in the IURC Conference Center\, Suite
 DTSTART;TZID=America/Indiana/Indianapolis:20261014T140000
 DTEND;TZID=America/Indiana/Indianapolis:20261014T160000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:67ee9ffac4e796e59a2f@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -195,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] Conference to be held on LOCAL TIME\, IURC
 DTSTART;TZID=America/Indiana/Indianapolis:20261014T140000
 DTEND;TZID=America/Indiana/Indianapolis:20261014T160000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d6aecac45c20ba16380e@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -208,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] 2026 Commission Meetings: October 14\, 2026
 DTSTART;TZID=America/Chicago:20261014T133000
 DTEND;TZID=America/Chicago:20261014T153000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:eb7792e9596261c43a5d@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -225,7 +192,7 @@ SUMMARY:[IN] PETITION OF INDIANA MICHIGAN POWER COMPANY\, AN INDIANA CORPO
  TO IND. CODE
 DTSTART;TZID=America/Indiana/Indianapolis:20261019T130000
 DTEND;TZID=America/Indiana/Indianapolis:20261019T150000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:75d97e16ad9e8c8b6378@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -241,7 +208,7 @@ SUMMARY:[TX-RRC] *BLACKROCK OPERATING\, LLC-DOCKET NO. OG-26-00031902 (CON
  TINUED)
 DTSTART;TZID=Central Standard Time:20261019T133000
 DTEND;TZID=Central Standard Time:20261019T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:3af17917670cc37d4154@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -257,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:[SD] South Dakota Public Utilities Commission Meeting
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5fa5f573da78dc870b53@psc-calendar
 CATEGORIES:SD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp
@@ -272,7 +239,7 @@ SUMMARY:[CO] V&R: Jan. 28-29\, 2027: Remote HRG: 25A-0539CP-EXT SKI TOWN T
  RANSPORTATION - 55991 - EXT\, ALJ Rosenberg
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:202c4e1d5edd9d56cdc9@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -285,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 10-20-2026
 DTSTART;TZID=America/New_York:20261020T093000
 DTEND;TZID=America/New_York:20261020T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:e3ff989e9031cd943dde@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -299,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] LOCAL TIME\, in the IURC Conference Center
 DTSTART;TZID=America/Indiana/Indianapolis:20261021T100000
 DTEND;TZID=America/Indiana/Indianapolis:20261021T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:dbe5cc693f05cba79e5d@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -312,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] Conference to be held on LOCAL TIME\, IURC Conference
 DTSTART;TZID=America/Indiana/Indianapolis:20261021T100000
 DTEND;TZID=America/Indiana/Indianapolis:20261021T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a188dc4914b6e5dca720@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -325,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261021T100000
 DTEND;TZID=America/New_York:20261021T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8ed1a8bbce605f3d312e@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -338,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261021T110000
 DTEND;TZID=America/New_York:20261021T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c95e53aa80931f392efb@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -352,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] 2026 Commission Meetings: October 21\, 2026
 DTSTART;TZID=America/Chicago:20261021T133000
 DTEND;TZID=America/Chicago:20261021T153000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:b820a64451deab60ed4f@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -367,7 +334,7 @@ SUMMARY:[CO] HRG: 26AL-0137E\, Public Service Company - AL 2018 - Tariff 8
   - Large Load\, C3 (TB)
 DTSTART:20261021T190000Z
 DTEND:20261021T230000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bfee6d90abbfbf5c5ea8@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -380,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:[NOLA] Nuisance Hearing - Oct 23\, 2026
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7ed79cb6c4537377b885@psc-calendar
 CATEGORIES:NOLA,Evidentiary Hearing
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
@@ -395,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] CY2026 Board Agenda Meeting Notice (Revised)
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:708611f0d30f05908602@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -412,7 +379,7 @@ SUMMARY:[IN] PETITION OF DUKE ENERGY INDIANA\, LLC FOR APPROVAL OF A CHANG
  NUE ADJUSTMENT FACTOR UNDER ITS TARIFF NO. 68 (Cause 42736-RTO62)
 DTSTART;TZID=America/Indiana/Indianapolis:20261026T093000
 DTEND;TZID=America/Indiana/Indianapolis:20261026T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:ddee2087e7c9c4f5b857@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -428,7 +395,7 @@ SUMMARY:[TX-RRC] *EASTLAND OPERATING\, LLC-DOCKET NOS. OG-26-00032301 et a
  l (CONTINUED)
 DTSTART;TZID=Central Standard Time:20261026T090000
 DTEND;TZID=Central Standard Time:20261026T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:777be59ecbb1efea5ba5@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -446,7 +413,7 @@ SUMMARY:[CO] HRG: 26AL-0137E\, Public Service Company - AL 2018 - Tariff 8
   - Large Load\, C3 (TB)
 DTSTART:20261026T150000Z
 DTEND:20261026T230000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c547be77357adb1296a4@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -462,7 +429,7 @@ SUMMARY:[IN] VERIFIED PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY
  ME‐LY RECOVER
 DTSTART;TZID=America/Indiana/Indianapolis:20261026T133000
 DTEND;TZID=America/Indiana/Indianapolis:20261026T153000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1a96718a465ac55ccee0@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -477,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] Commission meeting
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c1377915e577cb149956@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -496,7 +463,7 @@ SUMMARY:[IN] PETITION OF DUKE ENERGY INDIANA\, LLC FOR APPROVAL OF AN ADJU
  AD CONTROL P
 DTSTART;TZID=America/Indiana/Indianapolis:20261027T093000
 DTEND;TZID=America/Indiana/Indianapolis:20261027T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7fe48d870610e6185e63@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -512,7 +479,7 @@ SUMMARY:[CO] HRG: 26AL-0137E\, Public Service Company - AL 2018 - Tariff 8
   - Large Load\, C3 (JS)
 DTSTART:20261027T150000Z
 DTEND:20261027T230000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d95480ebf80edabeaaec@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -528,7 +495,7 @@ SUMMARY:[IN] PETITION OF INDIANA GAS COMPANY\, INC. D/B/A CENTERPOINT ENER
   NORTH AND ENTEK L
 DTSTART;TZID=America/Indiana/Indianapolis:20261027T133000
 DTEND;TZID=America/Indiana/Indianapolis:20261027T153000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2db82cbabf2ffc85695c@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -546,7 +513,7 @@ SUMMARY:[IN] PETITION OF OHIO VALLEY GAS CORP. AND OHIO VALLEY GAS\, INC.
  D 43208 AND TO
 DTSTART;TZID=America/Indiana/Indianapolis:20261028T090000
 DTEND;TZID=America/Indiana/Indianapolis:20261028T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:95b61e08b00f9c871a1b@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -563,7 +530,7 @@ SUMMARY:[IN] PETITION OF INDIANA MICHIGAN POWER COMPANY FOR APPROVAL OF TH
  ITH STEEL DYNAMICS\, INC (Cause 46455)
 DTSTART;TZID=America/Indiana/Indianapolis:20261028T093000
 DTEND;TZID=America/Indiana/Indianapolis:20261028T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8d2f8d8c2779cc517d76@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -578,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] LOCAL TIME\, in the IURC Conference Center
 DTSTART;TZID=America/Indiana/Indianapolis:20261028T100000
 DTEND;TZID=America/Indiana/Indianapolis:20261028T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:08a763e6df6b6466a9c7@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -591,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:[IN] Conference to be held on LOCAL TIME\, IURC
 DTSTART;TZID=America/Indiana/Indianapolis:20261028T100000
 DTEND;TZID=America/Indiana/Indianapolis:20261028T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2047ff9993eb0adc1825@psc-calendar
 CATEGORIES:IN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -604,7 +571,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261028T100000
 DTEND;TZID=America/New_York:20261028T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d756afb61bddd336dc51@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -617,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Regular Board Agenda Meetings
 DTSTART;TZID=America/New_York:20261028T100000
 DTEND;TZID=America/New_York:20261028T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a6865b30cd006dfef7e5@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -632,7 +599,7 @@ SUMMARY:[TX-RRC] *WATERBRIDGE TEXAS OPERATING LLC-DOCKET NO. OG-26-0003118
  8 (DISMISSED)
 DTSTART;TZID=Central Standard Time:20261028T090000
 DTEND;TZID=Central Standard Time:20261029T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:b415441efbcd9588bf10@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -651,7 +618,7 @@ SUMMARY:[IN] PETITION OF SOUTHERN INDIANA GAS AND ELECTRIC COMPANY D/B/A C
   OF THE COMMISS
 DTSTART;TZID=America/Indiana/Indianapolis:20261028T133000
 DTEND;TZID=America/Indiana/Indianapolis:20261028T153000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a59b69eaccaf5b361ffb@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -667,7 +634,7 @@ SUMMARY:[CO] HRG: 26AL-0137E\, Public Service Company - AL 2018 - Tariff 8
   - Large Load\, C3 (TB)
 DTSTART:20261028T190000Z
 DTEND:20261028T230000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5bd4d3ee1f8ef7ee5c37@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -682,7 +649,7 @@ SUMMARY:[IL] Public Utility Cover Letter Regular Open Meeting Agenda Publi
  nda Audio or Video Recording
 DTSTART;TZID=America/Chicago:20261029T113000
 DTEND;TZID=America/Chicago:20261029T133000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5de91668be62a6201909@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -700,7 +667,7 @@ SUMMARY:[UT] CONCLUDED 10/29/2026 Hearing (26-057-16\, Piceance III Proper
  ties as Wexpro II Property)
 DTSTART:20261030T150000Z
 DTEND:20261030T230000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:46114f78b6e724008cee@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -719,7 +686,7 @@ BEGIN:VEVENT
 SUMMARY:[TN] Conference and Hearing Audio (MP4 Format)
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:52d5526c59ff06d2f990@psc-calendar
 CATEGORIES:TN,Evidentiary Hearing
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Ev
@@ -735,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:[TN] Notice and Agenda for Commission Conference
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:728dcc4e7fab5fedd931@psc-calendar
 CATEGORIES:TN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op
@@ -755,7 +722,7 @@ SUMMARY:[IN] PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY\, LLC FOR
  D DECEMBER 20
 DTSTART;TZID=America/Indiana/Indianapolis:20261102T093000
 DTEND;TZID=America/Indiana/Indianapolis:20261102T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:56b145dc366587706f9f@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -773,7 +740,7 @@ SUMMARY:[IN] VERIFIED PETITION OF INDIANAPOLIS POWER & LIGHT COMPANY D/B/A
  (Cause 4362
 DTSTART;TZID=America/Indiana/Indianapolis:20261102T100000
 DTEND;TZID=America/Indiana/Indianapolis:20261102T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bb67de0b83a07bc9cdb5@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -788,7 +755,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 11-3-2026
 DTSTART;TZID=America/New_York:20261103T093000
 DTEND;TZID=America/New_York:20261103T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:195fae7fe7e5cabc25e4@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -803,7 +770,7 @@ SUMMARY:[CO] Remote HRG: 26AL-0137E\, Public Service Company - AL 2018 - T
  ariff 8 - Large Load\, C3 (TB)
 DTSTART:20261103T160000Z
 DTEND:20261104T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2c1c3f09635055e3e9eb@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -816,7 +783,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] 2026 Commission Meetings: November 3\, 2026
 DTSTART;TZID=America/Chicago:20261103T133000
 DTEND;TZID=America/Chicago:20261103T153000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:add0271f917cf1262ece@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -830,7 +797,7 @@ BEGIN:VEVENT
 SUMMARY:[SD] Agenda of Commission Meeting
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:3a1afbd319aa19c4350a@psc-calendar
 CATEGORIES:SD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Dakota Public Utilities Commission (SD)\nTyp
@@ -843,7 +810,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2026 Open Meeting Dates: November 4
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d745785f9bd23abdfc80@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -858,7 +825,7 @@ SUMMARY:[RI] PUC - Notice of Evidentiary Hearing & Notice of Settlement Ag
  \, 89 Jefferson Blvd\, Warwick\, Rhode Island
 DTSTART;TZID=America/New_York:20261104T093000
 DTEND;TZID=America/New_York:20261104T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:60a94000150e008c3e71@psc-calendar
 CATEGORIES:RI,Evidentiary Hearing
 DESCRIPTION:Commission: Rhode Island Public Utilities Commission (RI)\nTyp
@@ -873,7 +840,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261104T100000
 DTEND;TZID=America/New_York:20261104T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1315adf3938d5cf0d661@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -886,7 +853,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261104T110000
 DTEND;TZID=America/New_York:20261104T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f5811f63b8d650e7c157@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -901,7 +868,7 @@ SUMMARY:[IA] Docket No. PSA-2026-0001 | Open Meeting and Closed Session De
  liberation
 DTSTART:20261104T160000Z
 DTEND:20261104T170000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f1623f38c9a09186c92b@psc-calendar
 CATEGORIES:IA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Open Meeting
@@ -925,7 +892,7 @@ SUMMARY:[IA] Docket No. RPU-2023-0002 | Open Meeting and Closed Session De
  liberation
 DTSTART:20261104T170000Z
 DTEND:20261104T180000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5126bc5cfd7cffae20e1@psc-calendar
 CATEGORIES:IA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Open Meeting
@@ -951,7 +918,7 @@ SUMMARY:[IN] VERIFIED PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY
  ING AUTHORITY
 DTSTART;TZID=America/Indiana/Indianapolis:20261104T133000
 DTEND;TZID=America/Indiana/Indianapolis:20261104T153000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:03fff0e48223df5252cd@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -963,13 +930,32 @@ URL:https://www.in.gov/iurc/files/UPDATED%20Hearings List for wk of Novemb
  er 2, 2026.pdf
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[PA] Docket Number C-2026-3063542 Location Piatt Place 301 5th Ave
+ nue\, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery
+  (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Lindsay Cow
+ en
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20261107T155729Z
+UID:b11a7320d9d6fe612fdb@psc-calendar
+CATEGORIES:PA,Evidentiary Hearing
+DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
+  Evidentiary Hearing\n\nNovember 09\, 2026 Docket Number C-2026-3063542 Lo
+ cation Piatt Place 301 5th Avenue\, Suite 220 Pittsburgh PA 15222 Room: ms
+  teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Deliver
+ y/21 days) Judges: Lindsay Cowen\n\nSource: https://www.puc.pa.gov/about-t
+ he-puc/public-meetings-hearings/
+PRIORITY:5
+URL:https://www.puc.pa.gov/about-the-puc/public-meetings-hearings/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[PA] Docket Number C-2026-3064157 Location Judge Chambers 400 Nort
  h Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Deliv
  ery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: M. Jacki
  e Gross
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7a23cb929b27f68eddd3@psc-calendar
 CATEGORIES:PA,Evidentiary Hearing
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -988,7 +974,7 @@ SUMMARY:[PA] Docket Number C-2026-3061133 Location Judge Chambers 400 Nort
   Rhoades
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f273e8b48d759f1fb7a2@psc-calendar
 CATEGORIES:PA,Evidentiary Hearing
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -1004,7 +990,7 @@ BEGIN:VEVENT
 SUMMARY:[OH] Case No. 26-893-EL-CSS
 DTSTART;TZID=America/New_York:20261109T100000
 DTEND;TZID=America/New_York:20261109T100000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:fcd30ac54db519ead051@psc-calendar
 CATEGORIES:OH,Evidentiary Hearing
 DESCRIPTION:Commission: Public Utilities Commission of Ohio (OH)\nType: Ev
@@ -1015,13 +1001,51 @@ PRIORITY:5
 URL:https://puco.ohio.gov/agendas-and-hearings/hearing-schedule/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[PA] Docket Number F-2026-3063351 Location Piatt Place 301 5th Ave
+ nue\, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery
+  (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Jeffrey Wat
+ son
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261107T155729Z
+UID:86621c1a7b0101312dd5@psc-calendar
+CATEGORIES:PA,Evidentiary Hearing
+DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
+  Evidentiary Hearing\n\nNovember 10\, 2026 Docket Number F-2026-3063351 Lo
+ cation Piatt Place 301 5th Avenue\, Suite 220 Pittsburgh PA 15222 Room: ms
+  teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Deliver
+ y/21 days) Judges: Jeffrey Watson\n\nSource: https://www.puc.pa.gov/about-
+ the-puc/public-meetings-hearings/
+PRIORITY:5
+URL:https://www.puc.pa.gov/about-the-puc/public-meetings-hearings/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PA] Docket Number C-2026-3064306 Location Piatt Place 301 5th Ave
+ nue\, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery
+  (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Mark A Hoye
+ r
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261107T155729Z
+UID:1f2ecd8e7e94c798133f@psc-calendar
+CATEGORIES:PA,Evidentiary Hearing
+DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
+  Evidentiary Hearing\n\nNovember 10\, 2026 Docket Number C-2026-3064306 Lo
+ cation Piatt Place 301 5th Avenue\, Suite 220 Pittsburgh PA 15222 Room: ms
+  teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Deliver
+ y/21 days) Judges: Mark A Hoyer\n\nSource: https://www.puc.pa.gov/about-th
+ e-puc/public-meetings-hearings/
+PRIORITY:5
+URL:https://www.puc.pa.gov/about-the-puc/public-meetings-hearings/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[PA] Docket Number C-2025-3058265 Location Judge Chambers 400 Nort
  h Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Deliv
  ery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Erin Gan
  non
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:9c88ca2d996fdee84359@psc-calendar
 CATEGORIES:PA,Evidentiary Hearing
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -1034,10 +1058,28 @@ PRIORITY:5
 URL:https://www.puc.pa.gov/about-the-puc/public-meetings-hearings/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[PA] Docket Number F-2026-3063354 Location 801 Market Street 4th F
+ loor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Origina
+ l & 1 copy/e-File) (Regular Delivery/21 days) Judges: F Joseph Brady
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261107T155729Z
+UID:d09d9ac44ed4d8fb828c@psc-calendar
+CATEGORIES:PA,Evidentiary Hearing
+DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
+  Evidentiary Hearing\n\nNovember 10\, 2026 Docket Number F-2026-3063354 Lo
+ cation 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / 
+ virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days
+ ) Judges: F Joseph Brady\n\nSource: https://www.puc.pa.gov/about-the-puc/p
+ ublic-meetings-hearings/
+PRIORITY:5
+URL:https://www.puc.pa.gov/about-the-puc/public-meetings-hearings/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[CO] RESET (11.19.2026) PUC: Show Cause Hearing
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:63f8d5ca5e1abd05a863@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -1047,13 +1089,31 @@ PRIORITY:5
 URL:https://puc.colorado.gov/puccalendar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[PA] Docket Number C-2026-3062232 Location 801 Market Street 4th F
+ loor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Origina
+ l & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261107T155729Z
+UID:966f52d14ade537f541e@psc-calendar
+CATEGORIES:PA,Evidentiary Hearing
+DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
+  Evidentiary Hearing\n\nNovember 12\, 2026 Docket Number C-2026-3062232 Lo
+ cation 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / 
+ virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days
+ ) Judges: Eranda Vero\n\nSource: https://www.puc.pa.gov/about-the-puc/publ
+ ic-meetings-hearings/
+PRIORITY:5
+URL:https://www.puc.pa.gov/about-the-puc/public-meetings-hearings/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[PA] Docket Number F-2026-3064248 Location Judge Chambers 400 Nort
  h Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Deliv
  ery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: William 
  E. Angle
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bc4058d7c2480c8eda5e@psc-calendar
 CATEGORIES:PA,Evidentiary Hearing
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -1071,7 +1131,7 @@ SUMMARY:[PA] Docket Number R-2026-3061282 Location Judge Chambers 400 Nort
   & 1 copy/e-File) (Expedited Delivery/5 days) Judges: Barbara Shadie Nause
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5d4b29f4dac5261c05be@psc-calendar
 CATEGORIES:PA,Evidentiary Hearing
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -1084,13 +1144,69 @@ PRIORITY:5
 URL:https://www.puc.pa.gov/about-the-puc/public-meetings-hearings/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[PA] Docket Number C-2026-3064099 Location Piatt Place 301 5th Ave
+ nue\, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery
+  (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Ann Quimby
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261107T155729Z
+UID:b3f1848ce9178b2d67f5@psc-calendar
+CATEGORIES:PA,Evidentiary Hearing
+DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
+  Evidentiary Hearing\n\nNovember 12\, 2026 Docket Number C-2026-3064099 Lo
+ cation Piatt Place 301 5th Avenue\, Suite 220 Pittsburgh PA 15222 Room: ms
+  teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Deliver
+ y/21 days) Judges: Ann Quimby\n\nSource: https://www.puc.pa.gov/about-the-
+ puc/public-meetings-hearings/
+PRIORITY:5
+URL:https://www.puc.pa.gov/about-the-puc/public-meetings-hearings/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PA] Docket Number C-2026-3066398 Location Piatt Place 301 5th Ave
+ nue\, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery
+  (Original & 1 copy/e-File) (Expedited Delivery/3 days) Judges: Mark A Hoy
+ er Lindsay Cowen
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261107T155729Z
+UID:a48842b95af6734ab753@psc-calendar
+CATEGORIES:PA,Evidentiary Hearing
+DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
+  Evidentiary Hearing\n\nNovember 12\, 2026 Docket Number C-2026-3066398 Lo
+ cation Piatt Place 301 5th Avenue\, Suite 220 Pittsburgh PA 15222 Room: ms
+  teams / virtual Copy Delivery (Original & 1 copy/e-File) (Expedited Deliv
+ ery/3 days) Judges: Mark A Hoyer Lindsay Cowen\n\nSource: https://www.puc.
+ pa.gov/about-the-puc/public-meetings-hearings/
+PRIORITY:5
+URL:https://www.puc.pa.gov/about-the-puc/public-meetings-hearings/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PA] Docket Number P-2026-3066399 Location Piatt Place 301 5th Ave
+ nue\, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery
+  (Original & 1 copy/e-File) (Expedited Delivery/3 days) Judges: Lindsay Co
+ wen Mark A Hoyer
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261107T155729Z
+UID:0a75aa098a9c487430ce@psc-calendar
+CATEGORIES:PA,Evidentiary Hearing
+DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
+  Evidentiary Hearing\n\nNovember 12\, 2026 Docket Number P-2026-3066399 Lo
+ cation Piatt Place 301 5th Avenue\, Suite 220 Pittsburgh PA 15222 Room: ms
+  teams / virtual Copy Delivery (Original & 1 copy/e-File) (Expedited Deliv
+ ery/3 days) Judges: Lindsay Cowen Mark A Hoyer\n\nSource: https://www.puc.
+ pa.gov/about-the-puc/public-meetings-hearings/
+PRIORITY:5
+URL:https://www.puc.pa.gov/about-the-puc/public-meetings-hearings/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[IN] APPLICATION OF INDIANAPOLIS POWER & LIGHT COMPANY D/B/A AES I
  NDIANA FOR APPROVAL OF A FUEL COST FACTOR FOR ELECTRIC SERVICE DURING THE 
  BILLING MONTHS OF DECEMBER 2026\, JANUARY 2027\, AND FEBRUARY 2027 IN ACCO
  RDANCE WITH T
 DTSTART;TZID=America/Indiana/Indianapolis:20261112T090000
 DTEND;TZID=America/Indiana/Indianapolis:20261112T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:68bfaa1b082028c403c6@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -1108,7 +1224,7 @@ SUMMARY:[IN] VERIFIED PETITION OF INDIANA GAS COMPANY\, INC. D/B/A CENTERP
  Cause 37394-GCA1
 DTSTART;TZID=America/Indiana/Indianapolis:20261112T093000
 DTEND;TZID=America/Indiana/Indianapolis:20261112T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:94274aba22295335c362@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -1126,7 +1242,7 @@ SUMMARY:[IN] VERIFIED PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY
  ARY 1\, 2027 A
 DTSTART;TZID=America/Indiana/Indianapolis:20261112T103000
 DTEND;TZID=America/Indiana/Indianapolis:20261112T123000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f80867c397585cd6ebad@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -1142,7 +1258,7 @@ SUMMARY:[CO] HRG: 26F-0242CP Roman Lysenko v Event Transportation Brokers
  \, LLC\, ALJ Rosenberg (JS)
 DTSTART:20261112T160000Z
 DTEND:20261113T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4fe091250208df88a17f@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -1155,7 +1271,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Hearing for T24-0034
 DTSTART;TZID=America/Chicago:20261112T100000
 DTEND;TZID=America/Chicago:20261112T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:9cf1547be96c745113d3@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -1170,7 +1286,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Work Session Legislative Discussion
 DTSTART;TZID=America/Chicago:20261112T100000
 DTEND;TZID=America/Chicago:20261112T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4884a3d31383b2e9603b@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -1184,7 +1300,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Hearing for 25-0990
 DTSTART;TZID=America/Chicago:20261112T110000
 DTEND;TZID=America/Chicago:20261112T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4a5c61830a85ca756e90@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -1198,7 +1314,7 @@ BEGIN:VEVENT
 SUMMARY:[OR] Docket UM 2436 - PURPA AVOIDED COSTS STANDARDIZED WORKBOOKS
 DTSTART;TZID=America/Los_Angeles:20261112T093000
 DTEND;TZID=America/Los_Angeles:20261112T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:13fd9f3b2c3662fbbde8@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -1213,7 +1329,7 @@ BEGIN:VEVENT
 SUMMARY:[IL] Illinois Commerce Commission Hearing for T26-0053
 DTSTART;TZID=America/Chicago:20261112T130000
 DTEND;TZID=America/Chicago:20261112T150000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f60a569ecff9c2ef6755@psc-calendar
 CATEGORIES:IL,Evidentiary Hearing
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
@@ -1231,7 +1347,7 @@ SUMMARY:[IN] APPLICATION OF WESTFIELD GAS\, LLC D/B/A CITIZENS GAS OF WEST
   2026\, this he
 DTSTART;TZID=America/Indiana/Indianapolis:20261112T140000
 DTEND;TZID=America/Indiana/Indianapolis:20261112T160000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:40ffcaf4129861ced56b@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -1249,7 +1365,7 @@ SUMMARY:[IN] PETITION OF THE BOARD OF DIRECTORS FOR UTILITIES OF THE DEPAR
  BE APPLICABLE
 DTSTART;TZID=America/Indiana/Indianapolis:20261112T143000
 DTEND;TZID=America/Indiana/Indianapolis:20261112T163000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:e657afa12ea4ec7d4328@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -1267,7 +1383,7 @@ SUMMARY:[PA] Docket Number P-2026-3064927 Location Judge Chambers 400 Nort
  iodo
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bf3572f363faa34c5beb@psc-calendar
 CATEGORIES:PA,Evidentiary Hearing
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -1280,12 +1396,68 @@ PRIORITY:5
 URL:https://www.puc.pa.gov/about-the-puc/public-meetings-hearings/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0673
+DTSTART;TZID=America/Chicago:20261113T100000
+DTEND;TZID=America/Chicago:20261113T120000
+DTSTAMP:20261107T155729Z
+UID:ef27d00a0ed1b2029ef6@psc-calendar
+CATEGORIES:IL,Evidentiary Hearing
+DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
+ ry Hearing\n\nNov - 2026 13 Illinois Commerce Commission Prehearing for 26
+ -0673 November 13\, 2026 10:00 AM\n\nSource: https://www.icc.illinois.gov/
+ meetings/meeting/hearing/151603
+PRIORITY:5
+URL:https://www.icc.illinois.gov/meetings/meeting/hearing/151603
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0679
+DTSTART;TZID=America/Chicago:20261113T100000
+DTEND;TZID=America/Chicago:20261113T120000
+DTSTAMP:20261107T155729Z
+UID:6bb1d2a49e3dc409f86c@psc-calendar
+CATEGORIES:IL,Evidentiary Hearing
+DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
+ ry Hearing\n\nNov - 2026 13 Illinois Commerce Commission Prehearing for 26
+ -0679 November 13\, 2026 10:00 AM\n\nSource: https://www.icc.illinois.gov/
+ meetings/meeting/hearing/151573
+PRIORITY:5
+URL:https://www.icc.illinois.gov/meetings/meeting/hearing/151573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0763
+DTSTART;TZID=America/Chicago:20261113T110000
+DTEND;TZID=America/Chicago:20261113T130000
+DTSTAMP:20261107T155729Z
+UID:389c5b2259bd07e5fe0a@psc-calendar
+CATEGORIES:IL,Evidentiary Hearing
+DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
+ ry Hearing\n\nNov - 2026 13 Illinois Commerce Commission Prehearing for 26
+ -0763 November 13\, 2026 11:00 AM\n\nSource: https://www.icc.illinois.gov/
+ meetings/meeting/hearing/151604
+PRIORITY:5
+URL:https://www.icc.illinois.gov/meetings/meeting/hearing/151604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IL] Illinois Commerce Commission Prehearing for 26-0563
+DTSTART;TZID=America/Chicago:20261113T113000
+DTEND;TZID=America/Chicago:20261113T133000
+DTSTAMP:20261107T155729Z
+UID:abc872ec8dcffce1495d@psc-calendar
+CATEGORIES:IL,Evidentiary Hearing
+DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Evidentia
+ ry Hearing\n\nNov - 2026 13 Illinois Commerce Commission Prehearing for 26
+ -0563 November 13\, 2026 11:30 AM\n\nSource: https://www.icc.illinois.gov/
+ meetings/meeting/hearing/151559
+PRIORITY:5
+URL:https://www.icc.illinois.gov/meetings/meeting/hearing/151559
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[IN] APPLICATION OF WESTFIELD GAS\, LLC D/B/A CITIZENS GAS OF WEST
  FIELD FOR A CHANGE IN ITS GAS COST ADJUSTMENT CHARGE FOR THE PERIOD DECEMB
  ER 2026\, JANUARY AND FEBRUARY 2027 (Cause 37389-GCA148)
 DTSTART;TZID=America/Indiana/Indianapolis:20261113T140000
 DTEND;TZID=America/Indiana/Indianapolis:20261113T160000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2c88a1c20211df218138@psc-calendar
 CATEGORIES:IN,Evidentiary Hearing
 DESCRIPTION:Commission: Indiana Utility Regulatory Commission (IN)\nType: 
@@ -1301,7 +1473,7 @@ SUMMARY:[MD] To participate in the hearing\, email: kimberly.schock@maryla
  nd.gov by 12:00 noon on
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d87a415d3f187d1a8bce@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -1317,7 +1489,7 @@ SUMMARY:[VA] PUR-2026-00021 - Application of Dominion Energy Virginia for
  ranch-Morrisville Line #2464\; Expanded 
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d18e9c929ebcafcf12dd@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -1334,7 +1506,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *JAY MANAGEMENT COMPANY\, LLC-DOCKET NO.OG-26-00030866
 DTSTART;TZID=Central Standard Time:20261116T090000
 DTEND;TZID=Central Standard Time:20261116T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a9a95526d7255edd90d9@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -1351,7 +1523,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *ENERGY TRANSFER FUEL\, LP-DOCKET NO. OS-26-00031047
 DTSTART;TZID=Central Standard Time:20261116T090000
 DTEND;TZID=Central Standard Time:20261120T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:e1f948abfe557bd8e13b@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -1367,7 +1539,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Hearing - CASD No. 2026-V-00073
 DTSTART;TZID=America/New_York:20261116T130000
 DTEND;TZID=America/New_York:20261116T150000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1fe1e59805c078f37be9@psc-calendar
 CATEGORIES:ME,Evidentiary Hearing
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
@@ -1383,7 +1555,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. RC-25-258 BNI Coal
  \, Ltd. Revision 13\, BNCR-1101 Application
 DTSTART;TZID=America/Chicago:20261116T170000
 DTEND;TZID=America/Chicago:20261116T190000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:efab53e2224d01a4b053@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -1399,7 +1571,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. PU-26-314 Northern
   States Power Company Transmission Facility Cost Recovery (2027) Rates
 DTSTART;TZID=America/Chicago:20261116T170000
 DTEND;TZID=America/Chicago:20261116T190000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:740f767ac879882d7e40@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -1417,7 +1589,7 @@ SUMMARY:[VA] PUR-2026-00112 - Joint Petition of Dominion Energy\, Inc.\, V
  ublic utility
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:09583d3251fc5316d085@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -1433,7 +1605,7 @@ BEGIN:VEVENT
 SUMMARY:[MS] Notice of meeting
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:6fcc82f3fe9d907019fc@psc-calendar
 CATEGORIES:MS,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Mississippi Public Service Commission (MS)\nType: 
@@ -1449,7 +1621,7 @@ SUMMARY:[TX-RRC] RRC open meeting (conference): November 17\, 2026 (Tuesda
  y)
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:0b9330b8fffe6a07c463@psc-calendar
 CATEGORIES:TX-RRC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Open 
@@ -1459,25 +1631,11 @@ PRIORITY:5
 URL:https://www.rrc.texas.gov/general-counsel/open-meetings/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CO] V & R (12.17.2026): Remote: HRG: Pro. No. 26G-0229TO\, 145829
-  - CPAN - Park it Right\, Inc\, ALJ Farley
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20261106T165902Z
-UID:e3ddf8ea1f0d51719ffd@psc-calendar
-CATEGORIES:CO,Evidentiary Hearing
-DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
- videntiary Hearing\n\nSource: https://puc.colorado.gov/puccalendar
-LOCATION:Remote / HR A
-PRIORITY:5
-URL:https://puc.colorado.gov/puccalendar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[CO] V&R 02/03/27: Continued HRG: 21A-0416R Greeley - UPRR -13th S
  treet - dsgn/constr safety improvments\, ALJ Mirbaba
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:51b65b877d72ebab3bfc@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -1487,10 +1645,24 @@ PRIORITY:5
 URL:https://puc.colorado.gov/puccalendar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CO] V & R (12.17.2026): Remote: HRG: Pro. No. 26G-0229TO\, 145829
+  - CPAN - Park it Right\, Inc\, ALJ Farley
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261107T155729Z
+UID:e3ddf8ea1f0d51719ffd@psc-calendar
+CATEGORIES:CO,Evidentiary Hearing
+DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
+ videntiary Hearing\n\nSource: https://puc.colorado.gov/puccalendar
+LOCATION:Remote / HR A
+PRIORITY:5
+URL:https://puc.colorado.gov/puccalendar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[FL] Internal Affairs - Prehearing immediately following
 DTSTART;TZID=America/New_York:20261117T090000
 DTEND;TZID=America/New_York:20261117T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:58014f722b11fd1ef188@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -1503,7 +1675,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 11-17-2026
 DTSTART;TZID=America/New_York:20261117T093000
 DTEND;TZID=America/New_York:20261117T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:db0284c301a3ab5b8469@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -1519,7 +1691,7 @@ SUMMARY:[RI] PUC - Notice of Evidentiary Hearing - Tuesday November 17\, 2
  ode Island
 DTSTART;TZID=America/New_York:20261117T093000
 DTEND;TZID=America/New_York:20261117T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:50b8a8f5e019ec84e759@psc-calendar
 CATEGORIES:RI,Evidentiary Hearing
 DESCRIPTION:Commission: Rhode Island Public Utilities Commission (RI)\nTyp
@@ -1537,7 +1709,7 @@ SUMMARY:[NC] Public and Expert Witness Hearing: Application of Virginia El
  eport and Cost Recovery Rider
 DTSTART;TZID=America/New_York:20261117T100000
 DTEND;TZID=America/New_York:20261117T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:02bdc386d36a5e2ff373@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -1558,7 +1730,7 @@ SUMMARY:[FL] Prehearing: 20260143-EI — Petition for determination of nee
  ties\, by Duke Energy Florida\, LLC
 DTSTART;TZID=America/New_York:20261117T110000
 DTEND;TZID=America/New_York:20261117T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:89db5553d10d1c5ccf8f@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -1572,7 +1744,7 @@ SUMMARY:[NE] 17 Nov Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20261117T160000Z
 DTEND:20261117T180000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:346337d077ed42fec165@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -1585,7 +1757,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing on General Rate Case (26-2666-01\, Corix GRC)
 DTSTART:20261117T160000Z
 DTEND:20261118T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4682c68c53879ad99fd5@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -1604,7 +1776,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Final Hearing in Madison Electric Works Ch. 307 Rate Case
 DTSTART;TZID=America/New_York:20261117T113000
 DTEND;TZID=America/New_York:20261117T133000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:788af9f36e923c0b7b8d@psc-calendar
 CATEGORIES:ME,Evidentiary Hearing
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
@@ -1621,7 +1793,7 @@ SUMMARY:[NE] 17 Nov Hearing – GW/GD-2026-002 – Grain Fee Updates Locat
  ion: Commission Hearing Room 11:00am
 DTSTART:20261117T170000Z
 DTEND:20261117T190000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:70ee9620c72b0d59818a@psc-calendar
 CATEGORIES:NE,Evidentiary Hearing
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
@@ -1634,7 +1806,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Special Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261117T130000
 DTEND;TZID=America/New_York:20261117T150000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5f45e4f70c9b3bef5664@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
@@ -1650,7 +1822,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Merrick Public Statement He
  arin...
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bf5077055f29ee95796c@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -1668,7 +1840,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Lynbrook Public Statement H
  eari...
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d2488673135a9cb5fc7c@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -1686,7 +1858,7 @@ SUMMARY:[CO] V&R 02/04/27: Continued HRG: 21A-0416R Greeley - UPRR -13th S
  treet - dsgn/constr safety improvments\, ALJ Mirbaba
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:0220ffcf09e99d54e3cb@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -1699,7 +1871,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Business and Executive Session
 DTSTART;TZID=America/Chicago:20261118T090000
 DTEND;TZID=America/Chicago:20261118T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8094c419bb6d141cd6bd@psc-calendar
 CATEGORIES:LA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Op
@@ -1713,7 +1885,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261118T100000
 DTEND;TZID=America/New_York:20261118T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:707db444255208982309@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -1728,7 +1900,7 @@ SUMMARY:[NC] Expert Witness Hearing: Application of Virginia Electric and
  es and Charges Applicable to Electric Service In North Carolina
 DTSTART;TZID=America/New_York:20261118T100000
 DTEND;TZID=America/New_York:20261118T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5e0cb70fe2d21131dce5@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -1747,7 +1919,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *WES WATER HOLDINGS LLC-DOCKET NO. OG-26-00032562
 DTSTART;TZID=Central Standard Time:20261118T090000
 DTEND;TZID=Central Standard Time:20261119T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:e5df4c3e4f81fba60425@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -1764,7 +1936,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *INCENDIUM RESOURCES LLC-DOCKET NO. OG-26-00032250
 DTSTART;TZID=Central Standard Time:20261118T090000
 DTEND;TZID=Central Standard Time:20261120T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d641bf66c9768f8ddb0e@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -1781,7 +1953,7 @@ SUMMARY:[CO] Remote: HRG: Pro. No. 26A-0173E\, Black Hills Colorado Electr
  ic - 2027-2029 EV Plan\, ALJ Garvey
 DTSTART;TZID=America/Denver:20261118T090000
 DTEND;TZID=America/Denver:20261118T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:ca6621ef4b01c79624a8@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -1794,7 +1966,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261118T110000
 DTEND;TZID=America/New_York:20261118T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bafe59efad307ffc955a@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -1808,7 +1980,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261118T100000
 DTEND;TZID=America/Chicago:20261118T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:57e86c19d24093ba7fba@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -1822,7 +1994,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing on General Rate Case (26-2666-01\, Corix GRC)
 DTSTART:20261118T160000Z
 DTEND:20261119T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bf87223404d3beb16165@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -1841,7 +2013,7 @@ BEGIN:VEVENT
 SUMMARY:[MO] Agenda Meeting ( Room 310 and via WebEx)
 DTSTART;TZID=America/Chicago:20261118T110000
 DTEND;TZID=America/Chicago:20261118T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7f5dc037f8d7ce6ee996@psc-calendar
 CATEGORIES:MO,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Missouri Public Service Commission (MO)\nType: Ope
@@ -1855,7 +2027,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Special Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261118T130000
 DTEND;TZID=America/New_York:20261118T150000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:3d2f0bd5975885cfad9e@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
@@ -1870,7 +2042,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] 2026 Commission Meetings: October 14\, 2026
 DTSTART;TZID=America/Chicago:20261118T133000
 DTEND;TZID=America/Chicago:20261118T153000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bf2db2973de34134fd29@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -1884,7 +2056,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] UNAVAILABLE
 DTSTART;TZID=Central Standard Time:20261118T133000
 DTEND;TZID=Central Standard Time:20261118T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:00112a7c1f20c8657318@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -1898,7 +2070,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Work Session Legislative Discussion
 DTSTART;TZID=America/Chicago:20261118T150000
 DTEND;TZID=America/Chicago:20261118T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a21f1cba64d0658344ab@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -1912,7 +2084,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] NOVEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7fb30086e9fc1c74a1c3@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -1930,7 +2102,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Ellenville Public Statement
   Hea...
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d1d5878b6da482c37423@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -1948,7 +2120,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Brewster Public Statement H
  eari...
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:28f1357d6350a342c7ab@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -1965,7 +2137,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - November 19\, 2026
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f6bff6115c3748e0acbd@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -1979,7 +2151,7 @@ SUMMARY:[PA] Next Public Meeting: Thursday\, November 19\, 2026 View 2026-
  2027 Meeting Schedule (PDF)
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:282ffa7c45fed72974e7@psc-calendar
 CATEGORIES:PA,Evidentiary Hearing
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -1992,7 +2164,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, November 19\, 2026
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c8399b7ddf765d33089c@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -2007,7 +2179,7 @@ SUMMARY:[CA] 2026 Voting Meetings: 11/19/2026 California State Personnel B
  oard’s Auditorium 801 Capitol Mall\, Sacramento\, CA 95814
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:eb60902b05fa9b532be7@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -2023,7 +2195,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261119T100000
 DTEND;TZID=America/Chicago:20261119T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8fb5b885aee562d9d7c8@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
@@ -2038,7 +2210,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing on General Rate Case (26-2666-01\, Corix GRC)
 DTSTART:20261119T160000Z
 DTEND:20261120T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bb63955c030e784b1ee4@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -2058,7 +2230,7 @@ SUMMARY:[NM] Sandoval County Administrative Office\, 1500 Idalia Road\, Bl
  dg. D.\,Bernalillo
 DTSTART;TZID=America/Denver:20261119T100000
 DTEND;TZID=America/Denver:20261119T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:9b554c6a29b9b5f7dcda@psc-calendar
 CATEGORIES:NM,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -2073,7 +2245,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261119T113000
 DTEND;TZID=America/Chicago:20261119T133000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:aa47d12bef7db13edb0d@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -2089,7 +2261,7 @@ SUMMARY:[OR] Docket AR 681 - MICROGRID FRAMEWORKS (HB 2065 & HB 2066 IMPLE
  MENTATION)
 DTSTART;TZID=America/Los_Angeles:20261119T093000
 DTEND;TZID=America/Los_Angeles:20261119T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:357ea0b7b80835245b97@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -2104,7 +2276,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] CPUC Voting Meeting 11-19-26
 DTSTART;TZID=America/Los_Angeles:20261119T110000
 DTEND;TZID=America/Los_Angeles:20261119T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7a3171cd2dd36892cf60@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -2120,7 +2292,7 @@ BEGIN:VEVENT
 SUMMARY:[CO] PUC: Show Cause Hearing
 DTSTART:20261119T190000Z
 DTEND:20261119T210000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:571f29015c8f750c8347@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -2133,7 +2305,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 25-117 - DPU - Investigation
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:ce1aba62eb9884dcd035@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -2148,7 +2320,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Hearing - CASD No. 2026-V-00118
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:603064eb961aa3aa1236@psc-calendar
 CATEGORIES:ME,Evidentiary Hearing
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
@@ -2163,7 +2335,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Regular Board Agenda Meetings
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:47b19be3a2a46aba06de@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -2177,7 +2349,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *WES WATER HOLDINGS LLC-DOCKET NO. OG-26-00032090
 DTSTART;TZID=Central Standard Time:20261120T133000
 DTEND;TZID=Central Standard Time:20261120T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f0af1903eaa291b2c199@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2194,7 +2366,7 @@ SUMMARY:[TX-RRC] *SPICEWOOD OPERATING COMPANY\, LLC-DOCKET NO. OG-26-00033
  218
 DTSTART;TZID=Central Standard Time:20261120T133000
 DTEND;TZID=Central Standard Time:20261120T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:04e4e19ddc106d51196c@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2212,7 +2384,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. PU-26-213 Badger C
  ommunications LLC Designated Eligible Carrier Application
 DTSTART;TZID=America/Chicago:20261120T170000
 DTEND;TZID=America/Chicago:20261120T190000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2c1c23c683fa851da52c@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -2227,7 +2399,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 26-90 - DPU - Rulemaking
 DTSTART;TZID=America/New_York:20261123T100000
 DTEND;TZID=America/New_York:20261123T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:529c2a2fe17258bd9ca7@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -2243,7 +2415,7 @@ SUMMARY:[TX-RRC] *SOLARIS WATER MIDSTREAM\, LLC-DOCKET NO. OG-26-00032101
  ET AL
 DTSTART;TZID=Central Standard Time:20261123T090000
 DTEND;TZID=Central Standard Time:20261124T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:6bc055636edaade042a0@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2260,7 +2432,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] 2026 Commission Meetings: October 21\, 2026
 DTSTART;TZID=America/Chicago:20261123T133000
 DTEND;TZID=America/Chicago:20261123T153000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a512d1794b50cbba5aea@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -2274,7 +2446,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting (Virtual)
 DTSTART;TZID=America/New_York:20261124T100000
 DTEND;TZID=America/New_York:20261124T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:788e7dda4de870dfef55@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -2287,7 +2459,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] NEM Successor Program Virtual Hearing (PC 78)
 DTSTART;TZID=America/New_York:20261124T100000
 DTEND;TZID=America/New_York:20261124T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:cb977f723f6170a53f87@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -2300,7 +2472,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261124T100000
 DTEND;TZID=America/Chicago:20261124T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c68d9736a2c9a78a5bc7@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
@@ -2316,7 +2488,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261124T113000
 DTEND;TZID=America/Chicago:20261124T133000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5efc093cc79c4996f19e@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -2331,7 +2503,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/22-26
 DTSTART;TZID=America/Los_Angeles:20261124T100000
 DTEND;TZID=America/Los_Angeles:20261124T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f5ad25655f2af9a0fcee@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -2345,7 +2517,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20261125T093000
 DTEND;TZID=America/Los_Angeles:20261125T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:9e484c6990051c0fdee1@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -2358,7 +2530,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Thursday\, November 26\, 2026 HOLIDAY: Thanksgiving
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:b5fa83e82232440fbe6e@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -2371,7 +2543,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] RRC CLOSED
 DTSTART;TZID=Central Standard Time:20261126T080000
 DTEND;TZID=Central Standard Time:20261126T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1dd76bdd5c39b935e0f4@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2384,7 +2556,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Friday\, November 27\, 2026 HOLIDAY: Thanksgiving
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:18b6661df86d907d5b47@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -2397,7 +2569,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] RRC CLOSED
 DTSTART;TZID=Central Standard Time:20261127T080000
 DTEND;TZID=Central Standard Time:20261127T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8558f6f45edb9bfcc3a6@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2411,7 +2583,7 @@ SUMMARY:[TX-RRC] *SOLUTIONS PROJECTS AND CONSULTING\, LLC -DOCKET NO. OG-2
  6-00032046
 DTSTART;TZID=Central Standard Time:20261130T090000
 DTEND;TZID=Central Standard Time:20261130T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:6f10b2accb2644919e83@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2428,7 +2600,7 @@ SUMMARY:[CO] HRG: 26F-0341EG Linda Thompson V. Public Service Co. - Formal
   Complaint\, ALJ
 DTSTART:20261130T160000Z
 DTEND:20261130T200000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:606a5a1adc2eb6dd1856@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -2442,7 +2614,7 @@ SUMMARY:[TX-RRC] *ZONE RIDGE OPERATING\, LLC-DOCKET NOS. OG-26-00032460 AN
  D OG-26-00033249
 DTSTART;TZID=Central Standard Time:20261130T133000
 DTEND;TZID=Central Standard Time:20261130T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:42c2d119445236c846b9@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2459,7 +2631,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *OSO EXPLORATION & PROD\, LLC-DOCKET NO. OG-26-00032921
 DTSTART;TZID=Central Standard Time:20261130T133000
 DTEND;TZID=Central Standard Time:20261130T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1cf63a935ff38dab0716@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2475,7 +2647,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 12-1-2026
 DTSTART;TZID=America/New_York:20261201T093000
 DTEND;TZID=America/New_York:20261201T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7926cc6a5b893410d4ed@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -2489,7 +2661,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *EOG RESOURCES\, INC.-DOCKET NO. OG-26-00030701
 DTSTART;TZID=Central Standard Time:20261201T090000
 DTEND;TZID=Central Standard Time:20261202T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c6465b6037268fdd1a58@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2506,7 +2678,7 @@ SUMMARY:[TX-RRC] *PILOT WATER GATH DELAWARE LLC-DOCKET NOS. OG-26-00032204
   AND OG-26-00032705 (DISMISSED)
 DTSTART;TZID=Central Standard Time:20261201T090000
 DTEND;TZID=Central Standard Time:20261203T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f608679304da79c2333f@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2522,7 +2694,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: T-38110
 DTSTART;TZID=America/Chicago:20261201T093000
 DTEND;TZID=America/Chicago:20261201T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c41ca0f044b681c706b5@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -2536,7 +2708,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: T-38111
 DTSTART;TZID=America/Chicago:20261201T093000
 DTEND;TZID=America/Chicago:20261201T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:54aee6130cbab25f0064@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -2550,7 +2722,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: T-38112
 DTSTART;TZID=America/Chicago:20261201T093000
 DTEND;TZID=America/Chicago:20261201T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:ca09e9a2e4c6754773fa@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -2564,7 +2736,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: T-38113
 DTSTART;TZID=America/Chicago:20261201T093000
 DTEND;TZID=America/Chicago:20261201T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f02cdc1e6045586cbe74@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -2578,7 +2750,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: T-38083
 DTSTART;TZID=America/Chicago:20261201T093000
 DTEND;TZID=America/Chicago:20261201T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f6f063bef2afd5598374@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -2593,7 +2765,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Virtual Public Statement He
  arin...
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c09ed64f040cf5b31381@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -2612,7 +2784,7 @@ SUMMARY:[VA] PUR-2026-00050 - Application of Dominion Energy Virginia for
  ild Project (Evidentiary proceeding)
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:0f398b3dbe5be4bf29b3@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -2627,7 +2799,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2026 Open Meeting Dates: December 2
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d431db2eb660c4e6238e@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -2640,7 +2812,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261202T100000
 DTEND;TZID=America/New_York:20261202T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:9ec5ffd85ba3cefeec2a@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -2653,7 +2825,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *APACHE CORPORATION-DOCKET NO. OG-26-00033482
 DTSTART;TZID=Central Standard Time:20261202T090000
 DTEND;TZID=Central Standard Time:20261202T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:084c73b17b1865c94ec3@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2671,7 +2843,7 @@ SUMMARY:[CO] Remote HRG: Pro. No. 26A-0262E\, Public Service Company - 202
  5 WMP Prudence Review\, ALJ Rosenberg
 DTSTART;TZID=America/Denver:20261202T090000
 DTEND;TZID=America/Denver:20261202T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:167552d78b72c0421321@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -2684,7 +2856,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261202T110000
 DTEND;TZID=America/New_York:20261202T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:b3b7c0e99dc34e10ac59@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -2698,7 +2870,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] 2026 Commission Meetings: November 3\, 2026
 DTSTART;TZID=America/Chicago:20261202T133000
 DTEND;TZID=America/Chicago:20261202T153000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:fa9de04f5c5592828966@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -2712,7 +2884,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *LIBERTY BELL STORAGE HUB LLC-DOCKET NO. OG-26-00032965
 DTSTART;TZID=Central Standard Time:20261202T133000
 DTEND;TZID=Central Standard Time:20261202T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c615a6c748f7c823a483@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2730,7 +2902,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. PU-26-318 Northern
   States Power Company Renewable Resource Cost Recovery (2027) Rates
 DTSTART;TZID=America/Chicago:20261202T170000
 DTEND;TZID=America/Chicago:20261202T190000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:0b05fc2de2dd70ead9b6@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -2745,7 +2917,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - December 03\, 2026
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:74532ff4d2bf678644fa@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -2758,7 +2930,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, December 3\, 2026
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:dafe0177f0fddbc5be57@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -2773,7 +2945,7 @@ SUMMARY:[CA] 2026 Voting Meetings: 12/03/2026 California State Personnel B
  oard’s Auditorium 801 Capitol Mall\, Sacramento\, CA 95814
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8ab15fd79a46546e7ae6@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -2790,7 +2962,7 @@ SUMMARY:[TX-RRC] *KODIAK OPERATING\, LLC-DOCKET NOS. OG-26-00032478 AND OG
  -26-00032480 (DISMISSED)
 DTSTART;TZID=Central Standard Time:20261203T090000
 DTEND;TZID=Central Standard Time:20261203T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a650887a53b31f091b2e@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2807,7 +2979,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *WEST TEXAS GAS UTILITY\, LLC-DOCKET NO. OS-26-00032987
 DTSTART;TZID=Central Standard Time:20261203T090000
 DTEND;TZID=Central Standard Time:20261203T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:710a734214e3cde568cd@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2824,7 +2996,7 @@ BEGIN:VEVENT
 SUMMARY:[NM] State Capitol Building\, Room 309\, Santa Fe
 DTSTART;TZID=America/Denver:20261203T100000
 DTEND;TZID=America/Denver:20261203T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:98dc0e5372d2a5701482@psc-calendar
 CATEGORIES:NM,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -2840,7 +3012,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20261203T113000
 DTEND;TZID=America/Chicago:20261203T133000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:cafda7ce832b654d305c@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -2855,7 +3027,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] CPUC Voting Meeting 12-03-26
 DTSTART;TZID=America/Los_Angeles:20261203T110000
 DTEND;TZID=America/Los_Angeles:20261203T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:053e131fa941a5a72765@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -2871,7 +3043,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261203T133000
 DTEND;TZID=America/Chicago:20261203T153000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:3df1a1b5666a0df3273f@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -2885,7 +3057,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *GOLDSTON OIL CORPORATION-DOCKET NO. OG-26-00033561
 DTSTART;TZID=Central Standard Time:20261204T090000
 DTEND;TZID=Central Standard Time:20261204T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1a5255bf790a97285a23@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2903,7 +3075,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. PU-26-310 Otter Ta
  il Power Company Transmission Facility Cost Recovery (2027) Rates
 DTSTART;TZID=America/Chicago:20261205T170000
 DTEND;TZID=America/Chicago:20261205T190000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:700030e58eb21790e137@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -2921,7 +3093,7 @@ SUMMARY:[NM] Docket 26-0000133 – El Paso Electric Application for Approv
  he proceeding via livestream or watch it
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:ed49148986df6119a90f@psc-calendar
 CATEGORIES:NM,Evidentiary Hearing
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -2931,27 +3103,11 @@ PRIORITY:5
 URL:https://www.prc.nm.gov/public-hearings/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[TX-RRC] *ENERGY TRANSFER FUEL\, LP-DOCKET NO. OS-26-00031047
-DTSTART;TZID=Central Standard Time:20261207T090000
-DTEND;TZID=Central Standard Time:20261210T170000
-DTSTAMP:20261106T165902Z
-UID:79ea87c29635f0ce2552@psc-calendar
-CATEGORIES:TX-RRC,Evidentiary Hearing
-DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
- ntiary Hearing\nDocket: OS-26-00031047\n\n*DOCKET NO. OS-26-00031047 COMPL
- AINT OF CONSTELLATION ENERGY GENERATION\, LLC AGAINST ENERGY TRANSFER FUEL
- \, LP ALJ: JOHN B. DODSON ALJ: CHRISTIAAN R. SIANO EXAMINER: ROSE RUIZ *IN
- -PERSON*\n\nSource: https://www.rrc.texas.gov/hearings/hearings-calendar/
-LOCATION:12-126 Large Hearings Room
-PRIORITY:5
-URL:https://www.rrc.texas.gov/hearings/hearings-calendar/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[TX-RRC] *EASTLAND OPERATING\, LLC-DOCKET NOS. OG-26-00032301 et a
  l
 DTSTART;TZID=Central Standard Time:20261207T090000
 DTEND;TZID=Central Standard Time:20261207T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:89b28ab12e910543ba02@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -2966,11 +3122,27 @@ PRIORITY:5
 URL:https://www.rrc.texas.gov/hearings/hearings-calendar/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[TX-RRC] *ENERGY TRANSFER FUEL\, LP-DOCKET NO. OS-26-00031047
+DTSTART;TZID=Central Standard Time:20261207T090000
+DTEND;TZID=Central Standard Time:20261210T170000
+DTSTAMP:20261107T155729Z
+UID:79ea87c29635f0ce2552@psc-calendar
+CATEGORIES:TX-RRC,Evidentiary Hearing
+DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
+ ntiary Hearing\nDocket: OS-26-00031047\n\n*DOCKET NO. OS-26-00031047 COMPL
+ AINT OF CONSTELLATION ENERGY GENERATION\, LLC AGAINST ENERGY TRANSFER FUEL
+ \, LP ALJ: JOHN B. DODSON ALJ: CHRISTIAAN R. SIANO EXAMINER: ROSE RUIZ *IN
+ -PERSON*\n\nSource: https://www.rrc.texas.gov/hearings/hearings-calendar/
+LOCATION:12-126 Large Hearings Room
+PRIORITY:5
+URL:https://www.rrc.texas.gov/hearings/hearings-calendar/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[CO] HRG: 26F-0353TO Mohammad Alzaki v Maxx Auto Recovery\, ALJ Ga
  rvey
 DTSTART:20261207T160000Z
 DTEND:20261207T200000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c518b9c30882ce071171@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -2983,7 +3155,7 @@ BEGIN:VEVENT
 SUMMARY:[IA] Docket No. GCU-2026-0002 Hearing
 DTSTART:20261207T160000Z
 DTEND:20261207T230000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2c8e081a33af513b58ba@psc-calendar
 CATEGORIES:IA,Evidentiary Hearing
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Evidentiary 
@@ -3002,7 +3174,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: U-37872
 DTSTART;TZID=America/Chicago:20261207T100000
 DTEND;TZID=America/Chicago:20261207T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:aa5e45dbd11d5bb33404@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -3016,7 +3188,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] UE-260208 PacifiCorp & PGE - Virtual Evidentiary Hearing
 DTSTART;TZID=America/Los_Angeles:20261207T090000
 DTEND;TZID=America/Los_Angeles:20261207T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:18de184296e7e7310112@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -3030,7 +3202,7 @@ SUMMARY:[WA] To attend the hearing via Zoom\, join the virtual evidentiary
   hearing \, or call (253) 215-8782 and enter…
 DTSTART;TZID=America/Los_Angeles:20261207T090000
 DTEND;TZID=America/Los_Angeles:20261207T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:277cfce11b5eb6eb6e9d@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -3046,7 +3218,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 26-125 - Town of Montague - Municipal Aggregation
 DTSTART;TZID=America/New_York:20261207T140000
 DTEND;TZID=America/New_York:20261207T150000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:37e1c6a5fd9069715b94@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -3061,7 +3233,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] December 8\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c73e308bc100d69454cb@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -3079,7 +3251,7 @@ SUMMARY:[VA] PUR-2026-00018 - Application of NextEra Energy Transmission V
  videntiary proceeding)
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a04aaae299fa73e607b0@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -3094,7 +3266,7 @@ BEGIN:VEVENT
 SUMMARY:[IA] Docket No. GCU-2026-0002 Hearing
 DTSTART:20261208T140000Z
 DTEND:20261208T230000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4fdb80a3ff4050735c03@psc-calendar
 CATEGORIES:IA,Evidentiary Hearing
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Evidentiary 
@@ -3116,7 +3288,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Legislative-Style Hearing—Large Load Tariffs—PC72
 DTSTART;TZID=America/New_York:20261208T100000
 DTEND;TZID=America/New_York:20261208T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7711b1b6513248941f79@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -3130,7 +3302,7 @@ SUMMARY:[TX-RRC] *LARGE OPERATING LLC-DOCKET NO. OG-26-00032331 ET AL (DIS
  MISSED)
 DTSTART;TZID=Central Standard Time:20261208T090000
 DTEND;TZID=Central Standard Time:20261208T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bc11fb55f5c22eb3dc23@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -3148,7 +3320,7 @@ SUMMARY:[OR] Docket UE 474 - PACIFICORP ADVICE NO. 26-014 DIRECT ACCESS TA
  RIFF
 DTSTART;TZID=America/Los_Angeles:20261208T093000
 DTEND;TZID=America/Los_Angeles:20261208T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:aa3f5c059d86cf86bb0e@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -3163,7 +3335,7 @@ SUMMARY:[OR] Docket ADV 1897 - AVISTA ADVICE NO. 26-03-G TVE PILOT SCHEDUL
  E 465.
 DTSTART;TZID=America/Los_Angeles:20261208T093000
 DTEND;TZID=America/Los_Angeles:20261208T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:10a9bf78931740f9fb73@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -3179,7 +3351,7 @@ SUMMARY:[OR] Docket UE 475 - PGE ADVICE NO. 36-37 SCHEDULE 127 CAPACITY BA
  CKSTOP CHARGE
 DTSTART;TZID=America/Los_Angeles:20261208T093000
 DTEND;TZID=America/Los_Angeles:20261208T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2073b95cfad4b9f1639c@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -3193,7 +3365,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/23-26
 DTSTART;TZID=America/Los_Angeles:20261208T100000
 DTEND;TZID=America/Los_Angeles:20261208T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:79c808f5064e7d2350cd@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -3208,7 +3380,7 @@ SUMMARY:[OR] Docket UM 2417 - PUC IDENTIFYING PRIORITIES IN IMPLEMENTATION
   OF EOS 25-25 AND 25-29
 DTSTART;TZID=America/Los_Angeles:20261208T133000
 DTEND;TZID=America/Los_Angeles:20261208T153000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1b108afa02d2fae06742@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -3226,7 +3398,7 @@ SUMMARY:[NM] Docket 25-00082-UT – El Paso Electric Application for Revis
  atch the proceeding via livestream or watc
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:9dfb36c362fa50781924@psc-calendar
 CATEGORIES:NM,Evidentiary Hearing
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -3239,7 +3411,7 @@ BEGIN:VEVENT
 SUMMARY:[IA] Docket No. GCU-2026-0002 Hearing
 DTSTART:20261209T140000Z
 DTEND:20261209T230000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:aeecb3bacaab748a061c@psc-calendar
 CATEGORIES:IA,Evidentiary Hearing
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Evidentiary 
@@ -3261,7 +3433,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261209T100000
 DTEND;TZID=America/New_York:20261209T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:635b3357ec7b5d630459@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -3274,7 +3446,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Legislative-Style Hearing—Large Load Tariffs—PC72
 DTSTART;TZID=America/New_York:20261209T100000
 DTEND;TZID=America/New_York:20261209T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:46646dda51a8f02fa036@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -3287,7 +3459,7 @@ BEGIN:VEVENT
 SUMMARY:[IA] Docket No. GCU-2026-0002 Hearing
 DTSTART:20261210T140000Z
 DTEND:20261210T230000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:96d5e781b164042ba942@psc-calendar
 CATEGORIES:IA,Evidentiary Hearing
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Evidentiary 
@@ -3309,7 +3481,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] PC 59 Limited-Income Mechanism Work Group Regular Meeting
 DTSTART;TZID=America/New_York:20261210T100000
 DTEND;TZID=America/New_York:20261210T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:fe9f217e0d17d5046b9b@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -3322,7 +3494,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Legislative-Style Hearing—Large Load Tariffs—PC72
 DTSTART;TZID=America/New_York:20261210T100000
 DTEND;TZID=America/New_York:20261210T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:21580790401db415e1f7@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -3335,7 +3507,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *VERDUN OIL & GAS LLC-DOCKET NO. OG-26-00032467
 DTSTART;TZID=Central Standard Time:20261210T090000
 DTEND;TZID=Central Standard Time:20261210T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8b7abbf8fb7f7b9cad20@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -3351,7 +3523,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *STONEHILL DAWSON\, LLC-DOCKET NO. OG-26-00030675 ET AL
 DTSTART;TZID=Central Standard Time:20261210T090000
 DTEND;TZID=Central Standard Time:20261211T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:03b1f61ac4234ea684d7@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -3369,7 +3541,7 @@ SUMMARY:[CO] HRG: 26F-0268EG\, William J. Kelso V. Public Service Co. - Fo
  rmal Complaint\, ALJ Farley
 DTSTART:20261210T160000Z
 DTEND:20261211T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7e9cb1d0f6db2d040e50@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -3382,7 +3554,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] Low Income Oversight Board Quarterly Meeting 12-10-26
 DTSTART;TZID=America/Los_Angeles:20261210T090000
 DTEND;TZID=America/Los_Angeles:20261210T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:9643573dd30725576874@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -3400,7 +3572,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261210T113000
 DTEND;TZID=America/Chicago:20261210T133000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:85fdba2daee5f74c6486@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -3415,7 +3587,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20261210T093000
 DTEND;TZID=America/Los_Angeles:20261210T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:72d877eb0ed88ea01edc@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -3428,7 +3600,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Friday\, December 11\, 2026
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c86fbf52539f986c1a21@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -3442,7 +3614,7 @@ BEGIN:VEVENT
 SUMMARY:[IA] Docket No. GCU-2026-0002 Hearing
 DTSTART:20261211T140000Z
 DTEND:20261211T230000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:ccf824da136bce986211@psc-calendar
 CATEGORIES:IA,Evidentiary Hearing
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Evidentiary 
@@ -3464,7 +3636,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Legislative-Style Hearing—Large Load Tariffs—PC72
 DTSTART;TZID=America/New_York:20261211T100000
 DTEND;TZID=America/New_York:20261211T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c1945a4b3d2645268630@psc-calendar
 CATEGORIES:MD,Evidentiary Hearing
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Evi
@@ -3477,7 +3649,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Quarterly Meetings
 DTSTART;TZID=America/New_York:20261211T100000
 DTEND;TZID=America/New_York:20261211T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:350e4a0e85f38f628f1d@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -3491,7 +3663,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] LRR PECOS VALLEY\, LLC-DOCKET NO. OG-26-00033423 ET AL
 DTSTART;TZID=Central Standard Time:20261211T090000
 DTEND;TZID=Central Standard Time:20261211T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:dd42b58a8b3ba89a65ed@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -3508,7 +3680,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] EXPAND OPERATING LLC-DOCKET NO. OG-26-00033453
 DTSTART;TZID=Central Standard Time:20261211T090000
 DTEND;TZID=Central Standard Time:20261211T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8aa0a9462af4b7806d46@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -3525,7 +3697,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *STONEHILL DAWSON\, LLC-DOCKET NO. OG-26-00030675 ET AL
 DTSTART;TZID=Central Standard Time:20261214T090000
 DTEND;TZID=Central Standard Time:20261218T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c2a91e78ea177ee38086@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -3542,7 +3714,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 26-128 - Liberty Utilities - Forecast And Supply Plan
 DTSTART;TZID=America/New_York:20261214T140000
 DTEND;TZID=America/New_York:20261214T150000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a0a897870d4b1461f0e7@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -3559,7 +3731,7 @@ SUMMARY:[VA] PUR-2026-00014 - Petition of Columbia Gas of Virginia\, Inc.
  e to gas service
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:cb8ab535c5a980a60286@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -3575,7 +3747,7 @@ SUMMARY:[TX-RRC] RRC open meeting (conference): December 15\, 2026 (Tuesda
  y)
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1e44c11346803a7d3779@psc-calendar
 CATEGORIES:TX-RRC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Open 
@@ -3588,7 +3760,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 12-15-2026
 DTSTART;TZID=America/New_York:20261215T093000
 DTEND;TZID=America/New_York:20261215T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8aa7737defb1970a8cb9@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -3603,7 +3775,7 @@ SUMMARY:[MA] 26-101 - NSTAR Electric Company d/b/a Eversource Energy - Fin
  ancing
 DTSTART;TZID=America/New_York:20261215T100000
 DTEND;TZID=America/New_York:20261215T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:01d79a8621f024a859da@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -3620,7 +3792,7 @@ SUMMARY:[IL] Special Open Meeting Illinois Commerce Commission 527 East Ca
  Illinois 62701
 DTSTART;TZID=America/Chicago:20261215T113000
 DTEND;TZID=America/Chicago:20261215T133000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:b3f1ab06a1d6fe9bedb2@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -3636,7 +3808,7 @@ SUMMARY:[TX-RRC] LRR PECOS VALLEY\, LLC-DOCKET NOS. OG-26-00033426 AND OG-
  26-00033427
 DTSTART;TZID=Central Standard Time:20261215T133000
 DTEND;TZID=Central Standard Time:20261215T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:0d1004c8048a9bea2267@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -3653,7 +3825,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Business and Executive Session
 DTSTART;TZID=America/Chicago:20261216T090000
 DTEND;TZID=America/Chicago:20261216T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:3290a3d630fae7e7e2a6@psc-calendar
 CATEGORIES:LA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Op
@@ -3667,7 +3839,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261216T100000
 DTEND;TZID=America/New_York:20261216T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:27b28c3e4c71d1c86c7f@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -3680,7 +3852,7 @@ BEGIN:VEVENT
 SUMMARY:[NJ] Regular Board Agenda Meetings
 DTSTART;TZID=America/New_York:20261216T100000
 DTEND;TZID=America/New_York:20261216T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:cdb17fe9796eee44c90d@psc-calendar
 CATEGORIES:NJ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Jersey Board of Public Utilities (NJ)\nType: O
@@ -3695,7 +3867,7 @@ SUMMARY:[TX-RRC] *BLUEBONNET WATER SOLUTIONS\, LLC-DOCKET NO. OG-26-000317
  48
 DTSTART;TZID=Central Standard Time:20261216T090000
 DTEND;TZID=Central Standard Time:20261218T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c2f98bdb15f6674cc66a@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -3712,7 +3884,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *TEXANA OPERATING COMPANY-DOCKET NO. OG-26-00033131
 DTSTART;TZID=Central Standard Time:20261216T090000
 DTEND;TZID=Central Standard Time:20261216T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:16bb402ef125526ff25e@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -3728,7 +3900,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261216T110000
 DTEND;TZID=America/New_York:20261216T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:94844bb829c576cfa20e@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -3742,7 +3914,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261216T100000
 DTEND;TZID=America/Chicago:20261216T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2cc7aec766522a699e7e@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -3756,7 +3928,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] UNAVAILABLE
 DTSTART;TZID=Central Standard Time:20261216T133000
 DTEND;TZID=Central Standard Time:20261216T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:210a0caf0f9ed21584d5@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -3770,7 +3942,7 @@ BEGIN:VEVENT
 SUMMARY:[MI] December 17\, 2026 Commission Meeting
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:ef52f80fe95e7213e3bd@psc-calendar
 CATEGORIES:MI,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Michigan Public Service Commission (MI)\nType: Ope
@@ -3793,7 +3965,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] DECEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:3542fbb3b93eff2c8773@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -3810,7 +3982,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - December 17\, 2026
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f0f1cc1d172805b1bb3a@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -3823,7 +3995,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, December 17\, 2026
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f9422bdea0b8b230654f@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -3837,7 +4009,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] 2026 Voting Meetings: 12/17/2026 San Francisco
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:264357a2a8eb1b6d7eb2@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -3852,7 +4024,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *GREAT AMERICAN RESOURCES INC.-DOCKET NO. OG-26-00033541
 DTSTART;TZID=Central Standard Time:20261217T090000
 DTEND;TZID=Central Standard Time:20261217T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:43bea50ccb5e5b45d33e@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -3868,7 +4040,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] JONAH ENERGY LLC-DOCKET NO. OG-26-00033421
 DTSTART;TZID=Central Standard Time:20261217T090000
 DTEND;TZID=Central Standard Time:20261217T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5056d26bbcadb54ab19e@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -3886,7 +4058,7 @@ SUMMARY:[CO] HRG: 26G-0229TO 145829 - CPAN - Park it Right\, Inc\, ALJ Far
  ley
 DTSTART:20261217T160000Z
 DTEND:20261218T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:0121422eaca16125eb8e@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -3899,7 +4071,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: U-36697
 DTSTART;TZID=America/Chicago:20261217T100000
 DTEND;TZID=America/Chicago:20261217T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1833dbab0fcbf81502f2@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -3913,7 +4085,7 @@ BEGIN:VEVENT
 SUMMARY:[NM] Clifford Plaza\, 4100 Osuna Road NE\, Ste. 102\, Albuquerque
 DTSTART;TZID=America/Denver:20261217T100000
 DTEND;TZID=America/Denver:20261217T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:47fd6acc760aa4163c21@psc-calendar
 CATEGORIES:NM,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -3928,7 +4100,7 @@ SUMMARY:[IL] Regular Open Meeting Illinois Commerce Commission 160 North L
  aSalle Street Eighth Floor\, Bilandic Building Chicago\, Illinois 60601
 DTSTART;TZID=America/Chicago:20261217T113000
 DTEND;TZID=America/Chicago:20261217T133000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:aee7c9980e97b536ac6a@psc-calendar
 CATEGORIES:IL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Illinois Commerce Commission (IL)\nType: Open Meet
@@ -3943,7 +4115,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] CPUC Voting Meeting 12-17-26
 DTSTART;TZID=America/Los_Angeles:20261217T110000
 DTEND;TZID=America/Los_Angeles:20261217T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:da25af756be1ce160972@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -3960,7 +4132,7 @@ SUMMARY:[CO] HRG: 26F-0381G Aspen Distribution Inc. V Public Service - For
  mal Complaint\, ALJ Farley
 DTSTART:20261221T160000Z
 DTEND:20261221T200000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:598a084d20d2fc21ea6b@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -3973,7 +4145,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20261222T100000
 DTEND;TZID=America/New_York:20261222T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:58788573cb06651a8587@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -3986,7 +4158,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *BARROW-SHAVER RESOURCES CO.-DOCKET NO. OG-26-00033542
 DTSTART;TZID=Central Standard Time:20261222T090000
 DTEND;TZID=Central Standard Time:20261222T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:58c2ab52c71feea571e5@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -4002,7 +4174,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20261223T093000
 DTEND;TZID=America/Los_Angeles:20261223T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:0f3ad8ff8a7dbee03add@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -4015,7 +4187,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] RRC CLOSED
 DTSTART;TZID=Central Standard Time:20261224T080000
 DTEND;TZID=Central Standard Time:20261224T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:e14e4ef3b2a66dc5bda8@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -4028,7 +4200,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] PC 59 Limited-Income Mechanism Work Group Regular Meeting
 DTSTART;TZID=America/New_York:20261224T100000
 DTEND;TZID=America/New_York:20261224T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:97d6f72ab1b64c351a99@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -4041,7 +4213,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] RRC CLOSED
 DTSTART;TZID=Central Standard Time:20261225T080000
 DTEND;TZID=Central Standard Time:20261225T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f636b149953e3457f17a@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -4054,7 +4226,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: U-38093
 DTSTART;TZID=America/Chicago:20261228T093000
 DTEND;TZID=America/Chicago:20261228T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:b995bb0d1d6b72ff042d@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -4068,7 +4240,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/24-26
 DTSTART;TZID=America/Los_Angeles:20261229T100000
 DTEND;TZID=America/Los_Angeles:20261229T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c4f639a9a478fb339337@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -4082,7 +4254,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261230T100000
 DTEND;TZID=America/Chicago:20261230T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:b6020138f7af3534af9e@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -4096,7 +4268,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] RRC CLOSED
 DTSTART;TZID=Central Standard Time:20270101T080000
 DTEND;TZID=Central Standard Time:20270101T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:64bab88159ced640e61f@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -4106,25 +4278,11 @@ PRIORITY:5
 URL:https://www.rrc.texas.gov/hearings/hearings-calendar/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CO] HRG: 26F-0407EG Gary & Debbie Padilla v Public Service Compan
- y\, ALJ
-DTSTART:20270105T160000Z
-DTEND:20270105T200000Z
-DTSTAMP:20261106T165902Z
-UID:0a2c122ddff16b10516c@psc-calendar
-CATEGORIES:CO,Evidentiary Hearing
-DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
- videntiary Hearing\n\nSource: https://puc.colorado.gov/puccalendar
-LOCATION:Remote/Hearing Room A
-PRIORITY:5
-URL:https://puc.colorado.gov/puccalendar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[CO] HRG: 26F-0392EG Observatory Hometech LLLP v Public Service Co
  mpany\, ALJ Rosenberg
 DTSTART:20270105T160000Z
 DTEND:20270105T200000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5f90d87ce34d414b589a@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -4134,10 +4292,24 @@ PRIORITY:5
 URL:https://puc.colorado.gov/puccalendar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CO] HRG: 26F-0407EG Gary & Debbie Padilla v Public Service Compan
+ y\, ALJ
+DTSTART:20270105T160000Z
+DTEND:20270105T200000Z
+DTSTAMP:20261107T155729Z
+UID:0a2c122ddff16b10516c@psc-calendar
+CATEGORIES:CO,Evidentiary Hearing
+DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
+ videntiary Hearing\n\nSource: https://puc.colorado.gov/puccalendar
+LOCATION:Remote/Hearing Room A
+PRIORITY:5
+URL:https://puc.colorado.gov/puccalendar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270106T100000
 DTEND;TZID=America/New_York:20270106T000000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:da0b55093d6807c98128@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -4150,7 +4322,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] PC 59 Limited-Income Mechanism Work Group Regular Meeting
 DTSTART;TZID=America/New_York:20270107T100000
 DTEND;TZID=America/New_York:20270107T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:eadb16c3c0650d065815@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -4163,7 +4335,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: U-37970
 DTSTART;TZID=America/Chicago:20270107T100000
 DTEND;TZID=America/Chicago:20270107T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:489356690cc133b783f6@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -4180,7 +4352,7 @@ SUMMARY:[VA] PUR-2026-00076 - Application of Dominion Energy Virginia for
  4\, Corridor Optimization and Related P
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4bc516bd6181d972619e@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -4200,7 +4372,7 @@ SUMMARY:[VA] PUR-2026-00102 - Application of Expedition Generating 1\, LLC
  ating facility and associated faciliti
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:b7d42f76ca3ae873a319@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -4220,7 +4392,7 @@ SUMMARY:[VA] PUR-2026-00102 - Application of Expedition Generating I\, LLC
  ating facility and associated faciliti
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bac6aa8dc96b7636fa35@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -4237,7 +4409,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Reserved for Transportation Citation Hearings
 DTSTART;TZID=America/Chicago:20270112T080000
 DTEND;TZID=America/Chicago:20270112T100000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:eee61b862a55bb2c8f9a@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -4251,7 +4423,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/01-27
 DTSTART;TZID=America/Los_Angeles:20270112T100000
 DTEND;TZID=America/Los_Angeles:20270112T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:419b4db63ce09ac14ae6@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -4265,7 +4437,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2027 Open Meeting Dates: January 13
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:22493415eb399eda35de@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -4278,7 +4450,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270113T100000
 DTEND;TZID=America/New_York:20270113T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:e6e75dccd2324313977c@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -4291,7 +4463,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing (26-035-20\, Sale of Washington Service Area)
 DTSTART:20270113T160000Z
 DTEND:20270114T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:07a1e29ecc9c4c847631@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -4310,7 +4482,7 @@ SUMMARY:[CO] HRG: 26AL-0232E Black Hills Colorado Electric - AL 912- Tarif
  f 11 - ERC\, C3
 DTSTART:20270113T200000Z
 DTEND:20270114T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:18a7f80c71f9f5770c08@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -4323,7 +4495,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - January 14\, 2027
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:6aad46df23782fe6fdc7@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -4336,7 +4508,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, January 14\, 2027
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4e1ec9b5c78129edda6a@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -4351,7 +4523,7 @@ SUMMARY:[CO] HRG: 26AL-0232E Black Hills Colorado Electric - AL 912- Tarif
  f 11 - ERC\, C3
 DTSTART;TZID=America/Denver:20270114T090000
 DTEND;TZID=America/Denver:20270114T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f83e62d6363554f933c7@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -4364,7 +4536,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing (26-035-20\, Sale of Washington Service Area)
 DTSTART:20270114T160000Z
 DTEND:20270115T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d2cecb88823263362fb7@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -4384,7 +4556,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270114T093000
 DTEND;TZID=America/Los_Angeles:20270114T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:3f5c11f6ae1e547ce7e1@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -4397,7 +4569,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] CPUC Voting Meeting 01-14-27
 DTSTART;TZID=America/Los_Angeles:20270114T110000
 DTEND;TZID=America/Los_Angeles:20270114T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:3221744e7fdc72fa0dab@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -4412,7 +4584,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *CLAY PARTNERS-NW PARKWAY #1 LP-DOCKET NO. OG-26-00033380
 DTSTART;TZID=Central Standard Time:20270114T133000
 DTEND;TZID=Central Standard Time:20270114T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c218b4daa320a7959223@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -4429,7 +4601,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing (26-035-20\, Sale of Washington Service Area)
 DTSTART:20270115T160000Z
 DTEND:20270116T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:106ca35f45f8856ba983@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -4449,7 +4621,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] RRC CLOSED
 DTSTART;TZID=Central Standard Time:20270118T080000
 DTEND;TZID=Central Standard Time:20270118T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7b359d31c5f686edaca4@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -4465,7 +4637,7 @@ SUMMARY:[NM] This evidentiary hearing is set for January 19 to February 1
  annel. Hearings may be rescheduled or vac
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:0e5e3e90c7c2c4506882@psc-calendar
 CATEGORIES:NM,Evidentiary Hearing
 DESCRIPTION:Commission: New Mexico Public Regulation Commission (NM)\nType
@@ -4474,24 +4646,10 @@ PRIORITY:5
 URL:https://www.prc.nm.gov/public-hearings/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CO] HRG: 26AL-0232E Black Hills Colorado Electric - AL 912- Tarif
- f 11 - ERC\, C3
-DTSTART:20270119T160000Z
-DTEND:20270120T000000Z
-DTSTAMP:20261106T165902Z
-UID:d13b35bcfd2d631c5d19@psc-calendar
-CATEGORIES:CO,Evidentiary Hearing
-DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
- videntiary Hearing\n\nSource: https://puc.colorado.gov/puccalendar
-LOCATION:Hearing Room A
-PRIORITY:5
-URL:https://puc.colorado.gov/puccalendar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[CO] HRG: 26F-0436CP Roman Lysenko v On Location Events LLC\, ALJ
 DTSTART:20270119T160000Z
 DTEND:20270119T200000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:df722ab67c4d9066ac3f@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -4501,10 +4659,24 @@ PRIORITY:5
 URL:https://puc.colorado.gov/puccalendar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CO] HRG: 26AL-0232E Black Hills Colorado Electric - AL 912- Tarif
+ f 11 - ERC\, C3
+DTSTART:20270119T160000Z
+DTEND:20270120T000000Z
+DTSTAMP:20261107T155729Z
+UID:d13b35bcfd2d631c5d19@psc-calendar
+CATEGORIES:CO,Evidentiary Hearing
+DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
+ videntiary Hearing\n\nSource: https://puc.colorado.gov/puccalendar
+LOCATION:Hearing Room A
+PRIORITY:5
+URL:https://puc.colorado.gov/puccalendar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270120T100000
 DTEND;TZID=America/New_York:20270120T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:ae1ac5add46aa203a87b@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -4514,20 +4686,19 @@ PRIORITY:5
 URL:https://psc.maryland.gov/news-events/calendars/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[TX-RRC] *BLUE RIDGE OPERATING LLC-DOCKET NOS. OG-26-00032668 AND 
- OG-26-00032670
+SUMMARY:[TX-RRC] *MILESTONE CARBON MIDLAND CCS HUB-DOCKET NO. OG-26-000313
+ 21 (DISMISSED)
 DTSTART;TZID=Central Standard Time:20270120T090000
-DTEND;TZID=Central Standard Time:20270120T170000
-DTSTAMP:20261106T165902Z
-UID:6e17d814fced67ced5ed@psc-calendar
+DTEND;TZID=Central Standard Time:20270123T170000
+DTSTAMP:20261107T155729Z
+UID:cdccbebc82cd217376bb@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
- ntiary Hearing\nDocket: OG-26-00032668\n\n*DOCKET NOS. OG-26-00032668 AND 
- OG-26-00032670 BLUE RIDGE OPERATING LLC GOOD FAITH CLAIM COMPLAINT BLUE RI
- DGE FIELD FORT BEND COUNTY ALJ: CHRISTIAAN R. SIANO EXAMINER: TIFFANY ELLI
- OTT *IN-PERSON*\n\nSource: https://www.rrc.texas.gov/hearings/hearings-cal
- endar/
-LOCATION:12-124 Small Hearings Room
+ ntiary Hearing\nDocket: OG-26-00031321\n\n*DOCKET NO. OG-26-00031321 MILES
+ TONE CARBON MIDLAND CCS HUB CARBON CAPTURE AND GEOLOGIC STORAGE (CLASS VI)
+  PERMIT WILDCAT FIELD UPTON COUNTY EXAMINER: ASHLEY CORRELL EXAMINER: JAKE
+  HALFHILL ALJ: MANDY S. PATEL *IN-PERSON* *DISMISSED*\n\nSource: https://w
+ ww.rrc.texas.gov/hearings/hearings-calendar/
 PRIORITY:5
 URL:https://www.rrc.texas.gov/hearings/hearings-calendar/
 END:VEVENT
@@ -4535,7 +4706,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *STRATEGY OPERATING\, LLC-DOCKET NO. OG-26-00033024 ET AL
 DTSTART;TZID=Central Standard Time:20270120T090000
 DTEND;TZID=Central Standard Time:20270121T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:ad7e14885f146e9359ec@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -4551,19 +4722,20 @@ PRIORITY:5
 URL:https://www.rrc.texas.gov/hearings/hearings-calendar/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[TX-RRC] *MILESTONE CARBON MIDLAND CCS HUB-DOCKET NO. OG-26-000313
- 21 (DISMISSED)
+SUMMARY:[TX-RRC] *BLUE RIDGE OPERATING LLC-DOCKET NOS. OG-26-00032668 AND 
+ OG-26-00032670
 DTSTART;TZID=Central Standard Time:20270120T090000
-DTEND;TZID=Central Standard Time:20270123T170000
-DTSTAMP:20261106T165902Z
-UID:cdccbebc82cd217376bb@psc-calendar
+DTEND;TZID=Central Standard Time:20270120T170000
+DTSTAMP:20261107T155729Z
+UID:6e17d814fced67ced5ed@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
- ntiary Hearing\nDocket: OG-26-00031321\n\n*DOCKET NO. OG-26-00031321 MILES
- TONE CARBON MIDLAND CCS HUB CARBON CAPTURE AND GEOLOGIC STORAGE (CLASS VI)
-  PERMIT WILDCAT FIELD UPTON COUNTY EXAMINER: ASHLEY CORRELL EXAMINER: JAKE
-  HALFHILL ALJ: MANDY S. PATEL *IN-PERSON* *DISMISSED*\n\nSource: https://w
- ww.rrc.texas.gov/hearings/hearings-calendar/
+ ntiary Hearing\nDocket: OG-26-00032668\n\n*DOCKET NOS. OG-26-00032668 AND 
+ OG-26-00032670 BLUE RIDGE OPERATING LLC GOOD FAITH CLAIM COMPLAINT BLUE RI
+ DGE FIELD FORT BEND COUNTY ALJ: CHRISTIAAN R. SIANO EXAMINER: TIFFANY ELLI
+ OTT *IN-PERSON*\n\nSource: https://www.rrc.texas.gov/hearings/hearings-cal
+ endar/
+LOCATION:12-124 Small Hearings Room
 PRIORITY:5
 URL:https://www.rrc.texas.gov/hearings/hearings-calendar/
 END:VEVENT
@@ -4572,7 +4744,7 @@ SUMMARY:[CO] HRG: 26AL-0232E Black Hills Colorado Electric - AL 912- Tarif
  f 11 - ERC\, C3
 DTSTART:20270120T200000Z
 DTEND:20270121T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4a8def97bef705f439ec@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -4585,7 +4757,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] PC 59 Limited-Income Mechanism Work Group Regular Meeting
 DTSTART;TZID=America/New_York:20270121T100000
 DTEND;TZID=America/New_York:20270121T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:421f28585dfc5f32389b@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -4599,7 +4771,7 @@ SUMMARY:[CO] HRG: 26AL-0232E Black Hills Colorado Electric - AL 912- Tarif
  f 11 - ERC\, C3
 DTSTART;TZID=America/Denver:20270121T090000
 DTEND;TZID=America/Denver:20270121T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:67a10acecbe8cbcf9dce@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -4614,7 +4786,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *J.P. OIL COMPANY\, INC.-DOCKET NO. OG-26-00033757
 DTSTART;TZID=Central Standard Time:20270122T090000
 DTEND;TZID=Central Standard Time:20270122T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f3f7ece4c80c995dfb7a@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -4632,7 +4804,7 @@ SUMMARY:[TX-RRC] *MILESTONE CARBON MIDLAND CCS HUB-DOCKET NO. OG-26-000313
  21 (DISMISSED)
 DTSTART;TZID=Central Standard Time:20270125T090000
 DTEND;TZID=Central Standard Time:20270128T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:364f2ef45d81d15c8894@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -4649,7 +4821,7 @@ SUMMARY:[CO] HRG: 26A-0266G Atmos Energy Corp. - 2027-2028 DSM Plan\, ALJ
  Segev
 DTSTART;TZID=America/Denver:20270125T090000
 DTEND;TZID=America/Denver:20270125T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:19f82c7db310aff32477@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -4663,7 +4835,7 @@ SUMMARY:[TX-RRC] RRC open meeting (conference): January 26\, 2027 (Tuesday
  )
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d7c3316bd0428f45b3b8@psc-calendar
 CATEGORIES:TX-RRC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Open 
@@ -4676,7 +4848,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: U-38035
 DTSTART;TZID=America/Chicago:20270126T100000
 DTEND;TZID=America/Chicago:20270126T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:63307ffa4aedb8f0063b@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -4690,7 +4862,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing (26-035-01\, RMP's 2026 EBA)
 DTSTART:20270126T160000Z
 DTEND:20270127T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:3c5a8f35100a2d34137f@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -4707,7 +4879,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] UG-260127 CNG - HOLD for Hybrid Settlement Hearing
 DTSTART;TZID=America/Los_Angeles:20270126T090000
 DTEND;TZID=America/Los_Angeles:20270126T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1a17becd26509da8a130@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -4721,7 +4893,7 @@ SUMMARY:[WA] Parties may attend the hearing in person at the Commission’
  s headquarters or virtually via Zoom or phone. To participate in the…
 DTSTART;TZID=America/Los_Angeles:20270126T090000
 DTEND;TZID=America/Los_Angeles:20270126T110000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5e83611f587269f54294@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -4737,7 +4909,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/02-27
 DTSTART;TZID=America/Los_Angeles:20270126T100000
 DTEND;TZID=America/Los_Angeles:20270126T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:beff804f5cfa119bf960@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -4751,7 +4923,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270127T100000
 DTEND;TZID=America/New_York:20270127T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2c4fb217972feac42b2b@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -4764,7 +4936,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] *OWL SWD OPERATING\, LLC-DOCKET NO. OG-26-00033052
 DTSTART;TZID=Central Standard Time:20270127T090000
 DTEND;TZID=Central Standard Time:20270129T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:05913c2e0e407056f608@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -4781,7 +4953,7 @@ SUMMARY:[CO] HRG: 26AL-0267E Public Service Company - AL 2030 - Tariff 8 -
   FE FI Electric\, ALJ Segev
 DTSTART;TZID=America/Denver:20270127T090000
 DTEND;TZID=America/Denver:20270127T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5f01ab7e4e5d23c104c9@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -4793,7 +4965,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] UNAVAILABLE
 DTSTART;TZID=Central Standard Time:20270127T133000
 DTEND;TZID=Central Standard Time:20270127T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bdbacd5e6ec9878d9e5d@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -4807,7 +4979,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - January 28\, 2027
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2e6790e5e8a83e2d8a96@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -4817,11 +4989,27 @@ PRIORITY:5
 URL:https://www.puc.pa.gov/about-the-puc/public-meetings-hearings/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[TX-RRC] *CONOCOPHILLIPS COMPANY-DOCKET NO. OG-26-00033336
+DTSTART;TZID=Central Standard Time:20270128T090000
+DTEND;TZID=Central Standard Time:20270129T170000
+DTSTAMP:20261107T155729Z
+UID:aab3b7cb47594c270571@psc-calendar
+CATEGORIES:TX-RRC,Evidentiary Hearing
+DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
+ ntiary Hearing\nDocket: OG-26-00033336\n\n*DOCKET NO. OG-26-00033336 CONOC
+ OPHILLIPS COMPANY SHOW CAUSE HEARING OLSON FIELD CROCKETT COUNTY ALJ: MAND
+ Y S. PATEL EXAMINER: NICOLE MOORE *IN-PERSON*\n\nSource: https://www.rrc.t
+ exas.gov/hearings/hearings-calendar/
+LOCATION:12-124 Small Hearings Room
+PRIORITY:5
+URL:https://www.rrc.texas.gov/hearings/hearings-calendar/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[CO] Remote HRG: 25A-0539CP-EXT SKI TOWN TRANSPORTATION - 55991 - 
  EXT\, ALJ Rosenberg
 DTSTART;TZID=America/Denver:20270128T090000
 DTEND;TZID=America/Denver:20270128T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f70228bd8664c4a0c6f0@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -4833,7 +5021,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] UE-260364 PSE Formal Complaint - Hybrid Evidentiary Hearing
 DTSTART;TZID=America/Los_Angeles:20270128T093000
 DTEND;TZID=America/Los_Angeles:20270128T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:37124bb051c9123e0a6c@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -4848,7 +5036,7 @@ SUMMARY:[WA] To participate in the hearing by phone\, call (253) 215-8782
  ate via Zoom\,…
 DTSTART;TZID=America/Los_Angeles:20270128T093000
 DTEND;TZID=America/Los_Angeles:20270128T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:168c9d393d8b05a06f79@psc-calendar
 CATEGORIES:WA,Evidentiary Hearing
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -4864,7 +5052,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Friday\, January 29\, 2027
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c506bcf740f9a1747657@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -4880,7 +5068,7 @@ SUMMARY:[NC] Expert Witness Hearing - Application of Western Carolina Univ
   and Charges Applicable to Electric Service
 DTSTART;TZID=America/New_York:20270201T140000
 DTEND;TZID=America/New_York:20270201T160000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2723a37e4c69f4ecc625@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -4898,7 +5086,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270203T100000
 DTEND;TZID=America/New_York:20270203T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:08189bc1697ebbbba898@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -4914,7 +5102,7 @@ SUMMARY:[NC] Expert Witness Hearing - Joint Application of Duke Energy Pro
  l Gas-Fueled Combined Cycle Electric G
 DTSTART;TZID=America/New_York:20270203T103000
 DTEND;TZID=America/New_York:20270203T123000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:cebf76b84c37c1e35e32@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -4935,7 +5123,7 @@ SUMMARY:[CO] Remote Continued HRG: 21A-0416R Greeley - UPRR -13th Street -
   dsgn/constr safety improvements\, ALJ Mirbaba
 DTSTART:20270203T160000Z
 DTEND:20270204T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:eeed6ce214c105630c89@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -4948,7 +5136,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Reserved for Transportation Citation Hearings
 DTSTART;TZID=America/Chicago:20270204T080000
 DTEND;TZID=America/Chicago:20270204T100000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c76f46f86e84f436fceb@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -4965,7 +5153,7 @@ SUMMARY:[NC] Expert Witness Hearing - Application of Merry Hill PV I\, LLC
  ion Line in Bertie County\, North Caro
 DTSTART;TZID=America/New_York:20270204T100000
 DTEND;TZID=America/New_York:20270204T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:9c42108717ed9a5f3505@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -4984,7 +5172,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: T-38095
 DTSTART;TZID=America/Chicago:20270204T093000
 DTEND;TZID=America/Chicago:20270204T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:fcd45e8f925c52be5d5f@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -4998,7 +5186,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: T-38094
 DTSTART;TZID=America/Chicago:20270204T093000
 DTEND;TZID=America/Chicago:20270204T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:e7da7155f4aecc29ba14@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -5013,7 +5201,7 @@ SUMMARY:[CO] Remote Continued HRG: 21A-0416R Greeley - UPRR -13th Street -
   dsgn/constr safety improvements\, ALJ Mirbaba
 DTSTART:20270204T160000Z
 DTEND:20270205T000000Z
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f132904e08db0ad28c95@psc-calendar
 CATEGORIES:CO,Evidentiary Hearing
 DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
@@ -5026,7 +5214,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] CPUC Voting Meeting 02-04-27
 DTSTART;TZID=America/Los_Angeles:20270204T110000
 DTEND;TZID=America/Los_Angeles:20270204T130000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:faa67f1d239e54a254d7@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -5041,7 +5229,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/03-27
 DTSTART;TZID=America/Los_Angeles:20270209T100000
 DTEND;TZID=America/Los_Angeles:20270209T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:356da60aae97b1ad98fd@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -5055,7 +5243,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270210T100000
 DTEND;TZID=America/New_York:20270210T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4e2d4f20c847682b16c9@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -5068,7 +5256,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: U-37931
 DTSTART;TZID=America/Chicago:20270211T100000
 DTEND;TZID=America/Chicago:20270211T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:15f7e99bd3e0ce2f85dc@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -5082,7 +5270,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: U-37951
 DTSTART;TZID=America/Chicago:20270212T093000
 DTEND;TZID=America/Chicago:20270212T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:49e3b1844954bb0cd47b@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -5096,7 +5284,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270212T093000
 DTEND;TZID=America/Los_Angeles:20270212T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8ae76bbedc81b9f3298d@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -5109,7 +5297,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] RRC CLOSED
 DTSTART;TZID=Central Standard Time:20270215T080000
 DTEND;TZID=Central Standard Time:20270215T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1535cde328d20786b7ed@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -5123,7 +5311,7 @@ SUMMARY:[VA] PUR-2026-00126 - Petition of Virginia Electric and Power Comp
  any for revision of rate adjustment clause\, designated Rider DIST
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f171855c26b9b5bcc1fe@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -5138,7 +5326,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2027 Open Meeting Dates: February 17
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:64c03310bc8af2a4a9be@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -5151,7 +5339,7 @@ BEGIN:VEVENT
 SUMMARY:[IA] Monthly Commission Meeting
 DTSTART;TZID=America/Chicago:20270217T090000
 DTEND;TZID=America/Chicago:20270217T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:be52044379f58d49379d@psc-calendar
 CATEGORIES:IA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Iowa Utilities Commission (IA)\nType: Open Meeting
@@ -5166,7 +5354,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270217T100000
 DTEND;TZID=America/New_York:20270217T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:cf54a1cdcc3bac078c85@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -5180,7 +5368,7 @@ SUMMARY:[TX-RRC] *PILOT WATER GATH DELAWARE LLC-DOCKET NOS. OG-26-00032962
   AND OG-26-00032963
 DTSTART;TZID=Central Standard Time:20270217T090000
 DTEND;TZID=Central Standard Time:20270219T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:baa8222cd4f3657a8104@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -5197,7 +5385,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: U-37963
 DTSTART;TZID=America/Chicago:20270217T100000
 DTEND;TZID=America/Chicago:20270217T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2d50710de873a5184fa2@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -5211,7 +5399,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - February 18\, 2027
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:6110352327a6dbfc2371@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -5224,7 +5412,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, February 18\, 2027
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:e6ace389062480db238d@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -5239,7 +5427,7 @@ SUMMARY:[TX-RRC] RRC open meeting (conference): February 23\, 2027 (Tuesda
  y)
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:94aa806b9cd355efeaac@psc-calendar
 CATEGORIES:TX-RRC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Open 
@@ -5255,7 +5443,7 @@ SUMMARY:[NC] Expert Witness Hearing: Joint Application of Dominion Energy
  \, LLC for Approval of Proposed Merge
 DTSTART;TZID=America/New_York:20270223T100000
 DTEND;TZID=America/New_York:20270223T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:b534c9102403ac585a97@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -5274,7 +5462,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: U-37801
 DTSTART;TZID=America/Chicago:20270223T093000
 DTEND;TZID=America/Chicago:20270223T113000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7289ef45f9adb693694b@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -5288,7 +5476,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/04-27
 DTSTART;TZID=America/Los_Angeles:20270223T100000
 DTEND;TZID=America/Los_Angeles:20270223T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2ea0be1d18c32ac15352@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -5302,7 +5490,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270224T100000
 DTEND;TZID=America/New_York:20270224T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5d8731014c4fbd04148c@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -5315,7 +5503,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] UNAVAILABLE
 DTSTART;TZID=Central Standard Time:20270224T133000
 DTEND;TZID=Central Standard Time:20270224T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:ea463a9359e137930ccb@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -5329,7 +5517,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, February 25\, 2027
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:729e7acd6589fcb28653@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -5343,7 +5531,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270225T093000
 DTEND;TZID=America/Los_Angeles:20270225T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:90a57b7a48304e39bb46@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -5353,12 +5541,27 @@ PRIORITY:5
 URL:https://www.utc.wa.gov/event/90127
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CA] CPUC Voting Meeting 02-25-27
+DTSTART;TZID=America/Los_Angeles:20270225T110000
+DTEND;TZID=America/Los_Angeles:20270225T130000
+DTSTAMP:20261107T155729Z
+UID:96957c03e682806e7ab6@psc-calendar
+CATEGORIES:CA,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
+  Open Meeting / Commission Meeting\n\nCPUC Voting Meeting 02-25-27 Februar
+ y 25\, 2027 at 11:00am\n\nSource: https://www.cpuc.ca.gov/events-and-meeti
+ ngs/cpuc-voting-meeting-02-25-27
+PRIORITY:5
+URL:https://www.cpuc.ca.gov/events-and-meetings/cpuc-voting-meeting-02-25-
+ 27
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NC] Public/Expert Witness Hearing - Application of Tesla Energy O
  perations\, Inc. for a Certificate of Authority to Engage in Business as a
  n Electric Generator Lessor
 DTSTART;TZID=America/New_York:20270301T140000
 DTEND;TZID=America/New_York:20270301T160000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:54d53041a8ef3484d65e@psc-calendar
 CATEGORIES:NC,Evidentiary Hearing
 DESCRIPTION:Commission: North Carolina Utilities Commission (NC)\nType: Ev
@@ -5376,7 +5579,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270303T100000
 DTEND;TZID=America/New_York:20270303T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:785edc47cad66ccf93f8@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -5389,7 +5592,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Reserved for Transportation Citation Hearings
 DTSTART;TZID=America/Chicago:20270304T080000
 DTEND;TZID=America/Chicago:20270304T100000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d3713fce0bc64212ad31@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -5403,7 +5606,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/05-27
 DTSTART;TZID=America/Los_Angeles:20270309T100000
 DTEND;TZID=America/Los_Angeles:20270309T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:907eb2b570328e3f235a@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -5417,7 +5620,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270310T100000
 DTEND;TZID=America/New_York:20270310T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8195cb96703789b71422@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -5430,7 +5633,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - March 11\, 2027
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:0a8d9dfa3e6cf703070d@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -5443,7 +5646,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, March 11\, 2027
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5a43b9e6b3659a9c7a16@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -5457,7 +5660,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Reserved for Utility Citation Hearings
 DTSTART;TZID=America/Chicago:20270311T080000
 DTEND;TZID=America/Chicago:20270311T100000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1a772af6f49b42cc7885@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -5471,7 +5674,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270311T093000
 DTEND;TZID=America/Los_Angeles:20270311T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:e31f8284e9fddeb361d4@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -5484,7 +5687,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2027 Open Meeting Dates: March 17
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:908386d85251af5d6bc1@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -5497,7 +5700,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270317T100000
 DTEND;TZID=America/New_York:20270317T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1b5c31e253f20ea29754@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -5511,7 +5714,7 @@ SUMMARY:[VA] PUR-2026-00095 - Application of Atmos Energy Corporation for
  a general increase in rates
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:366142b9f8b12cd167df@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -5525,7 +5728,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270324T100000
 DTEND;TZID=America/New_York:20270324T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7c62231ff7eb8d3020da@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -5538,7 +5741,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - March 25\, 2027
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:de0caed400205abebb82@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -5551,7 +5754,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, March 25\, 2027
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c8c6b5536e419cd9b9a5@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -5565,7 +5768,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270325T093000
 DTEND;TZID=America/Los_Angeles:20270325T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:554588a4eab086acbe56@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -5578,7 +5781,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] RRC open meeting (conference): March 30\, 2027 (Tuesday)
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:07337e3db0be23b9670f@psc-calendar
 CATEGORIES:TX-RRC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Open 
@@ -5591,7 +5794,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] regular Agenda/06-27
 DTSTART;TZID=America/Los_Angeles:20270330T100000
 DTEND;TZID=America/Los_Angeles:20270330T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d4ab97ee431f91c4a529@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -5605,7 +5808,7 @@ BEGIN:VEVENT
 SUMMARY:[MD] Administrative Meeting
 DTSTART;TZID=America/New_York:20270331T100000
 DTEND;TZID=America/New_York:20270331T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:cccefd2ef898655241f0@psc-calendar
 CATEGORIES:MD,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Maryland Public Service Commission (MD)\nType: Ope
@@ -5618,7 +5821,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] UNAVAILABLE
 DTSTART;TZID=Central Standard Time:20270331T133000
 DTEND;TZID=Central Standard Time:20270331T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f7b0a7287b4b2df88e76@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -5632,7 +5835,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, April 1\, 2027
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8e6ec30aa6fdd65c5b27@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -5646,7 +5849,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Reserved for Transportation Citation Hearings
 DTSTART;TZID=America/Chicago:20270401T080000
 DTEND;TZID=America/Chicago:20270401T100000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:67d24155121892813b8f@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -5660,7 +5863,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - April 08\, 2027
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8aec8392d9912aa10cff@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -5673,7 +5876,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Reserved for Utility Citation Hearings
 DTSTART;TZID=America/Chicago:20270408T080000
 DTEND;TZID=America/Chicago:20270408T100000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a434a78887ad283e780c@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -5687,7 +5890,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270408T093000
 DTEND;TZID=America/Los_Angeles:20270408T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:25c54877ae030c558965@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -5700,7 +5903,7 @@ BEGIN:VEVENT
 SUMMARY:[TN] Notice of April Commission Conference WebEx Meeting Access
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:9719c99d4d0a65083a0d@psc-calendar
 CATEGORIES:TN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op
@@ -5718,7 +5921,7 @@ SUMMARY:[TN] Notice of April Commission Conference Held Electronically via
   WebEx
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2f4359dff2e634905afb@psc-calendar
 CATEGORIES:TN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Tennessee Public Utility Commission (TN)\nType: Op
@@ -5735,7 +5938,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2027 Open Meeting Dates: April 14
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1a7ec539d38fde60d3a2@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -5748,7 +5951,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: U-38042
 DTSTART;TZID=America/Chicago:20270419T100000
 DTEND;TZID=America/Chicago:20270419T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:17ba45b832b0a0832318@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -5762,7 +5965,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] RRC open meeting (conference): April 20\, 2027 (Tuesday)
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:aa5ed672f0ab34c16a63@psc-calendar
 CATEGORIES:TX-RRC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Open 
@@ -5775,7 +5978,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Hearing: U-38067
 DTSTART;TZID=America/Chicago:20270420T100000
 DTEND;TZID=America/Chicago:20270420T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:352cead1af96b3d48cf5@psc-calendar
 CATEGORIES:LA,Evidentiary Hearing
 DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
@@ -5791,7 +5994,7 @@ SUMMARY:[VA] PUR-2026-00114 - Petition of Northern Virginia Electric Coope
  DPS\, HV-1\, and HV-2
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d48ce59feee5374ec3a5@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -5806,7 +6009,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] UNAVAILABLE
 DTSTART;TZID=Central Standard Time:20270421T133000
 DTEND;TZID=Central Standard Time:20270421T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:00cb98e3ec2e1afa4f85@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -5820,7 +6023,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, April 22\, 2027
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:dded1df9babf2de5f50e@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -5834,7 +6037,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/07-27
 DTSTART;TZID=America/Los_Angeles:20270427T100000
 DTEND;TZID=America/Los_Angeles:20270427T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f943471d100e592a20f6@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -5848,7 +6051,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - April 29\, 2027
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:99b99a1d37b6e0e8bb46@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -5861,7 +6064,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270429T093000
 DTEND;TZID=America/Los_Angeles:20270429T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:98f1f1657a9111fafe82@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -5874,7 +6077,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2027 Open Meeting Dates: May 5
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bd94cd6d83d1fb2f932c@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -5884,10 +6087,24 @@ PRIORITY:5
 URL:https://azcc.gov/open-meeting-schedules
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[LA] Reserved for Transportation Citation Hearings
+DTSTART;TZID=America/Chicago:20270506T080000
+DTEND;TZID=America/Chicago:20270506T100000
+DTSTAMP:20261107T155729Z
+UID:a36e40cf044c1e571541@psc-calendar
+CATEGORIES:LA,Evidentiary Hearing
+DESCRIPTION:Commission: Louisiana Public Service Commission (LA)\nType: Ev
+ identiary Hearing\n\nSource: https://lpscpubvalence.lpsc.louisiana.gov/por
+ tal/lpsc-web-portal?tab=calendar
+PRIORITY:5
+URL:https://lpscpubvalence.lpsc.louisiana.gov/portal/lpsc-web-portal?tab=c
+ alendar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/08-27
 DTSTART;TZID=America/Los_Angeles:20270511T100000
 DTEND;TZID=America/Los_Angeles:20270511T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:2c477952b8c134d61242@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -5901,7 +6118,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - May 13\, 2027
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8c079dc058a54a15c2aa@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -5914,7 +6131,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, May 13\, 2027
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f4672c92cf03e8614654@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -5928,7 +6145,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270513T093000
 DTEND;TZID=America/Los_Angeles:20270513T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4a32fde25cbc3a5a110e@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -5941,7 +6158,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] RRC open meeting (conference): May 18\, 2027 (Tuesday)
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4e0c53f1dd37bca3f136@psc-calendar
 CATEGORIES:TX-RRC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Open 
@@ -5954,7 +6171,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] UNAVAILABLE
 DTSTART;TZID=Central Standard Time:20270519T133000
 DTEND;TZID=Central Standard Time:20270519T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:db3355595f6f97c51f62@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -5968,7 +6185,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, May 20\, 2027
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:3983b710602564baa166@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -5982,7 +6199,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/09-27
 DTSTART;TZID=America/Los_Angeles:20270525T100000
 DTEND;TZID=America/Los_Angeles:20270525T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:b793520929b57bcb49eb@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -5996,7 +6213,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - May 27\, 2027
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:73a1d433ec925dbad18d@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -6009,7 +6226,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270527T093000
 DTEND;TZID=America/Los_Angeles:20270527T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4d29babd3b9a03e93e9c@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6022,7 +6239,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] RRC CLOSED
 DTSTART;TZID=Central Standard Time:20270531T080000
 DTEND;TZID=Central Standard Time:20270531T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:187b063456553afcaa6a@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -6035,7 +6252,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, June 3\, 2027
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:6329f32918a0a958f6d5@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -6051,7 +6268,7 @@ SUMMARY:[VA] PUR-2026-00036 - Application of Virginia Natural Gas\, Inc. f
  ons applicable to natural gas service
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1e2aff2888d30fe79067@psc-calendar
 CATEGORIES:VA,Evidentiary Hearing
 DESCRIPTION:Commission: Virginia State Corporation Commission (VA)\nType: 
@@ -6066,7 +6283,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/10-27
 DTSTART;TZID=America/Los_Angeles:20270608T100000
 DTEND;TZID=America/Los_Angeles:20270608T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:9d84057e26c362cea55b@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6080,7 +6297,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - June 10\, 2027
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8df765fb568ef153115f@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -6093,7 +6310,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270611T093000
 DTEND;TZID=America/Los_Angeles:20270611T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4eb52841c1a300f01aa8@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6106,7 +6323,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2027 Open Meeting Dates: June 16
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:ee5fa50523f015566720@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -6119,7 +6336,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, June 17\, 2027
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:ee5afddd33931d673a46@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -6133,7 +6350,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270624T093000
 DTEND;TZID=America/Los_Angeles:20270624T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bbb14f60e547fcd2438a@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6146,7 +6363,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] RRC open meeting (conference): June 29\, 2027 (Tuesday)
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:cb2f9fc12bc1a7210329@psc-calendar
 CATEGORIES:TX-RRC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Open 
@@ -6159,7 +6376,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/11-27
 DTSTART;TZID=America/Los_Angeles:20270629T100000
 DTEND;TZID=America/Los_Angeles:20270629T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:8fb9720789c8961af86c@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6173,7 +6390,7 @@ BEGIN:VEVENT
 SUMMARY:[TX-RRC] UNAVAILABLE
 DTSTART;TZID=Central Standard Time:20270630T133000
 DTEND;TZID=Central Standard Time:20270630T170000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:6e10cfd14ba17a9cf393@psc-calendar
 CATEGORIES:TX-RRC,Evidentiary Hearing
 DESCRIPTION:Commission: Railroad Commission of Texas (TX-RRC)\nType: Evide
@@ -6187,7 +6404,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - July 08\, 2027
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:50d67f32fa586ae5eb27@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -6200,7 +6417,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, July 8\, 2027
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:7b632c5d0930ee974572@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -6214,7 +6431,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270708T093000
 DTEND;TZID=America/Los_Angeles:20270708T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:368ef9f8ff08b40f9cfb@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6227,7 +6444,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/12-27
 DTSTART;TZID=America/Los_Angeles:20270713T100000
 DTEND;TZID=America/Los_Angeles:20270713T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:215ca5eb462490effc4f@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6241,7 +6458,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2027 Open Meeting Dates: July 14
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:e02e56a6935d2fbcae03@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -6254,7 +6471,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/13-27
 DTSTART;TZID=America/Los_Angeles:20270727T100000
 DTEND;TZID=America/Los_Angeles:20270727T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:614dc87a035d4a2203c3@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6268,7 +6485,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - July 29\, 2027
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:b7cd35ed57bb30b578c7@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -6281,7 +6498,7 @@ BEGIN:VEVENT
 SUMMARY:[TX] Open Meeting - Thursday\, July 29\, 2027
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:847287496c386356daff@psc-calendar
 CATEGORIES:TX,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utility Commission of Texas (TX)\nType: Ope
@@ -6295,7 +6512,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270729T093000
 DTEND;TZID=America/Los_Angeles:20270729T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:21f0787b81c84ca51c01@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6308,7 +6525,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/14-27
 DTSTART;TZID=America/Los_Angeles:20270810T100000
 DTEND;TZID=America/Los_Angeles:20270810T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:f26a17e239cfe71b5f77@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6322,7 +6539,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270812T093000
 DTEND;TZID=America/Los_Angeles:20270812T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a88d62ba440587476f9b@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6335,7 +6552,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2027 Open Meeting Dates: August 18
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1f397ee58c68dad610dd@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -6348,7 +6565,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - August 19\, 2027
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270820
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c1e5f551cdb819635eb9@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -6361,7 +6578,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270826T093000
 DTEND;TZID=America/Los_Angeles:20270826T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:fc6c1f7f080eedf0cd66@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6374,7 +6591,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/15-27
 DTSTART;TZID=America/Los_Angeles:20270831T100000
 DTEND;TZID=America/Los_Angeles:20270831T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:e1533b79ec94aa77ac12@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6388,7 +6605,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Public Meeting - September 02\, 2027
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:e08a394dd6a061e36cdd@psc-calendar
 CATEGORIES:PA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Pennsylvania Public Utility Commission (PA)\nType:
@@ -6401,7 +6618,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270909T093000
 DTEND;TZID=America/Los_Angeles:20270909T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:42b49845f5e7f5eeeb45@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6414,7 +6631,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/16-27
 DTSTART;TZID=America/Los_Angeles:20270914T100000
 DTEND;TZID=America/Los_Angeles:20270914T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:dd0da37db3c19b9aed96@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6428,7 +6645,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2027 Open Meeting Dates: September 15
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:abd8a1ad420fbcb2dae6@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -6441,7 +6658,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20270923T093000
 DTEND;TZID=America/Los_Angeles:20270923T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:d7812a22bc82263e6ed7@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6454,7 +6671,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/17-27
 DTSTART;TZID=America/Los_Angeles:20270928T100000
 DTEND;TZID=America/Los_Angeles:20270928T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:04d714b25bc6f1fb5a9f@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6468,7 +6685,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20271007T093000
 DTEND;TZID=America/Los_Angeles:20271007T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c8c92251f002b6e2d936@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6481,7 +6698,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/18-27
 DTSTART;TZID=America/Los_Angeles:20271012T100000
 DTEND;TZID=America/Los_Angeles:20271012T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:bc36a6da7846830be2a8@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6495,7 +6712,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2027 Open Meeting Dates: October 20
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:106d2d33584db4f86284@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -6508,7 +6725,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/19-27
 DTSTART;TZID=America/Los_Angeles:20271026T100000
 DTEND;TZID=America/Los_Angeles:20271026T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c758fce10e64a77521de@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6522,7 +6739,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20271028T093000
 DTEND;TZID=America/Los_Angeles:20271028T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:5cc684a0604f2ad1f288@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6535,7 +6752,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/20-27
 DTSTART;TZID=America/Los_Angeles:20271109T100000
 DTEND;TZID=America/Los_Angeles:20271109T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4ef4e039c7d8e8e078c1@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6549,7 +6766,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20271112T093000
 DTEND;TZID=America/Los_Angeles:20271112T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:cdb9a8962d928cc8d7ec@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6562,7 +6779,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2027 Open Meeting Dates: November 17
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:07f8c54c3034627efb09@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -6575,7 +6792,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20271124T093000
 DTEND;TZID=America/Los_Angeles:20271124T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:464ab2d8861ad86b4d02@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6588,7 +6805,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/21-27
 DTSTART;TZID=America/Los_Angeles:20271130T100000
 DTEND;TZID=America/Los_Angeles:20271130T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:a05e8021a38eeb2bcd7d@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6602,7 +6819,7 @@ BEGIN:VEVENT
 SUMMARY:[AZ] 2027 Open Meeting Dates: December 8
 DTSTART;VALUE=DATE:20271208
 DTEND;VALUE=DATE:20271209
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:c4dbdc05061b8bafac54@psc-calendar
 CATEGORIES:AZ,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Arizona Corporation Commission (AZ)\nType: Open Me
@@ -6615,7 +6832,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20271209T093000
 DTEND;TZID=America/Los_Angeles:20271209T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:1872d387ebc4c5128646@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6628,7 +6845,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/22-27
 DTSTART;TZID=America/Los_Angeles:20271214T100000
 DTEND;TZID=America/Los_Angeles:20271214T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:86e32efda4e2e2be8d47@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
@@ -6642,7 +6859,7 @@ BEGIN:VEVENT
 SUMMARY:[WA] Open Meeting
 DTSTART;TZID=America/Los_Angeles:20271223T093000
 DTEND;TZID=America/Los_Angeles:20271223T093000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:4d6cb7770913cc4fc3d0@psc-calendar
 CATEGORIES:WA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Washington Utilities and Transportation Commission
@@ -6655,7 +6872,7 @@ BEGIN:VEVENT
 SUMMARY:[NV] Regular Agenda/23-27
 DTSTART;TZID=America/Los_Angeles:20271228T100000
 DTEND;TZID=America/Los_Angeles:20271228T120000
-DTSTAMP:20261106T165902Z
+DTSTAMP:20261107T155729Z
 UID:084e3d24f8251c681b26@psc-calendar
 CATEGORIES:NV,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Public Utilities Commission of Nevada (NV)\nType: 
