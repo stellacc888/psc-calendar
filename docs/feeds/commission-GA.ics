@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 10-20-2026
 DTSTART;TZID=America/New_York:20261020T093000
 DTEND;TZID=America/New_York:20261020T113000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:e3ff989e9031cd943dde@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 11-3-2026
 DTSTART;TZID=America/New_York:20261103T093000
 DTEND;TZID=America/New_York:20261103T113000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:195fae7fe7e5cabc25e4@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 11-17-2026
 DTSTART;TZID=America/New_York:20261117T093000
 DTEND;TZID=America/New_York:20261117T113000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:db0284c301a3ab5b8469@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 12-1-2026
 DTSTART;TZID=America/New_York:20261201T093000
 DTEND;TZID=America/New_York:20261201T113000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:7926cc6a5b893410d4ed@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:[GA] Administrative Session 12-15-2026
 DTSTART;TZID=America/New_York:20261215T093000
 DTEND;TZID=America/New_York:20261215T113000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:8aa7737defb1970a8cb9@psc-calendar
 CATEGORIES:GA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Georgia Public Service Commission (GA)\nType: Open

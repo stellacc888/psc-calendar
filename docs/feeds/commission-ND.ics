@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Work Session Legislative Discussion
 DTSTART;TZID=America/Chicago:20261112T100000
 DTEND;TZID=America/Chicago:20261112T120000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:4884a3d31383b2e9603b@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -27,7 +27,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. RC-25-258 BNI Coal
  \, Ltd. Revision 13\, BNCR-1101 Application
 DTSTART;TZID=America/Chicago:20261116T170000
 DTEND;TZID=America/Chicago:20261116T190000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:efab53e2224d01a4b053@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -43,7 +43,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. PU-26-314 Northern
   States Power Company Transmission Facility Cost Recovery (2027) Rates
 DTSTART;TZID=America/Chicago:20261116T170000
 DTEND;TZID=America/Chicago:20261116T190000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:740f767ac879882d7e40@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261118T100000
 DTEND;TZID=America/Chicago:20261118T120000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:57e86c19d24093ba7fba@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Work Session Legislative Discussion
 DTSTART;TZID=America/Chicago:20261118T150000
 DTEND;TZID=America/Chicago:20261118T170000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:a21f1cba64d0658344ab@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -87,7 +87,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. PU-26-213 Badger C
  ommunications LLC Designated Eligible Carrier Application
 DTSTART;TZID=America/Chicago:20261120T170000
 DTEND;TZID=America/Chicago:20261120T190000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:2c1c23c683fa851da52c@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -103,7 +103,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. PU-26-318 Northern
   States Power Company Renewable Resource Cost Recovery (2027) Rates
 DTSTART;TZID=America/Chicago:20261202T170000
 DTEND;TZID=America/Chicago:20261202T190000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:0b05fc2de2dd70ead9b6@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261203T133000
 DTEND;TZID=America/Chicago:20261203T153000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:3df1a1b5666a0df3273f@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -133,7 +133,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. PU-26-310 Otter Ta
  il Power Company Transmission Facility Cost Recovery (2027) Rates
 DTSTART;TZID=America/Chicago:20261205T170000
 DTEND;TZID=America/Chicago:20261205T190000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:700030e58eb21790e137@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261216T100000
 DTEND;TZID=America/Chicago:20261216T120000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:2cc7aec766522a699e7e@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261230T100000
 DTEND;TZID=America/Chicago:20261230T120000
-DTSTAMP:20261108T162445Z
+DTSTAMP:20261109T201402Z
 UID:b6020138f7af3534af9e@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
