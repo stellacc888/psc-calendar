@@ -14,7 +14,7 @@ SUMMARY:[FL] Prehearing: 20260143-EI — Petition for determination of nee
  ties\, by Duke Energy Florida\, LLC
 DTSTART;TZID=America/New_York:20261117T110000
 DTEND;TZID=America/New_York:20261117T130000
-DTSTAMP:20261112T164035Z
+DTSTAMP:20261112T174642Z
 UID:89db5553d10d1c5ccf8f@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Thursday\, November 26\, 2026 HOLIDAY: Thanksgiving
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261112T164035Z
+DTSTAMP:20261112T174642Z
 UID:b5fa83e82232440fbe6e@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Friday\, November 27\, 2026 HOLIDAY: Thanksgiving
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261112T164035Z
+DTSTAMP:20261112T174642Z
 UID:18b6661df86d907d5b47@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
