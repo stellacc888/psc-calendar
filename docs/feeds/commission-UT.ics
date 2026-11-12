@@ -13,7 +13,7 @@ SUMMARY:[UT] CONCLUDED 10/29/2026 Hearing (26-057-16\, Piceance III Proper
  ties as Wexpro II Property)
 DTSTART:20261030T150000Z
 DTEND:20261030T230000Z
-DTSTAMP:20261111T173035Z
+DTSTAMP:20261112T164035Z
 UID:46114f78b6e724008cee@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -29,68 +29,11 @@ PRIORITY:5
 URL:https://psc.utah.gov/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[UT] Hearing on General Rate Case (26-2666-01\, Corix GRC)
-DTSTART:20261117T160000Z
-DTEND:20261118T000000Z
-DTSTAMP:20261111T173035Z
-UID:4682c68c53879ad99fd5@psc-calendar
-CATEGORIES:UT,Evidentiary Hearing
-DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
- iary Hearing\nDocket: 26-2666-01\n\n<a href="https://www.google.com/url?q=
- https://psc.utah.gov/2026/02/06/docket-no-26-2666-01/&amp\;sa=D&amp\;sourc
- e=calendar&amp\;ust=1779550455633681&amp\;usg=AOvVaw0s3-hBwfZ_PTEAcZaB8mCa
- " target="_blank">Docket No. 26-2666-01</a> - <i>Application of Corix Utah
-  City Heating and Cooling LLC to Establish a Thermal Tariff with Rates and
-  Terms of Service</i>\n\nSource: https://psc.utah.gov/
-LOCATION:Heber M. Wells Building\, 160 E 300 S\, Room 403\, Salt Lake City
- \, UT 84111
-PRIORITY:5
-URL:https://psc.utah.gov/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[UT] Hearing on General Rate Case (26-2666-01\, Corix GRC)
-DTSTART:20261118T160000Z
-DTEND:20261119T000000Z
-DTSTAMP:20261111T173035Z
-UID:bf87223404d3beb16165@psc-calendar
-CATEGORIES:UT,Evidentiary Hearing
-DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
- iary Hearing\nDocket: 26-2666-01\n\n<a href="https://www.google.com/url?q=
- https://psc.utah.gov/2026/02/06/docket-no-26-2666-01/&amp\;sa=D&amp\;sourc
- e=calendar&amp\;ust=1779550574697559&amp\;usg=AOvVaw0VzWTKP-lLfSQrrdVocAu6
- " target="_blank">Docket No. 26-2666-01</a> - <i>Application of Corix Utah
-  City Heating and Cooling LLC to Establish a Thermal Tariff with Rates and
-  Terms of Service</i>\n\nSource: https://psc.utah.gov/
-LOCATION:Heber M. Wells Building\, 160 E 300 S\, Room 403\, Salt Lake City
- \, UT 84111
-PRIORITY:5
-URL:https://psc.utah.gov/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[UT] Hearing on General Rate Case (26-2666-01\, Corix GRC)
-DTSTART:20261119T160000Z
-DTEND:20261120T000000Z
-DTSTAMP:20261111T173035Z
-UID:bb63955c030e784b1ee4@psc-calendar
-CATEGORIES:UT,Evidentiary Hearing
-DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
- iary Hearing\nDocket: 26-2666-01\n\n<a href="https://www.google.com/url?q=
- https://psc.utah.gov/2026/02/06/docket-no-26-2666-01/&amp\;sa=D&amp\;sourc
- e=calendar&amp\;ust=1779550574697559&amp\;usg=AOvVaw0VzWTKP-lLfSQrrdVocAu6
- " target="_blank">Docket No. 26-2666-01</a> - <i>Application of Corix Utah
-  City Heating and Cooling LLC to Establish a Thermal Tariff with Rates and
-  Terms of Service</i>\n\nSource: https://psc.utah.gov/
-LOCATION:Heber M. Wells Building\, 160 E 300 S\, Room 403\, Salt Lake City
- \, UT 84111
-PRIORITY:5
-URL:https://psc.utah.gov/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[UT] Virtual Consolidated Hearing (26-057-19 and 26-057-20\, EGU's
   Applications)
 DTSTART:20261215T160000Z
 DTEND:20261215T190000Z
-DTSTAMP:20261111T173035Z
+DTSTAMP:20261112T164035Z
 UID:aa86ee793edbeecd9745@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -111,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing (26-035-20\, Sale of Washington Service Area)
 DTSTART:20270113T160000Z
 DTEND:20270114T000000Z
-DTSTAMP:20261111T173035Z
+DTSTAMP:20261112T164035Z
 UID:07a1e29ecc9c4c847631@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -129,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing (26-035-20\, Sale of Washington Service Area)
 DTSTART:20270114T160000Z
 DTEND:20270115T000000Z
-DTSTAMP:20261111T173035Z
+DTSTAMP:20261112T164035Z
 UID:d2cecb88823263362fb7@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -149,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing (26-035-20\, Sale of Washington Service Area)
 DTSTART:20270115T160000Z
 DTEND:20270116T000000Z
-DTSTAMP:20261111T173035Z
+DTSTAMP:20261112T164035Z
 UID:106ca35f45f8856ba983@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -169,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing (26-035-01\, RMP's 2026 EBA)
 DTSTART:20270126T160000Z
 DTEND:20270127T000000Z
-DTSTAMP:20261111T173035Z
+DTSTAMP:20261112T164035Z
 UID:3c5a8f35100a2d34137f@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident

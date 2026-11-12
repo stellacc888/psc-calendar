@@ -13,7 +13,7 @@ SUMMARY:[NE] 17 Nov Commission Meeting Location: Commission Hearing Room 1
  0:00am
 DTSTART:20261117T160000Z
 DTEND:20261117T180000Z
-DTSTAMP:20261111T173035Z
+DTSTAMP:20261112T164035Z
 UID:346337d077ed42fec165@psc-calendar
 CATEGORIES:NE,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
@@ -21,19 +21,5 @@ DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
  ion-meeting-265
 PRIORITY:5
 URL:https://psc.nebraska.gov/commission-meeting-265
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NE] 17 Nov Hearing – GW/GD-2026-002 – Grain Fee Updates Locat
- ion: Commission Hearing Room 11:00am
-DTSTART:20261117T170000Z
-DTEND:20261117T190000Z
-DTSTAMP:20261111T173035Z
-UID:70ee9620c72b0d59818a@psc-calendar
-CATEGORIES:NE,Evidentiary Hearing
-DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
- dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-gwgd-2026-002
- -grain-fee-updates
-PRIORITY:5
-URL:https://psc.nebraska.gov/hearing-gwgd-2026-002-grain-fee-updates
 END:VEVENT
 END:VCALENDAR
