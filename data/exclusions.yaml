@@ -2787,6 +2787,225 @@ events:
     title: PUR-2026-00051 - Application of Kentucky Utilities Company d/b/a Old Dominion Power Company for an adjustment of electric base rates
   - commission: WA
     date: 2026-11-12
-    title: Open Meeting
+    title: Open Meeting  # --- added 2026-11-12 - paste directly under the existing `events:` line ---
+  - commission: CO
+    date: 2026-11-17
+    title: "V & R (12.17.2026): Remote: HRG: Pro. No. 26G-0229TO, 145829 - CPAN - Park it Right, Inc, ALJ Farley"
+  - commission: CO
+    date: 2026-11-17
+    title: "V&R 02/03/27: Continued HRG: 21A-0416R Greeley - UPRR -13th Street - dsgn/constr safety improvments, ALJ Mirbaba"
+  - commission: CO
+    date: 2026-11-18
+    title: "V&R 02/04/27: Continued HRG: 21A-0416R Greeley - UPRR -13th Street - dsgn/constr safety improvments, ALJ Mirbaba"
+  - commission: CO
+    date: 2026-11-19
+    title: "PUC: Show Cause Hearing"
+  - commission: FL
+    date: 2026-11-17
+    title: Internal Affairs - Prehearing immediately following
+  - commission: IL
+    date: 2026-11-12
+    title: Illinois Commerce Commission Hearing for T24-0034
+  - commission: IL
+    date: 2026-11-12
+    title: Illinois Commerce Commission Hearing for 25-0990
+  - commission: IL
+    date: 2026-11-12
+    title: Illinois Commerce Commission Hearing for T26-0053
+  - commission: IL
+    date: 2026-11-13
+    title: Illinois Commerce Commission Prehearing for 26-0679
+  - commission: IL
+    date: 2026-11-13
+    title: Illinois Commerce Commission Prehearing for 26-0673
+  - commission: IL
+    date: 2026-11-13
+    title: Illinois Commerce Commission Prehearing for 26-0763
+  - commission: IL
+    date: 2026-11-13
+    title: Illinois Commerce Commission Prehearing for 26-0563
+  - commission: IL
+    date: 2026-11-16
+    title: Illinois Commerce Commission Hearing for T25-0069
+  - commission: IL
+    date: 2026-11-16
+    title: Illinois Commerce Commission Oral Argument for 26-0127
+  - commission: IL
+    date: 2026-11-16
+    title: Illinois Commerce Commission Prehearing for 26-0660
+  - commission: IL
+    date: 2026-11-16
+    title: Illinois Commerce Commission Prehearing for 26-0719
+  - commission: IL
+    date: 2026-11-16
+    title: Illinois Commerce Commission Prehearing for 26-0730
+  - commission: IL
+    date: 2026-11-17
+    title: Illinois Commerce Commission Hearing for T25-0076
+  - commission: IL
+    date: 2026-11-17
+    title: Illinois Commerce Commission Prehearing for 26-0655
+  - commission: IL
+    date: 2026-11-17
+    title: Illinois Commerce Commission Prehearing for 26-0737
+  - commission: IL
+    date: 2026-11-17
+    title: Illinois Commerce Commission Prehearing for 26-0739
+  - commission: IN
+    date: 2026-11-12
+    title: APPLICATION OF INDIANAPOLIS POWER & LIGHT COMPANY D/B/A AES INDIANA FOR APPROVAL OF A FUEL COST FACTOR FOR ELECTRIC SERVICE DURING THE BILLING MONTHS OF DECEMBER 2026, JANUARY 2027, AND FEBRUARY 2027 IN ACCORDANCE WITH T
+  - commission: IN
+    date: 2026-11-12
+    title: "VERIFIED PETITION OF INDIANA GAS COMPANY, INC. D/B/A CENTERPOINT ENERGY INDIANA NORTH (“CEI NORTH”) FOR APPROVAL OF CHANGES IN ITS GAS COST ADJUSTMENTS IN ACCORDANCE WITH I.C. 8-1-2-42(g) AND 8-1-2-42.3 (Cause 37394-GCA1"
+  - commission: IN
+    date: 2026-11-12
+    title: PETITION OF INDIANA MICHIGAN POWER COMPANY, AN INDIANA CORPORATION, FOR APPROVAL WITHIN THE MULTI-YEAR RATE PLAN (MYRP) FRAMEWORK UNDER IND. CODE CH. 8-1-46 AND AN ALTERNATIVE REGULATORY PLAN (ARP) PURSUANT TO IND. CODE
+  - commission: IN
+    date: 2026-11-12
+    title: VERIFIED PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC FOR APPROVAL OF DEMAND-SIDE MANAGEMENT ADJUSTMENT FACTORS TO BE APPLICABLE AND MADE EFFECTIVE FOR ELECTRIC SERVICES RENDERED ON OR AFTER JANUARY 1, 2027 A
+  - commission: IN
+    date: 2026-11-12
+    title: Conference to be held on LOCAL TIME, IURC Conference Center
+  - commission: IN
+    date: 2026-11-12
+    title: APPLICATION OF WESTFIELD GAS, LLC D/B/A CITIZENS GAS OF WESTFIELD FOR A CHANGE IN ITS GAS COST ADJUSTMENT CHARGE FOR THE PERIOD DECEMBER 2026, JANUARY AND FEBRUARY 2027. (Per Docket Entry issued October 29, 2026, this he
+  - commission: IN
+    date: 2026-11-12
+    title: PETITION OF THE BOARD OF DIRECTORS FOR UTILITIES OF THE DEPARTMENT OF PUBLIC UTILITIES OF THE CITY OF INDIANAPOLIS, AS SUCCESSOR TRUSTEE OF A PUBLIC CHARITABLE TRUST, FOR APPROVAL OF GAS COST ADJUSTMENTS TO BE APPLICABLE
+  - commission: IN
+    date: 2026-11-13
+    title: APPLICATION OF WESTFIELD GAS, LLC D/B/A CITIZENS GAS OF WESTFIELD FOR A CHANGE IN ITS GAS COST ADJUSTMENT CHARGE FOR THE PERIOD DECEMBER 2026, JANUARY AND FEBRUARY 2027 (Cause 37389-GCA148)
+  - commission: MA
+    date: 2026-11-12
+    title: 24-15 - DPU - Investigation
+  - commission: MA
+    date: 2026-11-20
+    title: 25-117 - DPU - Investigation
+  - commission: MD
+    date: 2026-11-16
+    title: "To participate in the hearing, email: kimberly.schock@maryland.gov by 12:00 noon on"
+  - commission: ME
+    date: 2026-11-16
+    title: Hearing - CASD No. 2026-V-00073
+  - commission: ME
+    date: 2026-11-17
+    title: Final Hearing in Madison Electric Works Ch. 307 Rate Case
+  - commission: ME
+    date: 2026-11-17
+    title: Special Deliberations Audio/Video
+  - commission: ME
+    date: 2026-11-18
+    title: Special Deliberations Audio/Video
+  - commission: ME
+    date: 2026-11-19
+    title: Deliberations Audio/Video
+  - commission: ME
+    date: 2026-11-20
+    title: Hearing - CASD No. 2026-V-00118
+  - commission: NC
+    date: 2026-11-17
+    title: "Public and Expert Witness Hearing: Application of Virginia Electric and Power Company, d/b/a Dominion Energy North Carolina, for Approval of Clean Energy and Energy Efficiency Portfolio Standard Compliance Report and Cost Recovery Rider"
+  - commission: ND
+    date: 2026-11-12
+    title: Work Session Legislative Discussion
+  - commission: ND
+    date: 2026-11-16
+    title: Notice of Opportunity for Hearing Case No. PU-26-314 Northern States Power Company Transmission Facility Cost Recovery (2027) Rates
+  - commission: ND
+    date: 2026-11-16
+    title: Notice of Opportunity for Hearing Case No. RC-25-258 BNI Coal, Ltd. Revision 13, BNCR-1101 Application
+  - commission: ND
+    date: 2026-11-18
+    title: Work Session Legislative Discussion
+  - commission: ND
+    date: 2026-11-20
+    title: Notice of Opportunity for Hearing Case No. PU-26-213 Badger Communications LLC Designated Eligible Carrier Application
+  - commission: NE
+    date: 2026-11-17
+    title: "17 Nov Hearing – GW/GD-2026-002 – Grain Fee Updates Location: Commission Hearing Room 11:00am"
+  - commission: NY
+    date: 2026-11-18
+    title: Liberty Utilities Water Rate Case Merrick Public Statement Hearin...
+  - commission: NY
+    date: 2026-11-18
+    title: Liberty Utilities Water Rate Case Lynbrook Public Statement Heari...
+  - commission: NY
+    date: 2026-11-19
+    title: Liberty Utilities Water Rate Case Ellenville Public Statement Hea...
+  - commission: NY
+    date: 2026-11-19
+    title: Filing responses due for the rehearing and requests for stay file...
+  - commission: NY
+    date: 2026-11-19
+    title: Liberty Utilities Water Rate Case Brewster Public Statement Heari...
+  - commission: OH
+    date: 2026-11-12
+    title: Case No. 26-974-EL-SSO et al
+  - commission: OR
+    date: 2026-11-12
+    title: Docket UM 2436 - PURPA AVOIDED COSTS STANDARDIZED WORKBOOKS
+  - commission: OR
+    date: 2026-11-19
+    title: Docket AR 681 - MICROGRID FRAMEWORKS (HB 2065 & HB 2066 IMPLEMENTATION)
+  - commission: PA
+    date: 2026-11-12
+    title: "Docket Number C-2026-3062232 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-11-12
+    title: "Docket Number C-2026-3064099 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Ann Quimby"
+  - commission: PA
+    date: 2026-11-12
+    title: "Docket Number C-2026-3066398 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Expedited Delivery/3 days) Judges: Mark A Hoyer Lindsay Cowen"
+  - commission: PA
+    date: 2026-11-12
+    title: "Docket Number F-2026-3064248 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: William E. Angle"
+  - commission: PA
+    date: 2026-11-12
+    title: "Docket Number P-2026-3066399 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Expedited Delivery/3 days) Judges: Lindsay Cowen Mark A Hoyer"
+  - commission: PA
+    date: 2026-11-12
+    title: "Docket Number R-2026-3061282 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: HBG 4 Copy Delivery (Original & 1 copy/e-File) (Expedited Delivery/5 days) Judges: Barbara Shadie Nause"
+  - commission: PA
+    date: 2026-11-13
+    title: "Docket Number P-2026-3064927 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Expedited Delivery/5 days) Judges: Gail Chiodo"
+  - commission: PA
+    date: 2026-11-19
+    title: "Next Public Meeting: Thursday, November 19, 2026 View 2026-2027 Meeting Schedule (PDF)"
+  - commission: RI
+    date: 2026-11-17
+    title: "PUC - Notice of Evidentiary Hearing - Tuesday November 17, 2026 at 9:30am at the PUC Hearing Room A, 89 Jefferson Blvd, Warwick, Rhode Island"
+  - commission: TX-RRC
+    date: 2026-11-16
+    title: "*JAY MANAGEMENT COMPANY, LLC-DOCKET NO.OG-26-00030866"
+  - commission: TX-RRC
+    date: 2026-11-16
+    title: "*ENERGY TRANSFER FUEL, LP-DOCKET NO. OS-26-00031047"
+  - commission: TX-RRC
+    date: 2026-11-18
+    title: "*WES WATER HOLDINGS LLC-DOCKET NO. OG-26-00032562"
+  - commission: TX-RRC
+    date: 2026-11-18
+    title: "*INCENDIUM RESOURCES LLC-DOCKET NO. OG-26-00032250"
+  - commission: TX-RRC
+    date: 2026-11-18
+    title: UNAVAILABLE
+  - commission: TX-RRC
+    date: 2026-11-20
+    title: "*WES WATER HOLDINGS LLC-DOCKET NO. OG-26-00032090"
+  - commission: TX-RRC
+    date: 2026-11-20
+    title: "*SPICEWOOD OPERATING COMPANY, LLC-DOCKET NO. OG-26-00033218"
+  - commission: UT
+    date: 2026-11-17
+    title: Hearing on General Rate Case (26-2666-01, Corix GRC)
+  - commission: UT
+    date: 2026-11-18
+    title: Hearing on General Rate Case (26-2666-01, Corix GRC)
+  - commission: UT
+    date: 2026-11-19
+    title: Hearing on General Rate Case (26-2666-01, Corix GRC)
+  - commission: VA
+    date: 2026-11-16
+    title: "PUR-2026-00021 - Application of Dominion Energy Virginia for electric transmission facilities in Fauquier, Prince William, and Loudoun Counties: 500 kV Morrisville-Wishing Star Line #5008; 230 kV Anderson Branch-Morrisville Line #2464; Expanded Corridor Optimization & Related Projects (Evidentiary p"
 
 recurring: []
