@@ -13,7 +13,7 @@ SUMMARY:[UT] CONCLUDED 10/29/2026 Hearing (26-057-16\, Piceance III Proper
  ties as Wexpro II Property)
 DTSTART:20261030T150000Z
 DTEND:20261030T230000Z
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172441Z
 UID:46114f78b6e724008cee@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -29,11 +29,33 @@ PRIORITY:5
 URL:https://psc.utah.gov/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[UT] Virtual Consolidated Hearing (26-035-49 and 26-035-50\, RMP's
+  PPAs w/ Kennecott Refinery and Smelter)
+DTSTART:20261210T170000Z
+DTEND:20261210T180000Z
+DTSTAMP:20261113T172441Z
+UID:7c157dd5f96e847d3859@psc-calendar
+CATEGORIES:UT,Evidentiary Hearing
+DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
+ iary Hearing\nDocket: 26-035-49\, 26-035-50\n\n<a href="https://psc.utah.g
+ ov/2026/10/28/docket-no-26-035-49/" target="_blank">Docket No. 26-035-49</
+ a> - <i>Application of Rocky Mountain Power for Approval of a Power Purcha
+ se Agreement between PacifiCorp and Kennecott Utah Copper LLC - Refinery</
+ i><br><i><br></i><a href="https://psc.utah.gov/2026/10/28/docket-no-26-035
+ -50/" target="_blank">Docket No. 26-035-50</a> - <i>Application of Rocky M
+ ountain Power for Approval of a Power Purchase Agreement between PacifiCor
+ p and Kennecott Utah Copper LLC - Smelter</i><br><br>The hearing will be c
+ onducted via Google Meet at the following link:<br><a h\n\nSource: https:/
+ /psc.utah.gov/
+PRIORITY:5
+URL:https://psc.utah.gov/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[UT] Virtual Consolidated Hearing (26-057-19 and 26-057-20\, EGU's
   Applications)
 DTSTART:20261215T160000Z
 DTEND:20261215T190000Z
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172441Z
 UID:aa86ee793edbeecd9745@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -54,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing (26-035-20\, Sale of Washington Service Area)
 DTSTART:20270113T160000Z
 DTEND:20270114T000000Z
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172441Z
 UID:07a1e29ecc9c4c847631@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -72,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing (26-035-20\, Sale of Washington Service Area)
 DTSTART:20270114T160000Z
 DTEND:20270115T000000Z
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172441Z
 UID:d2cecb88823263362fb7@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -92,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing (26-035-20\, Sale of Washington Service Area)
 DTSTART:20270115T160000Z
 DTEND:20270116T000000Z
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172441Z
 UID:106ca35f45f8856ba983@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident
@@ -112,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:[UT] Hearing (26-035-01\, RMP's 2026 EBA)
 DTSTART:20270126T160000Z
 DTEND:20270127T000000Z
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172441Z
 UID:3c5a8f35100a2d34137f@psc-calendar
 CATEGORIES:UT,Evidentiary Hearing
 DESCRIPTION:Commission: Utah Public Service Commission (UT)\nType: Evident

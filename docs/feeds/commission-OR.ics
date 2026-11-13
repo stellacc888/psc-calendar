@@ -9,11 +9,104 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 2446 - PACIFICORP PROPOSAL TO APPROVE FUNDS DISBURS
+ EMENT
+DTSTART;TZID=America/Los_Angeles:20261124T093000
+DTEND;TZID=America/Los_Angeles:20261124T113000
+DTSTAMP:20261113T172441Z
+UID:3866f46402c23f88c149@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=11/23/2026&EndDate=11/29/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=11/23/202
+ 6&EndDate=11/29/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UI 542 - PACIFICORP AFFILIATED INTEREST WITH BNSF RAIL
+ WAY
+DTSTART;TZID=America/Los_Angeles:20261124T093000
+DTEND;TZID=America/Los_Angeles:20261124T113000
+DTSTAMP:20261113T172441Z
+UID:6e6a893b491357f44572@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=11/23/2026&EndDate=11/29/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=11/23/202
+ 6&EndDate=11/29/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket ADV 1909 - AVISTA ADVICE NO. 26-04-G RULE 18
+DTSTART;TZID=America/Los_Angeles:20261124T093000
+DTEND;TZID=America/Los_Angeles:20261124T113000
+DTSTAMP:20261113T172441Z
+UID:38b5d885716179bac300@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=11/23/2026&EndDate=11/29/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=11/23/202
+ 6&EndDate=11/29/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 779 - LATE PAYMENT RATE
+DTSTART;TZID=America/Los_Angeles:20261124T093000
+DTEND;TZID=America/Los_Angeles:20261124T113000
+DTSTAMP:20261113T172441Z
+UID:0095a91dc89f50f6d6bc@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=11/23/2026&EndDate=11/29/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=11/23/202
+ 6&EndDate=11/29/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 2249 - PGE DEFERRAL OF ORS 469A.425 COSTS AND REVEN
+ UES
+DTSTART;TZID=America/Los_Angeles:20261124T093000
+DTEND;TZID=America/Los_Angeles:20261124T113000
+DTSTAMP:20261113T172441Z
+UID:7d78971e351f916d9b31@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=11/23/2026&EndDate=11/29/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=11/23/202
+ 6&EndDate=11/29/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 2332 - IDAHO POWER DEFERRAL BILL DISCOUNT PROGRAM
+DTSTART;TZID=America/Los_Angeles:20261124T093000
+DTEND;TZID=America/Los_Angeles:20261124T113000
+DTSTAMP:20261113T172441Z
+UID:691f3f5452fa3934bf1d@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=11/23/2026&EndDate=11/29/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=11/23/202
+ 6&EndDate=11/29/2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[OR] Docket UE 474 - PACIFICORP ADVICE NO. 26-014 DIRECT ACCESS TA
  RIFF
 DTSTART;TZID=America/Los_Angeles:20261208T093000
 DTEND;TZID=America/Los_Angeles:20261208T113000
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172441Z
 UID:aa3f5c059d86cf86bb0e@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -28,7 +121,7 @@ SUMMARY:[OR] Docket ADV 1897 - AVISTA ADVICE NO. 26-03-G TVE PILOT SCHEDUL
  E 465.
 DTSTART;TZID=America/Los_Angeles:20261208T093000
 DTEND;TZID=America/Los_Angeles:20261208T113000
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172441Z
 UID:10a9bf78931740f9fb73@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -44,7 +137,7 @@ SUMMARY:[OR] Docket UE 475 - PGE ADVICE NO. 36-37 SCHEDULE 127 CAPACITY BA
  CKSTOP CHARGE
 DTSTART;TZID=America/Los_Angeles:20261208T093000
 DTEND;TZID=America/Los_Angeles:20261208T113000
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172441Z
 UID:2073b95cfad4b9f1639c@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -59,7 +152,7 @@ SUMMARY:[OR] Docket UM 2417 - PUC IDENTIFYING PRIORITIES IN IMPLEMENTATION
   OF EOS 25-25 AND 25-29
 DTSTART;TZID=America/Los_Angeles:20261208T133000
 DTEND;TZID=America/Los_Angeles:20261208T153000
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172441Z
 UID:1b108afa02d2fae06742@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
