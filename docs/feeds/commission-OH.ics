@@ -10,10 +10,10 @@ X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:[OH] Case No. 26-974-EL-SSO et al
-DTSTART;TZID=America/New_York:20261113T090000
-DTEND;TZID=America/New_York:20261113T170000
-DTSTAMP:20261113T172441Z
-UID:64bd7a6fd6880053891d@psc-calendar
+DTSTART;TZID=America/New_York:20261116T090000
+DTEND;TZID=America/New_York:20261117T170000
+DTSTAMP:20261114T161157Z
+UID:9ae488136af2be7697a5@psc-calendar
 CATEGORIES:OH,Evidentiary Hearing
 DESCRIPTION:Commission: Public Utilities Commission of Ohio (OH)\nType: Ev
  identiary Hearing\nDocket: 26-974-EL\, 26-974-EL-SSO\n\nSource: https://pu
