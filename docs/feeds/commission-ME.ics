@@ -9,94 +9,18 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[ME] Hearing - CASD No. 2026-V-00073
-DTSTART;TZID=America/New_York:20261116T130000
-DTEND;TZID=America/New_York:20261116T150000
-DTSTAMP:20261111T173035Z
-UID:1fe1e59805c078f37be9@psc-calendar
+SUMMARY:[ME] Hearing on CASD No. 2025-V-00715
+DTSTART;TZID=America/New_York:20261202T100000
+DTEND;TZID=America/New_York:20261202T120000
+DTSTAMP:20261116T195451Z
+UID:d36bc78d58bf8b997129@psc-calendar
 CATEGORIES:ME,Evidentiary Hearing
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
- entiary Hearing\n\n11/16/2026 | Hearing | Hearing - CASD No. 2026-V-00073 
- | Simpson Room | 1:00 PM | | 2026-00272\n\nSource: https://www.maine.gov/t
- ools/whatsnew/index.php?topic=puc-otherevents&id=13365677&v=article088
+ entiary Hearing\n\n12/2/2026 | Hearing | Hearing on CASD No. 2025-V-00715 
+ | Simpson Room | 10:00 AM | | 2026-00111\n\nSource: https://www.maine.gov/
+ tools/whatsnew/index.php?topic=puc-otherevents&id=13368560&v=article088
 PRIORITY:5
 URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-otherevents&i
- d=13365677&v=article088
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ME] Final Hearing in Madison Electric Works Ch. 307 Rate Case
-DTSTART;TZID=America/New_York:20261117T113000
-DTEND;TZID=America/New_York:20261117T133000
-DTSTAMP:20261111T173035Z
-UID:788af9f36e923c0b7b8d@psc-calendar
-CATEGORIES:ME,Evidentiary Hearing
-DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
- entiary Hearing\nDocket: 11/17/2026\n\n11/17/2026 | Hearing | Final Hearin
- g in Madison Electric Works Ch. 307 Rate Case | Simpson Room/Remote | 11:3
- 0 AM | | 2025-00365\n\nSource: https://www.maine.gov/tools/whatsnew/index.
- php?topic=puc-otherevents&id=13365678&v=article088
-PRIORITY:5
-URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-otherevents&i
- d=13365678&v=article088
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ME] Special Deliberations Audio/Video
-DTSTART;TZID=America/New_York:20261117T130000
-DTEND;TZID=America/New_York:20261117T150000
-DTSTAMP:20261111T173035Z
-UID:5f45e4f70c9b3bef5664@psc-calendar
-CATEGORIES:ME,Decision / Order
-DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
- sion / Order\n\n11/17/2026 | Special Deliberations Audio/Video | 1:00 PM\n
- \nSource: https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliber
- ations&id=13365589&v=Article088
-PRIORITY:5
-URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations
- &id=13365589&v=Article088
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ME] Special Deliberations Audio/Video
-DTSTART;TZID=America/New_York:20261118T130000
-DTEND;TZID=America/New_York:20261118T150000
-DTSTAMP:20261111T173035Z
-UID:3d2f0bd5975885cfad9e@psc-calendar
-CATEGORIES:ME,Decision / Order
-DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
- sion / Order\n\n11/18/2026 | Special Deliberations Audio/Video | 1:00 PM\n
- \nSource: https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliber
- ations&id=13365588&v=Article088
-PRIORITY:5
-URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations
- &id=13365588&v=Article088
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ME] Deliberations Audio/Video
-DTSTART;TZID=America/New_York:20261119T100000
-DTEND;TZID=America/New_York:20261119T120000
-DTSTAMP:20261111T173035Z
-UID:7b18b0d112bd43cea491@psc-calendar
-CATEGORIES:ME,Decision / Order
-DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
- sion / Order\n\n11/19/2026 | Deliberations Audio/Video | 10:00 AM\n\nSourc
- e: https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations&
- id=13365749&v=Article088
-PRIORITY:5
-URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-deliberations
- &id=13365749&v=Article088
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ME] Hearing - CASD No. 2026-V-00118
-DTSTART;TZID=America/New_York:20261120T100000
-DTEND;TZID=America/New_York:20261120T120000
-DTSTAMP:20261111T173035Z
-UID:603064eb961aa3aa1236@psc-calendar
-CATEGORIES:ME,Evidentiary Hearing
-DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Evid
- entiary Hearing\n\n11/20/2026 | Hearing | Hearing - CASD No. 2026-V-00118 
- | Simpson Room | 10:00 AM | | 2026-00271\n\nSource: https://www.maine.gov/
- tools/whatsnew/index.php?topic=puc-otherevents&id=13365679&v=article088
-PRIORITY:5
-URL:https://www.maine.gov/tools/whatsnew/index.php?topic=puc-otherevents&i
- d=13365679&v=article088
+ d=13368560&v=article088
 END:VEVENT
 END:VCALENDAR
