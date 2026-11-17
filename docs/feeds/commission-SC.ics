@@ -10,10 +10,29 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[SC] 2026-167-EGWS
+DTSTART;TZID=America/New_York:20261117T100000
+DTEND;TZID=America/New_York:20261117T120000
+DTSTAMP:20261117T184920Z
+UID:57d3ac47056b6b032f88@psc-calendar
+CATEGORIES:SC,Evidentiary Hearing
+DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp
+ e: Evidentiary Hearing\n\n11/17/2026 10:00 AM Scheduled | 2026-167-EGWS | 
+ Location: Hearing Room Summary: Request That the Public Service Commission
+  of South Carolina Open a Generic Docket to Consider and Determine How Cas
+ h Working Capital Should Be Calculated in Future Ratemaking Proceedings No
+ tes: Notes: Court Reporter - Jo M. Wheat\, CVR-CM/M - US Toll-free Listen 
+ Line: +1-877-309-2073 Access Code: 601 673 909 Url: PSC Video Archive 2026
+ -167-EGWS PART 1 11-17-2026 Applicant(s): South Carolina Office of Regulat
+ ory Staff\n\nSource: https://dms.psc.sc.gov/Web/Dockets/Detail/119748
+PRIORITY:5
+URL:https://dms.psc.sc.gov/Web/Dockets/Detail/119748
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[SC] Commission Business Meeting
 DTSTART;TZID=America/New_York:20261119T110000
 DTEND;TZID=America/New_York:20261119T130000
-DTSTAMP:20261116T195451Z
+DTSTAMP:20261117T184920Z
 UID:0d96f99a4c6ce41d144a@psc-calendar
 CATEGORIES:SC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: South Carolina Public Service Commission (SC)\nTyp

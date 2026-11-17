@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] NOVEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261116T195451Z
+DTSTAMP:20261117T184920Z
 UID:7fb30086e9fc1c74a1c3@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -30,7 +30,7 @@ SUMMARY:[NY] Liberty Utilities Water Rate Case Virtual Public Statement He
  arin...
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261116T195451Z
+DTSTAMP:20261117T184920Z
 UID:c09ed64f040cf5b31381@psc-calendar
 CATEGORIES:NY,Evidentiary Hearing
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Evi
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] DECEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261116T195451Z
+DTSTAMP:20261117T184920Z
 UID:3542fbb3b93eff2c8773@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -59,5 +59,38 @@ DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
 PRIORITY:5
 URL:https://dps.ny.gov/event/december-2026-public-service-commission-sessi
  on
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NY] JANUARY 2027 Public Service Commission Session
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+DTSTAMP:20261117T184920Z
+UID:9e875ac9351c344f4d25@psc-calendar
+CATEGORIES:NY,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
+ n Meeting / Commission Meeting\n\nJAN 21 Commission Sessions JANUARY 2027 
+ Public Service Commission Session Jan 21\, 2027 10:30 AM ET In Person and 
+ Via Webcast 3 Empire State Plaza 19th Floor Boardroom Albany \, NY 12223 U
+ nited States\n\nSource: https://dps.ny.gov/event/january-2027-public-servi
+ ce-commission-session
+PRIORITY:5
+URL:https://dps.ny.gov/event/january-2027-public-service-commission-sessio
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NY] MARCH 2027 Public Service Commission Session
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+DTSTAMP:20261117T184920Z
+UID:c083e2946ea398be980b@psc-calendar
+CATEGORIES:NY,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
+ n Meeting / Commission Meeting\n\nMAR 18 Commission Sessions MARCH 2027 Pu
+ blic Service Commission Session Mar 18\, 2027 10:30 AM ET In Person and Vi
+ a Webcast 3 Empire State Plaza 19th Floor Boardroom Albany \, NY 12223 Uni
+ ted States\n\nSource: https://dps.ny.gov/event/march-2027-public-service-c
+ ommission-session
+PRIORITY:5
+URL:https://dps.ny.gov/event/march-2027-public-service-commission-session
 END:VEVENT
 END:VCALENDAR
