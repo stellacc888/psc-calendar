@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 26-90 - DPU - Rulemaking
 DTSTART;TZID=America/New_York:20261123T100000
 DTEND;TZID=America/New_York:20261123T110000
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:529c2a2fe17258bd9ca7@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 26-125 - Town of Montague - Municipal Aggregation
 DTSTART;TZID=America/New_York:20261207T140000
 DTEND;TZID=America/New_York:20261207T150000
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:37e1c6a5fd9069715b94@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:[MA] 26-128 - Liberty Utilities - Forecast And Supply Plan
 DTSTART;TZID=America/New_York:20261214T140000
 DTEND;TZID=America/New_York:20261214T150000
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:a0a897870d4b1461f0e7@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -59,7 +59,7 @@ SUMMARY:[MA] 26-101 - NSTAR Electric Company d/b/a Eversource Energy - Fin
  ancing
 DTSTART;TZID=America/New_York:20261215T100000
 DTEND;TZID=America/New_York:20261215T110000
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:01d79a8621f024a859da@psc-calendar
 CATEGORIES:MA,Evidentiary Hearing
 DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
@@ -67,6 +67,22 @@ DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
  pu/fileroom/#/hearings
 LOCATION:Public Zoom Link: https://us06web.zoom.us/j/88056869375 or Dial 1
   305 224 1968 Webinar ID: 880 5686 9375
+PRIORITY:5
+URL:https://eeaonline.eea.state.ma.us/dpu/fileroom/#/hearings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MA] 26-70 - DPU - Rulemaking
+DTSTART;TZID=America/New_York:20261216T090000
+DTEND;TZID=America/New_York:20261216T170000
+DTSTAMP:20261118T182812Z
+UID:b9120501559969760120@psc-calendar
+CATEGORIES:MA,Evidentiary Hearing
+DESCRIPTION:Commission: Massachusetts Department of Public Utilities (MA)
+ \nType: Evidentiary Hearing\n\nSource: https://eeaonline.eea.state.ma.us/d
+ pu/fileroom/#/hearings
+LOCATION:Public Zoom Link: :https://us06web.zoom.us/j/87410929699 or Dial 
+ 1 646 558 8656 Webinar ID: 874 1092 9699\; Or\; In Person: 1 South Station
+ \, 3rd Floor Hearing Roo
 PRIORITY:5
 URL:https://eeaonline.eea.state.ma.us/dpu/fileroom/#/hearings
 END:VEVENT

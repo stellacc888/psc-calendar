@@ -9,25 +9,29 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[FL] Prehearing: 20260143-EI — Petition for determination of nee
- d for Avon Park to Vandolah transmission line in Highlands and Hardee Coun
- ties\, by Duke Energy Florida\, LLC
-DTSTART;TZID=America/New_York:20261117T110000
-DTEND;TZID=America/New_York:20261117T130000
-DTSTAMP:20261117T184920Z
-UID:89db5553d10d1c5ccf8f@psc-calendar
+SUMMARY:[FL] Docket 20260143: Petition for determination of need for Avon 
+ Park to Vandolah transmission line in Highlands and Hardee Counties\, by D
+ uke Energy Florida\, LLC
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261118T182812Z
+UID:44cfe22c4059aa464fbc@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
- entiary Hearing\nDocket: 20260143\, 20260143-EI\n\nSource: https://psc-fl.
- granicus.com/AgendaViewer.php?view_id=2&event_id=2920
+ entiary Hearing\nDocket: 20260143\n\nTuesday\, November 17\, 2026 Event ty
+ pe: Pre-Hearing Time : Immediately following previous event Location: E 14
+ 8 - Tallahassee | | | Docket No : 20260143 \; Title: Petition for determin
+ ation of need for Avon Park to Vandolah transmission line in Highlands and
+  Hardee Counties\, by Duke Energy Florida\, LLC. | OR\n\nSource: https://w
+ ww.floridapsc.com/watch-archive-psc-events
 PRIORITY:5
-URL:https://psc-fl.granicus.com/AgendaViewer.php?view_id=2&event_id=2920
+URL:https://www.floridapsc.com/watch-archive-psc-events
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[FL] Thursday\, November 26\, 2026 HOLIDAY: Thanksgiving
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:b5fa83e82232440fbe6e@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -40,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Friday\, November 27\, 2026 HOLIDAY: Thanksgiving
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:18b6661df86d907d5b47@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid
@@ -53,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Commission Conference - Hearing immediately following
 DTSTART;TZID=America/New_York:20261201T090000
 DTEND;TZID=America/New_York:20261201T110000
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:a0f5aea40165a8163b76@psc-calendar
 CATEGORIES:FL,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Open
@@ -66,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:[FL] Hearing: 20260001-EI / Special Agenda immediately following
 DTSTART;TZID=America/New_York:20261201T110000
 DTEND;TZID=America/New_York:20261201T130000
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:68b153e2fa305900b68a@psc-calendar
 CATEGORIES:FL,Evidentiary Hearing
 DESCRIPTION:Commission: Florida Public Service Commission (FL)\nType: Evid

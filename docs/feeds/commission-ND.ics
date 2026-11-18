@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261118T100000
 DTEND;TZID=America/Chicago:20261118T120000
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:57e86c19d24093ba7fba@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
   Open Meeting / Commission Meeting\n\nNovember 18\, 2026 - 10:00 am CST Re
- gular Meeting - Internet Broadcast Formal (82KB pdf) Administrative (62KB 
+ gular Meeting - Internet Broadcast Formal (82KB pdf) Administrative (65KB 
  pdf)\n\nSource: https://www.psc.nd.gov/webdocs/meeting/agenda/2026/6291e71
  11d1s1.pdf
 PRIORITY:5
@@ -28,7 +28,7 @@ SUMMARY:[ND] Work Session -Internet Broadcast Case No. PU-26-86 Homestead
  Wind\, LLC Homestead Wind Project - Williams County Siting Application
 DTSTART;TZID=America/Chicago:20261118T133000
 DTEND;TZID=America/Chicago:20261118T153000
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:97cc58e3ec017fe16c2a@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -45,7 +45,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. PU-26-318 Northern
   States Power Company Renewable Resource Cost Recovery (2027) Rates
 DTSTART;TZID=America/Chicago:20261202T170000
 DTEND;TZID=America/Chicago:20261202T190000
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:0b05fc2de2dd70ead9b6@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261203T133000
 DTEND;TZID=America/Chicago:20261203T153000
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:3df1a1b5666a0df3273f@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -75,7 +75,7 @@ SUMMARY:[ND] Notice of Opportunity for Hearing Case No. PU-26-310 Otter Ta
  il Power Company Transmission Facility Cost Recovery (2027) Rates
 DTSTART;TZID=America/Chicago:20261205T170000
 DTEND;TZID=America/Chicago:20261205T190000
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:700030e58eb21790e137@psc-calendar
 CATEGORIES:ND,Evidentiary Hearing
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
@@ -87,16 +87,16 @@ PRIORITY:5
 URL:https://www.psc.nd.gov/webdocs/case/26-0310/005-010.pdf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
-DTSTART;TZID=America/Chicago:20261216T100000
-DTEND;TZID=America/Chicago:20261216T120000
-DTSTAMP:20261117T184920Z
-UID:2cc7aec766522a699e7e@psc-calendar
+SUMMARY:[ND] Special Meeting - Internet Broadcast Special Administrative
+DTSTART;TZID=America/Chicago:20261218T100000
+DTEND;TZID=America/Chicago:20261218T120000
+DTSTAMP:20261118T182812Z
+UID:7af433373cc7300e0aa8@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
-  Open Meeting / Commission Meeting\n\nDecember 16\, 2026 - 10:00 am CST Re
- gular Meeting - Internet Broadcast Formal Administrative\n\nSource: https:
- //apps.psc.nd.gov/events/meetings
+  Open Meeting / Commission Meeting\n\nDecember 18\, 2026 - 10:00 am CST Sp
+ ecial Meeting - Internet Broadcast Special Administrative\n\nSource: https
+ ://apps.psc.nd.gov/events/meetings
 PRIORITY:5
 URL:https://apps.psc.nd.gov/events/meetings
 END:VEVENT
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:[ND] Regular Meeting - Internet Broadcast Formal Administrative
 DTSTART;TZID=America/Chicago:20261230T100000
 DTEND;TZID=America/Chicago:20261230T120000
-DTSTAMP:20261117T184920Z
+DTSTAMP:20261118T182812Z
 UID:b6020138f7af3534af9e@psc-calendar
 CATEGORIES:ND,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: North Dakota Public Service Commission (ND)\nType:
