@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[MS] Notice of meeting
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261119T134854Z
+DTSTAMP:20261119T184320Z
 UID:6fcc82f3fe9d907019fc@psc-calendar
 CATEGORIES:MS,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Mississippi Public Service Commission (MS)\nType: 
@@ -22,5 +22,20 @@ DESCRIPTION:Commission: Mississippi Public Service Commission (MS)\nType:
 PRIORITY:5
 URL:https://www.psc.ms.gov/sites/default/files/2026-10/Noticeofpublicmeeti
  ngNov172026.pdf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MS] Notice of Meeting
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20261119T184320Z
+UID:e00783b67d0d462914ae@psc-calendar
+CATEGORIES:MS,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Mississippi Public Service Commission (MS)\nType: 
+ Open Meeting / Commission Meeting\n\nNotice of Meeting December 1st 2026\n
+ \nSource: https://www.psc.ms.gov/sites/default/files/2026-11/NOTICE-MEETIN
+ G-12-1-26.pdf
+PRIORITY:5
+URL:https://www.psc.ms.gov/sites/default/files/2026-11/NOTICE-MEETING-12-1
+ -26.pdf
 END:VEVENT
 END:VCALENDAR
