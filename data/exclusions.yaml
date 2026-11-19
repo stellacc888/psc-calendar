@@ -3006,6 +3006,159 @@ events:
     title: Hearing on General Rate Case (26-2666-01, Corix GRC)
   - commission: VA
     date: 2026-11-16
-    title: "PUR-2026-00021 - Application of Dominion Energy Virginia for electric transmission facilities in Fauquier, Prince William, and Loudoun Counties: 500 kV Morrisville-Wishing Star Line #5008; 230 kV Anderson Branch-Morrisville Line #2464; Expanded Corridor Optimization & Related Projects (Evidentiary p"
+    title: "PUR-2026-00021 - Application of Dominion Energy Virginia for electric transmission facilities in Fauquier, Prince William, and Loudoun Counties: 500 kV Morrisville-Wishing Star Line #5008; 230 kV Anderson Branch-Morrisville Line #2464; Expanded Corridor Optimization & Related Projects (Evidentiary p"  # --- added 2026-11-19 - paste directly under the existing `events:` line ---
+  - commission: CA
+    date: 2026-11-19
+    title: "2026 Voting Meetings: 11/19/2026 California State Personnel Board’s Auditorium 801 Capitol Mall, Sacramento, CA 95814"
+  - commission: CA
+    date: 2026-11-19
+    title: CPUC Voting Meeting 11-19-26
+  - commission: CO
+    date: 2026-11-19
+    title: "PUC: Show Cause Hearing (TB)"
+  - commission: FL
+    date: 2026-11-26
+    title: "Thursday, November 26, 2026 HOLIDAY: Thanksgiving"
+  - commission: FL
+    date: 2026-11-27
+    title: "Friday, November 27, 2026 HOLIDAY: Thanksgiving"
+  - commission: IL
+    date: 2026-11-19
+    title: Illinois Commerce Commission Hearing for T26-0053
+  - commission: IL
+    date: 2026-11-19
+    title: Illinois Commerce Commission Regular Open Meeting
+  - commission: IL
+    date: 2026-11-19
+    title: Regular Open Meeting Illinois Commerce Commission 160 North LaSalle Street Eighth Floor, Bilandic Building Chicago, Illinois 60601
+  - commission: IL
+    date: 2026-11-19
+    title: Illinois Commerce Commission Hearing for T26-0005
+  - commission: IL
+    date: 2026-11-19
+    title: Illinois Commerce Commission Hearing for T26-0004
+  - commission: IL
+    date: 2026-11-24
+    title: Illinois Commerce Commission Prehearing for 26-0782
+  - commission: IL
+    date: 2026-11-24
+    title: Special Open Meeting Illinois Commerce Commission 160 North LaSalle Street Eighth Floor, Bilandic Building Chicago, Illinois 60601
+  - commission: IL
+    date: 2026-11-24
+    title: Illinois Commerce Commission Prehearing for 26-0613
+  - commission: IN
+    date: 2026-11-20
+    title: "VERIFIED PETITION OF INDIANA MICHIGAN POWER COMPANY (I&M) FOR (1) ISSUANCE OF A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY UNDER IND. CODE § 8-1-8.5-2 FOR THE CONSTRUCTION OF THE 1,520 MW ROCKPORT ENERGY CENTER (ROC"
+  - commission: IN
+    date: 2026-11-23
+    title: PETITION OF OHIO VALLEY GAS CORPORATION AND OHIO VALLEY GAS, INC. FOR APPROVAL OF UPDATES TO THEIR COMMISSION-APPROVED PLAN FOR INVESTMENTS IN ELIGIBLE TRANSMISSION, DISTRIBUTION AND STORAGE IMPROVEMENTS AND TO ADJUST TH
+  - commission: IN
+    date: 2026-11-24
+    title: IN THE MATTER OF THE PETITION OF INDIANA MICHIGAN POWER COMPANY FOR PROTECTION AND NONDISCLOSURE OF CONFIDENTIAL INFORMATION RELATED TO ITS PROVISION OF SERVICE TO GOOGLE, LLC (Cause 46276-S1)
+  - commission: IN
+    date: 2026-11-24
+    title: PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC FOR APPROVAL OF A REVISED GREEN POWER RIDER RATE TO BE APPLICABLE FOR ELECTRIC SERVICES RENDERED ON OR AFTER JANUARY 1, 2027 WHICH WILL REMAIN IN PLACE FOR THE PER
+  - commission: MA
+    date: 2026-11-23
+    title: 26-90 - DPU - Rulemaking
+  - commission: MD
+    date: 2026-11-24
+    title: NEM Successor Program Virtual Hearing (PC 78)
+  - commission: MN
+    date: 2026-11-19
+    title: PUC Agenda Meeting
+  - commission: NC
+    date: 2026-11-19
+    title: "Expert Witness Hearing: Application of Virginia Electric and Power Company, d/b/a Dominion Energy North Carolina for Adjustment of Rates and Charges Applicable to Electric Service In North Carolina"
+  - commission: NJ
+    date: 2026-11-20
+    title: Regular Board Agenda Meetings
+  - commission: NM
+    date: 2026-11-19
+    title: Sandoval County Administrative Office, 1500 Idalia Road, Bldg. D.,Bernalillo
+  - commission: NV
+    date: 2026-11-24
+    title: Scheduled Commission Utility Agendas
+  - commission: NY
+    date: 2026-11-19
+    title: NOVEMBER 2026 Public Service Commission Session
+  - commission: OR
+    date: 2026-11-24
+    title: Docket UM 2446 - PACIFICORP PROPOSAL TO APPROVE FUNDS DISBURSEMENT
+  - commission: OR
+    date: 2026-11-24
+    title: Docket UI 542 - PACIFICORP AFFILIATED INTEREST WITH BNSF RAILWAY
+  - commission: OR
+    date: 2026-11-24
+    title: Docket UM 779 - LATE PAYMENT RATE
+  - commission: OR
+    date: 2026-11-24
+    title: Docket UM 2249 - PGE DEFERRAL OF ORS 469A.425 COSTS AND REVENUES
+  - commission: OR
+    date: 2026-11-24
+    title: Docket UM 2332 - IDAHO POWER DEFERRAL BILL DISCOUNT PROGRAM
+  - commission: OR
+    date: 2026-11-24
+    title: Docket ADV 1909 - AVISTA ADVICE NO. 26-04-G RULE 18
+  - commission: PA
+    date: 2026-11-19
+    title: "View 2026-2027 Meeting Schedule (PDF): November 19, 2026"
+  - commission: PA
+    date: 2026-11-19
+    title: "Docket Number C-2026-3063616 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Ann Quimby"
+  - commission: PA
+    date: 2026-11-19
+    title: "Docket Number C-2026-3064338 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: M. Jackie Gross"
+  - commission: PA
+    date: 2026-11-19
+    title: "Docket Number C-2026-3064678 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: William E. Angle"
+  - commission: PA
+    date: 2026-11-19
+    title: "Docket Number C-2026-3063026 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Alphonso Arnold III"
+  - commission: PA
+    date: 2026-11-19
+    title: "Docket Number C-2026-3064480 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Barbara Shadie Nause"
+  - commission: PA
+    date: 2026-11-19
+    title: "Docket Number P-2025-3056530 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Christopher P Pell F Joseph Brady"
+  - commission: PA
+    date: 2026-11-19
+    title: "Docket Number F-2026-3063617 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Marta Guhl"
+  - commission: PA
+    date: 2026-11-20
+    title: "Docket Number F-2026-3064638 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Charece Z Collins"
+  - commission: PA
+    date: 2026-11-20
+    title: "Docket Number R-2026-3064386 Location Judge Chambers 400 North Street 2nd Floor Harrisburg PA 17120 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Teri-Lee Rhoades"
+  - commission: PA
+    date: 2026-11-20
+    title: "Docket Number C-2026-3063200 Location 801 Market Street 4th Floor Philadelphia PA 19107 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Eranda Vero"
+  - commission: PA
+    date: 2026-11-20
+    title: "Docket Number C-2026-3061117 Location Piatt Place 301 5th Avenue, Suite 220 Pittsburgh PA 15222 Room: ms teams / virtual Copy Delivery (Original & 1 copy/e-File) (Regular Delivery/21 days) Judges: Katrina L Dunderdale"
+  - commission: SC
+    date: 2026-11-19
+    title: Commission Business Meeting
+  - commission: SD
+    date: 2026-11-19
+    title: Agenda of Commission Meeting
+  - commission: TX-RRC
+    date: 2026-11-20
+    title: "*SPICEWOOD OPERATING COMPANY, LLC-DOCKET NO. OG-26-00033218 (DISMISSED)"
+  - commission: TX-RRC
+    date: 2026-11-23
+    title: "*SOLARIS WATER MIDSTREAM, LLC-DOCKET NO. OG-26-00032101 ET AL (CONTINUED)"
+  - commission: TX-RRC
+    date: 2026-11-25
+    title: RRC CLOSED
+  - commission: TX-RRC
+    date: 2026-11-26
+    title: RRC CLOSED
+  - commission: TX-RRC
+    date: 2026-11-27
+    title: RRC CLOSED
+  - commission: TX
+    date: 2026-11-19
+    title: Open Meeting - Thursday, November 19, 2026
 
 recurring: []
