@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:[NOLA] Nuisance Hearing - Oct 23\, 2026
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261119T184320Z
+DTSTAMP:20261120T180423Z
 UID:7ed79cb6c4537377b885@psc-calendar
 CATEGORIES:NOLA,Evidentiary Hearing
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
@@ -29,7 +29,7 @@ SUMMARY:[NOLA] Joint Utility\, Cable\, Telecommunications and Technology a
  nd Public Works\, Sanitation and Environment Committee - Nov 18\, 2026
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261119T184320Z
+DTSTAMP:20261120T180423Z
 UID:8a3b53a848e4a2bba577@psc-calendar
 CATEGORIES:NOLA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
@@ -41,20 +41,5 @@ DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
  ewer.php?view_id=42&clip_id=5679
 PRIORITY:5
 URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&clip_id=5679
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NOLA] Regular Meeting
-DTSTART;TZID=America/Chicago:20261119T100000
-DTEND;TZID=America/Chicago:20261119T120000
-DTSTAMP:20261119T184320Z
-UID:14fb2f8b3945a117c858@psc-calendar
-CATEGORIES:NOLA,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
- \nType: Open Meeting / Commission Meeting\n\nNovember 19\, 2026 10:00 AM R
- egular Meeting\n\nSource: https://council.nola.gov/meetings/2026/regular-m
- eetings/20261119-regular-meeting/
-PRIORITY:5
-URL:https://council.nola.gov/meetings/2026/regular-meetings/20261119-regul
- ar-meeting/
 END:VEVENT
 END:VCALENDAR
