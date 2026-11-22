@@ -10,26 +10,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NOLA] Nuisance Hearing - Oct 23\, 2026
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-DTSTAMP:20261121T165936Z
-UID:7ed79cb6c4537377b885@psc-calendar
-CATEGORIES:NOLA,Evidentiary Hearing
-DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
- \nType: Evidentiary Hearing\n\nThe agenda for Nuisance Hearing dated Frida
- y\, 23 October 2026 has been archived. Access it here: https://cityofno.gr
- anicus.com/AgendaViewer.php?view_id=42&amp\;clip_id=5653\n\nSource: https:
- //cityofno.granicus.com/AgendaViewer.php?view_id=42&clip_id=5653
-PRIORITY:5
-URL:https://cityofno.granicus.com/AgendaViewer.php?view_id=42&clip_id=5653
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NOLA] Joint Utility\, Cable\, Telecommunications and Technology a
  nd Public Works\, Sanitation and Environment Committee - Nov 18\, 2026
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261121T165936Z
+DTSTAMP:20261122T172735Z
 UID:8a3b53a848e4a2bba577@psc-calendar
 CATEGORIES:NOLA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New Orleans City Council Utility Committee (NOLA)
