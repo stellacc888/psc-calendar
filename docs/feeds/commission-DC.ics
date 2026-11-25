@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261104T110000
 DTEND;TZID=America/New_York:20261104T130000
-DTSTAMP:20261124T202503Z
+DTSTAMP:20261125T193818Z
 UID:f5811f63b8d650e7c157@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261118T110000
 DTEND;TZID=America/New_York:20261118T130000
-DTSTAMP:20261124T202503Z
+DTSTAMP:20261125T193818Z
 UID:bafe59efad307ffc955a@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:[DC] Commission Open Meeting
 DTSTART;TZID=America/New_York:20261216T110000
 DTEND;TZID=America/New_York:20261216T130000
-DTSTAMP:20261124T202503Z
+DTSTAMP:20261125T193818Z
 UID:94844bb829c576cfa20e@psc-calendar
 CATEGORIES:DC,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: District of Columbia Public Service Commission (DC
