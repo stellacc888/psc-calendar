@@ -3273,6 +3273,33 @@ events:
     title: "PUR-2026-00050 - Application of Dominion Energy Virginia for electric transmission facilities: Charlottesville-Gordonsville 230 kV Rebuild Project (Evidentiary proceeding)"
   - commission: WA
     date: 2026-11-25
-    title: Open Meeting
+    title: Open Meeting   # --- added 2026-11-25 - paste directly under the existing `events:` line ---
+  - commission: IL
+    date: 2026-12-01
+    title: Illinois Commerce Commission Prehearing for 26-0824
+  - commission: IL
+    date: 2026-12-01
+    title: Illinois Commerce Commission Hearing for T13-0048
+  - commission: IL
+    date: 2026-12-01
+    title: Illinois Commerce Commission Hearing for T25-0104
+  - commission: IL
+    date: 2026-12-01
+    title: Illinois Commerce Commission Hearing for T26-0045
+  - commission: IL
+    date: 2026-12-01
+    title: Illinois Commerce Commission Prehearing for 26-0687
+  - commission: IL
+    date: 2026-12-01
+    title: Illinois Commerce Commission Prehearing for 26-0777
+  - commission: IL
+    date: 2026-12-01
+    title: Illinois Commerce Commission Hearing for M2026-14053
+  - commission: IL
+    date: 2026-12-01
+    title: Illinois Commerce Commission Hearing for M2026-16145
+  - commission: IL
+    date: 2026-12-01
+    title: Illinois Commerce Commission Prehearing for 26-0763
 
 recurring: []
