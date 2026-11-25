@@ -3159,6 +3159,120 @@ events:
     title: RRC CLOSED
   - commission: TX
     date: 2026-11-19
-    title: Open Meeting - Thursday, November 19, 2026
+    title: Open Meeting - Thursday, November 19, 2026  # --- added 2026-11-25 - paste directly under the existing `events:` line ---
+  - commission: CA
+    date: 2026-12-03
+    title: "2026 Voting Meetings: 12/03/2026 California State Personnel Board’s Auditorium 801 Capitol Mall, Sacramento, CA 95814"
+  - commission: FL
+    date: 2026-12-01
+    title: "Hearing: 20260001-EI / Special Agenda immediately following"
+  - commission: FL
+    date: 2026-12-02
+    title: "Hearing: 20260143-EI"
+  - commission: IA
+    date: 2026-12-03
+    title: "Docket No. EAC-2026-0156 | Open Meeting and Closed Session Deliberation"
+  - commission: IL
+    date: 2026-11-30
+    title: Illinois Commerce Commission Prehearing for 26-0717
+  - commission: IN
+    date: 2026-11-30
+    title: "VERIFIED PETITION OF DUKE ENERGY INDIANA, LLC FOR AN ORDER MODIFYING, PURSUANT TO IND. CODE § 8-1-2-72, THE COMMISSION’S JUNE 15, 2022 ORDER IN CAUSE NO. 45647 TO APPROVE A ONE-YEAR EXTENSION OF PETITIONER’S 6-YEAR PLAN"
+  - commission: IN
+    date: 2026-11-30
+    title: VERIFIED PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC FOR (1) AN ADJUSTMENT TO ITS GAS SERVICE RATES THROUGH ITS FEDERALLY-MANDATED COST ADJUSTMENT FACTOR PURSUANT TO IND. CODE CH. 8-1-8.4, AND (2) AUTHORITY
+  - commission: IN
+    date: 2026-12-02
+    title: "PETITION OF NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC FOR APPROVAL OF ENVIRONMENTAL COST TRACKER ADJUSTMENT FACTORS PURSUANT TO IND. CODE § 8-1-2-42 (Cause 46033-ECT6)"
+  - commission: IN
+    date: 2026-12-02
+    title: "VERIFIED PETITION OF THE INDIANA OFFICE OF UTILITY CONSUMER COUNSELOR FOR A COMMISSION INVESTIGATION INTO NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC (“NIPSCO”) REGARDING THE POWER OUTAGE AND RESTORATION AFTER THE AUGUS"
+  - commission: IN
+    date: 2026-12-03
+    title: "VERIFIED PETITION OF THE INDIANA OFFICE OF UTILITY CONSUMER COUNSELOR FOR A COMMISSION INVESTIGATION INTO NORTHERN INDIANA PUBLIC SERVICE COMPANY, LLC (“NIPSCO”) REGARDING THE POWER OUTAGE AND RESTORATION AFTER THE AUGUS"
+  - commission: LA
+    date: 2026-12-01
+    title: "Hearing: T-38110"
+  - commission: LA
+    date: 2026-12-01
+    title: "Hearing: T-38111"
+  - commission: LA
+    date: 2026-12-01
+    title: "Hearing: T-38112"
+  - commission: LA
+    date: 2026-12-01
+    title: "Hearing: T-38113"
+  - commission: LA
+    date: 2026-12-01
+    title: "Hearing: T-38083"
+  - commission: ME
+    date: 2026-12-01
+    title: Deliberations Audio/Video
+  - commission: ME
+    date: 2026-12-02
+    title: Hearing on CASD No. 2025-V-00715
+  - commission: ND
+    date: 2026-12-02
+    title: Notice of Opportunity for Hearing Case No. PU-26-318 Northern States Power Company Renewable Resource Cost Recovery (2027) Rates
+  - commission: NE
+    date: 2026-11-30
+    title: "30 Nov Hearing – All Applications NUSF-148.13 through NUSF-148.23 Location: Commission Hearing Room 1:00pm"
+  - commission: NM
+    date: 2026-12-03
+    title: State Capitol Building, Room 309, Santa Fe
+  - commission: NY
+    date: 2026-12-02
+    title: Liberty Utilities Water Rate Case Virtual Public Statement Hearin...
+  - commission: OH
+    date: 2026-11-30
+    title: Case No. 25-1069-EL-CSS
+  - commission: OK
+    date: 2026-11-30
+    title: Agenda Watch Now
+  - commission: OR
+    date: 2026-12-04
+    title: Docket UM 2480 - BIOMASS ONE LP VS PACIFICORP DBA PACIFIC POWER
+  - commission: PA
+    date: 2026-12-03
+    title: "Next Public Meeting: Thursday, December 3, 2026 View 2026-2027 Meeting Schedule (PDF)"
+  - commission: RI
+    date: 2026-12-03
+    title: "Thursday December 3, 2026 at 6:00 p.m. at the PUC Hearing Room A, 89 Jefferson Blvd, Warwick, Rhode Island"
+  - commission: TN
+    date: 2026-12-01
+    title: Notice of Hearing in Docket 26-00060
+  - commission: TX-RRC
+    date: 2026-11-30
+    title: "*SOLUTIONS PROJECTS AND CONSULTING, LLC -DOCKET NO. OG-26-00032046"
+  - commission: TX-RRC
+    date: 2026-11-30
+    title: "*ZONE RIDGE OPERATING, LLC-DOCKET NOS. OG-26-00032460 AND OG-26-00033249"
+  - commission: TX-RRC
+    date: 2026-11-30
+    title: "*OSO EXPLORATION & PROD, LLC-DOCKET NO. OG-26-00032921"
+  - commission: TX-RRC
+    date: 2026-12-01
+    title: "*EOG RESOURCES, INC.-DOCKET NO. OG-26-00030701 (CONTINUED)"
+  - commission: TX-RRC
+    date: 2026-12-01
+    title: "*PILOT WATER GATH DELAWARE LLC-DOCKET NOS. OG-26-00032204 AND OG-26-00032705 (DISMISSED)"
+  - commission: TX-RRC
+    date: 2026-12-02
+    title: "*APACHE CORPORATION-DOCKET NO. OG-26-00033482 (DISMISSED)"
+  - commission: TX-RRC
+    date: 2026-12-02
+    title: "*LIBERTY BELL STORAGE HUB LLC-DOCKET NO. OG-26-00032965 (CONTINUED)"
+  - commission: TX-RRC
+    date: 2026-12-03
+    title: "*KODIAK OPERATING, LLC-DOCKET NOS. OG-26-00032478 AND OG-26-00032480 (DISMISSED)"
+  - commission: TX-RRC
+    date: 2026-12-04
+    title: "*GOLDSTON OIL CORPORATION-DOCKET NO. OG-26-00033561"
+  - commission: VA
+    date: 2026-12-02
+    title: "PUR-2026-00050 - Application of Dominion Energy Virginia for electric transmission facilities: Charlottesville-Gordonsville 230 kV Rebuild Project (Evidentiary proceeding)"
+  - commission: WA
+    date: 2026-11-25
+    title: Open Meeting
 
 recurring: []
