@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] CPUC Voting Meeting 12-03-26
 DTSTART;TZID=America/Los_Angeles:20261203T110000
 DTEND;TZID=America/Los_Angeles:20261203T130000
-DTSTAMP:20261125T193818Z
+DTSTAMP:20261125T194545Z
 UID:053e131fa941a5a72765@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] Low Income Oversight Board Quarterly Meeting 12-10-26
 DTSTART;TZID=America/Los_Angeles:20261210T090000
 DTEND;TZID=America/Los_Angeles:20261210T110000
-DTSTAMP:20261125T193818Z
+DTSTAMP:20261125T194545Z
 UID:9643573dd30725576874@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] 2026 Voting Meetings: 12/17/2026 San Francisco
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261125T193818Z
+DTSTAMP:20261125T194545Z
 UID:264357a2a8eb1b6d7eb2@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] CPUC Voting Meeting 12-17-26
 DTSTART;TZID=America/Los_Angeles:20261217T110000
 DTEND;TZID=America/Los_Angeles:20261217T130000
-DTSTAMP:20261125T193818Z
+DTSTAMP:20261125T194545Z
 UID:da25af756be1ce160972@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] CPUC Voting Meeting 01-14-27
 DTSTART;TZID=America/Los_Angeles:20270114T110000
 DTEND;TZID=America/Los_Angeles:20270114T130000
-DTSTAMP:20261125T193818Z
+DTSTAMP:20261125T194545Z
 UID:3221744e7fdc72fa0dab@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:[CA] CPUC Voting Meeting 02-04-27
 DTSTART;TZID=America/Los_Angeles:20270204T110000
 DTEND;TZID=America/Los_Angeles:20270204T130000
-DTSTAMP:20261125T193818Z
+DTSTAMP:20261125T194545Z
 UID:faa67f1d239e54a254d7@psc-calendar
 CATEGORIES:CA,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: California Public Utilities Commission (CA)\nType:
