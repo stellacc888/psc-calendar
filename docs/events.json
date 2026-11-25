@@ -6728,6 +6728,28 @@
    "start_date": "2027-01-25"
   },
   {
+   "commission": "CO",
+   "commission_name": "Colorado Public Utilities Commission",
+   "state": "CO",
+   "tz": "America/Denver",
+   "title": "HRG: 26A-0266G Atmos Energy Corp. - 2027-2028 DSM Plan, ALJ Segev",
+   "start": "2027-01-25T09:00:00-07:00",
+   "end": "2027-01-25T17:00:00-07:00",
+   "all_day": false,
+   "location": "Hearing Room B",
+   "description": "",
+   "url": "https://puc.colorado.gov/puccalendar",
+   "source_url": "https://calendar.google.com/calendar/ical/state.co.us_mie9aqkvh15rk34shmhs6mnfq8%40group.calendar.google.com/public/basic.ics",
+   "dockets": [],
+   "event_type": "evidentiary_hearing",
+   "event_type_label": "Evidentiary Hearing",
+   "relevance": "High",
+   "weight": 3,
+   "scraped_at": "2026-11-25T14:40:41.205768-05:00",
+   "uid": "19f82c7db310aff32477@psc-calendar",
+   "start_date": "2027-01-25"
+  },
+  {
    "commission": "TX-RRC",
    "commission_name": "Railroad Commission of Texas",
    "state": "TX",

@@ -358,6 +358,20 @@ PRIORITY:5
 URL:https://puc.colorado.gov/puccalendar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CO] HRG: 26A-0266G Atmos Energy Corp. - 2027-2028 DSM Plan\, ALJ 
+ Segev
+DTSTART;TZID=America/Denver:20270125T090000
+DTEND;TZID=America/Denver:20270125T170000
+DTSTAMP:20261125T194041Z
+UID:19f82c7db310aff32477@psc-calendar
+CATEGORIES:CO,Evidentiary Hearing
+DESCRIPTION:Commission: Colorado Public Utilities Commission (CO)\nType: E
+ videntiary Hearing\n\nSource: https://puc.colorado.gov/puccalendar
+LOCATION:Hearing Room B
+PRIORITY:5
+URL:https://puc.colorado.gov/puccalendar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[CO] HRG: 26AL-0267E Public Service Company - AL 2030 - Tariff 8 -
   FE FI Electric\, ALJ Segev
 DTSTART;TZID=America/Denver:20270127T090000
