@@ -9,33 +9,17 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NE] 24 Nov Hearing – NG-117.1 – Black Hills Nebraska Gas\, LL
- C d/b/a Black Hills Energy Location: Commission Hearing Room 1:00pm
-DTSTART:20261124T190000Z
-DTEND:20261124T210000Z
-DTSTAMP:20261124T202503Z
-UID:cbbdee461d1dcce79537@psc-calendar
+SUMMARY:[NE] 03 Dec Hearing – B-2202 – Tender Composure\, Inc. Locatio
+ n: Commission Hearing Room 9:00am
+DTSTART:20261203T090000Z
+DTEND:20261203T110000Z
+DTSTAMP:20261126T191900Z
+UID:63bcd74578a2ff0b2cc5@psc-calendar
 CATEGORIES:NE,Evidentiary Hearing
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
- dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-ng-1171-black
- -hills-nebraska-gas-llc-dba-black-hills-energy
+ dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-b-2202-tender
+ -composure-inc
 PRIORITY:5
-URL:https://psc.nebraska.gov/hearing-ng-1171-black-hills-nebraska-gas-llc-
- dba-black-hills-energy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NE] 30 Nov Hearing – All Applications NUSF-148.13 through NUSF-
- 148.23 Location: Commission Hearing Room 1:00pm
-DTSTART:20261130T190000Z
-DTEND:20261130T210000Z
-DTSTAMP:20261124T202503Z
-UID:d8561bdf49e1c3dca9fc@psc-calendar
-CATEGORIES:NE,Evidentiary Hearing
-DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
- dentiary Hearing\n\nSource: https://psc.nebraska.gov/hearing-all-applicati
- ons-nusf-14813-through-nusf-14823
-PRIORITY:5
-URL:https://psc.nebraska.gov/hearing-all-applications-nusf-14813-through-n
- usf-14823
+URL:https://psc.nebraska.gov/hearing-b-2202-tender-composure-inc
 END:VEVENT
 END:VCALENDAR

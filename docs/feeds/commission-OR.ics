@@ -9,16 +9,111 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 2435 - CASCADE DEFERRAL OF JUSTICE FUNDING GRANTS
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T113000
+DTSTAMP:20261126T191900Z
+UID:42d5f41f7e51968b7221@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
+ &EndDate=12/13/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 1795 - IDAHO POWER DEFERRAL OF START UP EXPENSES FO
+ R A COMMUNITY SOLAR PROGRAM
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T113000
+DTSTAMP:20261126T191900Z
+UID:c02506efeee6d31854af@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
+ &EndDate=12/13/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 1893 - STAFF INVESTIGATION OF METHODOLOGY AND PROCE
+ SS OF EE COST-EFFECTIVENESS
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T113000
+DTSTAMP:20261126T191900Z
+UID:e987783cf3bdebe92c71@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
+ &EndDate=12/13/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 2238 - PACIFICORP DEFERRAL OF COSTS ASSOCIATED WITH
+  HB 2475
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T113000
+DTSTAMP:20261126T191900Z
+UID:a8dd2a4816fb918a5a30@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
+ &EndDate=12/13/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 2257 - CASCADE DEFERRAL COST OF COMPLIANCE WITH THE
+  CLIMATE PROTECTION PLAN (CPP)
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T113000
+DTSTAMP:20261126T191900Z
+UID:f6ea75f67377fc289d3e@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
+ &EndDate=12/13/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 2361 - AVISTA DEFERRAL OF CPP COMPLIANCE COSTS
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T113000
+DTSTAMP:20261126T191900Z
+UID:65e887f5ed4721a0dd64@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
+ &EndDate=12/13/2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[OR] Docket UE 474 - PACIFICORP ADVICE NO. 26-014 DIRECT ACCESS TA
  RIFF
 DTSTART;TZID=America/Los_Angeles:20261208T093000
 DTEND;TZID=America/Los_Angeles:20261208T113000
-DTSTAMP:20261125T194545Z
+DTSTAMP:20261126T191900Z
 UID:aa3f5c059d86cf86bb0e@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
  Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
  ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
 PRIORITY:5
 URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
  &EndDate=12/13/2026
@@ -28,13 +123,13 @@ SUMMARY:[OR] Docket ADV 1897 - AVISTA ADVICE NO. 26-03-G TVE PILOT SCHEDUL
  E 465.
 DTSTART;TZID=America/Los_Angeles:20261208T093000
 DTEND;TZID=America/Los_Angeles:20261208T113000
-DTSTAMP:20261125T194545Z
+DTSTAMP:20261126T191900Z
 UID:10a9bf78931740f9fb73@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
  Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
  ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
-LOCATION:\, OR
+LOCATION:HEARING ROOM - PUC\, 201 HIGH ST SE\, SALEM\, OR
 PRIORITY:5
 URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
  &EndDate=12/13/2026
@@ -44,12 +139,92 @@ SUMMARY:[OR] Docket UE 475 - PGE ADVICE NO. 36-37 SCHEDULE 127 CAPACITY BA
  CKSTOP CHARGE
 DTSTART;TZID=America/Los_Angeles:20261208T093000
 DTEND;TZID=America/Los_Angeles:20261208T113000
-DTSTAMP:20261125T194545Z
+DTSTAMP:20261126T191900Z
 UID:2073b95cfad4b9f1639c@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
  Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
  ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
+ &EndDate=12/13/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket ADV 1906 - CASCADE ADVICE NO. O26-09-01 AR 671 HOUSEKE
+ EPING
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T113000
+DTSTAMP:20261126T191900Z
+UID:0440821fa5e13093320b@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
+ &EndDate=12/13/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket ADV 1911 - PGE ADVICE NO. 26-43 SCHEDULE 14 BATTERY EN
+ ERGY STORAGE PILOT TARIFF UPDATE
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T113000
+DTSTAMP:20261126T191900Z
+UID:d72868ef9ebf6580df6e@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
+ &EndDate=12/13/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket UM 2475 - CENTURYLINK REVISE SERVICE TERRITORY OR WAIV
+ ERS
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T113000
+DTSTAMP:20261126T191900Z
+UID:8d3ed97c073eb9528265@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
+ &EndDate=12/13/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket AR 689 - GREEN RECURSIVE UTILITY SERVICE RULEMAKING PE
+ TITION
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T113000
+DTSTAMP:20261126T191900Z
+UID:1800808711d73785e69f@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
+PRIORITY:5
+URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
+ &EndDate=12/13/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OR] Docket ADV 1916 - PGE ADVICE NO. 26-44 SCHEDULE 115 LIA
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T113000
+DTSTAMP:20261126T191900Z
+UID:8bd42315f2e1585647e2@psc-calendar
+CATEGORIES:OR,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
+ Meeting / Commission Meeting\n\nSource: https://apps.puc.state.or.us/edock
+ ets/hcallist.asp?StartDate=12/7/2026&EndDate=12/13/2026
+LOCATION:ZOOM
 PRIORITY:5
 URL:https://apps.puc.state.or.us/edockets/hcallist.asp?StartDate=12/7/2026
  &EndDate=12/13/2026
@@ -59,7 +234,7 @@ SUMMARY:[OR] Docket UM 2417 - PUC IDENTIFYING PRIORITIES IN IMPLEMENTATION
   OF EOS 25-25 AND 25-29
 DTSTART;TZID=America/Los_Angeles:20261208T133000
 DTEND;TZID=America/Los_Angeles:20261208T153000
-DTSTAMP:20261125T194545Z
+DTSTAMP:20261126T191900Z
 UID:1b108afa02d2fae06742@psc-calendar
 CATEGORIES:OR,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Open 
@@ -74,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:[OR] Docket AR 682 - RESOURCE ADEQUACY RULEMAKING
 DTSTART;TZID=America/Los_Angeles:20261217T143000
 DTEND;TZID=America/Los_Angeles:20261217T163000
-DTSTAMP:20261125T194545Z
+DTSTAMP:20261126T191900Z
 UID:a533bccab5f62cf9e394@psc-calendar
 CATEGORIES:OR,Evidentiary Hearing
 DESCRIPTION:Commission: Oregon Public Utility Commission (OR)\nType: Evide
