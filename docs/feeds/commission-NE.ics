@@ -13,7 +13,7 @@ SUMMARY:[NE] 03 Dec Hearing – B-2202 – Tender Composure\, Inc. Locatio
  n: Commission Hearing Room 9:00am
 DTSTART:20261203T090000Z
 DTEND:20261203T110000Z
-DTSTAMP:20261126T191900Z
+DTSTAMP:20261127T191259Z
 UID:63bcd74578a2ff0b2cc5@psc-calendar
 CATEGORIES:NE,Evidentiary Hearing
 DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
@@ -21,5 +21,19 @@ DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Evi
  -composure-inc
 PRIORITY:5
 URL:https://psc.nebraska.gov/hearing-b-2202-tender-composure-inc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NE] 08 Dec Commission Meeting Location: Commission Hearing Room 1
+ 0:00am
+DTSTART:20261208T100000Z
+DTEND:20261208T120000Z
+DTSTAMP:20261127T191259Z
+UID:edd71ad5f4a5e9e98602@psc-calendar
+CATEGORIES:NE,Open Meeting / Commission Meeting
+DESCRIPTION:Commission: Nebraska Public Service Commission (NE)\nType: Ope
+ n Meeting / Commission Meeting\n\nSource: https://psc.nebraska.gov/commiss
+ ion-meeting-267
+PRIORITY:5
+URL:https://psc.nebraska.gov/commission-meeting-267
 END:VEVENT
 END:VCALENDAR

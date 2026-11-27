@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261124T103000
 DTEND;TZID=America/Chicago:20261124T123000
-DTSTAMP:20261126T191900Z
+DTSTAMP:20261127T191259Z
 UID:c68d9736a2c9a78a5bc7@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261203T100000
 DTEND;TZID=America/Chicago:20261203T120000
-DTSTAMP:20261126T191900Z
+DTSTAMP:20261127T191259Z
 UID:7780430adf87295f5906@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:[MN] PUC Agenda Meeting
 DTSTART;TZID=America/Chicago:20261210T100000
 DTEND;TZID=America/Chicago:20261210T120000
-DTSTAMP:20261126T191900Z
+DTSTAMP:20261127T191259Z
 UID:081c131c92059fa071bc@psc-calendar
 CATEGORIES:MN,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Minnesota Public Utilities Commission (MN)\nType: 
