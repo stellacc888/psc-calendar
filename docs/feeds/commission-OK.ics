@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] Commission meeting
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:eb51e22d367ec7ceb060@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] 2026 Commission Meetings: November 18\, 2026
 DTSTART;TZID=America/Chicago:20261118T133000
 DTEND;TZID=America/Chicago:20261118T153000
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:4c2b62266553e67d627a@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] Commission meeting
 DTSTART;TZID=America/Chicago:20261123T133000
 DTEND;TZID=America/Chicago:20261123T153000
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:5a857bdfa347914d762b@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] 2026 Commission Meetings: November 30\, 2026
 DTSTART;TZID=America/Chicago:20261130T133000
 DTEND;TZID=America/Chicago:20261130T153000
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:c2d6c7514e754e462c5c@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] 2026 Commission Meetings: November 18\, 2026
 DTSTART;TZID=America/Chicago:20261209T133000
 DTEND;TZID=America/Chicago:20261209T153000
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:ecc71e385ce1a7655787@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] Commission meeting
 DTSTART;TZID=America/Chicago:20261216T100000
 DTEND;TZID=America/Chicago:20261216T120000
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:293c006ae64895899077@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:[OK] 2026 Commission Meetings: November 30\, 2026
 DTSTART;TZID=America/Chicago:20261222T133000
 DTEND;TZID=America/Chicago:20261222T153000
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:ad65708e2a4d76fd4854@psc-calendar
 CATEGORIES:OK,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: Oklahoma Corporation Commission (OK)\nType: Open M

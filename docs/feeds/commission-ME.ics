@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261208T100000
 DTEND;TZID=America/New_York:20261208T120000
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:8db3d1ac78cc0fb922de@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261215T100000
 DTEND;TZID=America/New_York:20261215T120000
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:077d38268b6653a4d53b@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:[ME] Deliberations Audio/Video
 DTSTART;TZID=America/New_York:20261222T100000
 DTEND;TZID=America/New_York:20261222T120000
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:a83f61adbcd6c778b834@psc-calendar
 CATEGORIES:ME,Decision / Order
 DESCRIPTION:Commission: Maine Public Utilities Commission (ME)\nType: Deci

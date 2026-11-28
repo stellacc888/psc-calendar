@@ -9,44 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[NY] NOVEMBER 2027 Public Service Commission Session
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20261127T191259Z
-UID:c4668fe256b9da460328@psc-calendar
-CATEGORIES:NY,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
- n Meeting / Commission Meeting\n\nNOV 18 Commission Sessions NOVEMBER 2027
-  Public Service Commission Session Nov 18\, 2027 10:30 AM ET In Person and
-  Via Webcast 3 Empire State Plaza 19th Floor Boardroom \, Albany \, NY 122
- 23\n\nSource: https://dps.ny.gov/event/november-2027-public-service-commis
- sion-session
-PRIORITY:5
-URL:https://dps.ny.gov/event/november-2027-public-service-commission-sessi
- on
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NY] DECEMBER 2027 Public Service Commission Session
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-DTSTAMP:20261127T191259Z
-UID:70c7b5605ed04309e21e@psc-calendar
-CATEGORIES:NY,Open Meeting / Commission Meeting
-DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
- n Meeting / Commission Meeting\n\nDEC 16 Commission Sessions DECEMBER 2027
-  Public Service Commission Session Dec 16\, 2027 10:30 AM ET In Person and
-  Via Webcast 3 Empire State Plaza 19th Floor Boardroom \, Albany \, NY 122
- 23\n\nSource: https://dps.ny.gov/event/december-2027-public-service-commis
- sion-session
-PRIORITY:5
-URL:https://dps.ny.gov/event/december-2027-public-service-commission-sessi
- on
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NY] DECEMBER 2026 Public Service Commission Session
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:3542fbb3b93eff2c8773@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -63,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] JANUARY 2027 Public Service Commission Session
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:9e875ac9351c344f4d25@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -80,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] FEBRUARY 2027 Public Service Commission Session
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:448570cb3ea304e1a2c8@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -97,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] MARCH 2027 Public Service Commission Session
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:c083e2946ea398be980b@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -113,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] APRIL 2027 Public Service Commission Session
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:59db2e81f2dd19764eb7@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -129,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] MAY 2027 Public Service Commission Session
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:e3e959139d485cca10f9@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -145,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] JUNE 2027 Public Service Commission Session
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:b46143fe5e6ce23d5eeb@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
@@ -161,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:[NY] JULY 2027 Public Service Commission Session
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
-DTSTAMP:20261127T191259Z
+DTSTAMP:20261128T175106Z
 UID:b72c6a3a8729ae13aad8@psc-calendar
 CATEGORIES:NY,Open Meeting / Commission Meeting
 DESCRIPTION:Commission: New York Public Service Commission (NY)\nType: Ope
